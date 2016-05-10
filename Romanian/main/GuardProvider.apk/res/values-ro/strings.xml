@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AVL">AVL</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesMi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="Mi">Mi</string>
+    <string name="Tencent">Tencent</string>
+    <string name="avl_dialog_cloudscan"/>
+    <string name="avl_dialog_dbupdate"/>
+    <string name="avl_dialog_header">Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele AVL (%s).</string>
+    <string name="avl_dialog_policy">Vizualizaţi Politica de confidențialitate</string>
+    <string name="avl_dialog_title">Politica de confidențialitate AVL</string>
+    <string name="default_sdcard_volume_path"/>
+    <string name="menu_settings">Setări</string>
+    <string name="tencent_dialog_cloudscan">Se încarcă și se scanează numele și detaliile aplicaţiilor, utilizând definiții de viruși on-line.</string>
+    <string name="tencent_dialog_dbupdate">Se actualizează în mod automat definițiile de viruşi</string>
+    <string name="tencent_dialog_header">Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele Tencent (%s).</string>
+    <string name="tencent_dialog_policy">Vizualizaţi Politica de confidențialitate</string>
+    <string name="tencent_dialog_title">Politica de confidențialitate Tencent</string>
+</resources>

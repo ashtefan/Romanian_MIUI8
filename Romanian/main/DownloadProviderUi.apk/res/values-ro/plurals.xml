@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Ștergeți %d elemente?</item>
+        <item quantity="one">Ștergeți acest element?</item>
+    </plurals>
+</resources>

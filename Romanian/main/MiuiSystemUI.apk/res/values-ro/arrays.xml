@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="carrier_name">
+        <item>Digi</item>
+        <item>Digi 3G</item>
+        <item>Vodafone RO</item>
+        <item>Vodafone RO 3G</item>
+     </string-array>
+     <string-array name="carrier_simple_name">
+        <item>Digi</item>
+        <item>Digi 3G</item>
+        <item>Vodafone</item>
+        <item>Vodafone 3G</item>
+     </string-array>
+</resources>

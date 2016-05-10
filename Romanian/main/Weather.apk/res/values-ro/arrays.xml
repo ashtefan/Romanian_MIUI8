@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Bucharest</item>
+        <item>Iasi</item>
+        <item>Cluj-Napoca</item>
+        <item>Timisoara</item>
+        <item>Constanta</item>
+        <item>Craiova</item>
+        <item>Galati</item>
+        <item>Brasov</item>
+        <item>Ploiesti</item>
+        <item>Braila</item>
+        <item>Barlad</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+        <item>Rome</item>
+        <item>Paris</item>
+        <item>Vienna</item>
+        <item>Istanbul</item>
+        <item>Beijing</item>
+        <item>Prague</item>
+        <item>New York</item>
+        <item>Moscow</item>
+        <item>Budapest</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+     <string-array name="weather_type">
+        <item>Senin</item>
+        <item>Înnorat</item>
+        <item>Înnorat</item>
+        <item>Ceaţă</item>
+        <item>Ploaie torenţială</item>
+        <item>Ploaie torențială</item>
+        <item>Furtună</item>
+        <item>Furtună cu trăsnete</item>
+        <item>Averse</item>
+        <item>Precipitații puternice</item>
+        <item>Ploaie moderată</item>
+        <item>Ploaie ușoară</item>
+        <item>Lapoviţă</item>
+        <item>Viscol</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare puternică</item>
+        <item>Ninsoare moderată</item>
+        <item>Ninsoare slabă</item>
+        <item>Furtună de nisip puternică</item>
+        <item>Furtună de nisip</item>
+        <item>Nisip</item>
+        <item>Vânt</item>
+        <item>Grindină</item>
+        <item>Praf</item>
+        <item>Negură</item>
+        <item>Ploaie ce îngheaţă</item>
+        <item>Datele meteo lipsesc</item>
+     </string-array>
+    <string-array name="indices_uv_level">
+        <item>Slab</item>
+        <item>Mediu</item>
+        <item>Ridicat</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Potrivit</item>
+        <item>Nepotrivit</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Potrivit</item>
+        <item>Nepotrivit</item>
+    </string-array>
+     <string-array name="wind_direction">
+        <item>Vânt din N</item>
+        <item>Vânt din NE</item>
+        <item>Vânt din E</item>
+        <item>Vânt din SE</item>
+        <item>Vânt din S</item>
+        <item>Vânt din SV</item>
+        <item>Vânt din V</item>
+        <item>Vânt din NV</item>
+     </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Lună nouă</item>
+        <item>Semilună în creștere</item>
+        <item>Primul pătrar</item>
+        <item>Lună în creştere</item>
+        <item>Lună plină</item>
+        <item>Lună în descreştere</item>
+        <item>Ultimul pătrar</item>
+        <item>Semilună în descreștere</item>
+        <item>Lună întunecată</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Cel mai slab</item>
+        <item>Slab</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+     </string-array>
+</resources>

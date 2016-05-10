@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="contact_entries">
+        <item>Nume</item>
+        <item>Pseudonim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organizaţie</item>
+        <item>IM</item>
+        <item>Telefon SIP</item>
+        <item>Zi de naştere</item>
+        <item>Site web</item>
+        <item>Adresă</item>
+        <item>Notă</item>
+     </string-array>
+     <string-array name="font_size_names">
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+     </string-array>
+     <string-array name="welcome_notes_content">
+        <item>"Apăsați pentru a crea o notă
+"</item>
+        <item>"Pentru a adăuga o imagine sau pentru a afişa căsuţele, apăsați butonul de mai jos
+"</item>
+        <item>"Apăsați și țineți apăsat pe o notă pentru a o fixa, muta, sau șterge
+"</item>
+        <item>"Și multe alte caracteristici!
+  - Sincronizare cu Mi Cloud
+  - Setare memento-uri"</item>
+     </string-array>
+</resources>

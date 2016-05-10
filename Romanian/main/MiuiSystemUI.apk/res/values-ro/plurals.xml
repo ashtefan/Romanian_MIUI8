@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d aplicaţii recente</item>
+        <item quantity="one">1 aplicaţie recentă</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Ascundeţi notificările a %d aplicaţii?</item>
+        <item quantity="one">Ascundeţi notificările acestei aplicaţii?</item>
+    </plurals>
+</resources>

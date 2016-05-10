@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="auto_memory_clean">
+        <item>După un minut</item>
+        <item>După 5 minute</item>
+        <item>După 10 minute</item>
+        <item>După 30 de minute</item>
+        <item>Niciodată</item>
+     </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Această săptămână "</item>
+        <item>"Astăzi "</item>
+        <item>"Această lună "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ieri "</item>
+        <item>"Astăzi "</item>
+        <item>"Această lună "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Această săptămână: "</item>
+        <item>"Astăzi: "</item>
+        <item>"Această lună: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ieri: "</item>
+        <item>"Astăzi: "</item>
+        <item>"Această lună: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ieri (date)</item>
+        <item>Astăzi (date)</item>
+        <item>Această lună (date)</item>
+        <item>Ieri (Wi-Fi)</item>
+        <item>Astăzi (Wi-Fi)</item>
+        <item>Această lună (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Ieri (date)</item>
+        <item>Astăzi (date)</item>
+        <item>Această lună (date)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 secunde</item>
+        <item>4 secunde</item>
+        <item>5 secunde</item>
+        <item>6 secunde</item>
+        <item>7 secunde</item>
+        <item>8 secunde</item>
+        <item>9 secunde</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+        <item>"Date economisite "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+        <item>"Date economisite "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Automat</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Arată atenționare</item>
+        <item>Atenționează și oprește datele mobile</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Cele mai utilizate</item>
+        <item>Nume</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Niciunul</item>
+        <item>Scăzut</item>
+        <item>Mediu</item>
+        <item>Înalt</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Întotdeauna</item>
+        <item>Doar pentru excepții</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Blochează când telefonul este inactiv</item>
+        <item>Blochează după ieșirea din aplicație</item>
+        <item>Blochează după un minut de la părăsirea aplicației</item>
+    </string-array>
+      <string-array name="power_dialog_auto_clean_memory_items">
+        <item>După 1 minut</item>
+        <item>După 5 minute</item>
+        <item>După 10 minute</item>
+        <item>Niciodată</item>
+     </string-array>
+     <string-array name="power_dialog_sleep_items">
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>Niciodată</item>
+     </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Performanţă</item>
+        <item>Echilibrat</item>
+     </string-array>
+     <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Dezactivare</item>
+        <item>Activare</item>
+        <item>Prestabilit</item>
+     </string-array>
+     <string-array name="power_dialog_vibration_items">
+        <item>Fără vibrare</item>
+        <item>Vibrare în modul Silenţios</item>
+        <item>Vibrare întotdeauna</item>
+     </string-array>
+      <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zile de lucru</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Lansator de sistem</item>
+        <item>Telefon</item>
+        <item>Mesaje</item>
+        <item>Browser</item>
+        <item>Cameră</item>
+        <item>Galerie</item>
+        <item>Muzică</item>
+        <item>E-mail</item>
+     </string-array>
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Nu se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
+        <item quantity="one">Nu se urmăreşte utilizarea datelor pentru %d aplicaţie</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
+        <item quantity="one">Se urmăreşte utilizarea datelor pentru %d aplicaţie</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d aplicaţii optimizate</item>
+        <item quantity="one">%d aplicaţie optimizată</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplicaţii pot fi optimizate</item>
+        <item quantity="one">%d aplicaţie poate fi optimizată</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d aplicații utilizează economisirea datelor</item>
+        <item quantity="one">%d aplicaţie utilizează economisirea datelor</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d aplicații nu utilizează economisirea datelor</item>
+        <item quantity="one">%d aplicaţie nu utilizează economisirea datelor</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Utilizat cu %d zile în urmă</item>
+        <item quantity="one">Utilizat ieri</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Căutaţi %d aplicaţii</item>
+        <item quantity="one">Căutaţi %d aplicaţie</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplicații pot utiliza datele mobile în roaming</item>
+        <item quantity="one">%d aplicație poate utiliza datele mobile în roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d aplicații nu pot utiliza datele mobile în roaming</item>
+        <item quantity="one">%d aplicație nu poate utiliza datele mobile în roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d aplicaţii găsite</item>
+        <item quantity="one">%d aplicaţie găsită</item>
+    </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%d zile "</item>
+        <item quantity="one">"%d zi "</item>
+     </plurals>
+      <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ore "</item>
+        <item quantity="one">"%d oră "</item>
+     </plurals>
+      <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d minute "</item>
+        <item quantity="one">"%d minut "</item>
+     </plurals>
+      <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplicații pot să pornească automat</item>
+        <item quantity="one">%d aplicație poate să pornească automat</item>
+     </plurals>
+      <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplicații nu au voie să pornească automat</item>
+        <item quantity="one">%d aplicație nu are voie să pornească automat</item>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permisiuni</item>
+        <item quantity="one">%d permisiune</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplicaţii</item>
+        <item quantity="one">%d aplicaţie</item>
+     </plurals>
+     <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplicații au acces root</item>
+        <item quantity="one">%d aplicație are acces root</item>
+     </plurals>
+     <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplicații nu au acces root</item>
+        <item quantity="one">%d aplicație nu are acces root</item>
+     </plurals>
+     <plurals name="summary_app_update">
+        <item quantity="other">Actualizări disponibile pentru %d aplicaţii.</item>
+        <item quantity="one">Actualizare disponibilă pentru %d aplicaţie.</item>
+     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d aplicații cu risc de încălcare a confidențialității</item>
+        <item quantity="one">%d aplicație cu risc de încălcare a confidențialității</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parola trebuie să conțină cel puțin %d litere.</item>
+        <item quantity="one">Parola trebuie să conțină cel puțin o literă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola trebuie să conțină cel puțin %d litere mici.</item>
+        <item quantity="one">Parola trebuie să conțină măcar o literă mică.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola trebuie să conțină cel puțin %d majuscule.</item>
+        <item quantity="one">Parola trebuie să conțină cel puțin o literă mare.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola trebuie să conțină cel puțin %d cifre.</item>
+        <item quantity="one">Parola trebuie să conțină cel puțin o cifră.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola trebuie să conțină cel puțin %d caractere speciale.</item>
+        <item quantity="one">Parola trebuie să conțină cel puțin un caracter special.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola trebuie să conțină cel puțin %d caractere înafară de litere.</item>
+        <item quantity="one">Parola trebuie să conțină cel puțin un caracter înafară de litere.</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplicații blocate</item>
+        <item quantity="one">o aplicație blocată</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplicații neblocate</item>
+        <item quantity="one">o aplicație neblocată</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Căutați printre %d aplicații</item>
+        <item quantity="one">Căutați într-o aplicație</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicații găsite</item>
+        <item quantity="zero">nicio aplicație găsită</item>
+        <item quantity="one">o aplicație găsită</item>
+    </plurals>
+</resources>
