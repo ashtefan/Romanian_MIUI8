@@ -121,16 +121,16 @@
         <item quantity="one">%d zi</item>
      </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotografii din %2$s să fie adăugate</item>
-        <item quantity="one">%1$d fotografie din %2$s să fie adăugată</item>
+        <item quantity="other">%1$d fotografii din %2$s vor fi adăugate</item>
+        <item quantity="one">%1$d fotografie din %2$s va fi adăugată</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotografii din %2$s să fie adăugate</item>
-        <item quantity="one">%1$d fotografie din %2$s să fie adăugată</item>
+        <item quantity="other">%1$d fotografii din %2$s vor fi adăugate</item>
+        <item quantity="one">%1$d fotografie din %2$s va fi adăugată</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Partajat deja cu %d persoane</item>
-        <item quantity="one">Partajat deja cu %d persoană</item>
+        <item quantity="other">Partajat cu %d persoane</item>
+        <item quantity="one">Partajat cu %d persoană</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Ștergeți %1$d fotografii %2$s?</item>
@@ -145,8 +145,8 @@
         <item quantity="one">Ștergeți %1$d element %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d elemente în total)</item>
-        <item quantity="one">(%d element în total)</item>
+        <item quantity="other">(%d elemente)</item>
+        <item quantity="one">(%d element)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">%d fotografii</item>
@@ -155,6 +155,30 @@
     <plurals name="album_count_and_size">
         <item quantity="other">%1$d elemente | %2$s</item>
         <item quantity="one">%1$d element | %2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d elemente au fost rezervate</item>
+        <item quantity="one">%1$d element a fost rezervat</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d elemente așteaptă să fie rezervate</item>
+        <item quantity="one">%1$d element așteaptă să fie rezervat</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+       <item quantity="other">Eroare de rețea. %1$d elemente așteaptă să fie rezervate</item>
+        <item quantity="one">Eroare de rețea. %1$d element așteaptă să fie rezervat</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sincronizarea este oprită. %1$d elemente așteaptă să fie rezervate</item>
+        <item quantity="one">Sincronizarea este oprită. %1$d element așteaptă să fie rezervat</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud este plin. %1$d elemente așteaptă să fie rezervate</item>
+        <item quantity="one">Mi Cloud este plin. %1$d element așteaptă să fie rezervat</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Nu există suficient spațiu pe telefon. %1$d elemente așteaptă să fie rezervate</item>
+        <item quantity="one">Nu există suficient spațiu pe telefon. %1$d element așteaptă să fie rezervat</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
         <item quantity="other">"%1$d ani "</item>
@@ -195,5 +219,13 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Se sincronizează %1$d videoclipuri şi imagini…</item>
         <item quantity="one">Se sincronizează un videoclip şi o imagine…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"Nu s-au putut descărca %1$d fișiere"</item>
+        <item quantity="one">"Nu s-a putut descărca %1$d fișier</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
     </plurals>
 </resources>

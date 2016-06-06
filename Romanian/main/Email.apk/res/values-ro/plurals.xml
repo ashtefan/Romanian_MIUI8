@@ -1,71 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d necitite</item>
+        <item quantity="other">%1$d mesaje necitite</item>
+        <item quantity="one">Un mesaj necitit</item>
      </plurals>
      <plurals name="confirm_archive_conversation">
         <item quantity="other">Arhivaţi aceste %1$d conversaţii?</item>
-        <item quantity="zero">Arhivaţi aceste %1$d conversaţii?</item>
         <item quantity="one">Arhivaţi această conversaţie?</item>
-        <item quantity="two">Arhivaţi aceste %1$d conversaţii?</item>
-        <item quantity="few">Arhivaţi aceste %1$d conversaţii?</item>
-        <item quantity="many">Arhivaţi aceste %1$d conversaţii?</item>
      </plurals>
      <plurals name="confirm_delete_conversation">
         <item quantity="other">Ştergeţi aceste %1$d conversaţii?</item>
-        <item quantity="zero">Ştergeţi aceste %1$d conversaţii?</item>
         <item quantity="one">Ştergeţi această conversaţie?</item>
-        <item quantity="two">Ştergeţi aceste %1$d conversaţii?</item>
-        <item quantity="few">Ştergeţi aceste %1$d conversaţii?</item>
-        <item quantity="many">Ştergeţi aceste %1$d conversaţii?</item>
      </plurals>
      <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
-        <item quantity="zero">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
         <item quantity="one">Această conversație conţine elemente fuzionate, sunteţi sigur că doriţi să o ștergeţi?</item>
-        <item quantity="two">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
-        <item quantity="few">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
-        <item quantity="many">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
      </plurals>
      <plurals name="contact_num_selected">
         <item quantity="other">%d selectate</item>
-        <item quantity="zero">%d selectate</item>
         <item quantity="one">%d selectat</item>
-        <item quantity="two">%d selectate</item>
-        <item quantity="few">%d selectate</item>
-        <item quantity="many">%d selectate</item>
      </plurals>
      <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> arhivate.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> arhivată.</item>
+        <item quantity="other">%1$d conversații arhivate.</item>
+        <item quantity="one">%1$d conversație arhivată.</item>
      </plurals>
      <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> sterse.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> ștearsă.</item>
+        <item quantity="other">%1$d conversații sterse.</item>
+        <item quantity="one">%1$d conversație ștearsă.</item>
      </plurals>
      <plurals name="conversation_folder_changed">
         <item quantity="other">Dosare modificate.</item>
         <item quantity="one">Dosar modificat.</item>
      </plurals>
      <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> mute.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> mută.</item>
+        <item quantity="other">%1$d conversații ignorate.</item>
+        <item quantity="one">%1$d conversație ignorată.</item>
      </plurals>
      <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" mesaje eliminate din dosarul 'Important'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" mesaj eliminat din dosarul  'Important'"</item>
+        <item quantity="other">%1$d conversații marcate ca neimportante.</item>
+        <item quantity="one">%1$d conversație marcată ca neimportantă.</item>
      </plurals>
      <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" eliminate din dosarul 'Spam'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" eliminată din dosarul 'Spam'"</item>
+        <item quantity="other">%1$d conversații șterse din Spam</item>
+        <item quantity="one">%1$d conversație ștearsă din Spam</item>
      </plurals>
      <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> mesaje raportate ca fiind spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> mesaj raportat ca fiind spam</item>
+        <item quantity="other">%1$d mesaje raportate ca fiind spam</item>
+        <item quantity="one">%1$d mesaj raportat ca fiind spam</item>
      </plurals>
      <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b>%1$d&lt;/b> marcate ca fiind spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> marcat ca fiind spam</item>
+        <item quantity="other">%1$d marcate ca fiind spam</item>
+        <item quantity="one">%1$d marcat ca fiind spam</item>
      </plurals>
      <plurals name="draft">
         <item quantity="other">Schițe</item>
@@ -73,42 +58,22 @@
      </plurals>
      <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d mesaje vor fi șterse definitiv.</item>
-        <item quantity="zero">%1$d mesaje vor fi șterse definitiv.</item>
         <item quantity="one">%1$d mesaj va fi șters definitiv.</item>
-        <item quantity="two">%1$d mesaje vor fi șterse definitiv.</item>
-        <item quantity="few">%1$d mesaje vor fi șterse definitiv.</item>
-        <item quantity="many">%1$d mesaje vor fi șterse definitiv.</item>
      </plurals>
      <plurals name="move_conversation">
         <item quantity="other">Mutaţi %1$d conversaţii</item>
-        <item quantity="zero">Mutaţi %1$d conversaţii</item>
         <item quantity="one">Mutaţi conversaţia</item>
-        <item quantity="two">Mutaţi %1$d conversaţii</item>
-        <item quantity="few">Mutaţi %1$d conversaţii</item>
-        <item quantity="many">Mutaţi %1$d conversaţii</item>
      </plurals>
      <plurals name="new_incoming_messages_many">
-        <item quantity="other">Afişaţi %1$d mesaje noi.</item>
-        <item quantity="zero">Afişaţi %1$d mesaje noi.</item>
-        <item quantity="one">Afişaţi %1$d mesaj nou.</item>
-        <item quantity="two">Afişaţi %1$d mesaje noi.</item>
-        <item quantity="few">Afişaţi %1$d mesaje noi.</item>
-        <item quantity="many">Afişaţi %1$d mesaje noi.</item>
+        <item quantity="other">%1$d mesaje noi.</item>
+        <item quantity="one">%1$d mesaj nou.</item>
      </plurals>
      <plurals name="num_selected">
         <item quantity="other">%d selectate</item>
-        <item quantity="zero">%d selectate</item>
         <item quantity="one">1 selectată</item>
-        <item quantity="two">%d selectate</item>
-        <item quantity="few">%d selectate</item>
-        <item quantity="many">%d selectate</item>
      </plurals>
      <plurals name="show_messages_read">
-        <item quantity="other">%1$d mesaje vechi</item>
-        <item quantity="zero">%1$d mesaje vechi</item>
-        <item quantity="one">%1$d mesaj vechi</item>
-        <item quantity="two">%1$d mesaje vechi</item>
-        <item quantity="few">%1$d mesaje vechi</item>
-        <item quantity="many">%1$d mesaje vechi</item>
+        <item quantity="other">%1$d mesaje citite</item>
+        <item quantity="one">%1$d mesaj citit</item>
      </plurals>
 </resources>

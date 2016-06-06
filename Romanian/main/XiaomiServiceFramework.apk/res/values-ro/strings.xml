@@ -6,19 +6,20 @@
     <string name="activate_auto_sms_notification_desc_2_cards">SMS trimis de pe cartela SIM %s pentru a activa \"Localizarea dispozitivului\"</string>
     <string name="activate_auto_sms_notification_title">Activare cartelă SIM</string>
     <string name="activate_feature_call_log_sync">Jurnal apeluri</string>
+    <string name="activate_feature_default_name">Servicii Mi</string>
     <string name="activate_feature_find_device">Găsire dispozitiv</string>
     <string name="activate_feature_live_talk">Pachet de suplimentare credit</string>
-    <string name="activate_feature_mms_sync">Sincronizare SMS</string>
+    <string name="activate_feature_mms_sync">Sincronizare mesaje</string>
     <string name="activate_feature_mx">Mesagerie în Cloud</string>
     <string name="activate_feature_mx_and_voip">Mesaj şi Video Mi</string>
     <string name="activate_feature_register_xiaomi_account">Configurare cont Mi</string>
     <string name="activate_feature_remote_assist">Asistență de la distanță</string>
     <string name="activate_feature_verify_mx_token">Verificare cont Mi</string>
-    <string name="activate_history_cancelled">anulată</string>
-    <string name="activate_history_multisim_overview">Activare pentru cartela SIM %3$d %1$s. Este declanșată de caracteristica \"%2$s\".</string>
-    <string name="activate_history_overview">Activare pentru cartela SIM %1$s. Este declanșată de caracteristica \"%2$s\".</string>
+    <string name="activate_history_cancelled">Anulată</string>
+    <string name="activate_history_multisim_overview">Activare pentru cartela SIM %3$d %1$s. Este declanșată de \"%2$s\".</string>
+    <string name="activate_history_overview">Activare pentru cartela SIM %1$s. Este declanșată de \"%2$s\".</string>
     <string name="activate_history_sms">Un mesaj SMS a fost trimis în timpul activării.</string>
-    <string name="activate_history_success">reușită</string>
+    <string name="activate_history_success">Reușită</string>
     <string name="activate_history_title">Activare cartelă SIM</string>
     <string name="activate_phone_cancel_notif_title">Activarea cartelei SIM a fost oprită</string>
     <string name="activate_phone_cancel_notif_title_msim">Activarea cartelei SIM %s a fost oprită</string>
@@ -73,6 +74,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_popup_title_manual">Activare %s</string>
     <string name="activate_popup_title_new_sim_card">Reactivare %s</string>
     <string name="activate_popup_title_register_account">Asociaţi cartela SIM</string>
+    <string name="activate_sms_postfix">Acest SMS este utilizat pentru activarea serviciului Mi</string>
     <string name="activate_status_desc_acquire_phone_number">Obţinerea numărului de telefon…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Eroare de server la obţinerea numărului de telefon</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Nu a reuşit obținerea numărului de telefon</string>
@@ -103,8 +105,11 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_status_title_activating_msim">Activare cartelă SIM%s…</string>
     <string name="app_name">Mi Cloud Service Framework</string>
     <string name="error_device_id_message">"ID dispozitiv nevalid: %s
-ID-ul dispozitivului tebuie să fie IMEI valid sau adresă MAC. Fără ID dispozitiv, unele caracteristici ale contului și Cloud-ului vor fi indisponibile."</string>
+ID-ul dispozitivului trebuie să fie un IMEI sau o adresă MAC validă. Fără ID-ul dispozitivului, unele caracteristici ale contului Mi și ale Mi Cloud vor fi indisponibile."</string>
     <string name="error_device_id_title">Nu se poate obţine ID dispozitiv valid</string>
+    <string name="explain_send_sms_permission_button">Verificați</string>
+    <string name="explain_send_sms_permission_msg">Pentru a activa %s, Xiaomi Service Framework va trimite un SMS pentru a verifica numărul dumneavoastră de telefon. Veți fi taxat de către operator pentru un mesaj SMS obișnuit.</string>
+    <string name="explain_send_sms_permission_title">Verificați numărul dumneavoastră de telefon</string>
     <string name="sim_unactivated_title">Cartela SIM nu este activată</string>
     <string name="sync_notification_title_format">Sincronizare: %1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>

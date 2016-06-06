@@ -45,26 +45,26 @@
         <item>Când ecranul este oprit</item>
     </string-array>
     <string-array name="app_groups">
-        <item>selectată</item>
-        <item>neselectată</item>
-        <item>altă selecție</item>
+        <item>În acest mod</item>
+        <item>Neselectată</item>
+        <item>Selectată în alt mod</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>personalizată</item>
-        <item>sugerată</item>
+        <item>Personalizat</item>
+        <item>Economisire acumulator</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-        <item>utilizând</item>
-        <item></item>
-        <item></item>
+        <item>Acum</item>
+        <item>În fundal</item>
+        <item>Recent</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>Scanare Wi-Fi</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Trezire</item>
+        <item>Blochează modul Deep Sleep</item>
+        <item>Blochează modul Sleep</item>
+        <item>Căutare Wi-Fi</item>
+        <item>Utilizare GPS</item>
+        <item>Utilizare CPU</item>
+        <item>Trezire frecventă a telefonului</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
@@ -76,8 +76,8 @@
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>prea multe acum</item>
-        <item>prea multe zilele acestea</item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>selectate</item>

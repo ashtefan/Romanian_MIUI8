@@ -3,22 +3,21 @@
     <string name="SMTP_independent_verification_text">Verificare independentă SMTP</string>
     <string name="SMTP_password_text">Parolă</string>
     <string name="SMTP_username_text">Nume de utilizator</string>
-    <string name="abc_action_mode_done">Finalizat</string>
-    <string name="abc_searchview_description_clear">Eliminaţi interogarea</string>
-    <string name="abc_searchview_description_query">Interogare de căutare</string>
-    <string name="abc_searchview_description_search">Căutaţi</string>
-    <string name="abc_searchview_description_submit">Trimiteţi interogarea</string>
-    <string name="abc_searchview_description_voice">Căutare vocală</string>
-    <string name="account_duplicate_dlg_message_fmt">Nume de utilizator folosit deja pentru contul „%s”.</string>
+    <string name="account_duplicate_dlg_message_fmt">"        Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
     <string name="account_name_toast">Un cont cu același nume există deja</string>
     <string name="account_options_sync_title">Sincronizare</string>
-    <string name="account_password_spaces_error">Această parolă începe sau se termină cu unul sau mai multe spaţii. Numeroase servere nu acceptă parole cu spaţii.</string>
-    <string name="account_security_dialog_content_fmt">%s vă solicită actualizarea setărilor dvs. de securitate.</string>
+    <string name="account_password_spaces_error">"Această parolă începe sau se termină cu unul sau mai multe
+          spaţii. Numeroase servere nu acceptă parole cu spaţii."</string>
+    <string name="account_security_dialog_content_fmt">"%s vă solicită actualizarea setărilor dvs.
+          de securitate."</string>
     <string name="account_security_dialog_title">Actualizare de securitate</string>
-    <string name="account_security_policy_explanation_fmt">Serverul %s vă solicită permisiunea de a controla de la distanţă unele caracteristici de securitate ale dispozitivului dvs. Android.</string>
+    <string name="account_security_policy_explanation_fmt">"Serverul %s vă solicită permisiunea de a controla de la distanţă
+          unele caracteristici de securitate ale dispozitivului dvs. Android."</string>
     <string name="account_security_title">Securitatea dispozitivului</string>
     <string name="account_set_up_change_type_note">Dacă aveți nevoie să comutaţi între setările POP3 și IMAP, ștergeţi contul și creaţi unul nou cu setările dorite.</string>
+  <string name="account_setting">Setările contului</string>
+  <string name="account_setting_keywords">Conturi de poștă electronică; conturi de e-mail; e-mail prin setările contului de e-mail; Setările contului de e-mail;mail accounts</string>
     <string name="account_settings_action">Setări cont</string>
     <string name="account_settings_background_attachments_label">Descărcaţi ataşamentele</string>
     <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin Wi-Fi</string>
@@ -29,9 +28,10 @@
     <string name="account_settings_enforced_label">Politici aplicate</string>
     <string name="account_settings_enforced_summary">Niciunul</string>
     <string name="account_settings_incoming_summary">Nume utilizator, parolă şi alte setări pt. serverul de primire</string>
-    <string name="account_settings_login_dialog_content_fmt">Numele de utilizator sau parola pentru %s sunt incorecte. Doriţi să le actualizaţi acum?</string>
+    <string name="account_settings_login_dialog_content_fmt">"Numele de utilizator sau parola pentru %s sunt incorecte.
+          Actualizaţi acum?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Conectarea dvs. la %s a eşuat; motivul invocat de server a fost: %s Doriţi să actualizaţi numele de utilizator şi/sau parola?</string>
-    <string name="account_settings_login_dialog_title">Nu s-a putut conecta</string>
+    <string name="account_settings_login_dialog_title">"Nu s-a putut conecta"</string>
     <string name="account_settings_mail_check_frequency_label">Frecvența sincronizării</string>
     <string name="account_settings_mibill_resolve_label">Gestionare automată a facturilor</string>
     <string name="account_settings_name_label">Pseudonim</string>
@@ -64,36 +64,37 @@
     <string name="account_setup_basics_manual_setup_action">Configurare manuală</string>
     <string name="account_setup_basics_password_label">Parolă</string>
     <string name="account_setup_basics_title">Adăugaţi un cont</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Se validează setările serverului…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Se validează setările SMTP…</string>
-    <string name="account_setup_check_settings_retr_info_msg">Se preiau informaţiile despre cont…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">"    Se validează setările serverului…"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">"    Se validează setările SMTP…"</string>
+    <string name="account_setup_check_settings_retr_info_msg">"    Se preiau informaţiile despre cont…"</string>
     <string name="account_setup_correct_address_tips">Introduceţi adresa de e-mail</string>
-    <string name="account_setup_creating_account_msg">Creare cont…</string>
-    <string name="account_setup_deleting_account_msg">Eliminare cont…</string>
+    <string name="account_setup_creating_account_msg">"    Creare cont…"</string>
+    <string name="account_setup_deleting_account_msg">"    Eliminare cont…"</string>
     <string name="account_setup_exchange_certificate_title">Certificat client</string>
     <string name="account_setup_exchange_device_id_label">ID dispozitiv mobil</string>
     <string name="account_setup_exchange_no_certificate">Niciunul</string>
-    <string name="account_setup_failed_auth_required">Metodele de autentificare nu sunt acceptate de server.</string>
     <string name="account_setup_failed_certificate_inaccessible">Certificat nevalid sau inaccesibil.</string>
     <string name="account_setup_failed_certificate_required">Este necesar un certificat de client. Vă conectaţi la server cu un certificat de client?</string>
-    <string name="account_setup_failed_check_credentials_message">Serverul a returnat un mesaj de eroare. Verificaţi numele de utilizator şi parola şi încercaţi din nou.</string>
+    <string name="account_setup_failed_check_credentials_message">"    Serverul a returnat un mesaj de eroare. Verificaţi numele de utilizator şi parola şi încercaţi din nou."</string>
     <string name="account_setup_failed_dlg_auth_message">Nume de utilizator sau parolă incorecte.</string>
     <string name="account_setup_failed_dlg_bar_title">Modalități de autentificare la %s</string>
-    <string name="account_setup_failed_dlg_certificate_message">Nu se poate conecta în siguranţă la server.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">Nu se poate conecta în siguranţă la server.\n(%s)</string>
-    <string name="account_setup_failed_dlg_device_locked">Nu s-a putut conecta. Acest cont a fost blocat.</string>
+    <string name="account_setup_failed_dlg_certificate_message">"Nu se poate conecta în siguranţă la server."</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">"Nu se poate conecta în siguranţă la server.
+(%s)"</string>
+    <string name="account_setup_failed_dlg_device_locked">"\"Nu s-a putut conecta. Acest cont a fost blocat.\""</string>
     <string name="account_setup_failed_dlg_edit_details_action">Modificaţi detaliile</string>
     <string name="account_setup_failed_dlg_error_code">Codul de eroare: %s</string>
-    <string name="account_setup_failed_dlg_server_message">Nu se poate conecta la server.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">Nu se poate conecta la server.(%s)</string>
-    <string name="account_setup_failed_dlg_title">Nu s-a putut configura contul</string>
+    <string name="account_setup_failed_dlg_server_message">"Nu se poate conecta la server."</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"Nu se poate conecta la server.
+(%s)"</string>
+    <string name="account_setup_failed_dlg_title">"Nu s-a putut configura contul"</string>
     <string name="account_setup_failed_dlg_todo1">Configurați contul ca în exemplul de mai jos sau încercați să vă autentificați folosind EXCHANGE.</string>
     <string name="account_setup_failed_dlg_todo2">Configurați contul ca în exemplul de mai jos.</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Eroare necunoscută.</string>
     <string name="account_setup_failed_ioerror">"Nu s-a putut deschide conexiunea la server."</string>
-    <string name="account_setup_failed_protocol_unsupported">Aţi introdus o adresă de server incorectă sau serverul necesită o versiune de protocol pe care aplicaţia E-mail nu o acceptă.</string>
-    <string name="account_setup_failed_security">Nu s-a putut deschide conexiunea la server din cauza unei erori de securitate.</string>
-    <string name="account_setup_failed_security_policies_unsupported">Pentru acest server sunt necesare funcţii de securitate pe care dispozitivul dvs. Android nu le acceptă, inclusiv: %s</string>
+    <string name="account_setup_failed_protocol_unsupported">"Aţi introdus o adresă de server incorectă sau serverul necesită o versiune de protocol pe care aplicaţia E-mail nu o acceptă."</string>
+    <string name="account_setup_failed_security">"Nu s-a putut deschide conexiunea la server din cauza unei erori de securitate."</string>
+    <string name="account_setup_failed_security_policies_unsupported">"Pentru acest server sunt necesare funcţii de securitate pe care dispozitivul dvs. Android nu le acceptă, inclusiv: %s"</string>
     <string name="account_setup_failed_tls_required">TLS solicitat, dar neacceptat de către server.</string>
     <string name="account_setup_failed_too_many_partnerships">Conectare eşuată. A fost atins numărul maxim de conexiuni pe server.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Când şterg un mesaj din Mesaje primite</string>
@@ -105,9 +106,9 @@
     <string name="account_setup_incoming_security_label">Tipul de securitate</string>
     <string name="account_setup_incoming_security_none_label">Niciunul</string>
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Acceptaţi toate certificatele)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">"    SSL/TLS (Acceptaţi toate certificatele)"</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (acceptaţi toate certificatele)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">"    STARTTLS (acceptaţi toate certificatele)"</string>
     <string name="account_setup_incoming_server_label">Server</string>
     <string name="account_setup_incoming_username_label">Nume de utilizator</string>
     <string name="account_setup_incoming_username_label_default_hint">Puteți include domeniul</string>
@@ -133,16 +134,19 @@
     <string name="account_setup_outgoing_port_label">Port</string>
     <string name="account_setup_outgoing_require_login_label">Solicitaţi conectarea</string>
     <string name="account_setup_outgoing_smtp_server_label">Server SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">Serverul %s vă solicită permisiunea de a controla de la distanţă unele funcţii de securitate ale dispozitivului Android. Doriţi să finalizaţi configurarea acestui cont?</string>
+    <string name="account_setup_security_policies_required_fmt">"    Serverul %s vă solicită permisiunea de a controla de la distanţă
+      unele funcţii de securitate ale dispozitivului Android. Doriţi să finalizaţi configurarea acestui
+      cont?"</string>
     <string name="account_setup_security_required_title">Administrarea securităţii de la distanţă</string>
     <string name="account_setup_server_acc_manager_title">Conturi</string>
-    <string name="account_setup_username_password_toast">Introduceţi o adresă de e-mail şi o parolă valide</string>
+    <string name="account_setup_username_password_toast">"    Introduceţi o adresă de e-mail şi o parolă valide."</string>
     <string name="account_sync_off">Sincronizare cont dezactivată.</string>
     <string name="account_waiting_for_folders_msg">Încărcare dosare…</string>
     <string name="actionbar_large_unread_count">%1$d+ necitite</string>
     <string name="activity_folder_selection">Selectaţi dosarul</string>
     <string name="activity_mailbox_selection">Selectaţi contul</string>
     <string name="add_account">Adăugaţi un cont</string>
+  <string name="add_account_keywords">Adăugarea de conturi de e-mail, adăugarea de conturi de e-mail;add mail account</string>
     <string name="add_attachment">Atașaţi fișiere</string>
     <string name="add_calendar">Reamintire</string>
     <string name="add_label">Adăugaţi un dosar</string>
@@ -158,6 +162,7 @@
     <string name="archived">Arhivat</string>
     <string name="att_download_failed_content">Nu s-a putut descărca fișierul atașat acestui mesaj.</string>
     <string name="att_download_failed_network_slow">Conexiunea este foarte lentă, reîncercați mai târziu</string>
+    <string name="att_download_failed_permission_denied">"Nu aveți permisiunea de accesare a stocării externe"</string>
     <string name="att_download_failed_title">Nu se poate descărca atașamentul</string>
     <string name="att_file_not_exists">Fişierul %s nu a fost găsit!</string>
     <string name="att_mgr_no_attachment">Niciun ataşament.</string>
@@ -191,6 +196,8 @@
     <string name="auto_advance_label">Ștergere flux de mesaje</string>
     <string name="auto_advance_summary">Alegeți la ce mesaj se derulează după ștergerea unui e-mail</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
+  <string name="battery_saver">modul de economisire a energiei</string>
+  <string name="battery_saver_keywords">Salvarea mesajelor; consumul de mesaje;battery saver;mail battery</string>
     <string name="bcc">BCC</string>
     <string name="bcc_heading">"BCC: "</string>
     <string name="blank_feedback_toast">Trebuie să scrieţi un feedback</string>
@@ -202,15 +209,10 @@
     <string name="bottom_bar_no_quickreply_toast">Niciun răspuns rapid</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Reamintește-mi</string>
-    <string name="calendar_remind_gridview_month_later">Luna viitoare</string>
-    <string name="calendar_remind_gridview_nextweek">Săptămâna viitoare</string>
     <string name="calendar_remind_gridview_pick_date">Alegeți o dată</string>
-    <string name="calendar_remind_gridview_tomorrow">Mâine</string>
-    <string name="calendar_remind_gridview_tonight">La noapte</string>
-    <string name="calendar_remind_gridview_weekend">În weekend</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
-    <string name="cant_move_or_change_labels">Imposibil de mutat deoarece selecția conține mai multe conturi.</string>
+    <string name="cant_move_or_change_labels">"Nu se pot muta elemente din mai multe conturi."</string>
     <string name="cc">CC</string>
     <string name="cc_attribution">CC: %1$s\n</string>
     <string name="cc_bcc">CC/BCC</string>
@@ -219,10 +221,10 @@
     <string name="change_sync_settings">Modificaţi setările de sincronizare</string>
     <string name="changepw_dialog_tips">Reintroduceţi parola pentru %s</string>
     <string name="chat_item_msg_people_unit">persoane</string>
-    <string name="chat_item_msg_user_etc" />
+    <string name="chat_item_msg_user_etc">etc.</string>
     <string name="chat_view_description">Vizualizare fire de e-mail ca bule de conversații</string>
     <string name="chat_view_title">Vizualizare ca şi conversații</string>
-    <string name="check_setup_data">Validarea setărilor serverului…</string>
+    <string name="check_setup_data">"    Se validează setările serverului…"</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear">Eliminaţi</string>
     <string name="clear_display_images_whitelist_dialog_message">Nu se mai afișează imagini în linie de la expeditori permişi anterior.</string>
@@ -238,6 +240,10 @@
     <string name="compose_send">Trimiteţi</string>
     <string name="compose_sent">E-mail trimis</string>
     <string name="confirm">OK</string>
+  <string name="confirm_before_delete">Confirmați înainte de a șterge</string>
+  <string name="confirm_before_delete_keywords">confirmați înainte de a șterge;confirmați ștergerea</string>
+  <string name="confirm_before_send">Confirmați înainte de a trimite</string>
+  <string name="confirm_before_send_keywords">confirmați înainte de a trimite;confirmați trimiterea</string>
     <string name="confirm_delete_conversation_title">Ştergeţi</string>
     <string name="confirm_discard_text">Renunţaţi la acest mesaj?</string>
     <string name="confirm_response">Trimitere…</string>
@@ -261,6 +267,7 @@
     <string name="contact_list_add_btn">Adăugaţi</string>
     <string name="contact_list_search_hint">Căutaţi contacte</string>
     <string name="contact_list_title">Contacte</string>
+    <string name="contact_permission_error">"Accesul la agenda telefonului este restricționat"</string>
     <string name="contact_select">Selectaţi contacte</string>
     <string name="content_description">%1$s despre %2$s, %3$s pe data de %4$s, %5$s</string>
     <string name="content_description_today">%1$s despre %2$s, %3$s la ora %4$s, %5$s</string>
@@ -284,6 +291,8 @@
     <string name="conversation_item_mark_read">Citit</string>
     <string name="conversation_item_mark_unread">Necitit</string>
     <string name="conversation_photo_welcome_text">Atingeți imaginea expeditorului pentru a selecta o conversație.</string>
+  <string name="conversation_view">sesiunea de afișare</string>
+  <string name="conversation_view_keywords">vizualizare conversații;vizualizare e-mailuri</string>
     <string name="copied">Copiat</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
@@ -300,6 +309,8 @@
     <string name="default_signature">Trimis de pe Mi</string>
     <string name="del_account_questionnair_hint">"Ne puteți spune de ce ștergeți acest cont?"</string>
     <string name="delete">Ştergeţi</string>
+  <string name="delete_message_flow">sări în mod automat</string>
+  <string name="delete_message_flow_keywords">ștergeți fluxul de mesaje;delete redirect</string>
     <string name="deleted">Ştearsă</string>
     <string name="device_activity_btn_str">Activare</string>
     <string name="device_activity_lint_str">Activați serviciile de e-mail și activaţi setările de securitate</string>
@@ -313,7 +324,9 @@
     <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
     <string name="dialog_insufficient_space_on_external">Nu se poate descărca ataşamentul. Spațiu insuficient în stocarea externă.</string>
     <string name="dialog_insufficient_space_on_internal">Spațiu insuficient în stocarea internă.</string>
-    <string name="disable_admin_warning">AVERTISMENT: dacă dezactivaţi autoritatea aplicaţiei E-mail de administrare a dispozitivului dvs. se şterg toate conturile de e-mail care au nevoie de aceasta, împreună cu e-mailurile, agenda, evenimentele din calendar şi alte date pe care aceste conturi le conţin.</string>
+    <string name="disable_admin_warning">"AVERTISMENT: dacă dezactivaţi permisiunea aplicaţiei E-mail
+          de administrare a dispozitivului dvs. se şterg toate conturile de e-mail care au nevoie de aceasta, împreună cu
+          e-mailurile, agenda, evenimentele din calendar şi alte date pe care aceste conturi le conţin."</string>
     <string name="discard">Renunţaţi</string>
     <string name="discard_drafts">Renunţaţi la mesajul nefinalizat</string>
     <string name="dismiss_tip_hover_text">Ignorați sugestia</string>
@@ -337,6 +350,7 @@
     <string name="download_confirm_message">Descărcaţi %1$s ataşamente?</string>
     <string name="download_confirm_title">Descărcaţi ataşamentul</string>
     <string name="download_message_failed_for_too_large">Mesajul este prea mare pentru a putea fi descărcat.</string>
+    <string name="download_whole_email">Vizualizați și restul mesajului</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
@@ -353,22 +367,33 @@
     <string name="empty_trash_dialog_title">Goliţi coşul de reciclare?</string>
     <string name="enable_sync_in_account_settings">Activaţi din %1$s.</string>
     <string name="enumeration_delimiter">" | "</string>
-    <string name="exception_cancel">Acest eveniment a fost anulat pentru: %s</string>
-    <string name="exception_updated">Detaliile cu privire la acest eveniment au fost modificate pentru: %s</string>
+    <string name="exception_cancel">"
+    Acest eveniment a fost anulat
+    pentru:
+%s "</string>
+    <string name="exception_updated">"
+    Detaliile cu privire la acest eveniment au fost modificate
+    pentru:
+%s "</string>
     <string name="exchange_name">Corporaţie</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Extindeți detaliile destinatarului</string>
     <string name="fail_get_email_message">Nu s-a putut obține mesajul.</string>
     <string name="failed">Nu se poate încărca imaginea</string>
+    <string name="failed_read_phone_state_permission">"Nu aveți permisiunea de a accesa starea telefonului"</string>
+    <string name="failed_read_write_calendar_permission">"Nu aveți permisiunea de a accesa Calendarul"</string>
+    <string name="failed_read_write_contacts_permission">"Nu aveți permisiunea de a accesa Agenda"</string>
     <string name="feedback">Trimiteţi feedback</string>
     <string name="feedback_body">Mesaj</string>
     <string name="feedback_sent">Mulţumim pentru feedback</string>
+    <string name="feedback_user_edit_hint">Introduceți descrierea problemei aici. Vom reveni cu un e-mail după ce o vom analiza.</string>
+    <string name="feedback_user_edit_tag">De la MIUI </string>
     <string name="fetching_attachment">Obţinere ataşament</string>
     <string name="file_deleted_success">Fişier şters</string>
     <string name="file_not_found">Nu se poate găsi fișierul</string>
     <string name="file_not_found_redownload">Nu se poate găsi fișierul</string>
     <string name="file_rar_not_support">Nu se pot deschide fișiere de tip .rar criptate</string>
-    <string name="filtered_tag">[%1$s]%2$s</string>
+    <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="folder_drafts_name_cn0">Proiecte</string>
     <string name="folder_drafts_name_cn1">Schițe</string>
     <string name="folder_drafts_name_cn2">[Gmail]/Proiecte</string>
@@ -441,21 +466,20 @@
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="hint_quick_reply_all">Răspundeţi tuturor</string>
-    <string name="ignore_spam_warning">Ignoră, am încredere în acest mesaj</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">Parola pentru serverul de intrare este incorectă</string>
-    <string name="info_actionbar_normal_detail">Detalii articol</string>
-    <string name="info_actionbar_subscribe">Înscriere</string>
+    <string name="info_actionbar_normal_detail">Detalii</string>
+    <string name="info_actionbar_subscribe">Flux de știri</string>
     <string name="info_item_from">De la </string>
     <string name="info_item_hide">Ascundeți</string>
-    <string name="info_loading">Încărcare</string>
+    <string name="info_loading">Încărcare...</string>
     <string name="info_name_title">NOUTĂȚI</string>
     <string name="info_no_message">Niciun articol!</string>
-    <string name="info_no_more_message">"Nu există alte mesaje noi"</string>
+    <string name="info_no_more_message">Nu există alte mesaje de vizualizat</string>
     <string name="info_switch_summary">Vedeți cele mai importante noutăți</string>
     <string name="info_switch_title">Conținut NOUTĂȚI</string>
-    <string name="info_sync_error">Eroare de sincronizare; încercați din nou mai târziu.</string>
-    <string name="information_subscribe_first_intro">Este prima dată când utilizați 「Subscribe」 ; selectați câteva domenii de care sunteți interesat pentru a vă putea face cele mai bune recomandări~</string>
+    <string name="info_sync_error">"Eroare de sincronizare; încercați din nou mai târziu."</string>
+    <string name="information_subscribe_first_intro">"Se pare că utilizați Fluxul de știri pentru prima dată. Prezentați-ne domeniile de care sunteți interesat pentru a vă putea personaliza recomandările."</string>
     <string name="inline_picture_deleted">Se descărcă imaginea ce lipsește…</string>
     <string name="input_password_prompt">Introduceţi parola dvs.</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
@@ -478,6 +502,7 @@
     <string name="mail_body_turncated">Acest e-mail este prea mare pentru a fi încărcat, se afișează doar o parte din el. Pentru a-l vizualiza în întregime deschideţi-l pe un PC mai târziu.</string>
     <string name="mail_header_network_not_available">Nu aveți o conexiune la rețea.</string>
     <string name="mailbox_list_account_selector_combined_view">Toate conturile de e-mail</string>
+    <string name="mailbox_name_display_ad">Reclame și notificări</string>
     <string name="mailbox_name_display_drafts">Mesaje nefinalizate</string>
     <string name="mailbox_name_display_inbox">Mesaje primite</string>
     <string name="mailbox_name_display_junk">Mesaje nedorite</string>
@@ -506,16 +531,39 @@
     <string name="mark_unread">Marcaţi ca necitit</string>
     <string name="me_object_pronun">eu</string>
     <string name="me_subject_pronun">eu</string>
-    <string name="meeting_accepted">Acceptată: %s</string>
-    <string name="meeting_allday">Când: %s (toată ziua)</string>
-    <string name="meeting_allday_recurring">Când: %s (toată ziua, recurent)</string>
-    <string name="meeting_canceled">Anulată: %s</string>
-    <string name="meeting_declined">Refuzată: %s</string>
-    <string name="meeting_recurring">Când: %s (recurent)</string>
-    <string name="meeting_tentative">Tentativă: %s</string>
-    <string name="meeting_updated">Actualizată: %s</string>
-    <string name="meeting_when">Când: %s</string>
-    <string name="meeting_where">Unde: %s</string>
+    <string name="meeting_accepted">"
+          Acceptată:
+%s "</string>
+    <string name="meeting_allday">"
+          Când:
+%s (toată ziua)
+    "</string>
+    <string name="meeting_allday_recurring">"
+          Când:
+%s (toată ziua, recurent)
+    "</string>
+    <string name="meeting_canceled">"
+          Anulată:
+%s "</string>
+    <string name="meeting_declined">"
+          Refuzată:
+%s "</string>
+    <string name="meeting_recurring">"
+          Când:
+%s (recurent)
+    "</string>
+    <string name="meeting_tentative">"
+          Tentativă:
+%s "</string>
+    <string name="meeting_updated">"
+          Actualizată:
+%s "</string>
+    <string name="meeting_when">"
+          Când:
+%s "</string>
+    <string name="meeting_where">"
+          Unde:
+%s "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Ataşamente</string>
     <string name="menu_att_mgr_order_default">Recent vizualizate</string>
@@ -547,7 +595,7 @@
     <string name="message_invite_tentative">Poate</string>
     <string name="message_invite_title">Invitaţie la Calendar</string>
     <string name="message_saved">Mesaj salvat ca nefinalizat.</string>
-    <string name="message_view_attachment_background_load">Unul sau mai multe atașamente din mesajul redirecţionat vor fi descărcate înainte de trimitere.</string>
+    <string name="message_view_attachment_background_load">Atașamentele din mesajul redirecţionat vor fi descărcate înainte de trimitere.</string>
     <string name="mibill_privacy_policy_button1">Nu sunt de acord</string>
     <string name="mibill_privacy_policy_button2">Acceptaţi</string>
     <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată în mod implicit pentru adresele de e-mail legate de servici.</string>
@@ -559,7 +607,7 @@
     <string name="move_to_selection_dialog_title">Mutaţi în alt dosar</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Suprimaţi</string>
-    <string name="net_check_title">Nu se poate conecta la rețea. Verificați conexiunea și reîncercați.</string>
+    <string name="net_check_title">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="network_error">Nicio conexiune</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_try_again">Verificați setările rețelei</string>
@@ -615,13 +663,16 @@
     <string name="outbox_no_mails">Gol</string>
     <string name="parase_setup_data">Obţinere date…</string>
     <string name="password_expire_warning_content_title">Parola de blocare a ecranului expiră</string>
-    <string name="password_expire_warning_dialog_content_fmt">Este necesar să modificaţi în curând codul PIN sau parola de blocare a ecranului. În caz contrar, datele pentru %s vor fi şterse. Modificaţi acum?</string>
+    <string name="password_expire_warning_dialog_content_fmt">"     Este necesar să modificaţi în curând codul PIN sau parola de blocare a ecranului. În caz contrar, datele pentru %s vor fi şterse. Modificaţi acum?"</string>
     <string name="password_expire_warning_dialog_title">Parola de blocare ecran expiră în curând</string>
-    <string name="password_expire_warning_ticker_fmt">„%s” vă solicită să modificaţi codul PIN sau parola de blocare a ecranului.</string>
+    <string name="password_expire_warning_ticker_fmt">"\"%s\" vă solicită să modificaţi codul PIN sau parola de blocare
+              a ecranului."</string>
     <string name="password_expired_content_title">Parolă blocare ecran expirată</string>
-    <string name="password_expired_dialog_content_fmt">Datele pentru %s sunt şterse de pe dispozitiv, dar le puteţi restabili modificând codul PIN sau parola de blocare a ecranului. Modificaţi acum?</string>
+    <string name="password_expired_dialog_content_fmt">"     Datele pentru %s sunt şterse de pe dispozitiv.
+             Le puteţi restabili modificând codul PIN sau parola de blocare a ecranului. Modificaţi acum?"</string>
     <string name="password_expired_dialog_title">Parola de blocare ecran este expirată</string>
     <string name="password_expired_ticker">Codul PIN sau parola de blocare a ecranului au expirat.</string>
+  <string name="path_about_account_setting">Mail / Setări</string>
     <string name="perference_change_pw_notnull_tips">Introduceţi parola</string>
     <string name="perference_change_pw_ok_tips">Parolă modificată</string>
     <string name="perference_setup_pop_del">Eliminaţi mesajul de pe server</string>
@@ -650,8 +701,8 @@
     <string name="policy_dont_allow_storage_cards">Se interzic carduri de stocare</string>
     <string name="policy_dont_allow_text_messaging">Se interzic mesaje text</string>
     <string name="policy_dont_allow_unsigned_apps">Se interzic aplicații nesemnate</string>
-    <string name="policy_dont_allow_unsigned_installers">Se interzic instalatori ai aplicațiilor nesemnate</string>
-    <string name="policy_dont_allow_wifi">Se interzice Wi-Fi</string>
+    <string name="policy_dont_allow_unsigned_installers">"Se interzice instalarea aplicațiilor nesemnate"</string>
+    <string name="policy_dont_allow_wifi">"Se interzice Wi-Fi"</string>
     <string name="policy_email_age">Se limitează numărul de e-mailuri sincronizate</string>
     <string name="policy_html_truncation">Se restricţionează dimensiunea e-mail HTML</string>
     <string name="policy_password_expiration">Setare expirare parole</string>
@@ -681,7 +732,7 @@
     <string name="protocol_legacy_imap">imap</string>
     <string name="protocol_pop3">pop3</string>
     <string name="pull_to_refresh">Glisați în jos pentru a actualiza</string>
-    <string name="pull_up_to_load_more">Eliberați pentru a încărca mai multe</string>
+    <string name="pull_up_to_load_more">Glisați în sus pentru a încărca mai multe</string>
     <string name="push_wps_better_confirm_download">Descărcaţi</string>
     <string name="push_wps_better_confirm_exit">Nu acum</string>
     <string name="push_wps_better_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
@@ -707,8 +758,8 @@
     <string name="quick_4">Să stabilim o întâlnire pentru a discuta aceasta.</string>
     <string name="quick_reply_dialog_title">Selectaţi un răspuns</string>
     <string name="quick_reply_hint">Răspundeţi la %1$d persoane</string>
-    <string name="quick_reply_hint_bcc">"(În BCC) "</string>
-    <string name="quick_reply_hint_cc">"(În CC) "</string>
+    <string name="quick_reply_hint_bcc">(În BCC)</string>
+    <string name="quick_reply_hint_cc">(În CC)</string>
     <string name="quick_responses_empty_view">Niciun răspuns rapid</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- Mesaj original --------</string>
@@ -725,7 +776,7 @@
     <string name="quote_divider_ipad_zh">Trimis de pe iPad</string>
     <string name="quote_divider_iphone_en">Trimis de pe iPhone</string>
     <string name="quote_divider_iphone_fwd_en">Începeţi mesajul redirecţionat:</string>
-    <string name="quote_divider_iphone_fwd_zh">Mesajul trimis：</string>
+    <string name="quote_divider_iphone_fwd_zh">Mesajul trimis:</string>
     <string name="quote_divider_ks_web">________________________________________</string>
     <string name="quote_divider_qq_en">------------------ Original ------------------</string>
     <string name="quote_divider_qq_zh">------------------ Mesajul original ------------------</string>
@@ -744,8 +795,6 @@
     <string name="release_to_refresh">Eliberați pentru a actualiza</string>
     <string name="remote_search_result">%s e-mailuri găsite în toate e-mailurile de pe server</string>
     <string name="remove_account">Eliminaţi contul</string>
-    <string name="remove_account_confirm">\"%1$s\" va fi eliminat din E-mail.</string>
-    <string name="remove_account_confirm_title">Eliminaţi contul</string>
     <string name="remove_folder">Eliminaţi din %1$s</string>
     <string name="remove_star">Eliminaţi steluţa</string>
     <string name="reply">Răspundeţi</string>
@@ -755,7 +804,8 @@
     <string name="report_phishing">Raportaţi phishing</string>
     <string name="report_spam">Raportaţi ca spam</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
-    <string name="respond_inline">Răspundeţi inline</string>
+    <string name="request_permission_activity">Solicitare permisiune</string>
+    <string name="respond_inline">"    Răspundeţi inline"</string>
     <string name="save_action">Salvaţi</string>
     <string name="save_attachment">Salvaţi</string>
     <string name="save_draft_failed">Salvare mesaj nefinalizat eşuată</string>
@@ -765,24 +815,30 @@
     <string name="saving">Salvare…</string>
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
     <string name="search_hint">Căutare e-mail</string>
-    <string name="search_result">Rezultate</string>
+    <string name="search_result">"Rezultate "</string>
     <string name="search_tabs_name_all">Toate</string>
     <string name="search_tabs_name_recipient">Destinatar</string>
     <string name="search_tabs_name_sender">Expeditor</string>
     <string name="search_tabs_name_subject">Subiect</string>
     <string name="search_title">E-mail unificat</string>
     <string name="search_txt_size_limit_prompt">Termenii de căutare trebuie să conţină mai mult de 3 caractere</string>
-    <string name="security_changed_ticker_fmt">Contul \"%s\" a schimbat setările sale de securitate; nu este necesară nicio acțiune din partea utilizatorului.</string>
-    <string name="security_needed_ticker_fmt">Contul \"%s\" necesită actualizarea setărilor de securitate.</string>
-    <string name="security_notification_content_change_title">Politicile de securitate s-au schimbat</string>
-    <string name="security_notification_content_unsupported_title">Politicile de securitate nu pot fi îndeplinite</string>
+    <string name="security_changed_ticker_fmt">"        Contul \"%s\" și- a schimbat setările sale de securitate;
+          nu este necesară nicio acțiune din partea utilizatorului."</string>
+    <string name="security_needed_ticker_fmt">"         Contul \"%s\" necesită actualizarea setărilor de securitate."</string>
+    <string name="security_notification_content_change_title">"Politicile de securitate
+          s-au schimbat"</string>
+    <string name="security_notification_content_unsupported_title">"Solicitările de securitate nu pot fi
+          îndeplinite"</string>
     <string name="security_notification_content_update_title">Actualizare de securitate necesară</string>
-    <string name="security_unsupported_ticker_fmt">Contul \"%s\" nu poate fi sincronizat din cauza cerințelor de securitate.</string>
+    <string name="security_unsupported_ticker_fmt">"      Contul \"%s\" nu poate fi sincronizat din cauza cerințelor
+          de securitate."</string>
     <string name="select_attachment_type">Alegeţi ataşamentul din</string>
     <string name="select_no_file">Niciun ataşament selectat</string>
     <string name="selected_lable">Selectate</string>
     <string name="send">Trimiteţi</string>
     <string name="send_failed">Mesaj netrimis.</string>
+  <string name="send_feed_back">trimiteţi feedback</string>
+  <string name="send_feed_back_keywords">trimiteţi feedback</string>
     <string name="sender_whitelist_cleared">Imaginile nu vor fi afișate în mod automat.</string>
     <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
@@ -803,9 +859,9 @@
     <string name="shortcut_name_title">Denumiţi o comandă rapidă pentru dosar</string>
     <string name="show_elided">▶ Afişaţi textul citat</string>
     <string name="show_images">Afişaţi fotografiile</string>
-    <string name="signature">\n\n\n\n%s</string>
+    <string name="signature">"\n\n\n\n%s"</string>
     <string name="silent_ringtone">Silențios</string>
-    <string name="single_new_message_notification_big_text">%1$s \n%2$s</string>
+    <string name="single_new_message_notification_big_text">"%1$s \n%2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
     <string name="sort_attachment">Sortaţi după</string>
@@ -853,7 +909,9 @@
     <string name="trigger_refresh_char">u</string>
     <string name="trigger_y_char">y</string>
     <string name="try_exchange_login">Încercați să vă conectați cu un cont exchange</string>
-    <string name="turn_auto_sync_on_dialog_body">Modificările pe care le efectuați în toate aplicațiile și conturile, nu doar în Gmail, vor fi sincronizate între web, alte dispozitive ale dvs. și %1$s.</string>
+    <string name="turn_auto_sync_on_dialog_body">"Modificările pe care le efectuați
+          în toate aplicațiile și conturile, nu doar în Gmail, vor fi sincronizate
+          între web, alte dispozitive ale dvs. și %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activaţi</string>
     <string name="turn_auto_sync_on_dialog_title">Activaţi sincronizarea automată?</string>
     <string name="undo">Anulaţi</string>
@@ -864,11 +922,13 @@
     <string name="update_date_format_templete">HH:mm, dd MMMM</string>
     <string name="updated_at">Actualizat la %1$s</string>
     <string name="upload_log">Încărcare jurnale</string>
-    <string name="upload_log_failed">Trimiterea jurnalelor a eşuat</string>
+    <string name="upload_log_failed">"Trimiterea jurnalelor a eşuat"</string>
     <string name="upload_log_no">Anulaţi</string>
-    <string name="upload_log_success">Jurnale trimise cu succes</string>
-    <string name="upload_log_title">Trimiteţi jurnalul către Xiaomi</string>
-    <string name="upload_log_yes">Încărcare</string>
+    <string name="upload_log_success">"Jurnale trimise cu succes. Vom reveni cu un răspuns în curând"</string>
+    <string name="upload_log_title">Trimiteţi jurnale de eroare pentru a ne ajuta să îmbunătățim aplicația de E-mail</string>
+    <string name="upload_log_yes">Trimite</string>
+  <string name="upload_logs">Trimiteți jurnalul de eroare</string>
+  <string name="upload_logs_keywords">trimiteți jurnalul de eroare</string>
     <string name="uploading_logs">Doar o secundă…</string>
     <string name="validation_failed_prompt">Nu se poate verifica contul. Verificaţi setările serverului pentru %s</string>
     <string name="veiled_address" />
@@ -882,8 +942,11 @@
     <string name="widget_all_mail">Toate e-mailurile</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">At. pict. pt. modif.</string>
+    <string name="wipe_account_fail_description">Apăsați aici pentru a obține permisiunile</string>
+    <string name="wipe_account_fail_title">Nu s-au putut șterge informațiile personale</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
     <string name="yes">Da</string>
+    <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="you_are_in_mobile_network">Trimiteţi jurnalul utilizând conexiunea de date mobile? Dacă depăşiţi limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="zip_viewer_no_file">Niciun fişier.</string>
 </resources>

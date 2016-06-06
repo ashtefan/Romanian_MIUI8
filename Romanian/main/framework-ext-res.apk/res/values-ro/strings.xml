@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_frequent_phrases">Adăugare expresii frecvente</string>
     <string name="all_call_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale și internaționale</string>
     <string name="all_call_livetalk_remain_mins">Minute rămase: (%1$s naţionale) | (%2$s %3$s)</string>
     <string name="alwaysUsePrompt">Se memorează această alegere</string>
@@ -35,6 +36,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nu acum</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Mergeți la Setări</string>
     <string name="fp_nav_center_action_choose_dlg_title">Apăsare scurtă a butonului Acasă</string>
+    <string name="frequent_phrases">Expresii frecvente</string>
     <string name="global_actions_airplane_mode">Modul Avion</string>
     <string name="global_actions_reboot">Repornire</string>
     <string name="global_actions_shutdown">Închidere</string>
@@ -99,6 +101,7 @@
     <string name="status_bar_toggle_ac">Blocare aplicaţii</string>
     <string name="status_bar_toggle_auto_brightness">Automat</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_cast">Distribuiți</string>
     <string name="status_bar_toggle_data">Date mobile</string>
     <string name="status_bar_toggle_flight_mode">Avion</string>
     <string name="status_bar_toggle_gps">GPS</string>

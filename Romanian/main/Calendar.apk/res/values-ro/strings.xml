@@ -139,7 +139,7 @@
     <string name="data_notice_online_large_image">Abonaţi-vă la pagina Calendarul imagine mai mare, pentru a vă ajuta să economisiți trafic, a fost setat la "sincronizeze doar abonamente calendaristice în imaginea de ansamblu Wi-Fi.</string>
   <string name="date_pattern_mm_dd">luna M ziua d</string>
   <string name="date_pattern_mm_dd_kk_mm">luna M ziua d HH:mm</string>
-  <string name="date_pattern_yyyy_mm_dd_kk_mm">d-M-yyyy HH:mm</string>
+  <string name="date_pattern_yyyy_mm_dd_kk_mm">d-MMMM-yyyy HH:mm</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view">Zi</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
@@ -197,6 +197,7 @@
     <string name="event_info_descrip">"Descriere: "</string>
     <string name="event_info_end">"Sfârşit "</string>
     <string name="event_info_from">De la</string>
+    <string name="event_info_jump_to_email">Mergeți la E-mail</string>
     <string name="event_info_organizer">Organizator:</string>
     <string name="event_info_reminders_label">Mementouri</string>
     <string name="event_info_reminders_label_1">Memento</string>
@@ -214,6 +215,7 @@
     <string name="every_weekday">În fiecare zi lucrătoare (Luni – Vineri)</string>
   <string name="every_year_month_of_day">%1$s%2$s zi</string>
     <string name="exist_calendar">Abonat</string>
+    <string name="festival_detail_title">Festival</string>
     <string name="free_day_default_banner_title">Zi liberă!</string>
     <string name="from_google_group_calendar">Calendar Google</string>
     <string name="gadget_no_events">Niciun eveniment viitor în calendar</string>
@@ -234,6 +236,12 @@
     <string name="huangli_good_type">Bun</string>
     <string name="huangli_label"/>
   <string name="image_content">Imagine</string>
+    <string name="insert_event_dialog_btn_negative">Nu</string>
+    <string name="insert_event_dialog_btn_positive">Da</string>
+    <string name="insert_event_dialog_message">Adăugați acest eveniment în calendar?</string>
+    <string name="insert_event_dialog_title">Atenție</string>
+    <string name="insert_event_toast_add_failed">"Nu s-a putut adăuga"</string>
+    <string name="insert_event_toast_add_success">Eveniment creat</string>
     <string name="internet_connection_notification">Notificare conexiune la internet</string>
     <string name="internet_connection_notification_descrip">Se afișează notificarea de conexiune la internet de fiecare dată când se accesează Calendarul</string>
  <string name="joke_card_icon_text">clovn %1$s</string> 
@@ -249,6 +257,7 @@
     <string name="menu_about_preferences">Despre Calendar</string>
     <string name="menu_general_preferences">Setări generale</string>
     <string name="menu_preferences">Setări</string>
+    <string name="menu_reminder_preferences">Setări pentru memento</string>
     <string name="menu_select_visible_calendars">De afişat</string>
     <string name="miui_chinese_week_range_double" />
     <string name="miui_chinese_week_range_single" />
@@ -320,11 +329,14 @@
     <string name="preferences_default_reminder_title">Timp predefinit pentru memento</string>
     <string name="preferences_general_title">Setarea afişării calendarului</string>
     <string name="preferences_hide_declined_title">Ascundeţi evenimentele refuzate</string>
+    <string name="preferences_history_events">Arată istoricul evenimentelor</string>
+    <string name="preferences_holidays">Arată zilele libere</string>
     <string name="preferences_home_tz_default">Europa/București</string>
     <string name="preferences_home_tz_title">Fus orar de acasă</string>
   <string name="preferences_import_credit_repayment">Plățile prin card de credit</string>
     <string name="preferences_reminder_title">Notificare și mementouri</string>
     <string name="preferences_show_week_num_title">Afişaţi numărul săptămânii</string>
+  <string name="preferences_solar_terms">Arată fazele solare</string>
     <string name="preferences_title">Calendar</string>
     <string name="preferences_use_home_tz_descrip">Calendarul şi orele evenimentelor în fusul orar de acasă când călătoriți</string>
     <string name="preferences_use_home_tz_title">Fusul orar de acasă</string>
@@ -382,12 +394,15 @@
     <string name="select_synced_calendars_title">Calendare de sincronizat</string>
     <string name="select_visible_calendars_title">Calendare de afişat</string>
     <string name="set_as_wallpaper">Setați ca imagine de fundal</string>
+    <string name="setting_holiday">Zile libere</string>
+    <string name="setting_others">Altele</string>
   <string name="setting_sms_import">SMS-uri import evenimente</string>
     <string name="setting_wifi_mode">Doar Wi-Fi</string>
     <string name="show_controls">Afişaţi comenzile</string>
     <string name="show_day_view">Afişaţi ziua</string>
     <string name="show_newer_events">Atingeţi pentru a vedea evenimente după %1$s</string>
     <string name="show_older_events">Atingeţi pentru a vedea evenimente dinainte de %1$s</string>
+  <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="snooze_all_label">Amânaţi-le pe toate</string>
     <string name="snooze_label">Amânaţi</string>
   <string name="str_dayofmonth">%s zi</string>

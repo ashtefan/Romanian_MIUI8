@@ -705,7 +705,7 @@ Abonați-vă și începeți să vorbiți"</string>
 • Apelați orice telefon din lume, fără restricții de operator.
 • Abonați-vă și începeți să vorbiți, configurarea este foarte facilă."</string>
     <string name="livetalk_welcome_notes_text">"Notă: Fiecare apel necesită 1KB de date mobile; numerele pentru servicii și numerele scurte nu sunt suportate. Dacă plătiți pentru apelurile primite, veți fi taxat de operator când roamingul este activat. Operatorul vă poate taxa pentru un mesaj SMS utilizat pentru verificarea acestui număr de telefon."</string>
-    <string name="livetalk_white_list_number_title">Efectuați un apel obișnuit</string>
+    <string name="livetalk_white_list_number_title">Lista pentru care NU se utilizează Pachetele de suplinire</string>
     <string name="load_networks_progress">Se caută…</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_order">Doar o secundă…</string>
@@ -1115,7 +1115,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="puk_label">Introduceţi codul PUK</string>
     <string name="puk_length_indicate">(8 cifre)</string>
     <string name="puk_lock_warning">"
-Cartela SIM va fi ştearsă după o altă încercare greşită."</string>
+Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="puk_requested">Parolă incorectă, codul PIN a fost blocat! Se solicită codul PUK.</string>
     <string name="puk_unlocked">Cartela dvs. SIM a fost deblocată. Telefonul dvs. se deblochează…</string>
     <string name="purchase">Achiziționați</string>

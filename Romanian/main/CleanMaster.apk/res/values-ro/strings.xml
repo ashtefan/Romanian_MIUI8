@@ -11,7 +11,7 @@
     <string name="activity_title_ignored_image">Ignorare</string>
     <string name="activity_title_image_gallery">Ștergere duplicate</string>
     <string name="activity_title_large_file">Fişiere mari</string>
-    <string name="activity_title_main">Clean Master</string>
+    <string name="activity_title_main">Curățare</string>
     <string name="activity_title_news">Noutăţi</string>
     <string name="activity_title_privacy_cache">Cache de confidențialitate</string>
     <string name="activity_title_residual">Reziduuri</string>
@@ -129,7 +129,7 @@
     <string name="dialog_title_backup_and_uninstall_apps">Creare copie de rezervă şi apoi dezinstalare</string>
     <string name="dialog_title_check_all">Selectaţi tot</string>
     <string name="dialog_title_delete_image">Ştergeţi fotografiile selectate</string>
-    <string name="dialog_title_esc_cleanmaster">Părăsiți Clean Master</string>
+    <string name="dialog_title_esc_cleanmaster">Părăsiți aplicația Curățare</string>
     <string name="dialog_title_load_cleanup_engine_error">Ceva a mers prost</string>
     <string name="dialog_title_stop_scan">Opriți scanarea</string>
     <string name="dialog_title_uninstall_apps">Dezinstalaţi</string>
@@ -243,7 +243,7 @@
     <string name="msg_update_error_code_success">Actualizare finalizată</string>
     <string name="msg_update_error_code_unknown_error">Eroare necunoscută</string>
     <string name="name_debuglog_dir">Bsp Debug Log</string>
-    <string name="name_optimizer">Politica de confidențialitate Clean Master</string>
+    <string name="name_optimizer">Politica de confidențialitate</string>
     <string name="nb_clear_set">Curățați sistemul, vizualizați informații despre acumulator și lista blocărilor în ecranul de notificări</string>
     <string name="net_assistant_detail">Utilizați %1$s, salvați %2$s</string>
     <string name="net_assistant_title">Utilizați %s în această lună</string>

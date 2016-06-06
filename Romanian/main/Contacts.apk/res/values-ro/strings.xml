@@ -453,6 +453,12 @@
     <string name="hint_distance"></string>
     <string name="hint_findContacts">Găsiţi contacte</string>
     <string name="hint_more_contact">Îmbinarea contactelor dublate</string>
+    <string name="hybrid_check_network">Setări de rețea</string>
+    <string name="hybrid_data_error">A apărut o eroare</string>
+    <string name="hybrid_locating_fail">"Nu s-a putut găsi locația dumneavoastră"</string>
+    <string name="hybrid_network_unavaliable">"Nu s-a putut conecta la rețea"</string>
+    <string name="hybrid_service_unavailiable">Serviciu indisponibil</string>
+    <string name="hybrid_try_again">Încercați din nou</string>
     <string name="ic_menu_back">Înapoi</string>
     <string name="ic_menu_done">Finalizat</string>
     <string name="imLabelsGroup">IM</string>
@@ -666,19 +672,14 @@
     <string name="miprofile_request_agreed">%1$s a fost de acord să schimbe cartela de contact cu mine</string>
     <string name="miprofile_request_alertdialog_message">Cartela dvs. va fi trimisă în mod automat după ce această persoană acceptă.</string>
     <string name="miprofile_request_alertdialog_title">Schimbare cartele de contact</string>
-    <string name="miprofile_request_clear_alertdialog_message">Ştergeţi istoricul schimbului cartelelor de contact?</string>
-    <string name="miprofile_request_clear_alertdialog_title">Ştergere istoric</string>
-    <string name="miprofile_request_deleted">Cartelă ştearsă</string>
     <string name="miprofile_request_deleted_or_not_added">Cartela a fost ștearsă sau nu a fost adăugată</string>
     <string name="miprofile_request_empty_request">Nicio solicitare de schimb</string>
-    <string name="miprofile_request_exchange_title">Solicitare cartelă de contact</string>
-    <string name="miprofile_request_header">Solicitări de schimb cartele (expirate în mod automat într-o săptămână)</string>
+    <string name="miprofile_request_header">Solicitări de schimb (expirate în mod automat într-o săptămână)</string>
     <string name="miprofile_request_menu_clear_request">Ştergeţi istoricul</string>
     <string name="miprofile_request_message">%1$s persoane doresc să facă schimb de cartele de contact</string>
     <string name="miprofile_request_notification_message">Acceptaţi vizualizarea fotografiei de profil şi a altor informaţii</string>
     <string name="miprofile_request_notification_title">%1$s persoane doresc să facă schimb de cartele de contact</string>
     <string name="miprofile_request_notification_title_name">%1$s doresc să facă schimb de cartele de contact</string>
-    <string name="miprofile_request_time_expired_deleted">Solicitările mai vechi de 1 săptămână vor fi șterse în mod automat.</string>
     <string name="miprofile_save_alertdialog_message">Cartela dvs. va fi trimisă la această persoană de contact în mod automat.</string>
     <string name="miprofile_save_alertdialog_title">Cartelă de contact recepţionată</string>
     <string name="miprofile_switch_off_alertdialog_message">Nu veţi putea să faceţi schimb de cartele de contact cu alte persoane.</string>
@@ -794,7 +795,7 @@
     <string name="postalLabelsGroup">Adresă</string>
     <string name="postal_address">Adresă</string>
     <string name="postal_city">Oraş</string>
-    <string name="postal_country">Ţara</string>
+    <string name="postal_country">Ţară</string>
     <string name="postal_neighborhood">Vecinătate</string>
     <string name="postal_pobox">Căsuţa poştală</string>
     <string name="postal_postcode">Codul poştal</string>
@@ -830,6 +831,7 @@
     <string name="preference_import">Import</string>
     <string name="preference_import_export">Import/Export</string>
     <string name="preference_import_export_title">Import/Export contacte</string>
+    <string name="preference_key_trash_bin_title">Vedeți contactele sincronizate care au fost șterse recent</string>
     <string name="preference_others">Altele</string>
     <string name="preference_phone">Telefon</string>
     <string name="preference_phone_more_title">Setări pentru apeluri</string>
@@ -895,7 +897,8 @@
     <string name="remove_blacklist_dialog_title">Deblocaţi</string>
     <string name="remove_duplicate">MIUI vă va ajuta să găsiţi şi să îmbinaţi contactele dublate.\n\nApăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="restore_nickname">Restabiliţi</string>
-    <string name="ret_sign">""</string>
+    <string name="ret_sign">"
+"</string>
     <string name="returnCall">Apelaţi înapoi</string>
     <string name="ringLabelsGroup">Ton de apel</string>
     <string name="save_photo_progress">Salvare fotografie…</string>
@@ -943,8 +946,6 @@
     <string name="sim_capacity_content" formatted="false">Capacitate %d, utilizat %d</string>
     <string name="sim_card_no_free_space_message">Spaţiu insuficient</string>
     <string name="sim_card_no_free_space_title">Cartelă SIM plină</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselectaţi toate</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Selectaţi toate</string>
     <string name="sim_contact_existing">Contact existent deja</string>
     <string name="sim_contact_invalid">Contact SIM greşit</string>
     <string name="sim_contact_search_error">A apărut o eroare</string>

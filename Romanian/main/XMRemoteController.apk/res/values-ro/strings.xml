@@ -23,6 +23,7 @@
     <string name="add_new_control">Adăugați o telecomandă</string>
     <string name="add_new_tv">Adaugați un televizor nou…</string>
   <string name="add_new_tv_power_only">Meci comutator de alimentare TV ...</string>
+  <string name="adjust_auto_tune_interval">Intervalul de ajustare automată pentru Taiwan</string>
     <string name="agree">De acord</string>
     <string name="airkan_disconnect">Dispozitivele nu sunt conectate</string>
     <string name="airkan_disconnect_display_name">Dispozitivele nu sunt conectate</string>
@@ -32,10 +33,18 @@
     <string name="all_catogory_name">Toate</string>
   <string name="already_muted">Ignorat</string>
     <string name="anion">Ionizator</string>
+  <string name="apk_file_list_view_header">Un total de %d pachete</string>
+  <string name="apk_files_list_title">Pachetul de instalare locală</string>
     <string name="app_clear">Ștergeți datele</string>
     <string name="app_detail_comments">Revizuiți</string>
+  <string name="app_detail_content_hidemore_text">colaps</string>
+  <string name="app_detail_content_showmore_text">expansiune</string>
+  <string name="app_detail_content_title_text">Scurtă cerere</string>
     <string name="app_detail_info">Vizualizați detalii</string>
+  <string name="app_detail_install_forbox">Cutie montată</string>
+  <string name="app_detail_install_fortv">TV montate</string>
     <string name="app_detail_no_comments">Nici un comentariu.</string>
+  <string name="app_detail_recomments_title_text">Aplicații conexe</string>
     <string name="app_detail_title_info">Sumar</string>
     <string name="app_detail_title_recomment">Aplicații similare</string>
     <string name="app_exit_tip">Apasați din nou butonul Înapoi pentru a ieși</string>
@@ -45,8 +54,10 @@
     <string name="app_install">Instalați pe Mi TV</string>
     <string name="app_install_count">%1$s instalate</string>
     <string name="app_installing">Instalare…</string>
+  <string name="app_lastest">Cele mai recente</string>
   <string name="app_listitem_installing">Se instalează</string>
   <string name="app_listitem_waiting">aşteptaţi instalarea</string>
+  <string name="app_local">local</string>
     <string name="app_manager_get_data_failed">"Nu se pot obține informații despre aplicație"</string>
     <string name="app_manager_no_data">Nu s-a găsit nicio aplicație</string>
     <string name="app_name">Telecomandă Mi</string>
@@ -54,16 +65,22 @@
     <string name="app_open">Deschideți</string>
     <string name="app_open_inbox">Deschideți folosind Mi Box</string>
     <string name="app_open_intv">Deschideți pe Mi TV</string>
+  <string name="app_rank">clasament</string>
+  <string name="app_rate">un comentariu favorabil: %1$s</string>
   <string name="app_search_hint">Vă rugăm să introduceți numele aplicației</string>
-  <string name="app_search_title_mishop">Total %d cereri găsite în magazinul de aplicații</string>
+  <string name="app_search_title_mishop">Total %d găsite în Magazinul de aplicații Mi</string>
   <string name="app_search_title_thirdpatry">Total %d aplicații găsite pe internet</string>
     <string name="app_size">Dimensiune: %1$s</string>
+  <string name="app_sort">clasificare</string>
     <string name="app_uninstall">Dezinstalare</string>
     <string name="app_update">Actualizare</string>
     <string name="app_version">Versiune %1$s</string>
   <string name="append_ok_key_after_num">Apăsați butonul OK după introducerea numărului canalului</string>
     <string name="application">Aplicații</string>
-    <string name="back">Înapoi</string>
+  <string name="auto_tune">stație wrap</string>
+  <string name="auto_tune_hint_text">Schimba automat canalul după începerea, telefonul va trimite un anumit interval de controler de la distanță; Canal ; butonul</string>
+  <string name="auto_tune_running">Taichung este Wrap…</string>
+    <string name="back">Back</string>
   <string name="backup">Copie de siguranță în cloud</string>
   <string name="backup_failed">Crearea copiei de siguranță nu a reușit, vă rugăm să încercați din nou</string>
   <string name="backup_succeed">Copia de siguranță a fost creată</string>
@@ -84,6 +101,7 @@
     <string name="by_position">poziție</string>
     <string name="camera_shoot">declanșare</string>
     <string name="cancel">Renunțați</string>
+  <string name="cancel_select_all">Deselecteaza tot</string>
     <string name="cancel_share">Anulați partajarea</string>
     <string name="cancel_share_done">Anulare partajare realizată</string>
   <string name="cancel_timer">opriţi cronometrul</string>
@@ -93,6 +111,7 @@
     <string name="channel">Canal</string>
     <string name="channel_added_to_fav">%1$s adăugat la Favorite</string>
     <string name="channel_catogory_name">Canale</string>
+  <string name="channel_list">lista de canale</string>
     <string name="channel_num">—</string>
     <string name="channel_removed_from_fav">%1$s eliminat din Favorite</string>
     <string name="check_upgrade">Căutați actualizări</string>
@@ -114,6 +133,7 @@
     <string name="confirm_on">﻿OK</string>
     <string name="connect_to_retry">"Nu se poate conecta la rețea. Verificați conexiunea si reîncercați."</string>
     <string name="connected">Conectat</string>
+  <string name="connected_stb">Conectate set-top box</string>
     <string name="continue_to_add_other_rc">Adăugați dispozitive</string>
     <string name="control_vol_by_cellphone">Utilizați telefonul pentru a ajusta volumul</string>
     <string name="controller_invalid">Telecomanda nu există</string>
@@ -160,6 +180,7 @@
     <string name="edit_ir_device">Redenumiți dispozitivul</string>
     <string name="eject">﻿Eject</string>
     <string name="empty_name_tip">Denumiți telecomanda</string>
+  <string name="epg_add_fav_bind_stb_dlg">Bind-top box poate fi adăugat la Favorite</string>
     <string name="epg_all_channels">Toate canalele</string>
   <string name="epg_book_all">toate rezervările</string>
   <string name="epg_book_count">rezervate pe %1$s colectare</string>
@@ -173,14 +194,17 @@
   <string name="epg_cancel_book_program">%1$s [%2$s] Anulare rezervare</string>
     <string name="epg_change_channel">Comutați canalele</string>
     <string name="epg_channel_group_open">Arătați tot</string>
+  <string name="epg_channel_operation_tip">Presa canalul poate fi editat sau favorite</string>
   <string name="epg_channel_search_hint">Introduceți numărul/numele canalului</string>
     <string name="epg_detail_title_text">Descriere</string>
     <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">numele canalului</string>
   <string name="epg_edit_channel_number">numărul canalului</string>
   <string name="epg_edit_channel_title">editaţi canalul</string>
+  <string name="epg_edit_fav_channel_num">Editați numărul canalului</string>
     <string name="epg_episode_open">Arătați tot</string>
     <string name="epg_fav_channels">Canal favorit</string>
+  <string name="epg_have_no_fav_channel">Tu nu sunt canale favorite</string>
   <string name="epg_home_sliding_down">Restrângeți</string>
   <string name="epg_home_sliding_up">Extindeți</string>
     <string name="epg_hot_channels">Canale populare</string>
@@ -197,6 +221,7 @@
   <string name="epg_search_hot_keyword">Căutări populare</string>
     <string name="epg_status_playing_text">Rulează…</string>
     <string name="epg_status_playing_text_v5">Live</string>
+  <string name="epg_stb_malfunction">Acest control de la distanță set-top box nu obține datele corecte, vă rugăm să adăugați din nou sau selectați un control de la distanță diferită</string>
   <string name="epg_unbook_all">anulaţi toate</string>
     <string name="epg_unbooked_str">Neprogramat</string>
   <string name="epg_user_my_booked_events">Rezervările mele</string>
@@ -204,6 +229,7 @@
     <string name="episode_intro_title_text">Sumarul episodului</string>
     <string name="episode_title">Episodul %1$d</string>
   <string name="episodes_list">videoclipuri selectate</string>
+  <string name="error_input_dialogue_guide">Vă rugăm să introduceți corect patru coduri</string>
     <string name="exit">Ieșire</string>
     <string name="external_app">Instalați aplicația</string>
     <string name="external_photo">Vizualizați fotografiile</string>
@@ -244,7 +270,7 @@
   <string name="get_location_fail_tip">Nu s-a putut obține locația în mod automat, încercați manual</string>
     <string name="guid_one">· Conectați-vă la aceeași rețea cu a dispozitivului pe care doriți să-l comandați</string>
     <string name="guid_three">"· Unele comenzi pot lipsi dacă decodorul nu rulează Android"</string>
-    <string name="guid_two">· Opriți filtrarea AP din router, dacă este activă</string>
+    <string name="guid_two">· Televizorul Mi va fi detectat și afișat în această pagină</string>
     <string name="guid_zero">". Aparatul nu suportă dispozitive IR."</string>
     <string name="guide">Ghid</string>
     <string name="has_installed">Instalat</string>
@@ -261,8 +287,13 @@
     <string name="humidity">Umiditate:</string>
     <string name="humidity_frame">%1$d%%</string>
     <string name="input_complete">OK</string>
+  <string name="input_dialogue_cancel_button">anulat</string>
+  <string name="input_dialogue_guide1">Mei instala aplicația de bază non-autorizat</string>
+  <string name="input_dialogue_guide2">Vă rugăm să introduceți codul afișat pe televizor</string>
+  <string name="input_dialogue_ok_button">continuaţi instalarea</string>
     <string name="input_source">Sursă intrare</string>
     <string name="input_speech_button">Apăsați &amp; țineți apăsat și rostiți comanda vocală</string>
+  <string name="input_tip">Codurile care expiră după 15 minute</string>
     <string name="install_failed">"Nu s-a putut instala %s"</string>
     <string name="install_succed">%s instalată</string>
     <string name="installing">Instalare……</string>
@@ -294,6 +325,7 @@
     <string name="ir_device_stb">Decodor</string>
     <string name="ir_device_tv">Televizor</string>
     <string name="ir_device_wifi">Telecomandă Wi-Fi</string>
+    <string name="ir_not_supported_devices">*Unele MiTV/Box nu suportă IR; este recomandat Wi-fI</string>
     <string name="jump_to_mivideo">Vizualizați pe dispozitivul mobil</string>
     <string name="just_now">Utilizată în prezent</string>
     <string name="just_used">Utilizat chiar acum</string>
@@ -353,9 +385,8 @@ Mergeți înapoi pentru a continua"</string>
     <string name="match_guide_sub_frame">Sincronizare %1$d butoane</string>
     <string name="match_intro_power">Eliberați când aparatul pornește</string>
     <string name="match_is_respond">Aparatul a reacționat?</string>
-    <string name="match_main_tip2_frame">eliberați când %1$s reacționează</string>
-    <string name="match_main_tip_frame">Îndreptați telefonul către %1$s și apăsați butonul portocaliu
-Eliberați atunci când %1$s reacționează</string>
+    <string name="match_main_tip_frame">Îndreptați telefonul către %1$s și apăsați butonul.
+    Eliberați atunci când %1$s reacționează</string>
   <string name="match_main_tip_frame_click">"Îndreptați telecomanda către %1$s și apăsați butonul
 Apoi răspundeți la întrebare"</string>
     <string name="match_mibox_first">    găsit Mi TV</string>
@@ -452,8 +483,11 @@ vă rog așteptați"</string>
     <string name="no_qq">Instalați QQ întâi</string>
     <string name="no_save_brand_service">Adăugați această telecomandă din nou</string>
     <string name="none">Gol</string>
+  <string name="none_apk_note">Nu există un fișier de instalare</string>
   <string name="not_login">Neconectat</string>
     <string name="not_respond">Nicio reacție</string>
+  <string name="notification_found_device_text">Puteți utiliza telefonul controla de la distanță, vin încercați să-l!</string>
+  <string name="notification_found_device_title">descoperire %1$s</string>
     <string name="notification_found_shared_remote_text">încercați să-l comandați</string>
     <string name="notification_found_shared_remote_title">%1$s găsite în apropiere</string>
     <string name="notification_str1">\"</string>
@@ -477,13 +511,11 @@ vă rog așteptați"</string>
     <string name="passport_account_not_actived">"Contul dumneavoastră nu a fost activat"</string>
     <string name="passport_active_email_visit">Verificați căsuța de e-mail accesând %s</string>
     <string name="passport_activing_account">Activare…</string>
-    <string name="passport_app_name">Cont Mi</string>
     <string name="passport_area_code_hot">UTILIZAT FRECVENT</string>
     <string name="passport_area_code_title">Codul țării</string>
     <string name="passport_bad_authentication">Nume de utilizator sau parolă greșite</string>
     <string name="passport_btn_return">Înapoi</string>
     <string name="passport_button_cancel">Renunțare</string>
-    <string name="passport_captcha">Introduceți codul</string>
     <string name="passport_change_account">&lt;u&gt;Modificați contul&lt;/u&gt;</string>
     <string name="passport_change_phone_number">Schimbați numărul</string>
     <string name="passport_checking_account">Verificare parolă…</string>
@@ -496,11 +528,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_completed">Finalizat</string>
     <string name="passport_confirm">Confirmare</string>
     <string name="passport_confirm_recycle_account">Da</string>
-    <string name="passport_data_keep_in_device">Păstrați datele pe dispozitiv</string>
-    <string name="passport_data_wipe_from_device">Ștergeți datele de pe dispozitiv</string>
     <string name="passport_delete_account">Ieșire din cont</string>
-    <string name="passport_dspt_provision">"Utilizați contul Mi pentru a vă conecta la Mi Cloud, Magazin Teme MIUI și la alte servicii Mi, oriunde v-ați afla. "</string>
-    <string name="passport_dspt_provision2">Mai multe</string>
     <string name="passport_email">Adresă de e-mail</string>
     <string name="passport_email_or_id_hint_text">Adresă de e-mail sau nume cont Mi</string>
     <string name="passport_email_reg_success_summary">%1$s a fost asociată contului dvs. Mi. O puteți utiliza pentru a vă conecta sau pentru a vă reseta parola.</string>
@@ -540,7 +568,6 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
     <string name="passport_input_phone_hint">Introduceți numărul de telefon</string>
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
-    <string name="passport_input_verify_code_hint">Introduceți codul de verificare</string>
     <string name="passport_license_host_unreachable">"Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s."</string>
     <string name="passport_loading">Încărcare…</string>
     <string name="passport_login">Logați-vă la un cont existent</string>
@@ -556,12 +583,10 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_with_email_or_id">&lt;u&gt;Conectare utilizând adresa de e-mail sau ID-ul contului Mi&lt;/u&gt;</string>
     <string name="passport_next">Următorul</string>
     <string name="passport_notification_title">Eroare de conectare la %1$s</string>
-    <string name="passport_password">Introduceți parola</string>
     <string name="passport_password_req_notice">Parola trebuie sa conțină 8-16 caractere, litere și numere(se face diferențiere între litere mici si majuscule).</string>
     <string name="passport_phone_num_hint_text">Număr de telefon</string>
     <string name="passport_prev">Înapoi</string>
     <string name="passport_privacy_policy">Politica de confidențialitate</string>
-    <string name="passport_provision_skip_login">&lt;u&gt;Omiteți acest pas&lt;/u&gt;</string>
     <string name="passport_quick_login_dialog_step2_title">Verificare în 2 pași</string>
     <string name="passport_quick_login_dialog_title">Verificare parolă</string>
     <string name="passport_quick_login_step2_title">Verificare în 2 pași</string>
@@ -591,7 +616,6 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_reject_recycle_account">Nu</string>
     <string name="passport_relogin">Conectați-vă din nou</string>
     <string name="passport_relogin_notice">Trebuie să vă conectați din nou</string>
-    <string name="passport_remove_account_notice">Sunteți sigur că doriți ștergerea contului?</string>
     <string name="passport_remove_confirm">Ieșire din cont</string>
     <string name="passport_remove_unactivated_account_notice">"Contul dumneavoastră nu a fost activat."</string>
     <string name="passport_resend_active_email">Retrimite e-mailul</string>
@@ -615,13 +639,11 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_user_agreement_p2">Condițiile de utilizare</string>
     <string name="passport_user_agreement_p3"> și </string>
     <string name="passport_user_agreement_p4">Politica de confidențialitate</string>
-    <string name="passport_vcode">Cod de verificare</string>
     <string name="passport_vcode_notification_title">Verificarea nu este completă</string>
     <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
     <string name="passport_verification_failed">Autentificarea a eșuat</string>
     <string name="passport_verify">Verificare</string>
     <string name="passport_wait_for_sms_prompt">"Reluați procesul acum? Mesajul de verificare poate ajunge în cel mult 10 minute dacă sunteți în raza de acoperire a operatorului."</string>
-    <string name="passport_welcome_skip_login">&lt;u&gt;Omiteți acest pas&lt;/u&gt;</string>
     <string name="passport_wrong_captcha">Codul introdus este incorect</string>
     <string name="passport_wrong_password">Parola este incorectă</string>
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon este incorect</string>
@@ -720,6 +742,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
   <string name="search_page_clear_history">Ștergeți istoricul</string>
   <string name="search_rank">Căutați rank</string>
     <string name="search_video_app_hint">Căutare</string>
+  <string name="seconds">în al doilea rând/secunde</string>
+  <string name="select_all">selectați tot</string>
     <string name="select_area">Alegeți locația</string>
     <string name="select_brand">Marcă %s</string>
     <string name="select_dvb_carrier">Alegeți furnizorul de servicii</string>
@@ -798,12 +822,14 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
   <string name="speed_up_channel_switch">Pe unele echipamente set-top box se poate mări viteza pentru Taiwan</string>
     <string name="splash_add_device_des">Începeți prin adăugarea unor noi dispozitive</string>
     <string name="splash_desc">Controlați totul printr-o apăsare de buton.</string>
+  <string name="start_auto_tune">Boot schimbă automat canalele</string>
     <string name="start_diagnosis">Testare</string>
     <string name="start_match">Sincronizare</string>
     <string name="stb">Decodor</string>
     <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">STB oprit/pornit</string>
     <string name="steps">Încercare #%d</string>
+  <string name="stop_auto_tune">stație de înfășurare de oprire</string>
     <string name="stop_diagnosis">Oprire</string>
     <string name="study_room">Cameră de studiu</string>
     <string name="submit">Trimite</string>
@@ -811,6 +837,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="succeed_content">%3$s %4$s adăugate cu succes.</string>
     <string name="succeed_finish">Realizat</string>
     <string name="succeed_title">Telecomandă sincronizată</string>
+    <string name="suggest_use_wifi_rc">*Telecomanda Wi-Fi are mai multe funcții, cum ar fi căutarea de videoclipuri, instalarea de aplicații, etc.</string>
     <string name="supported_by_kookong">Suport tehnic oferit de Youku</string>
     <string name="supporting_soon">În curând</string>
     <string name="switch_place">Selectați orașul</string>
@@ -818,6 +845,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="temperature">Temperatură</string>
     <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Aplicația nu a pornit</string>
+    <string name="time_interval_in_sec">%1$d</string>
     <string name="timer">Temporizator</string>
   <string name="timer_turn_off">timp liber</string>
   <string name="timer_turn_on">Timp pentru a deschide</string>
@@ -828,6 +856,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="to_qq_subtext">Grup QQ: 532652329</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+  <string name="tune_from_first_channel">Canalul 1 de la început pentru Taiwan</string>
   <string name="turn_off">închide</string>
   <string name="turn_on">deschis</string>
     <string name="tv">Televizor</string>
@@ -888,6 +917,7 @@ Pentru a modifica, vă rugăm să apăsați lung butonul de pornire al televizor
     <string name="volume">﻿Volum</string>
     <string name="weather_out">Temperatura exterioară:</string>
   <string name="wechat_account">Cont WeChat</string>
+    <string name="wifi_rc_create_help">Cum să adăugați o telecomandă</string>
     <string name="wind_direct">Direcție</string>
     <string name="wind_direct_automatic">Direcție automată a curentului de aer</string>
     <string name="wind_direct_down">în jos</string>

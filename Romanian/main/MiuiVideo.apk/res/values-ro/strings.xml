@@ -6,7 +6,6 @@
     <string name="about_version_label">Versiune</string>
     <string name="actor">Actor</string>
     <string name="actor_intro">Despre</string>
-    <string name="ad_countdown">%ss rămas</string>
     <string name="ad_moredetail">Vizualizaţi detaliile</string>
     <string name="add_favorite_success">Cu stea</string>
     <string name="add_more_addons">Adăugaţi mai multe addon-uri</string>
@@ -147,6 +146,7 @@
     <string name="empty_data">Eroare de încărcare</string>
     <string name="empty_keyword_hint">Introduceți cuvântul de căutare în căsuța de mai jos</string>
     <string name="empty_tv_exiting">Ieșire…</string>
+    <string name="enter_detail">Mai multe informații</string>
     <string name="episode_name_format">Ep. %1$s</string>
     <string name="episode_suffix">"Ep. %d "</string>
     <string name="error_empty_filter_title">Niciun rezultat</string>
@@ -267,8 +267,8 @@
     <string name="original_price">preț original</string>
     <string name="other_info">Altele</string>
     <string name="other_setting">Altele</string>
-    <string name="path_develop_settings">Player Video/Setări/Setări dezvoltator</string>
-    <string name="path_settings">Player Video/Setări</string>
+    <string name="path_develop_settings">Aplicații de sistem/Player Video/Setări dezvoltator</string>
+    <string name="path_settings">Aplicații de sistem/Player Video/Setări</string>
     <string name="pause">Pauză</string>
     <string name="pay_record">înregistrare cu plată</string>
     <string name="percent_status">%.0f%%</string>
@@ -287,7 +287,6 @@
     <string name="positive_comment">Pozitiv</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
-    <string name="prefix_countdown">"Publicitate rămasă: "</string>
     <string name="priority_storage">Salvaţi pe cardul SD</string>
     <string name="priority_storage_summary">Se salvează automat pe cardul extern dacă este disponibil</string>
     <string name="pulltorefresh">Trageți în jos pentru a actualiza</string>
@@ -372,7 +371,7 @@
     <string name="update">Actualizat</string>
     <string name="update_to_count_ji">Actualizat la Ep. 1$s</string>
     <string name="update_to_count_qi">Actualizat la S. %s</string>
-    <string name="updatedalready">Actualizat</string>
+    <string name="updatedalready">actualizat</string>
     <string name="upgrade">Actualizaţi</string>
     <string name="use_cellular_network">Notificare utilizare conexiune de date</string>
     <string name="use_cellular_network_summary">Utilizarea conexiunii de date mobile pentru a descărca videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita planului dvs., operatorul ar putea percepe taxe suplimentare.</string>

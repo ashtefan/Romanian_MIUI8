@@ -69,7 +69,7 @@
     <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
     <string name="loading_ringtone">Se încarcă tonul soneriei…</string>
     <string name="menu_add_worldclock">Adăugaţi un fus orar</string>
-    <string name="menu_desk_clock">Ceas de birou</string>
+    <string name="menu_desk_clock">Ceas</string>
     <string name="menu_edit_timer_item">Editaţi sarcina temporizatorului</string>
     <string name="menu_item_dock_settings">Setări de andocare</string>
     <string name="menu_item_sort_by_gmt_offset">Sortaţi după fusul orar</string>

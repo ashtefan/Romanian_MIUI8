@@ -234,7 +234,7 @@
     <string name="select_voice_call_sim">Selectaţi cartela SIM</string>
     <string name="separate_from_conference">Separaţi apelul</string>
     <string name="suspect_info">Verificaţi mereu identitatea persoanei cu care vorbiţi prin telefon înainte de a răspunde la orice mesaje care implică datele personale.</string>
-    <string name="time_left_livetalk">(%dS)</string>
+    <string name="time_left_livetalk">(%ds)</string>
     <string name="unknown">Necunoscut</string>
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
     <string name="upgrade_vt_rx_prompt">Doriți să treceţi la apel video pentru apelurile primite?</string>

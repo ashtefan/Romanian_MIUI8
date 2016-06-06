@@ -25,6 +25,27 @@
         <item>"De ce pot porni A/C-ul dar nu îl pot opri?"</item>
         <item>Pot folosi un telefon Mi3, Mi2 sau Redmi ca și telecomandă?</item>
     </string-array>
+    <string-array name="assistant_tab">
+        <item>video</item>
+        <item>imagini de ecran</item>
+        <item>aplicație</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>complet</item>
+        <item>colectare</item>
+        <item>CCTV</item>
+        <item>televizor</item>
+        <item>HD</item>
+        <item>recent</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>toate canalele</item>
+        <item>canale preferate</item>
+        <item>canal CCTV</item>
+        <item>canal TV prin satelit</item>
+        <item>canale HD</item>
+        <item>vizionat recent</item>
+    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>

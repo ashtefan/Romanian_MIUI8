@@ -71,8 +71,10 @@
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
     <string name="gps_hint">Locaţie actuală</string>
     <string name="hourly_forcast_now">Acum</string>
+  <string name="indices_desc_Precip1hr">%1$s mm</string>
     <string name="indices_desc_feel">Se simte ca la %1$s °C</string>
     <string name="indices_desc_humidity">Umiditate %1$s%%</string>
+  <string name="indices_desc_visibility">%1$s km</string>
     <string name="indices_no_restriction">Nicio restricție</string>
     <string name="indices_title_Precip1hr">Precip. 1 oră</string>
     <string name="indices_title_car_wash">Spălat mașina</string>

@@ -7,7 +7,7 @@ Identificatorul pentru reclame este un număr unic asociat permanent telefonului
 Dacă optați să nu personalizați conținutul reclamelor, numărul acestora nu se va reduce, însă va scădea semnificativ rata de afișare a reclamelor utile pentru dumneavoastră."</string>
     <string name="about_settings">Informaţii telefon</string>
     <string name="about_settings_summary">Afişaţi informaţiile legale, starea şi versiunea software</string>
-    <string name="ac_enable_summary">Va fi necesară parola pentru lansarea aplicației</string>
+    <string name="ac_enable_summary">Setați o parolă pentru lansarea aplicațiilor</string>
     <string name="ac_enable_title">Blocare aplicații</string>
     <string name="ac_privacy_mode_sum">Introduceţi parola pentru a anula modul Vizitator</string>
     <string name="ac_privacy_mode_title">Activaţi parola</string>
@@ -1418,7 +1418,9 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="home_key">Butonul Acasă</string>
     <string name="home_settings">Acasă</string>
     <string name="home_work_profile_not_supported">"Nu suportă profiluri personalizate de servici"</string>
-    <string name="ime_security_warning">%1$s Poate înregistra tot ce tastați, inclusiv datele personale (de ex. parolele şi numerele cardurilor de credit). Utilizaţi această metodă de introducere?</string>
+    <string name="ime_security_warning">%1$s poate înregistra tot ce tastați, inclusiv datele personale (de ex. parolele şi numerele cardurilor de credit).</string>
+    <string name="imei_information_summary">Informații referitoare la IMEI</string>
+    <string name="imei_information_title">Informații IMEI</string>
     <string name="immediately_destroy_activities">Nu păstraţi activităţile</string>
     <string name="immediately_destroy_activities_summary">Opreşte orice activitate imediat ce utilizatorul o părăseşte</string>
     <string name="ims_reg_required_off">Este necesară dezactivarea înregistrării IMS</string>
@@ -1939,7 +1941,7 @@ Atenţie: această operație nu poate fi anulată."</string>
     <string name="music_hifi_volume">Volum Hi-Fi</string>
     <string name="music_mi_effect_summary">Se utilizează Amplificatorul Mi Sound, atunci când se utilizează difuzorul</string>
     <string name="music_mi_effect_title">Amplificatorul Mi Sound</string>
-    <string name="music_title_dolby_control">Dolby digital plus</string>
+    <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="musicfx_title">Efecte muzicale</string>
     <string name="mvno_match_data">Valoare MVNO</string>
     <string name="mvno_type">Tip MVNO</string>
@@ -2761,6 +2763,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="skip_lock_screen_confirm_msg">Notificările, controalele muzicale, Camera și Mi Home vor fi dezactivate pe blocarea ecranului.</string>
     <string name="skip_step">Omiteţi</string>
     <string name="slot_name">SIM %d</string>
+    <string name="slot_number">(Slot%1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="small_font">Mică</string>
     <string name="smallwindow_smartcover_title">Carcasă frontală transparentă</string>
@@ -2974,6 +2977,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="total_size">%s (Total)</string>
     <string name="total_size_label">Total</string>
+    <string name="touch_assistant">Asistent ecran</string>
     <string name="touch_sensitive_summary">Faceţi ecranul extra-receptiv la atingere</string>
     <string name="touch_sensitive_title">Mod \"cu mănuşi\"</string>
     <string name="touch_sensitive_turn_off_cancel">Anulaţi</string>

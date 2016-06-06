@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="agree">De acord</string>
+    <string name="alert_dialog_btn_close">Dezactivați</string>
+    <string name="alert_dialog_btn_open">Permiteți</string>
+    <string name="alert_dialog_msg">"Unele caracterisitici și servicii importante ale MIUI nu vor putea funcționa corect fără aceste permisiuni (de ex. telefonul dvs. nu va putea afișa informațiile despre contacte în timpul unui apel). Dacă dezactivați aceste permisiuni, aplicațiile MIUI vă vor solicita individual permisiunea atunci când vor fi necesare pentru anumite activități."</string>
+    <string name="alert_dialog_title">Este posibil ca unele servicii să nu funcționeze corespunzător</string>
     <string name="congratulation_label" />
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
@@ -23,6 +27,8 @@
     <string name="other_settings">Setări adiţionale</string>
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să acceseze locația dvs.</string>
+    <string name="other_settings_permission">Permisiuni servicii MIUI</string>
+    <string name="other_settings_permission_summary">Activați permisiunile solicitate de către aplicațiile Mi Cloud, Telefon și alte servicii și caracteristici importante pentru a putea funcționa corespunzător</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea MIUI prin trimiterea datelor de utilizare anonime (%s)</string>
     <string name="other_settings_user_experience_summary1">Vizualizaţi Politica de confidențialitate</string>

@@ -192,4 +192,28 @@
         <item quantity="few"> Descărcări</item>
         <item quantity="many"> Descărcări</item>
     </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s vizualizări</item>
+        <item quantity="zero">%1$s vizualizări</item>
+        <item quantity="one">%1$s vizualizare</item>
+        <item quantity="two">%1$s vizualizări</item>
+        <item quantity="few">%1$s vizualizări</item>
+        <item quantity="many">%1$s vizualizări</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s videoclipuri</item>
+        <item quantity="zero">%1$s videoclipuri</item>
+        <item quantity="one">%1$s videoclip</item>
+        <item quantity="two">%1$s videoclipuri</item>
+        <item quantity="few">%1$s videoclipuri</item>
+        <item quantity="many">%1$s videoclipuri</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">videoclipuri</item>
+        <item quantity="zero">videoclipuri</item>
+        <item quantity="one">videoclip</item>
+        <item quantity="two">videoclipuri</item>
+        <item quantity="few">videoclipuri</item>
+        <item quantity="many">videoclipuri</item>
+    </plurals>
 </resources>

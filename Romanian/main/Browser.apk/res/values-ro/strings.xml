@@ -20,7 +20,7 @@
     <string name="account_prifix">Cont:</string>
     <string name="action">Conectaţi-vă</string>
     <string name="action_menu_account_not_login">Nu sunteți conectat</string>
-    <string name="action_menu_account_not_login_hint">Utilizați setările MiCloud pentru conectare</string>
+    <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza cu Mi Cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
     <string name="action_menu_current_version">Versiune curentă</string>
     <string name="action_menu_text_add_bookmark">Adăugaţi un marcaj</string>
@@ -45,7 +45,7 @@
     <string name="action_menu_text_video">Video</string>
     <string name="action_menu_toolbox">Unelte</string>
     <string name="action_menu_useful_page">Adaugă la Utile</string>
-    <string name="action_menu_useful_page_added">Adăugat la Utile</string>
+    <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="actionbar_share">Partajaţi</string>
     <string name="actionbar_web_search">Căutare Web</string>
     <string name="adblock_notification">%d anunţuri blocate</string>
@@ -89,6 +89,8 @@
     <string name="block_ads_message">Doriți să blocați mesajele de pe acest site?</string>
     <string name="block_ads_title">Conținutul poate cuprinde anunțuri</string>
     <string name="bookmark_add_to">Adăugaţi la</string>
+    <string name="bookmark_btn_select_all">Selectați tot</string>
+    <string name="bookmark_btn_select_none">Deselectați tot</string>
     <string name="bookmark_cannot_save_url">Această adresă URL nu poate fi marcată</string>
     <string name="bookmark_folder_needs_title">Introduceţi numele grupului</string>
     <string name="bookmark_group_lable">Grup</string>
@@ -151,8 +153,8 @@
     <string name="color_picker_hue">Nuanță</string>
     <string name="color_picker_saturation">Saturaţie</string>
     <string name="color_picker_value">Valoare</string>
-    <string name="comment_app_menu">comentariu</string>
-    <string name="comment_menu">comentariu</string>
+    <string name="comment_app_menu">Comentariu</string>
+    <string name="comment_menu">Comentariu</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -190,8 +192,8 @@
     <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">"Crede întotdeauna că ceva minunat
 trebuie să se întâmple"</string>
-    <string name="custom_head_card_text_incognito">"Doar tu și Dumnezeu cunoașteți acea
-pagină privată​"</string>
+    <string name="custom_head_card_text_incognito">"Navigați incognito!
+Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</string>
     <string name="data_traffic_prompt_change">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="data_traffic_prompt_message">Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="data_traffic_prompt_message_short">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus.</string>
@@ -202,6 +204,7 @@ pagină privată​"</string>
     <string name="date_picker_dialog_title">Setaţi data</string>
     <string name="date_time_picker_dialog_title">Setaţi data şi ora</string>
     <string name="delete">Ştergeţi</string>
+    <string name="delete_bookmark">Ștergeți</string>
     <string name="delete_bookmark_group_warning">Ştergeţi \"%s\"? Toate marcajele din acest grup vor fi șterse.</string>
     <string name="delete_bookmark_warning">Ştergeţi marcajul „%s”?</string>
     <string name="delete_download">Șterge</string>
@@ -331,7 +334,7 @@ pagină privată​"</string>
     <string name="license_activity_title">Licenţe WebView de sistem</string>
     <string name="loading_tips">Glisați în jos pentru a actualiza</string>
     <string name="local_bookmarks">Mi</string>
-    <string name="login_failed_toast">Conectarea a eșuat; vă rugăm reîncercați.</string>
+    <string name="login_failed_toast">Conectarea a eșuat; vă rugăm reîncărcați pagina și reîncercați.</string>
     <string name="low_memory_error">Imposibil de finalizat operaţiunea anterioară din cauza memoriei insuficiente</string>
     <string name="max_tabs_warning">Limită de file atinsă</string>
     <string name="maximum_input_alert">Nu se pot introduce mai mult de 2048 de caractere</string>
@@ -358,7 +361,6 @@ pagină privată​"</string>
     <string name="menu_title_open_file_management">Deschideți Exploratorul de fișiere</string>
     <string name="menu_title_pause_all">Suspendați tot</string>
     <string name="menu_title_resume_all">Porniți tot</string>
-    <string name="menu_save_snapshot">Salvaţi pentru lectură offline</string>
     <string name="miui_autologin_bar_error">Nu se poate conecta</string>
     <string name="miui_autologin_bar_title">Conectați-vă cu contul Mi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Adăugaţi un grup</string>
@@ -401,7 +403,6 @@ pagină privată​"</string>
     <string name="miuichromium_error_page_server_error">Sunt prea multe dispozitive care încearcă să se conecteze</string>
     <string name="miuichromium_error_page_title">A apărut o eroare!</string>
     <string name="miuichromium_error_page_unknown_error">Ooops, ceva nu a mers bine</string>
-    <string name="miuichromium_error_page_url">Nu se poate conecta la reţea</string>
     <string name="miuichromium_error_page_wlan">Porniți Wi-Fi</string>
     <string name="miuishare_account_activate_confirmation">Activarea este necesară</string>
     <string name="miuishare_account_activate_ok">Activare</string>
@@ -592,7 +593,7 @@ pagină privată​"</string>
     <string name="remove_history_item">Eliminaţi din istoric</string>
     <string name="remove_snapshot">Ştergeţi pagina salvată</string>
     <string name="removed_from_bookmarks">Eliminat din marcaje</string>
-    <string name="reply_comment_title">răspuns: %s</string>
+    <string name="reply_comment_title">Răspuns: %s</string>
     <string name="resume_download">Start</string>
     <string name="retry_after_network_available">"Nu se poate conecta la rețea"</string>
     <string name="retry_download">Reîncercați</string>
@@ -647,8 +648,8 @@ pagină privată​"</string>
     <string name="security_warnings_confirm_message">Oprirea acestei caracteristici poate cauza riscuri de securitate.</string>
     <string name="select_dot">Selectaţi text</string>
     <string name="select_download_device">Selectaţi dispozitivul</string>
-    <string name="send_comment_button">trimite</string>
-    <string name="send_comment_title">comentariu</string>
+    <string name="send_comment_button">Trimite</string>
+    <string name="send_comment_title">Comentariu</string>
     <string name="share_page_text">"Mă bucur de 【%1$s】 | %2$s"</string>
     <string name="show_check_security_url_check_tip_dialog_description">URL-ul acestui site va fi trimis la serverele MI pentru a verifica dacă este sigur. Puteți să dezactivați această funcţie oricând în Setări.</string>
     <string name="show_security_tip_dialog_title">Condiții de utilizare</string>
@@ -674,10 +675,6 @@ pagină privată​"</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
-    <string name="sub_sync_item_browser_title_useful">Sincronizarea paginii de pornire</string>
-    <string name="sub_sync_item_browser_title_useful_summary">Sincronizaţi site-urile pe care le-aţi adăugat la pagina de pornire</string>
-    <string name="sub_sync_item_browser_title_video">Sincronizare istoric video</string>
-    <string name="sub_sync_item_browser_title_video_summary">Sincronizaţi lista de videoclipuri pe care le-ați vizionat recent</string>
     <string name="suggest_access_appstore">Magazin Mi</string>
     <string name="suggest_access_btn_install">Instalaţi</string>
     <string name="suggest_access_btn_open">Deschideţi</string>
@@ -692,7 +689,6 @@ pagină privată​"</string>
     <string name="suggest_open_app_failed">Nu s-a putut deschide această aplicație</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
     <string name="switch_proxy_dialog_title">Fraudare rețea</string>
-    <string name="tab_history">Istoric</string>
     <string name="tab_hotpage">News Feed</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
     <string name="tab_yellowpage">Link-uri</string>
@@ -763,9 +759,9 @@ pagină privată​"</string>
     <string name="video_downloaded_group">Descărcat</string>
     <string name="video_downloading_group">Descărcare</string>
     <string name="video_edit">Editare</string>
-    <string name="video_float_window">PopUp</string>
+    <string name="video_float_window">Pop-Up</string>
     <string name="video_float_window_playing">Rulare videoclip</string>
-    <string name="video_float_window_text">PopUp</string>
+    <string name="video_float_window_text">Pop-Up</string>
     <string name="video_fragment_name_collections">Favorite</string>
     <string name="video_fragment_name_download">Videoclip off-line</string>
     <string name="video_fragment_name_historys">Istoric</string>
