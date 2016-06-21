@@ -94,16 +94,6 @@
     <string name="insert_record">Introduceți inregistrarea</string>
     <string name="install_package">Instalați %1$s pentru a beneficia de mai multe funcții</string>
     <string name="localPhoneName">Numele meu</string>
-    <string name="map_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
-    <string name="map_auth_notif_message">Introduceţi cheia de sesiune pentru %1$s</string>
-    <string name="map_auth_notif_ticker">Cerere de autentificare pentru protocolul OBEX</string>
-    <string name="map_auth_notif_title">Cheia sesiunii</string>
-    <string name="map_authentication_timeout_message">A expirat timpul de introducere a cheii de sesiune cu %1$s</string>
-    <string name="map_defaultname">Carkit</string>
-    <string name="map_localPhoneName">Numele meu</string>
-    <string name="map_session_key_dialog_header">Cheie de sesiune Bluetooth solicitată</string>
-    <string name="map_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
-    <string name="map_unknownName">Nume necunoscut</string>
     <string name="mi_band_vibrate_alarm">Vibrare în timpul alarmei</string>
     <string name="mi_band_vibrate_incall">Vibrare la primirea unui apel</string>
     <string name="mi_band_vibrate_incall_in_contacts">Apeluri de la contacte</string>
@@ -125,7 +115,8 @@
     <string name="miui_transfer_outbound_title">Expediat</string>
     <string name="no_transfers">Istoricul de transferuri este gol.</string>
     <string name="not_exist_file">Niciun fişier</string>
-    <string name="not_exist_file_desc">"Fişierul nu există.</string>
+    <string name="not_exist_file_desc">"Fişierul nu există.
+"</string>
     <string name="noti_caption">%1$s reuşite, %2$s eşuate.</string>
     <string name="notification_received">Distribuire prin Bluetooth: s-a primit %1$s</string>
     <string name="notification_received_fail">Distribuire prin Bluetooth: fişierul %1$s nu s-a primit</string>
@@ -149,10 +140,8 @@
     <string name="pbap_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
     <string name="permdesc_bluetoothShareManager">Permite aplicaţiilor să acceseze managerul Distribuire prin Bluetooth şi să-l utilizeze la transferul fişierelor.</string>
     <string name="permdesc_bluetoothWhitelist">Permite aplicaţiei să treacă temporar pe lista albă un dispozitiv Bluetooth, permiţându-i să trimită fişiere la acest dispozitiv fără confirmare din partea utilizatorului.</string>
-    <string name="permdesc_handoverStatus">Permite primirea de la Bluetooth a informaţiilor privind starea transferului.</string>
     <string name="permlab_bluetoothShareManager">Accesaţi managerul de descărcare.</string>
     <string name="permlab_bluetoothWhitelist">Acces la dispozitivele Bluetooth din lista albă.</string>
-    <string name="permlab_handoverStatus">Primiţi difuzări prin transferul pe Bluetooth.</string>
     <string name="process"/>
     <string name="progress_scanning">Căutare…</string>
     <string name="reset_function_msg">Resetarea acestei caracteristici poate preveni lucrul normal al %1$s.</string>
@@ -186,7 +175,8 @@
     <string name="unknownNumber">Necunoscut</string>
     <string name="unknown_device">Dispozitiv necunoscut</string>
     <string name="unknown_file">Fişier necunoscut</string>
-    <string name="unknown_file_desc">"Nu există nicio aplicaţie care să gestioneze acest tip de fişier.</string>
+    <string name="unknown_file_desc">"Nu există nicio aplicaţie care să gestioneze acest tip de fişier.
+"</string>
     <string name="update_record">Confirmaţi înregistrarea</string>
     <string name="upload_fail_cancel">Închideţi</string>
     <string name="upload_fail_line1">Fişierul nu a fost trimis la „%1$s”.</string>

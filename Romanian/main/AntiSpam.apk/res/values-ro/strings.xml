@@ -22,6 +22,7 @@
     <string name="Call_DEFAULT">Listă blocări inteligentă</string>
     <string name="Call_PREFIX">Prefix</string>
     <string name="Call_PRIVATE_CALL">Apeluri private</string>
+    <string name="MALICIOUS_URL">Linkuri potențial periculoase</string>
     <string name="NACaddnumcontent">Introduceți numărul de telefon</string>
     <string name="NACaddnumtitle">Adăugaţi numărul de telefon în lista excepțiilor</string>
     <string name="PAST_BLOCK">Blocat anterior</string>
@@ -53,6 +54,7 @@
     <string name="antispam_notificaiton_type_show_except_blacklist">Numerele din lista excepţiilor</string>
     <string name="antispam_notificaiton_type_show_none">Niciuna</string>
     <string name="antispam_notification_setting_title">Notificări</string>
+    <string name="antispam_xpace_text">Comutați la spațiul principal pentru a putea seta regulile antispam</string>
     <string name="app_name">Listă blocări</string>
     <string name="backsound_set_hint">Setați sunetul ca %s?</string>
     <string name="baidu_thanks">Suport oferit de Baidu</string>
@@ -269,7 +271,8 @@
     <string name="st_call_group">Apeluri</string>
     <string name="st_common_setting_group">Setări filtru</string>
     <string name="st_filter_keywords_setting_summary1">Mesajele de la numere necunoscute care conțin cuvintele din această listă vor fi blocate.</string>
-    <string name="st_filter_keywords_setting_summary2">\n(Utilizaţi virgula pentru a separa cuvintele cheie)</string>
+    <string name="st_filter_keywords_setting_summary2">"
+    (Utilizaţi virgula pentru a separa cuvintele cheie)"</string>
     <string name="st_filter_keywords_setting_title">Configuraţi cuvintele cheie</string>
     <string name="st_filter_keywords_title">Cuvinte cheie</string>
     <string name="st_filter_sms_button">Filtraţi mesajele</string>
@@ -342,4 +345,5 @@
     <string name="website">Site Web</string>
     <string name="whitelist_prefix_add_hint">Adăugaţi toate numerele cu acest prefix în lista excepţiilor</string>
     <string name="wl_no_whitelist">Nicio excepţie</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

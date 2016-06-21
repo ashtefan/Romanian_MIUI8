@@ -48,11 +48,15 @@
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="actionbar_share">Partajaţi</string>
     <string name="actionbar_web_search">Căutare Web</string>
+    <string name="adblock_force_updating_rules_toast">Se actualizează filtrul pentru reclame</string>
     <string name="adblock_notification">%d anunţuri blocate</string>
+    <string name="adblock_rules_not_updated_toast">Eșuat</string>
     <string name="adblock_rules_restore">Deblocaţi</string>
+    <string name="adblock_rules_updated_toast">Finalizat</string>
     <string name="adblock_websites_settings_empyt_hint">Nu ați blocat niciun site.</string>
     <string name="adblock_websites_settings_title">Site-uri blocate</string>
     <string name="add_bookmark_group">Adăugaţi un grup</string>
+    <string name="add_bookshelf_popup_text">Ați adăugat deja această carte pe raft</string>
     <string name="add_new_bookmark">Adăugaţi un marcaj</string>
     <string name="add_new_quicklink">Adăugaţi la pagina de pornire</string>
     <string name="add_ql_bm_title">Adăugaţi</string>
@@ -69,14 +73,14 @@
     <string name="app_new_version">Descărcare finalizată. Cea mai recentă versiune a aplicației este instalată deja</string>
     <string name="app_update_install">Descărcare finalizată! Pregătit pentru instalarea versiunii actualizate</string>
     <string name="application_name">Browser</string>
-    <string name="aqi_quality_index_break">AQI %1$s</string>
-    <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-    <string name="aqi_quality_index_good">AQI %1$s</string>
-    <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-    <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-    <string name="aqi_quality_index_moderate">AQI %1$s</string>
-    <string name="aqi_quality_index_pure">AQI %1$s</string>
-    <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+    <string name="aqi_quality_index_break">ICA %1$s</string>
+    <string name="aqi_quality_index_dangerous">ICA %1$s</string>
+    <string name="aqi_quality_index_good">ICA %1$s</string>
+    <string name="aqi_quality_index_hazardous">ICA %1$s</string>
+    <string name="aqi_quality_index_light_pollution">ICA %1$s</string>
+    <string name="aqi_quality_index_moderate">ICA %1$s</string>
+    <string name="aqi_quality_index_pure">ICA %1$s</string>
+    <string name="aqi_quality_index_unhealthy">ICA %1$s</string>
     <string name="autofill_popup_content_description">Arată sugestii de completare automată</string>
     <string name="autologin_bar_error">Imposibil de conectat</string>
     <string name="autologin_bar_hide_text">Ascundeţi</string>
@@ -321,7 +325,9 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="is_last_tab">Aceasta este ultima filă</string>
     <string name="is_page_bottom">Sunteţi în partea de jos a paginii</string>
     <string name="is_page_top">Sunteţi în partea de sus a paginii</string>
-    <string name="js_dialog_before_unload">%s\n\nPărăsiţi această pagină?</string>
+    <string name="js_dialog_before_unload">"%s
+    
+Părăsiţi această pagină?"</string>
     <string name="js_dialog_before_unload_negative_button">Rămâneți pe pagină</string>
     <string name="js_dialog_before_unload_positive_button">Părăsiţi pagina</string>
     <string name="js_dialog_before_unload_title">Confirmaţi navigarea</string>
@@ -389,6 +395,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="miuichromium_error_page_diagnose_connection">"Nu s-a putut conecta la rețea"</string>
     <string name="miuichromium_error_page_diagnose_dns">Se pare că linkul este incorect</string>
     <string name="miuichromium_error_page_diagnose_protocol">Eroare protocol rețea</string>
+    <string name="miuichromium_error_page_diagnose_proxy_server">Eroare proxy server</string>
     <string name="miuichromium_error_page_diagnose_success">Semnal de rețea slab</string>
     <string name="miuichromium_error_page_diagnose_timeout">Conexiunea a expirat</string>
     <string name="miuichromium_error_page_diagnose_website">Site-ul este indisponibil</string>
@@ -428,6 +435,9 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="nav_bottom_bar_new_tab">Filă nouă</string>
     <string name="nav_screen_container_tab_incognito">Filă incognito</string>
     <string name="nav_screen_container_tab_normal">Filă obişnuită</string>
+    <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
+    <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
+    <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Doriţi să vă conectaţi?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Conexiune Wi-Fi deschisă disponibilă</string>
     <string name="new_folder_name_lable">Nume grup</string>
@@ -454,6 +464,8 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="paused_unknown">Întreruptă</string>
     <string name="paused_waiting_for_network">Se așteaptă conectarea…</string>
     <string name="paused_waiting_to_retry">Se așteaptă reluarea…</string>
+    <string name="pay_failed_toast">Plata nu s-a efectuat</string>
+    <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
     <string name="pref_accessibility">Accesibilitate</string>
@@ -489,6 +501,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="pref_extras_reset_default_dlg">Restabiliţi setările la valorile prestabilite?</string>
     <string name="pref_extras_reset_default_summary">Restabiliţi setările prestabilite</string>
     <string name="pref_extras_reset_default_title">Altele</string>
+    <string name="pref_extras_send_feedback">Trimiteți un comentariu</string>
     <string name="pref_extras_title">Avansat</string>
     <string name="pref_extras_title_version">Informaţii despre versiune</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Salvați fișierele în locația prestabilită a browser-ului</string>
@@ -559,7 +572,6 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="profiler_stopped_toast">Profiler finalizat. Rezultatele sunt în %1$s.</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
     <string name="pull_to_refresh_pull_label">Trageți în jos pentru actualizare</string>
-    <string name="pull_to_refresh_refreshing_label">Încărcare…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
     <string name="qr_code_title">Cod QR</string>
     <string name="quicklink_bookmark_save">LOCAŢIE MARCAJ</string>
@@ -630,13 +642,16 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="search_easou">Easou</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Căutaţi</string>
+    <string name="search_keyword_browser">Browser</string>
     <string name="search_label">Browser</string>
+    <string name="search_path_browser">Setări/Aplicații de sistem/Browser</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">Marcaje şi istoric web</string>
     <string name="search_shipin">Video</string>
     <string name="search_sm">SM</string>
     <string name="search_sogou">Sogou</string>
     <string name="search_taobao">Taobao</string>
+    <string name="search_title_browser">Browser</string>
     <string name="search_tupian">Imagini</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
@@ -692,6 +707,10 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="tab_hotpage">News Feed</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
     <string name="tab_yellowpage">Link-uri</string>
+    <string name="tae_sdk_login_qr_icon_close"></string>
+    <string name="tae_sdk_login_qr_icon_taobao"></string>
+    <string name="tae_sdk_qr_login_icon_password"></string>
+    <string name="tae_sdk_qr_login_icon_scan"></string>
     <string name="time_picker_dialog_am">AM</string>
     <string name="time_picker_dialog_hour_minute_separator">:</string>
     <string name="time_picker_dialog_minute_second_separator">:</string>

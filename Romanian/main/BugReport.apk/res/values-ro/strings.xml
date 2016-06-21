@@ -11,6 +11,7 @@
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Durează câteva minute.</string>
     <string name="bugreport_dump_start_notification_title">Creare raport…</string>
+    <string name="bugreport_feedback_from">De la: %s</string>
     <string name="bugreport_tool_log">Creaţi un raport de probleme</string>
     <string name="bugreport_tool_log_toast">Raport salvat în %s</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Creare raport de probleme (durează aproximativ 1 minut)</string>
@@ -20,12 +21,15 @@
     <string name="cta_dialog_title">Conexiune internet</string>
     <string name="cta_not_show_again">Memorare preferinţă</string>
     <string name="description">Descrieţi problema sau introduceţi descrierea dvs. aici</string>
+    <string name="dialog_ask_delete">Ștergeți</string>
+    <string name="dialog_ask_quit">Ieșire</string>
     <string name="discard_draft_dialog_button_cancel">Anulaţi</string>
     <string name="discard_draft_dialog_button_discard">Renunţaţi</string>
     <string name="discard_draft_dialog_content">Orice modificări pe care le-ați făcut în acest raport vor fi pierdute.</string>
     <string name="discard_draft_dialog_title">Renunţaţi la schiţă?</string>
     <string name="err_type">Tipul problemei</string>
     <string name="err_type_app">Aplicaţii</string>
+    <string name="err_type_appstore">App Store</string>
     <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Cameră</string>
     <string name="err_type_hardware">Hardware</string>

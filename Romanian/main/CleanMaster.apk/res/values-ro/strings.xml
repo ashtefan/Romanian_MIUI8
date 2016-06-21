@@ -70,6 +70,7 @@
     <string name="button_text_view_file">Fişier</string>
     <string name="buy_immediately">Achiziționați</string>
     <string name="buy_traffic_pack">Achiziționați date suplimentare</string>
+    <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Dosare goale (%d)</string>
     <string name="cache_title_empty_folder2">Dosare goale</string>
     <string name="cache_title_system_cache">Cache de sistem</string>
@@ -152,6 +153,7 @@
     <string name="garbage_clean_detail">Detalii</string>
     <string name="garbage_cleanup_detail">%1$d ori, curățat %2$s</string>
     <string name="garbage_month">Curățat în această lună %s</string>
+    <string name="gigabyteShort">GB</string>
     <string name="go_to">Continuă</string>
     <string name="goto_set">Setare</string>
     <string name="grabage_rank_title">Curățat astăzi</string>
@@ -224,6 +226,7 @@
     <string name="installing">Instalare</string>
     <string name="item_title_process_mode">Selectați o acțiune</string>
     <string name="just_now">Chiar acum</string>
+    <string name="kilobyteShort">KB</string>
     <string name="label_image_list_none">Niciuna</string>
     <string name="label_preserve_the_best_image">Păstrați fotografiile cele mai bune</string>
     <string name="last_check_canceled">Scanarea precedentă a fost anulată</string>
@@ -233,6 +236,7 @@
     <string name="long_click_dialog_title">Aviz</string>
     <string name="mainbtn_text_quick_cleanup">Curăţaţi %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
+    <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
     <string name="month_day_format">dd MMM</string>
     <string name="msg_cleanup_db_update_checking">Verificare actualizări...</string>
@@ -252,18 +256,15 @@
     <string name="no_network">"Nu se poate conecta la rețea, încercați mai târziu"</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="notification_summary_after_auto_cleanup">Curăţat %s.</string>
-    <string name="notification_summary_of_apps_cleanup">Aplicațiile neutilizate ocupă %s spațiu de stocare</string>
     <string name="notification_summary_of_garbage_cleanup">Dimensiunea coşului de reciclare este peste %s.</string>
-    <string name="notification_title_of_apps_cleanup">Aplicații neutilizate</string>
     <string name="notification_title_of_garbage_cleanup">Dimensiune coş de reciclare</string>
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
     <string name="open">Porniți</string>
     <string name="open_browser">Deschideți în browser</string>
-    <string name="opened">Pornit</string>
-    <string name="optimizecenter_data_support">Cu sprijinul Clean Master</string>
     <string name="optimizecenter_data_support_cm">Oferit de Clean Master</string>
     <string name="optimizecenter_data_support_tc">Oferit de Tencent</string>
+    <string name="petabyteShort">PB</string>
     <string name="positive_confirm">OK</string>
     <string name="pref_category_title_auto_clean_settings">Curăţare automată</string>
     <string name="pref_category_title_auto_update_cleanup_db">Setări adiţionale</string>
@@ -274,7 +275,6 @@
     <string name="pref_content_cleanup_white_list_none">Nimic</string>
     <string name="pref_section_auto_clean_and_alert">Curățare automată</string>
     <string name="pref_summary_auto_clean_and_alert">Setaţi curăţarea automată</string>
-    <string name="pref_summary_auto_deepclean_and_alert">"Atenționare aplicații neutilizate"</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizat %s</string>
     <string name="pref_summary_cleanup_white_list">Se împiedică ca aplicațiile selectate să fie curățate</string>
     <string name="pref_summary_expand_cache_group">Se afișează detaliile cache-ului în mod automat</string>
@@ -283,13 +283,9 @@
     <string name="pref_summary_garbage_cleanup_check_time">Programarea unei rutine de curăţare</string>
     <string name="pref_summary_garbage_process_mode">Setaţi notificări pentru curăţarea în curs</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Se încarcă și se compară denumirile fișierelor necunoscute cu definițiile on-line</string>
-    <string name="pref_summary_open_optimizer_memory_scan">Se selectează în mod automat aplicaţiile ce vor fi curăţate</string>
-    <string name="pref_title_apps_check_size">Limită spațiu de stocare</string>
-    <string name="pref_title_apps_check_time">Frecvență</string>
-    <string name="pref_title_apps_cleanup_size">​Atunci când cache-ul atinge</string>
+    <string name="pref_title_apps_cleanup_size">​Când mărimea cache-ului atinge</string>
     <string name="pref_title_auto_clean_and_alert">Curăţare automată</string>
     <string name="pref_title_auto_clean_content_choose">Selectaţi elementele pentru curățare</string>
-    <string name="pref_title_auto_deepclean_and_alert">Curațare profundă</string>
     <string name="pref_title_auto_update_cleanup_db">Actualizare automată</string>
     <string name="pref_title_choose_engine">Definiții</string>
     <string name="pref_title_cleanup_white_list">Excepţii</string>
@@ -339,6 +335,7 @@
     <string name="summary_delete_large_file">Ștergeți definitiv fișierele selectate?</string>
     <string name="summary_delete_video">&gt;Ștergeți definitiv videoclipurile selectate?</string>
     <string name="summary_optimizer">Această caracteristică încarcă numele dosarelor pentru a actualiza baza de date online Cheetah Mobile și necesită ID-ul telefonului dvs.</string>
+    <string name="terabyteShort">TB</string>
     <string name="text_optimizer">Încărcare nume dosare</string>
     <string name="there_is_no">Totul pare OK, reveniți mai târziu</string>
     <string name="tips_of_app_manage">Eliminați aplicațiile rar utilizate pentru a elibera spațiu de stocare</string>
@@ -392,6 +389,7 @@
     <string name="total_clean_text">Curățat</string>
     <string name="traffic_top">TOP 5 aplicații consumatoare de date</string>
     <string name="unlike">Nu, mulțumesc</string>
+    <string name="update_date_format">dd-MM-yyyy</string>
     <string name="virus_scan">Scanare pentru viruși</string>
     <string name="white_list_ad_header">Anunţuri: %d</string>
     <string name="white_list_apk_header">Pachete de instalare: %d</string>

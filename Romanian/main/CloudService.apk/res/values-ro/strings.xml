@@ -7,7 +7,6 @@
     <string name="activate_finddevice">Conectați-vă la rețea pentru a activa dispozitivul</string>
     <string name="activate_number_change_dialog_message">Selectați numărul de telefon care va fi vizibil pentru alte dispozitive atunci când utilizați VoIP</string>
     <string name="activating">Activare…</string>
-    <string name="alert_notif_title_dspt">Nu se sincronizează</string>
     <string name="antispam_sync">Setări Nu deranjaţi</string>
     <string name="app_name">Mi Cloud</string>
     <string name="apple_10gb">20 GB</string>
@@ -34,19 +33,14 @@ Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string
     <string name="cloud_back_up_button_ok">Oprire forţată</string>
     <string name="cloud_back_up_close_info">Atingeţi pentru a crea copia de rezervă.</string>
     <string name="cloud_back_up_dialog_content">"Opriți crearea copiei de rezervă? Dacă opriți acum nu veți mai putea această copie de rezervă pentru restabilirea aplicațiilor."</string>
+    <string name="cloud_back_up_network_unavailable">"Nu s-a putut elimina. Conectați-vă la Wi-Fi și reîncercați."</string>
     <string name="cloud_back_up_open_info">"Creați o copie de rezervă atunci când sunteți conectat la Wi-Fi la fiecare %1$s
 Ultima copie de rezervă a fost creată la %2$s"</string>
-    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-    <string name="cloud_back_up_interval_long">7 zile</string>
-    <string name="cloud_back_up_interval_short">1 zi</string>
-    <string name="cloud_back_up_network_unavailable">Nu a putut fi eliminat. Conectați-vă la Wi-Fi și încercați din nou.</string>
     <string name="cloud_back_up_open_info_no_backuptime">Se crează copii de rezervă pentru aplicaţii atunci când sunteţi conectat la Wi-Fi, o dată la fiecare %1$s</string>
     <string name="cloud_back_up_remove_success">Copie de rezervă ştearsă</string>
     <string name="cloud_back_up_summary">Creare copie de rezervă atunci când sunteți conectat la Wi-Fi</string>
     <string name="cloud_back_up_title">Creare copie de rezervă pentru aplicaţii</string>
     <string name="cloud_backup_dialog_title">Creaţi copia de rezervă în Mi Cloud</string>
-    <string name="cloud_backup_have_data">Copie de rezervă găsită în Mi Cloud</string>
-    <string name="cloud_backup_select_recover">Selectați copia de rezervă din Mi Cloud</string>
     <string name="cloud_find_device">Localizare dispozitiv</string>
     <string name="cloud_restore_title">Restabilire din copie de rezervă</string>
     <string name="cloud_space_upgrade_message">Apăsați pentru a adăuga %s GB în contul dvs. de Cloud</string>
@@ -99,12 +93,9 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
 Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
     <string name="find_device_reading_status">Actualizare stare…</string>
     <string name="find_device_reading_status_failure">"Nu s-a putut actualiza starea."</string>
-    <string name="find_device_send_sms_alert">"
-
-Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție."</string>
+    <string name="find_device_send_sms_alert">Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
     <string name="find_device_status_ok">Găsiți dispozitivul de oriunde accesând i.mi.com</string>
     <string name="find_device_status_ok_international">Localizați dispozitivul dvs. accesând www.mi.com/micloud</string>
-    <string name="find_device_stop_noise">Apăsaţi OK pentru a opri sunetul</string>
     <string name="find_device_success_title">Localizare dispozitiv</string>
     <string name="forget_password">&lt;u&gt;Parolă uitată&lt;/u&gt;</string>
     <string name="free_space_has_received">Ați adăugat deja spațiu liber în această lună</string>
@@ -119,7 +110,6 @@ Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a 
     <string name="header_cloud_restore_summary">Reinstalați aplicațiile și restabiliți dispunerea iconițelor pe ecranul principal și setările sistemului dintr-o copie de rezervă din Mi Cloud</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
     <string name="header_find_device_settings">Localizare dispozitiv</string>
-    <string name="header_other_settings">Setări adiţionale</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Introduceți parola</string>
     <string name="internet_access_dspt">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
@@ -144,8 +134,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reactivare Mi Cloud</string>
     <string name="micloud_check_sim_title">"Se pare că aţi schimbat cardurile SIM. Conectaţi-vă
 la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
-    <string name="micloud_confusion_account_hint">"Modificările efectuate pe acest dispozitiv vor fi sincronizate pe toate dispozitivele dumneavoastră.
-Pentru protecția contului, vă recomandăm să opriți sincronizarea pe dispozitivele pe care nu le folosiți."</string>
+    <string name="micloud_confusion_account_hint">"Modificările efectuate pe acest dispozitiv vor fi sincronizate pe toate dispozitivele dumneavoastră. Pentru protecția contului, vă recomandăm să opriți sincronizarea pe dispozitivele pe care nu le folosiți."</string>
     <string name="micloud_confusion_account_name">"Cont Mi: "</string>
     <string name="micloud_confusion_account_notify_text">Contul dumneavoastră Mi a fost modificat de pe un alt dispozitiv.</string>
     <string name="micloud_confusion_account_notify_title">Verificați contul</string>
@@ -162,8 +151,7 @@ Pentru protecția contului, vă recomandăm să opriți sincronizarea pe dispozi
     <string name="micloud_confusion_entrance_notify_title">Conținutul Mi Cloud a fost modificat</string>
     <string name="micloud_confusion_entrance_question">Ați accesat și ați făcut modificări în Mi Cloud de pe %s?</string>
     <string name="micloud_confusion_entrance_title">Conținutul Mi Cloud a fost modificat</string>
-    <string name="micloud_confusion_finish_hint">"Modificările efectuate pe acest dispozitiv vor fi sincronizate pe toate dispozitivele dumneavoastră.
-Pentru protecția contului, vă recomandăm să opriți sincronizarea pe dispozitivele pe care nu le folosiți."</string>
+    <string name="micloud_confusion_finish_hint">"Modificările efectuate pe acest dispozitiv vor fi sincronizate pe toate dispozitivele dumneavoastră. Pentru protecția contului, vă recomandăm să opriți sincronizarea pe dispozitivele pe care nu le folosiți."</string>
     <string name="micloud_confusion_finish_message">Asigurați-vă că pe niciunul din dispozitivele vechi sau inactive nu este pornită sincronizarea cu Mi Cloud.</string>
     <string name="micloud_confusion_finish_title">Contul a fost verificat</string>
     <string name="micloud_confusion_no">Nu</string>
@@ -196,15 +184,12 @@ Pentru protecția contului, vă recomandăm să opriți sincronizarea pe dispozi
     <string name="micloud_detail_query_error_title">"Nu s-au putut obține informații despre starea sincronizării"</string>
     <string name="micloud_detail_success">Sincronizat</string>
     <string name="micloud_detail_sync_now">Sincronizați acum</string>
-    <string name="micloud_detail_preference_syncing">Sincronizare</string>
-    <string name="micloud_detail_preference_wlan">Sincronizare prin Wi-Fi</string>
     <string name="micloud_detail_syncing">Sincronizare</string>
     <string name="micloud_detail_upload_syncing">Încărcare %s</string>
     <string name="micloud_detail_wlan">%d așteaptă sincronizarea</string>
     <string name="micloud_detail_wlan_contact">%d fotografii de contact așteaptă sincronizarea</string>
     <string name="micloud_detail_wlan_mms">%d mesaje MMS așteaptă sincronizarea</string>
-    <string name="micloud_dspt">" Utilizaţi Mi Cloud pentru a sincroniza datele,
- pentru a localiza dispozitivul"</string>
+    <string name="micloud_dspt">" Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul"</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_find_device_finish">Realizat</string>
     <string name="micloud_find_device_guide_button">Activați localizarea dispozitivului pe telefon</string>
@@ -246,6 +231,11 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate."</string>
     <string name="micloud_main_memory_low_title">"Spațiul de stocare internă este insuficient"</string>
     <string name="micloud_main_message_not_synced">%s date nesincronizate</string>
+    <string name="micloud_main_multi_user_error_message">"V-ați logat la același cont ca și în spațiul principal și MiCloud s-a oprit. Dacă doriți crearea unei copii de rezervă a datelor:
+
+1.Utilizați alt cont
+2.Transferați datele în spațiul principal"</string>
+    <string name="micloud_main_multi_user_error_title">MiCloud s-a oprit</string>
     <string name="micloud_main_network_abnormal">Nu se poate conecta la rețea</string>
     <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
     <string name="micloud_main_not_sync">%d elemente așteaptă sincronizarea</string>
@@ -277,8 +267,7 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_main_title_sync_off">Sincronizare dezactivată</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizaţi Wi-Fi</string>
     <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare</string>
-    <string name="micloud_main_wlan_sync_data_count">"%d elemente aşteaptă
-sincronizarea"</string>
+    <string name="micloud_main_wlan_sync_data_count">"%d elemente aşteaptă sincronizarea"</string>
     <string name="micloud_member">Apartenență Mi Cloud</string>
     <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>
     <string name="micloud_member_buy_content" formatted="false">"Valid pentru %s-%s-%s
@@ -300,6 +289,7 @@ sincronizarea"</string>
     <string name="micloud_notif_content_depend_wifi">Conectaţi-vă la rețeaua Wi-Fi pentru a sincroniza.</string>
     <string name="micloud_notif_content_master_depend_wifi">Conectați-vă la Wi-Fi mai întâi.</string>
     <string name="micloud_notif_content_memory_low">Nu există spațiu suficient de stocare.</string>
+    <string name="micloud_notif_content_multi_user_error">Sunteți logat cu același cont ca și în spațiul principal.</string>
     <string name="micloud_notif_content_sync_finish">Cont</string>
     <string name="micloud_notif_content_sync_not_finish">Detalii</string>
     <string name="micloud_notif_content_sync_with_off">Apăsați pentru a vă sincroniza dispozitivul acum.</string>
@@ -308,6 +298,7 @@ sincronizarea"</string>
     <string name="micloud_notif_title_depend_wifi">%d în așteptarea sincronizării</string>
     <string name="micloud_notif_title_master_depend_wifi">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_memory_low">"Nu se poate sincroniza cu Mi Cloud"</string>
+    <string name="micloud_notif_title_multi_user_error">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_sync_finish">Sincronizat</string>
     <string name="micloud_notif_title_sync_not_finish">"Unele elemente nu au fost sincronizate"</string>
     <string name="micloud_notif_title_sync_progress">Sincronizare</string>
@@ -400,6 +391,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
     <string name="pref_title_sync_video_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea videoclipurilor</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="provision_arrow_back">&lt;</string>
+    <string name="provision_arrow_next">&gt;</string>
     <string name="remind_later">Nu acum</string>
     <string name="restoreSync">Sincronizaţi acum</string>
     <string name="setting">Setări</string>
@@ -440,7 +433,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_dspt_provision">"Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-    <string name="sync_dspt_provision3">". Puteți activa sau dezactiva această funcţie oricând în Setări."</string>
+    <string name="sync_dspt_provision3">". Puteți activa sau dezactiva această funcţie oricând în Setări.
+"</string>
     <string name="sync_dspt_provision_header">Sincronizare</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_item_calllog_summary">Sincronizarea jurnalului apelurilor recepţionate şi efectuate</string>
@@ -460,6 +454,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_sub_int_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS internaţional utilizat pentru a activa acest serviciu.</string>
     <string name="title_reg">Creaţi un cont Mi</string>
     <string name="total_space_upgraded_to">Spaţiu total: %s</string>
+    <string name="trying_to_connect_to_network">Se conectează la rețea…</string>
     <string name="unactivated_user">Deconectat</string>
     <string name="upgrade_space">Adăugaţi spaţiu</string>
     <string name="upgrade_space_gb">GB</string>
@@ -470,8 +465,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="user_agreement">Acordul de utilizare</string>
     <string name="user_agreement_p5">"
 "</string>
-    <string name="user_agreement_p6">"
-Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
+    <string name="user_agreement_p6">"Prin utilizarea acestui serviciu, sunteţi de acord cu "</string>
     <string name="user_agreement_p7">Condiţiile de utilizare Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">Condiţii de utilizare Mi Cloud</string>

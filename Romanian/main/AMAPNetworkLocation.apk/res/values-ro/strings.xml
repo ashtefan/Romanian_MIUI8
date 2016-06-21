@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="agree">De acord</string>
+    <string name="app_label">Localizare prin rețea</string>
+    <string name="disagree">Nu sunt de acord</string>
+    <string name="location_warning_message">"Permiteți serviciului de localizare AutoNavi colectarea datelor anonime despre locație. Unele date pot fi stocate pe telefonul dumneavoastră, iar colectarea se poate efectua chiar dacă nu rulează nicio aplicație. Se pot aplica taxe de utilizare a serviciului de date în timpul procesului."</string>
+    <string name="location_warning_title">Consimțământ localizare</string>
+</resources>

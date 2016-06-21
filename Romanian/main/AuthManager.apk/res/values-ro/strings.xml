@@ -22,12 +22,12 @@
     <string name="Dashboard_Perm_SU_Desc">Monitorizare %1$d aplicaţii cu permisiunea Root</string>
     <string name="Dashboard_Perm_SU_Disabled">>Permisiunea Root este dezactivată</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">AccesRoot nu este disponibil în MIUI stabil</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Acordarea permisiunii Root aplicaţiilor terţe poate duce la instabilitatea sistemului, pierderea datelor personale şi daune ireparabile componentelor hardware.\n\nTreceţi la versiunea MIUI developer pentru activarea permisiunii Root.</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Acordarea permisiunii Root aplicaţiilor terţe poate duce la instabilitatea sistemului, pierderea datelor personale şi daune ireparabile componentelor hardware.
+    
+    Treceţi la versiunea MIUI developer pentru activarea permisiunii Root."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descărcaţi MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
     <string name="Dashboard_Perm_SU_Switch">Permisiune Root</string>
-    <string name="Dashboard_Su_Enable_Content">Activarea ei va permite accesul aplicaţiilor la Root.\nNotă: Aplicaţiile cu această permisiune pot cauza instabilitatea sistemului, pierderea datelor personale şi daune ireparabile componentelor hardware. Activaţi oricum?</string>
-    <string name="Dashboard_Su_Enable_Title">Permisiune Root</string>
     <string name="Generic_Canceling">Anulare…</string>
     <string name="Generic_Check">Verificaţi</string>
     <string name="Generic_Clean">Curat</string>
@@ -55,7 +55,7 @@
     <string name="Generic_UserApp">Aplicaţii descărcate (%d)</string>
     <string name="Generic_Version">Versiune: %1$s</string>
     <string name="HIPS_Action_Accept">Permiteţi</string>
-    <string name="HIPS_Action_Accept_Colored">Acceptare</string>
+    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Acceptare&lt;/font&gt;</string>
     <string name="HIPS_Action_Accept_Once">Permiteţi o dată</string>
     <string name="HIPS_Action_Prompt">Solicitare</string>
     <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Solicitare&lt;/font></string>
@@ -68,7 +68,7 @@
     <string name="HIPS_Group_Location">Localizare</string>
     <string name="HIPS_Group_PIM">Informaţie personală</string>
     <string name="HIPS_Group_PhoneID">Identificare telefon</string>
-    <string name="HIPS_Group_ROOT">Root</string>
+    <string name="HIPS_Group_ROOT">Acces root</string>
     <string name="HIPS_Perm_AdjustRingerVolume">Ajustare volum sonerie</string>
     <string name="HIPS_Perm_AdjustVolumeInCall">Ajustare volum în apel</string>
     <string name="HIPS_Perm_AllowAll">Permit toate</string>
@@ -226,6 +226,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">Accesarea dispozitivului NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesarea aplicației Telefon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizarea și încheierea apelurilor</string>
+    <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">Citire SMS-uri</string>
     <string name="HIPS_Perm_use_sip">Servicii video</string>
     <string name="HIPS_Perm_use_sip_Desc">Utilizarea SIP pentru partajare videoclipuri</string>
     <string name="HIPS_SecurityPrompt_Accept">Permit (%d)</string>

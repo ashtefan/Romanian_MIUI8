@@ -305,13 +305,13 @@
         <item>pe treizecișiunu</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Luni</item>
-        <item>Marți</item>
-        <item>Miercuri</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
         <item>Joi</item>
-        <item>Vineri</item>
-        <item>Sâmbătă</item>
-        <item>Duminică</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
      </string-array>
     <string-array name="repeat_choose_month">
         <item>Ian</item>

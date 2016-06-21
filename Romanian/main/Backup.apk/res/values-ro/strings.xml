@@ -62,7 +62,7 @@
     <string name="cloud_backup_window_title">Copie de rezervă în Mi Cloud</string>
     <string name="cloud_home_title">Mi Cloud</string>
     <string name="cloud_item_info_summary">" (Local %1$s | Mi Cloud %2$s)"</string>
-    <string name="cloud_last_backup">Ultima copie de rezervă:</string>
+    <string name="cloud_last_backup">"Ultima copie de rezervă "</string>
     <string name="cloud_no_backup">Nicio copie de rezervă</string>
     <string name="cloud_restore_guide">Pentru a restabili datele de utilizator pentru %s, atingeţi Restabilire</string>
     <string name="cloud_restore_title">Restabiliţi datele</string>
@@ -72,7 +72,7 @@
     <string name="compute_delete_contact_info">Căutare contacte pentru ştergere…</string>
     <string name="contact_title">Contacte</string>
     <string name="current_account">Salut %s,</string>
-    <string name="current_pad_location">Pad</string>
+    <string name="current_pad_location">Tabletă</string>
     <string name="current_phone_location">Telefon</string>
     <string name="current_sim">Cardul SIM actual</string>
     <string name="custom_progress">%d elemente</string>
@@ -117,7 +117,9 @@
     <string name="guarded_mode_dialog_backup_message">"Nu se pot crea copii de rezervă în modul Vizitator."</string>
     <string name="guarded_mode_dialog_title">Modul Vizitator este activat</string>
     <string name="guarded_mode_dialog_transfer_message">"Nu se poate utiliza aplicația Mi Mover în modul Vizitator."</string>
-    <string name="import_from_xiaomi_account_hint1">1. Descărcaţi aplicaţia MiTalk şi logaţi-vă.\n\thttp://www.miliao.com\n\n2.\tAccesaţi setările MiTalk şi alegeţi ”Back up contacts to Mi account”</string>
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Descărcaţi aplicaţia MiTalk şi logaţi-vă.
+\u0009http://www.miliao.com
+2.\u0009Accesaţi setările MiTalk şi alegeţi ”Back up contacts to Mi account””</string>
     <string name="import_from_xiaomi_account_hint2">2. Dacă aveţi deja o copie de rezervă apăsaţi Următorul.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilizaţi MiTalk pt. a efectua copii de rezervă ale contactelor dvs. între dispozitive.</string>
     <string name="local_app_name">Copii de rezervă</string>
@@ -273,8 +275,7 @@ Apăsați [Sunt destinatar] pentru a crea un cod QR"</string>
     <string name="trans_operate_old_phone_tips1">"1. Instalați aplicația Mi Mover pe vechiul dispozitiv
 2. Deschideți aplicația și apăsați Start
 3. Scanați codul QR cu vechiul telefon"</string>
-    <string name="trans_operate_old_phone_tips2">"Mergeți la Setări &gt; Setări adiționale &gt; Mi Mover
-Apăsați [Sunt expeditor]"</string>
+    <string name="trans_operate_old_phone_tips2">"Mergeți la Setări &gt; Setări adiționale &gt; Mi Mover, Apăsați [Sunt expeditor]"</string>
     <string name="trans_please_waiting">Așteptați, vă rog...</string>
     <string name="trans_progress_subdescript_br_receiver">Recepționare %s</string>
     <string name="trans_progress_subdescript_br_sender">Creare copie de rezervă %s</string>
@@ -318,7 +319,6 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
     <string name="trans_start_failed_message">Nu s-a putut porni transferul; reîncercați sau reporniți telefonul</string>
     <string name="trans_start_failed_title">Nu s-a putut porni transferul</string>
     <string name="trans_time_format_second">mai puțin de un minut</string>
-    <string name="trans_time_remained">, gata în</string>
     <string name="trans_time_spent">"
 Durată: %s"</string>
     <string name="trans_wait_trans_data">"Conectat la telefonul vechi.
