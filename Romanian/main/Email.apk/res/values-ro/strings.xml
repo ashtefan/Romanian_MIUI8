@@ -29,7 +29,7 @@
     <string name="account_settings_enforced_summary">Niciunul</string>
     <string name="account_settings_incoming_summary">Nume utilizator, parolă şi alte setări pt. serverul de primire</string>
     <string name="account_settings_login_dialog_content_fmt">"Numele de utilizator sau parola pentru %s sunt incorecte.
-          Actualizaţi acum?"</string>
+Actualizaţi acum?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Conectarea dvs. la %s a eşuat; motivul invocat de server a fost: %s Doriţi să actualizaţi numele de utilizator şi/sau parola?</string>
     <string name="account_settings_login_dialog_title">"Nu s-a putut conecta"</string>
     <string name="account_settings_mail_check_frequency_label">Frecvența sincronizării</string>
@@ -359,6 +359,8 @@
     <string name="edit_quick_response_dialog">Mesaje rapide</string>
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
+    <string name="email_setting">Setări E-mail</string>
+    <string name="email_setting_keywords">Conturi;Adăugare cont;conturi de e-mail;adăugare cont de e-mail;confirmare înainte de ștergere;confirmare ștergere;confirmare înainte de a trimite;confirmare trimitere;ștergere flux de mesaje;delete redirect;vizualizare conversații;mail conversation;economisire acumulator;acumulator e-mail;trimitere comentariu;încărcare jurnale</string>
     <string name="empty_account_tip">Nu s-a putut găsi contul</string>
     <string name="empty_email_tip">Nu se poate trimite un mesaj gol</string>
     <string name="empty_spam">Ștergeți mesajele spam</string>
@@ -673,6 +675,15 @@
     <string name="password_expired_dialog_title">Parola de blocare ecran este expirată</string>
     <string name="password_expired_ticker">Codul PIN sau parola de blocare a ecranului au expirat.</string>
   <string name="path_about_account_setting">Mail / Setări</string>
+    <string name="path_about_add_account">E-mail/Setări/Adăugare cont</string>
+    <string name="path_about_battery_saver">E-mail/Setări/Economisire acumulator</string>
+    <string name="path_about_confirm_before_delete">E-mail/Setări/Confirmare înainte de a șterge</string>
+    <string name="path_about_confirm_before_send">E-mail/Setări/Confirmare înainte de a trimite</string>
+    <string name="path_about_conversation_view">E-mail/Setări/Vizualizare conversații</string>
+    <string name="path_about_delete_message_flow">E-mail/Setări/Ștergere flux de mesaje</string>
+    <string name="path_about_email_setting">E-mail/Setări</string>
+    <string name="path_about_send_feed_back">E-mail/Setări/Trimitere comentariu</string>
+    <string name="path_about_upload_logs">E-mail/Setări/Încărcare jurnale cu erori</string>
     <string name="perference_change_pw_notnull_tips">Introduceţi parola</string>
     <string name="perference_change_pw_ok_tips">Parolă modificată</string>
     <string name="perference_setup_pop_del">Eliminaţi mesajul de pe server</string>
@@ -771,7 +782,8 @@
     <string name="quote_divider_5">-----------Folosit pentru a desemna linia de demarcație-------------</string>
     <string name="quote_divider_6">---Original---</string>
     <string name="quote_divider_7">Mesaj original</string>
-    <string name="quote_divider_apple">\n></string>
+    <string name="quote_divider_apple">"
+&gt;"</string>
     <string name="quote_divider_huawei_zh">Trimis de pe Huawei</string>
     <string name="quote_divider_ipad_zh">Trimis de pe iPad</string>
     <string name="quote_divider_iphone_en">Trimis de pe iPhone</string>
@@ -845,7 +857,8 @@
     <string name="sending">Se trimite…</string>
     <string name="sending_message">Se trimite mesajul…</string>
     <string name="sent_folder_selection_title">Dosar articole trimise pentru %s</string>
-    <string name="ser_resp_err_map_certificate_validator_err">Nu s-a putut valida certificatul de server\n\u0009 (Asigurați-vă că \"timpul de sincronizare automată\" este activat în Setări)</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"Nu s-a putut valida certificatul de server
+\u0009 (Asigurați-vă că \"timpul de sincronizare automată\" este activat în Setări)"</string>
     <string name="ser_resp_err_map_nouser">Utilizatorul nu există</string>
     <string name="ser_resp_err_map_or">sau</string>
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
@@ -859,9 +872,14 @@
     <string name="shortcut_name_title">Denumiţi o comandă rapidă pentru dosar</string>
     <string name="show_elided">▶ Afişaţi textul citat</string>
     <string name="show_images">Afişaţi fotografiile</string>
-    <string name="signature">"\n\n\n\n%s"</string>
+    <string name="signature">"
+
+
+
+%s"</string>
     <string name="silent_ringtone">Silențios</string>
-    <string name="single_new_message_notification_big_text">"%1$s \n%2$s"</string>
+    <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
     <string name="sort_attachment">Sortaţi după</string>
@@ -941,7 +959,7 @@
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
     <string name="widget_all_mail">Toate e-mailurile</string>
     <string name="widget_large_unread_count">%d+</string>
-    <string name="widget_other_views">At. pict. pt. modif.</string>
+    <string name="widget_other_views">Altele</string>
     <string name="wipe_account_fail_description">Apăsați aici pentru a obține permisiunile</string>
     <string name="wipe_account_fail_title">Nu s-au putut șterge informațiile personale</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>

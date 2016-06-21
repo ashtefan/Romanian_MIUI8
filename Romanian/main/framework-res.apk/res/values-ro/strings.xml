@@ -69,10 +69,16 @@
      <string name="android_upgrading_fstrim">Optimizare spațiu de stocare.</string>
      <string name="android_upgrading_starting_apps">Se pornesc aplicaţiile.</string>
      <string name="android_upgrading_title">Android trece la o versiune superioară...</string>
-     <string name="anr_activity_application">"Aplicaţia %2$s nu răspunde.Doriţi să o închideţi?"</string>
-     <string name="anr_activity_process">"Activitatea %1$s nu răspunde.Doriţi să o opriţi?"</string>
+     <string name="anr_activity_application">"Aplicaţia %2$s nu răspunde.
+     
+Doriţi să o închideţi?"</string>
+     <string name="anr_activity_process">"Activitatea %1$s nu răspunde.
+     
+Doriţi să o opriţi?"</string>
      <string name="anr_application_process">Aplicaţia %1$s nu răspunde. Doriţi să o închideţi?</string>
-     <string name="anr_process">"Procesul %1$s nu răspunde.Doriţi să îl opriţi?"</string>
+     <string name="anr_process">"Procesul %1$s nu răspunde.
+     
+Doriţi să îl opriţi?"</string>
      <string name="anr_title" />
      <string name="app_not_found">Nicio aplicație pentru gestionarea acestei acțiuni</string>
      <string name="app_running_notification_text">Atingeți pentru a obţine mai multe informații sau pentru a opri aplicația.</string>
@@ -138,7 +144,9 @@
      <string name="back_button_label">Înapoi</string>
      <string name="badPin">Codul PIN vechi introdus nu este corect.</string>
      <string name="badPuk">Codul PUK introdus nu este corect.</string>
-     <string name="battery_saver_description">"Pentru a îmbunătăți performanțele acumulatorului, Economisirea acumulatorului reduce  performanțele dispozitivului, reduce nivelul vibrațiilor precum și datele în fundal. E-mailul, mesajele și alte aplicații care depind de sincronizare nu se vor putea actualiza decât dacă le veți deschide. Economisirea acumulatorului se va dezactiva în mod automat atunci când veți conecta încărcătorul."</string>
+     <string name="battery_saver_description">"Pentru a îmbunătăți performanțele acumulatorului, Economisirea acumulatorului reduce  performanțele dispozitivului, reduce nivelul vibrațiilor precum și datele în fundal. E-mailul, mesajele și alte aplicații care depind de sincronizare nu se vor putea actualiza decât dacă le veți deschide.
+     
+Economisirea acumulatorului se va dezactiva în mod automat atunci când veți conecta încărcătorul."</string>
      <string name="beforeOneMonthDurationPast">Cu mai mult de o lună în urmă</string>
      <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
      <string name="bugreport_message">Acest raport va colecta informaţii despre starea actuală a dispozitivului pentru a le trimite printr-un e-mail. Aveți răbdare după pornirea raportului despre erori până când va fi gata de trimis.</string>
@@ -183,7 +191,8 @@
      <string name="continue_to_enable_accessibility">Menţineţi două degete pe ecran pentru a activa accesibilitatea.</string>
      <string name="copy">Copiaţi</string>
      <string name="copyUrl">Copiaţi adresa URL</string>
-     <string name="create_contact_using">"Creaţi contactul utilizând %s"</string>
+     <string name="create_contact_using">"Creaţi contactul
+utilizând %s"</string>
      <string name="cut">Decupaţi</string>
      <string name="data_usage_3g_limit_snoozed_title">S-a depăşit limita de date 2G-3G</string>
      <string name="data_usage_3g_limit_title">Datele 2G-3G au fost dezactivate</string>
@@ -226,7 +235,8 @@
      <string name="deleted_key">%1$s șterse</string>
      <string name="deny">Refuzaţi</string>
      <string name="description_target_unlock_tablet">Glisaţi pentru a debloca.</string>
-     <string name="dial_number_using">"Formaţi numărul utilizând %s"</string>
+     <string name="dial_number_using">"Formaţi numărul
+utilizând %s"</string>
      <string name="dialog_alert_title">Atenţie</string>
      <string name="display_manager_built_in_display_name">Ecran încorporat</string>
      <string name="display_manager_hdmi_display_name">Ecran HDMI</string>
@@ -395,7 +405,9 @@
      <string name="issued_on">Emis la:</string>
      <string name="issued_to">Emis către:</string>
      <string name="item_is_selected">%1$s selectat</string>
-     <string name="js_dialog_before_unload">"%sSigur doriți să părăsiți această pagină?"</string>
+     <string name="js_dialog_before_unload">"%s
+     
+Sigur doriți să părăsiți această pagină?"</string>
      <string name="js_dialog_before_unload_negative_button">Rămâneți pe această pagină</string>
      <string name="js_dialog_before_unload_positive_button">Părăsiți această pagină</string>
      <string name="js_dialog_before_unload_title">Confirmați părăsirea paginii</string>
@@ -442,7 +454,9 @@
      <string name="keyguard_password_wrong_pin_code">Cod PIN incorect.</string>
      <string name="kg_emergency_call_label">Apel de urgenţă</string>
      <string name="kg_enter_confirm_pin_hint">Confirmaţi codul PIN dorit</string>
-     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul unui cont de e-mail. Încercaţi din nou peste %d secunde."</string>
+     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul unui cont de e-mail.
+   
+Încercaţi din nou peste %d secunde."</string>
      <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator se vor pierde!</string>
      <string name="kg_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Telefonul va fi acum resetat la setările prestabilite din fabrică.</string>
      <string name="kg_forgot_pattern_button_text">Model uitat</string>
@@ -450,7 +464,8 @@
      <string name="kg_invalid_puk">Reintroduceţi codul PUK. Încercările repetate vor dezactiva definitiv cartela SIM.</string>
      <string name="kg_invalid_sim_pin_hint">Introduceţi un cod PIN format din 4 până la 8 cifre.</string>
      <string name="kg_invalid_sim_puk_hint">Codul PUK trebuie să aibă minimum 8 cifre.</string>
-     <string name="kg_login_account_recovery_hint">"Aţi uitat numele de utilizator sau parola?Accesaţi "<b>google.com/accounts/recovery</b>.</string>
+     <string name="kg_login_account_recovery_hint">"Aţi uitat numele de utilizator sau parola?
+Accesaţi "<b>google.com/accounts/recovery</b>.</string>
      <string name="kg_login_checking_password">Contul este verificat…</string>
      <string name="kg_login_instructions">Pentru a debloca, conectaţi-vă cu contul dvs. Google.</string>
      <string name="kg_login_invalid_input">Nume de utilizator sau parolă nevalide.</string>
@@ -469,9 +484,15 @@
      <string name="kg_sim_unlock_progress_dialog_message">Se deblochează cartela SIM...</string>
      <string name="kg_text_message_separator">" — "</string>
      <string name="kg_too_many_failed_attempts_countdown">Încercaţi din nou peste %1$d secunde.</string>
-     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori.Încercaţi din nou peste %d secunde."</string>
-     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori.Încercaţi din nou peste %d secunde."</string>
-     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.Încercaţi din nou peste %d secunde."</string>
+     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori.
+     
+Încercaţi din nou peste %d secunde."</string>
+     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori.
+
+Încercaţi din nou peste %d secunde."</string>
+     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.
+     
+Încercaţi din nou peste %d secunde."</string>
      <string name="kg_wrong_password">Parolă greşită</string>
      <string name="kg_wrong_pattern">Model greşit</string>
      <string name="kg_wrong_pin">Cod PIN greşit</string>
@@ -484,8 +505,12 @@
      <string name="list_delimeter">", "</string>
      <string name="loading">Se încarcă…</string>
      <string name="locale_replacement" />
-     <string name="lock_to_app_description">"Fixarea ecranului afișează o singură imagine . Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire simultan."</string>
-     <string name="lock_to_app_description_accessible">"Fixarea ecranului afișează o singură imagine . Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire simultan."</string>
+     <string name="lock_to_app_description">"Fixarea ecranului afișează o singură imagine.
+     
+Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire simultan."</string>
+     <string name="lock_to_app_description_accessible">"Fixarea ecranului afișează o singură imagine.
+     
+Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire simultan."</string>
      <string name="lock_to_app_exit">Ecran deblocat</string>
      <string name="lock_to_app_negative">NU, MULȚUMESC</string>
      <string name="lock_to_app_positive">START</string>
@@ -506,10 +531,13 @@
      <string name="lockscreen_charged">Acumulator încărcat</string>
      <string name="lockscreen_emergency_call">Apel de urgenţă</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul datelor de conectare la contul Google. Încercaţi din nou peste %d secunde."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul datelor de conectare la contul Google.
+     
+Încercaţi din nou peste %d secunde."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Acesta va fi acum resetat la setările prestabilite din fabrică.</string>
      <string name="lockscreen_forgot_pattern_button_text">Aţi uitat modelul?</string>
-     <string name="lockscreen_glogin_account_recovery_hint">"Aţi uitat numele de utilizator sau parola?Accesaţi "<b>google.com/accounts/recovery</b>.</string>
+     <string name="lockscreen_glogin_account_recovery_hint">"Aţi uitat numele de utilizator sau parola?
+Accesaţi "<b>google.com/accounts/recovery</b>.</string>
      <string name="lockscreen_glogin_checking_password">Se verifică...</string>
      <string name="lockscreen_glogin_forgot_pattern">Deblocare cont</string>
      <string name="lockscreen_glogin_instructions">Pentru a debloca, conectaţi-vă folosind Contul Google.</string>
@@ -530,7 +558,8 @@
      <string name="lockscreen_pattern_correct">Corect!</string>
      <string name="lockscreen_pattern_instructions">Desenaţi modelul pentru deblocare</string>
      <string name="lockscreen_pattern_wrong">Încercaţi din nou</string>
-     <string name="lockscreen_permanent_disabled_sim_instructions">"Cartela dvs. SIM este dezactivată definitiv. Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</string>
+     <string name="lockscreen_permanent_disabled_sim_instructions">"Cartela dvs. SIM este dezactivată definitiv.
+Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</string>
      <string name="lockscreen_permanent_disabled_sim_message_short">Cartelă SIM inutilizabilă.</string>
      <string name="lockscreen_plugged_in">Se încarcă, %d%%</string>
      <string name="lockscreen_return_to_call">Reveniţi la apel</string>
@@ -542,9 +571,15 @@
      <string name="lockscreen_sound_off_label">Sunet dezactivat</string>
      <string name="lockscreen_sound_on_label">Sunet activat</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Încercaţi din nou peste %d secunde.</string>
-     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori.Încercaţi din nou peste %d secunde."</string>
-     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori.Încercaţi din nou peste %d secunde."</string>
-     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.Încercaţi din nou peste %d secunde."</string>
+     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori.
+     
+Încercaţi din nou peste %d secunde."</string>
+     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori.
+     
+Încercaţi din nou peste %d secunde."</string>
+     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.
+
+Încercaţi din nou peste %d secunde."</string>
      <string name="lockscreen_transport_ffw_description">Repede înainte</string>
      <string name="lockscreen_transport_next_description">Butonul Melodia următoare</string>
      <string name="lockscreen_transport_pause_description">Butonul Întrerupeţi</string>
@@ -1026,7 +1061,8 @@
      <string name="permission">Permisiuni</string>
      <string name="permission_remember_choice">Reamintire</string>
      <string name="permission_request_notification_title">Permisiune solicitată</string>
-     <string name="permission_request_notification_with_subtitle">"Permisiune solicitată pentru contul %s."</string>
+     <string name="permission_request_notification_with_subtitle">"Permisiune solicitată
+pentru contul %s."</string>
      <string name="permlab_accessCoarseLocation">locaţia aproximativă (bazată pe reţea)</string>
      <string name="permlab_accessContentProvidersExternally">accesare furnizori de conţinut din exterior</string>
      <string name="permlab_accessDrmCertificates">accesare certificate DRM</string>
@@ -1386,7 +1422,9 @@
      <string name="roamingText9">Roaming - funcţionalitate completă a serviciului</string>
      <string name="roamingTextSearching">Se caută serviciul</string>
      <string name="safeMode">Mod sigur</string>
-     <string name="safe_media_volume_warning">"Creşteţi volumul peste nivelul recomandat?Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul."</string>
+     <string name="safe_media_volume_warning">"Creşteţi volumul peste nivelul recomandat?
+     
+Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul."</string>
      <string name="save_password_label">Confirmaţi</string>
      <string name="save_password_message">Doriţi ca browserul să reţină această parolă?</string>
      <string name="save_password_never">Niciodată</string>
@@ -1561,7 +1599,9 @@
      <string name="wallpaper_binding_label">Imagine de fundal</string>
      <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 %sSafari/537.36</string>
      <string name="web_user_agent_target_content">"Mobil "</string>
-     <string name="webpage_unresponsive">"Pagina a devenit inactivă.Doriţi să o închideţi?"</string>
+     <string name="webpage_unresponsive">"Pagina a devenit inactivă.
+     
+Doriţi să o închideţi?"</string>
      <string name="websearch">Căutare pe web</string>
      <string name="week">săptămână</string>
      <string name="weeks">săptămâni</string>

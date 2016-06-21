@@ -19,7 +19,6 @@
     <string name="apk_filter">Apk</string>
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">Explorer fişiere</string>
     <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Cont Xunlei</string>
     <string name="auth_fail">Nu s-a putut obţine autorizarea</string>
@@ -102,7 +101,6 @@
     <string name="download_running">În curs</string>
     <string name="download_share_dialog">Distribuiţi prin</string>
     <string name="download_speed">Viteza de descărcare:</string>
-    <string name="download_speed_null" />
     <string name="download_spend_time">Timp scurs</string>
     <string name="download_success">Finalizat</string>
     <string name="download_title">Descărcări</string>
@@ -185,7 +183,8 @@
     <string name="no_downloads">Nicio descărcare</string>
     <string name="no_file_hint">Fișierul există deja în lista de descărcări</string>
     <string name="no_vip_info">Obțineți calitatea de membru Xunlei pentru a accelera descărcările</string>
-    <string name="no_vip_show_info">Accelerare descărcări pe toate dispozitivele cu Xunlei</string>
+    <string name="no_vip_show_info">"Accelerare descărcări
+pe toate dispozitivele cu Xunlei"</string>
     <string name="notify_not_support">"Asemenea notificări nu sunt suportate; actualizați acum"</string>
     <string name="one_month">O lună</string>
     <string name="only_support_torrent">Sunt acceptate doar fișiere torrent</string>
@@ -208,7 +207,6 @@
     <string name="paused_waiting_for_network">Aşteptare reţea</string>
     <string name="paused_waiting_to_retry">Aşteptare reîncercare</string>
     <string name="period_of_validity">Perioada de valabilitate:</string>
-    <string name="play">Redaţi</string>
     <string name="pref_download_revert_default">Prestabilit</string>
     <string name="pref_download_settings_title">Limită dimensiune descărcare</string>
     <string name="pref_download_storage_path">Creaţi un dosar nou pentru descărcări</string>
@@ -366,7 +364,8 @@
     <string name="vip_auto_speedup">Acceleratorul descărcărilor Xunlei este activat</string>
     <string name="vip_expire_show_info">Calitatea de membru Xunlei a expirat.</string>
     <string name="vip_expire_today_show_info">Calitatea de membru Xunlei a expirat.</string>
-    <string name="vip_show_info">5 milioane de membri.\nSe accelerează descărcările pe toate dispozitivele.</string>
+    <string name="vip_show_info">5 milioane de membri.
+Se accelerează descărcările pe toate dispozitivele.</string>
     <string name="vip_speedup">Creșterea vitezei:</string>
     <string name="web_dialog_cancel">Renunțare</string>
     <string name="web_dialog_confirm">OK</string>

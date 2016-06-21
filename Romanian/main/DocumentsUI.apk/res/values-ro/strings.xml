@@ -21,9 +21,6 @@
     <string name="menu_share">Distribuiți</string>
     <string name="menu_sort">Sortați după</string>
     <string name="mode_selected_count">%1$d selectate</string>
-    <string name="pref_advanced_devices">Afișați dispozitive avansate</string>
-    <string name="pref_device_size">Afișați capacitatea de stocare a dispozitivelor</string>
-    <string name="pref_file_size">Afișați dimensiunile fișierelor</string>
     <string name="query_error">Interogarea referitoare la documente nu a reușit</string>
     <string name="root_available_bytes">%1$s spațiu liber</string>
     <string name="root_recent">Recente</string>

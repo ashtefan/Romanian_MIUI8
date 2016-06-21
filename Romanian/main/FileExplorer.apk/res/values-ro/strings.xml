@@ -7,10 +7,12 @@
     <string name="activity_rule">Reguli</string>
     <string name="ad_download">Descărcare</string>
     <string name="ad_downloading">Încărcare…</string>
+    <string name="add_one">+1</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
     <string name="add_task">Adăugaţi sarcini</string>
     <string name="adding_upload_tasks">Adăugare sarcini…</string>
+    <string name="all_topic">Toate subiectele</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
     <string name="already_signin_description">Sunteţi conectat deja</string>
     <string name="app_name">Explorer fişiere</string>
@@ -66,6 +68,7 @@
     <string name="category_file">Fișiere</string>
     <string name="category_files">Fișiere</string>
     <string name="category_midrive">KuaiPan</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_music">Muzică</string>
     <string name="category_other">Altele</string>
     <string name="category_photo">Fotografii</string>
@@ -77,7 +80,9 @@
     <string name="category_type_other">Altele</string>
     <string name="category_video">Video</string>
     <string name="category_zip">Arhive</string>
+    <string name="change_mobile_network_message">Comutat pe date mobile. Utilizarea datelor mobile pentru transferarea fișierelor poate genera taxe suplimentare.</string>
     <string name="change_sticker">Alegeți alt sticker</string>
+    <string name="choose_report_comment_reason">De ce raportați acest comentariu?</string>
     <string name="choose_report_reason">De ce raportați acest videoclip?</string>
     <string name="choose_send_type">Trimiteți prin...</string>
     <string name="choose_upload_location">Încărcaţi în KuaiPan</string>
@@ -87,6 +92,10 @@
     <string name="clean_trash_box">Goliți coșul de reciclare</string>
     <string name="click_to_switch_volume">Apăsați aici pentru a comuta între memoria internă și cardul SD</string>
     <string name="close">Închideţi</string>
+    <string name="comment_delete_message">Comentariul va fi șters definitiv.</string>
+    <string name="comment_delete_title">Ștergeți comentariul</string>
+    <string name="comment_hint">Adăugați un comentariu</string>
+    <string name="comment_reply">Răspuns %1$s: </string>
     <string name="compress_fail">Comprimarea a eşuat. Un fișier cu același nume există deja</string>
     <string name="compress_fail_unknown">"Comprimarea a eșuat. Spațiul de stocare este epuizat sau a apărut o eroare necunoscută."</string>
     <string name="compress_message">Nume arhivă…</string>
@@ -97,8 +106,12 @@
     <string name="connect_network_setting_des">Aminteşte-mi la accesarea reţelei</string>
     <string name="connecting">Conectare…</string>
     <string name="connection_error">Nu s-a putut conecta</string>
-    <string name="copy_failed">Copiere eşuată. Se pare că nu mai există spațiu de stocare disponibil.</string>
+    <string name="copied">Copiat</string>
+    <string name="copy_failed">"Nu s-a putut copia"</string>
+    <string name="copy_failed_retry">"Nu se poate copia; așteptați %1$s și încercați din nou"</string>
     <string name="copy_file_to_kuaipan">Copiaţi fişierul în Kuaipan</string>
+    <string name="copy_file_to_midrive">Copiați fișierul în Mi Drive</string>
+    <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
     <string name="create_kuaipan_shortcut_pref">Adăugaţi comandă rapidă pe ecranul de pornire</string>
     <string name="create_new_folder_desctiption">Creare dosar…</string>
@@ -130,12 +143,14 @@
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_error">"Nu s-au putut șterge fișierele; reîncercați, vă rog"</string>
     <string name="delete_failed">Ştergere eşuată</string>
+    <string name="delete_failed_retry">"Nu se poate șterge; așteptați %1$s și încercați din nou"</string>
     <string name="delete_file">Ştergeţi acest fişier?</string>
     <string name="delete_file_error">Nu se poate şterge fişierul</string>
     <string name="delete_files">Ştergeţi %1$d fişiere?</string>
     <string name="delete_folder">Ştergeţi acest dosar?</string>
     <string name="delete_folders">Ştergeţi %1$d dosare?</string>
     <string name="delete_selected_tasks">Ştergeţi sarcinile selectate?</string>
+    <string name="delete_success">Fișierul a fost șters</string>
     <string name="delete_video">Ștergeți</string>
     <string name="delete_video_dialog_tip">"Nu veți putea restaura videoclipul după ce îl veți șterge."</string>
     <string name="delete_video_dialog_title">Șterge videoclipul</string>
@@ -158,7 +173,12 @@
     <string name="downloaded_sticker_str">Descărcat</string>
     <string name="downloading">Descărcare…</string>
     <string name="downloading_in_3g">Descărcare prin 3G…</string>
+    <string name="drive_closed">Nu sunteți conectat</string>
+    <string name="drive_opened">Conectat</string>
     <string name="email_platform">E-mail</string>
+    <string name="empty_comment">"Comentariul nu poate fi gol"</string>
+    <string name="empty_file_download">"Nu se poate descărca un fișier gol"</string>
+    <string name="empty_file_upload">"Nu se poate încărca un fișier gol"</string>
     <string name="enable_documentsui">Activați mai întâi %s din Setări &gt; Aplicații instalate</string>
     <string name="enable_sd_card">Introduceți cardul SD sau dezactivaţi stocarea USB</string>
     <string name="enable_usb">Conectați dispozitivul USB</string>
@@ -197,6 +217,7 @@
     <string name="folder_exist">Dosar existent</string>
     <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
+    <string name="folder_name_invalid">"Numele dosarului nu poate conține următoarele caractere: /\\:*?&lt;&gt;"</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Atingeţi&lt;/a&gt;pentru a merge la Coşul de reciclare</string>
     <string name="found_router">Router conectat</string>
     <string name="found_usb">Stocare USB conectată</string>
@@ -211,6 +232,7 @@
     <string name="ftp_username_hint">Nume utilizator</string>
     <string name="gbk_summary">Codare prestabilită în Chineză Simplificată Windows</string>
     <string name="gbk_title">GBK</string>
+    <string name="get_user_info_err">"Nu s-au putut obține informații despre această persoană"</string>
     <string name="get_verification_code_fail">"Nu s-a putut obține codul de verificare"</string>
     <string name="gigabyteShort">GB</string>
     <string name="good_tip">Bravo!</string>
@@ -222,6 +244,7 @@
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view">Stocare</string>
     <string name="homepage_tab_recent">Recente</string>
+    <string name="hot_comments">Comentarii populare</string>
     <string name="hot_sticker">Stickere</string>
     <string name="hot_video">Videoclipuri</string>
     <string name="hottest_sticker_str">Popular</string>
@@ -247,8 +270,6 @@
     <string name="kuaipan_delete_success">Fotografie ştearsă</string>
     <string name="kuaipan_info">Fişiere KuaiPan</string>
     <string name="kuaipan_label">KuaiPan</string>
-    <string name="kuaipan_logged_in">Autentificat</string>
-    <string name="kuaipan_not_logged_in">Neconectat</string>
     <string name="kuaipan_over_space">Spaţiu insuficient de stocare</string>
     <string name="kuaipan_photo_folder_divider">,</string>
     <string name="kuaipan_photo_locate">Localizare %1$s</string>
@@ -278,6 +299,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="login_failed_tip">"Nu s-a putut conecta; încercați din nou mai târziu"</string>
     <string name="login_reg_content">Stocați fișiere și sincronizaţi-le cu mai multe dispozitive.</string>
     <string name="login_reg_content0">Tot conţinutul dvs., oriunde aţi merge</string>
+    <string name="login_reg_content1">Utilizați Mi Drive de oriunde ați fi.</string>
     <string name="login_success_tip">Conectat cu succes</string>
     <string name="login_tip">Partajați videoclipuri cu momente inedite pentru a câștiga premii</string>
     <string name="make_private">Ascundeți</string>
@@ -299,12 +321,40 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="menu_item_sort_type">Tip</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_list_name">Meniu</string>
+    <string name="message_comment_prefix">"Comentariu: "</string>
+    <string name="message_my_received_praise">Like-uri primite</string>
+    <string name="message_my_received_praise_count">+%1$s</string>
+    <string name="message_praise_comment">" au apreciat acest comentariu"</string>
+    <string name="message_praise_video">" au apreciat acest videoclip"</string>
+    <string name="message_reply_prefix">Răspuns</string>
+    <string name="message_reply_suffix">": "</string>
+    <string name="message_title">Mesajele mele</string>
     <string name="mi_router_label">Router</string>
+    <string name="midrive_network_connect_confirm">Mi Drive trebuie să se conecteze la internet pentru a funcționa corespunzător.</string>
+    <string name="midrive_space_full">Spațiu insuficient în Mi Drive</string>
+    <string name="midrive_welcome_message">Fișierele dumneavoastră din Kuaipan au fost mutate cu succes în Mi Drive. Vă oferim gratuit 3 luni de utilizare a Mi Cloud. Mi Cloud și Mi Drive utilizează același mediu de stocare. Vă puteți accesa fișierele la i.mi.com.</string>
+    <string name="midrive_welcome_title">Bine ați venit la Mi Drive!</string>
     <string name="midrop_msg_1">Porniți Mi Drop pe celălalt telefon</string>
     <string name="midrop_msg_2">Când Mi Drop este pornit, puteți căuta alte dispozitive din apropiere și trimite fișiere</string>
     <string name="midrop_send_files">Selectați fișierele de trimis</string>
     <string name="migrate_announcement_msg">Sincronizaţi contul existent KuaiPan cu contul dvs. Xiaomi în setările KuaiPan.</string>
     <string name="migrate_announcement_title">Migrare finalizată</string>
+    <string name="migrate_cancel">Renunță</string>
+    <string name="migrate_confirm">Transferă</string>
+    <string name="migrate_failed_confirm">Am înțeles</string>
+    <string name="migrate_failed_msg">Ceva nu a mers bine. Mutați fișierele în mod manual. &lt;a href=http://www.kuaipan.cn&gt;Apăsați aici pentru a vedea&lt;/a&gt;</string>
+    <string name="migrate_failed_title">"Nu s-au putut muta fișierele"</string>
+    <string name="migrate_failed_toast">Ceva nu a mers bine. Mutați fișierele în mod manual. &lt;a href=http://www.kuaipan.cn&gt;Apăsați aici pentru a vedea&lt;/a&gt;</string>
+    <string name="migrate_hint">Important: KuaiPan este înlocuit de Mi Drive. Atingeți pentru a vă transfera fișierele acum.</string>
+    <string name="migrate_note">Important: KuaiPan este înlocuit de Mi Drive. Mutați-vă fișierele acum.</string>
+    <string name="migrate_runing">Tranferare fișiere… Reveniți mai târziu.</string>
+    <string name="migrate_success_cancel">Am înțeles</string>
+    <string name="migrate_success_confirm">Verificați</string>
+    <string name="migrate_success_msg">Toate fișierele dumneavoastră au fost mutate din KuaiPan în Mi Drive.</string>
+    <string name="migrate_success_title">Transfer încheiat cu succes</string>
+    <string name="migrate_update_confirm">Încercați acum</string>
+    <string name="migrate_update_msg">KuaiPan a fost înlocuit cu Mi Drive pentru a vă oferi o experiență mai bună de utilizare.</string>
+    <string name="migrate_update_title">KuaiPan este înlocuit de Mi Drive</string>
     <string name="mobile_network_dialog_cancle">Renunțați</string>
     <string name="mobile_network_dialog_confirm">OK</string>
     <string name="mobile_network_dialog_tip">Utilizarea datelor mobile pentru vizionarea de videoclipuri poate genera costuri ridicate.</string>
@@ -315,6 +365,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="mobile_photo_desc" />
     <string name="month_day_format">dd MMMM</string>
     <string name="move_failed">Mutare eşuată</string>
+    <string name="move_failed_retry">"Nu se poate muta; așteptați %1$s și încercați din nou"</string>
     <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul să administreze fișierele mai eficient.</string>
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
     <string name="move_to">Mutaţi în…</string>
@@ -357,14 +408,18 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="network_spent_reminding">Deschiderea acestei pagini implică trafic de date.</string>
     <string name="network_spent_reminding_title">Notificare trafic de date</string>
     <string name="never_notify_network_connect">Nu mai afişa</string>
+    <string name="new_comments">Comentarii noi</string>
     <string name="new_folder_name">Dosar fără nume</string>
     <string name="new_function">Dosare ascunse</string>
     <string name="new_function_info">Pentru a vedea dosarele ascunse glisați în jos primul rând de iconițe din pagina de pornire.</string>
-    <string name="new_function_str">"Stickerele WeChat pot fi colecționate acum în mod automat. Descărcați-le oricând doriți și nu ratați noile apariții!"</string>
+    <string name="new_function_str">"Stickerele WeChat pot fi colecționate acum în mod automat.
+Descărcați-le oricând doriți
+și nu ratați noile apariții!"</string>
     <string name="new_function_title_str">Despre stickerele WeChat</string>
     <string name="no">Nu</string>
     <string name="no_apk">Apăsați pentru a vedea cele mai populare aplicații.</string>
     <string name="no_app_tags">Gol</string>
+    <string name="no_comment">Niciun comentariu</string>
     <string name="no_display_file">Nu se poate afişa %1$s</string>
     <string name="no_downloaded_sticker_tip">"Nu s-au putut găsi stickerele descărcate. Verificați stickerele partajate de către fanii Mi."</string>
     <string name="no_enough_storage_indication">Stocarea dispozitivului este plină</string>
@@ -373,6 +428,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="no_local_sticker_tip">"Nu s-au putut găsi stickerele descărcate. Verificați stickerele partajate de către fanii Mi."</string>
     <string name="no_login_btn_text">Conectați-vă</string>
     <string name="no_login_tip">Partajați videoclipuri cu momente inedite pentru a câștiga premii</string>
+    <string name="no_message">Niciun mesaj</string>
     <string name="no_more_space">Spaţiu de stocare insuficient</string>
     <string name="no_network_retry">"Nu se poate conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="no_network_str">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
@@ -380,6 +436,8 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="no_new_content_tip">Toate elementele sunt actualizate</string>
     <string name="no_recent_files">Niciun fişier recent</string>
     <string name="no_tasks">Nimic</string>
+    <string name="no_topic">Niciun subiect</string>
+    <string name="no_topic_found">"Nu s-au găsit subiecte"</string>
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="not_installed_documentsui">"Nu ați instalat DocumentsUI"</string>
@@ -404,7 +462,9 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="oauth_failed_tip">"Nu s-a putut finaliza autorizarea"</string>
     <string name="oauth_success_tip">Autorizare finalizată</string>
     <string name="online_not_support">Nu se poate vizualiza acest fișier în acest moment.</string>
-    <string name="open_changed_file_message">Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:\n1. Descărcați din nou fișierul pentru a-l actualiza.\n2. Îl încărcaţi în contul dvs. KuaiPan.</string>
+    <string name="open_changed_file_message">Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:
+1. Descărcați din nou fișierul pentru a-l actualiza.
+2. Îl încărcaţi în contul dvs. KuaiPan.</string>
     <string name="open_changed_file_title">Modificare aplicată</string>
     <string name="open_file_failed">Imposibil de deschis</string>
     <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse…</string>
@@ -443,6 +503,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="operation_refresh">Reîmprospătaţi</string>
     <string name="operation_rename">Redenumiţi</string>
     <string name="operation_rename_message">Redenumiţi dosarul</string>
+    <string name="operation_reply">Comentariu</string>
     <string name="operation_resume">Reluaţi</string>
     <string name="operation_resume_all">Reluaţi tot</string>
     <string name="operation_save">Salvaţi</string>
@@ -451,6 +512,10 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="operation_show_sys">Se afişează fişierele ascunse</string>
     <string name="operation_unfavorite">Eliminaţi din favorite</string>
     <string name="operation_unlike">Eliminați din Favorite</string>
+    <string name="origin_name">%1$s: </string>
+    <string name="other_user_liked_topic_tip">"Nu urmăriți niciun subiect în prezent"</string>
+    <string name="other_user_topic_tab">Subiecte</string>
+    <string name="other_user_video_tab">Videoclipuri</string>
     <string name="pan_settting">Setări KuaiPan</string>
     <string name="partial_cancel_successful">"Nu s-au putut elimina unele fișiere. Restul au fost mutate în %s."</string>
     <string name="partial_delete_failure">"Nu s-au putut șterge unele fișiere; reîncercați"</string>
@@ -502,7 +567,9 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="pull_to_signin">Glisaţi în jos pentru a vă conecta</string>
     <string name="qq_not_installed">"QQ nu este instalată"</string>
     <string name="qq_platform">QQ</string>
+    <string name="quota_info">Mi Drive: %1$s disponibil, %2$s în total</string>
     <string name="qzone_platform">Qzone</string>
+    <string name="recommend">Recomandat</string>
     <string name="release_to_signin">Eliberaţi pentru a vă conecta</string>
     <string name="remote_video_no_network">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
@@ -514,6 +581,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="repair_error">"Nu s-au putut restaura"</string>
     <string name="repair_file">Restaurați fișierele criptate</string>
     <string name="repeat_upload_video">Acest videoclip a fost partajat deja; selectați un alt videoclip.</string>
+    <string name="reply_success">Comentariul va fi postat după ce va fi analizat.</string>
     <string name="report_abuse">Abuz</string>
     <string name="report_advertisement">Reclame</string>
     <string name="report_other">Altele</string>
@@ -533,6 +601,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="sd_card_available">Disponibil: %1$s</string>
     <string name="sd_card_size">Card SD: %1$s</string>
     <string name="sd_full">Stocarea internă a telefonului este plină</string>
+    <string name="sd_invalid">"Nu se poate utiliza cardul SD"</string>
     <string name="sdcard">Card SD</string>
     <string name="sdcard_available">Disponibil %1$s</string>
     <string name="sdcard_total">Total %1$s</string>
@@ -572,6 +641,8 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="select_image">Selectaţi fotografiile</string>
     <string name="select_music">Selectaţi melodiile</string>
     <string name="select_video">Selectaţi videoclipurile</string>
+    <string name="send_comment">Trimiteți</string>
+    <string name="send_error">"Nu s-a putut adăuga comentariul"</string>
     <string name="send_sticker">Trimiteți sticker</string>
     <string name="send_to_midrive">KuaiPan</string>
     <string name="send_to_midrive_failed_message">Acest tip de fișier nu este acceptat</string>
@@ -594,7 +665,8 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="shared_sticker_page_no_file">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="shared_sticker_str">Recente</string>
     <string name="shared_sticker_suffix">Sticker la %s</string>
-    <string name="shared_sticker_use_tip">"Puteți trimite stickerele salvate la fel cum trimiteți imagini.(Imaginile GIF pot fi adăugate la Personalizate)."</string>
+    <string name="shared_sticker_use_tip">"Puteți trimite stickerele salvate la fel cum trimiteți imagini.
+(Imaginile GIF pot fi adăugate la Personalizate)."</string>
     <string name="shared_sticker_use_tip_title">Cum se folosesc stickerele</string>
     <string name="shared_str">Partajate de %s</string>
     <string name="show_message">Trebuie să descărcaţi acest fișier înainte de a-l putea deschide</string>
@@ -622,7 +694,6 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="storage_usb_description">Stocare USB</string>
     <string name="storage_warning">Imposibil de utilizat stocarea externă</string>
     <string name="subtitle_report_video">De la %1$s</string>
-    <string name="symbol_for_storage_tip">:</string>
     <string name="sys_size_enable">" disponibil"</string>
     <string name="system_alert">Conexiune internet</string>
     <string name="system_sticker_control">Arată stickerele populare</string>
@@ -653,7 +724,11 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="title_upload_video">Partajați videoclipurile</string>
     <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
     <string name="tools">INSTRUMENTE</string>
+    <string name="topic_follow">Urmăriți</string>
+    <string name="topic_followed">Urmărit</string>
+    <string name="topic_message">%1$s: %2$s</string>
     <string name="topic_winners">Câștigatorii anteriori</string>
+    <string name="trans_mobile_network_message">Utilizarea datelor mobile pentru transferul de fișiere poate genera costuri suplimentare.</string>
     <string name="trans_task">Transfer în reţea</string>
     <string name="transfer_done">Fișierele au fost mutate.</string>
     <string name="transfer_private_data">Se transferă dosarele ascunse de pe cardul SD…</string>
@@ -676,6 +751,8 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="upload_failed">Încărcare eşuată</string>
     <string name="upload_file_toolarge_message">%1$d este prea mare; nu pot fi încărcate fișiere mai mari de 300 MB</string>
     <string name="upload_local_video">Partajați clipul video</string>
+    <string name="upload_notification_compress_progress">Se comprimă %1$s%%</string>
+    <string name="upload_notification_compress_title">Se comprimă videoclipul⤦</string>
     <string name="upload_notification_failed">"Nu s-a putut încărca"</string>
     <string name="upload_notification_failed_content">Încercați din nou</string>
     <string name="upload_notification_progress">Se încarcă %1$s%%</string>
@@ -693,6 +770,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="usb_label">USB</string>
     <string name="used">Utilizat</string>
     <string name="user_agreement">Acordul utilizatorului</string>
+    <string name="user_center_setting">Setări</string>
     <string name="user_center_title">Acasă</string>
     <string name="user_guide">Aflați mai multe despre KuaiPan</string>
     <string name="user_guide_continue_use">OK</string>
@@ -706,12 +784,22 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="user_login_dialog_cancle">Renunțare</string>
     <string name="user_login_dialog_tip">Conectați-vă pentru a încărca videoclipuri, pentru a participa la evaluări și pentru a putea câștiga premii</string>
     <string name="user_login_dialog_title">Conectați-vă</string>
+    <string name="user_msg_text">Mesaje</string>
     <string name="user_no_net_video_tip">Conexiunea la rețea este slabă; verificați setările și încercați din nou</string>
     <string name="user_no_upload">Niciun videoclip</string>
     <string name="user_no_video_tip">"Nu ați încărcat niciun videoclip până acum"</string>
     <string name="user_not_login">Autentificați-vă întâi</string>
     <string name="user_not_video_btn_text">Încărcați primul dvs. videoclip</string>
+    <string name="user_setting_new_comment">Notificări despre comentarii</string>
+    <string name="user_setting_new_comment_tip">Primiți notificări despre comentariile noi.</string>
+    <string name="user_setting_new_liked">Notificări pentru aprecieri</string>
+    <string name="user_setting_new_liked_tip">Primiți notificări atunci când alte persoane vă apreciază videoclipurile</string>
+    <string name="user_setting_topic_new_msg">Notificări despre videoclipuri noi</string>
+    <string name="user_setting_topic_new_msg_tip">"Primiți notificări atunci când videoclipurile din subiectele pe care le urmăriți sunt publicate."</string>
+    <string name="user_topic_btn_text">Vedeți mai multe subiecte</string>
+    <string name="user_topic_text">Subiectele mele</string>
     <string name="user_upload_tip">Încărcați</string>
+    <string name="user_video_text">Videoclipurile mele</string>
     <string name="utf8_summary">Codare prestabilită</string>
     <string name="utf8_title">UTF-8</string>
     <string name="video_ad_download">Instalați</string>
@@ -734,6 +822,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="video_tag_search_hint">Personalizați conținutul</string>
     <string name="video_tag_search_lead">\#</string>
     <string name="video_tag_search_title">Selectați conținutul</string>
+    <string name="video_topic_hint">Căutare</string>
     <string name="video_upload_btn">Următorul</string>
     <string name="video_upload_btn_hint">Videoclipurile în format mp4 trebuie să aibă între 3 sec. și 10 min. lungime</string>
     <string name="video_upload_btn_hint_span">"Nu ați găsit videoclipul?"</string>
@@ -743,7 +832,9 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="video_upload_retry_message">"Nu s-a putut încărca. Încercați din nou?"</string>
     <string name="video_upload_retry_title">Încearcă din nou</string>
     <string name="video_upload_title">Selectați videoclipul</string>
+    <string name="videos">Videoclipuri</string>
     <string name="view_more_sticker">Vedeți mai multe stickere</string>
+    <string name="vip_info">VIP: %1$s</string>
     <string name="wait_net">Aşteptare reţea…</string>
     <string name="wait_sdcard">Aşteptare card SD…</string>
     <string name="wait_wifi">Aşteptare Wi-Fi…</string>
@@ -761,4 +852,5 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
+    <string name="zero_comment">Niciun comentariu</string>
 </resources>

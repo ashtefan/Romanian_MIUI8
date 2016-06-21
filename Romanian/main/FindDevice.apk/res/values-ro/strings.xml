@@ -46,8 +46,6 @@ Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a r
     <string name="stop_on_empty_captcha">"Codul de verificare nu poate fi gol"</string>
     <string name="stop_on_empty_password">"Câmpul Parolă nu poate fi gol"</string>
     <string name="time_correction_failure">"Nu s-a putut corecta ora. %s"</string>
-    <string name="time_correction_failure_network">Eroare de rețea</string>
-    <string name="time_correction_failure_no_ntp">"Nu există servere NTP disponibile"</string>
     <string name="time_correction_success">Ora a fost corectată</string>
     <string name="unlock">Activați</string>
     <string name="unlock_access_denied">Acces refuzat</string>

@@ -51,9 +51,7 @@
     <string name="handy_mode_title">Modul Operare cu o mână</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Plasați degetul pe butonul Acasă</string>
     <string name="internal_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale</string>
-    <string name="internal_remain_mins">%1$s minute rămase (apeluri naţionale)</string>
     <string name="international_livetalk_enable">Utilizați pachete de suplinire pentru apeluri internaționale</string>
-    <string name="international_remain_mins">%1$s minute rămase (%2$s apeluri)</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spaţiu</string>
     <string name="livetalk_not_enable">Livetalk este oprit</string>
@@ -78,8 +76,6 @@
     <string name="reboot_progress">Repornire…</string>
     <string name="replace">Înlocuire</string>
     <string name="resource_select">Selectați</string>
-    <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
-    <string name="screen_button_enabled_message">Butoanele de navigare au fost activate.</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan.</string>
@@ -87,6 +83,11 @@
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
     <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
+    <string name="security_permission_denied_text">Acces nepermis</string>
+    <string name="security_permission_failed_text">Eroare internă; reîncercați mai târziu</string>
+    <string name="security_permission_validate_warning">Vă mulțumim că ne ajutați să facem MIUI mai bun!</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi și datele mobile pornite</string>
+    <string name="security_permission_xiaomi_account_missed_text">Introduceți Mi Account ID</string>
     <string name="select">Selectaţi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="set_password_action">Stabiliți parola</string>
@@ -98,7 +99,7 @@
     <string name="sim_added_reboot_title">Cartela SIM se va activa după ce reporniți dispozitivul.</string>
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
-    <string name="status_bar_toggle_ac">Blocare aplicaţii</string>
+    <string name="start_security_permission_verify_text">Verificați permisiunile cu ajutorul contului Mi</string>
     <string name="status_bar_toggle_auto_brightness">Automat</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_cast">Distribuiți</string>
@@ -121,6 +122,10 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="subinfo_default_name">SIM %d</string>
+    <string name="translation_query_error">"Nu s-a găsit niciun rezultat"</string>
+    <string name="translation_query_error_network">"Nu s-a putut conecta la rețea. Verificați setările ți încercați din nou"</string>
     <string name="turn_off">Opriți</string>
     <string name="unknown_caller">Număr necunoscut</string>
+    <string name="user_switching_dialog_text">Comutare…</string>
+    <string name="xspace_resolver_activity_title">Selectați aplicația</string>
 </resources>

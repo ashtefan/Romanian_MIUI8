@@ -40,7 +40,6 @@
     <string name="default_alarm_alert">Setaţi sunetul prestabilit al alarmei</string>
     <string name="default_alarm_title">Ton sonerie prestabilit</string>
     <string name="default_label">Alarmă</string>
-    <string name="delelte_selected_timezone">Ştergeţi fusul orar selectat?</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_alarm">Ştergeţi alarma</string>
     <string name="delete_alarm_confirm">Ştergeţi această alarmă?</string>

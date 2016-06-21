@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="sleep_duration_values">
+    <string-array name="sleep_duration_values">
         <item>15 minute</item>
         <item>30 de minute</item>
         <item>45 de minute</item>
         <item>O oră</item>
      </string-array>
-      <string-array name="search_category_rbds_entries">
+    <string-array name="search_category_rbds_entries">
         <item>Toate staţiile</item>
         <item>Adult Hits</item>
         <item>Muzică Clasică</item>
@@ -35,7 +35,7 @@
         <item>Top 40</item>
         <item>Meteo</item>
      </string-array>
-      <string-array name="search_category_rds_entries">
+    <string-array name="search_category_rds_entries">
         <item>Toate staţiile</item>
         <item>Cultură</item>
         <item>Afaceri curente</item>
@@ -69,12 +69,12 @@
         <item>Variat</item>
         <item>Meteo</item>
      </string-array>
-      <string-array name="presetlist_edit_category">
+    <string-array name="presetlist_edit_category">
         <item>Redenumiţi</item>
         <item>Selectare automată</item>
         <item>Ştergeţi</item>
      </string-array>
-      <string-array name="regional_band_entries">
+    <string-array name="regional_band_entries">
         <item>America de Nord</item>
         <item>Europa</item>
         <item>Japonia</item>
@@ -112,7 +112,7 @@
         <item>Regatul Unit</item>
         <item>Statele Unite</item>
      </string-array>
-      <string-array name="regional_band_summary">
+    <string-array name="regional_band_summary">
         <item>America de Nord (87.5 MHz - 108.0 MHz cu pasul 200 khz)</item>
         <item>Europa (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
         <item>Japonia (76.0 MHz - 90.0 MHz cu pasul 100 kHz)</item>
@@ -150,19 +150,19 @@
         <item>Regatul Unit (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
         <item>Statele Unite (88.1 MHz - 107.9 MHz cu pasul 200 kHz)</item>
      </string-array>
-      <string-array name="rf_cfg">
+    <string-array name="rf_cfg">
         <item>Obțineţi parametrii staţiei actuale</item>
         <item>Obțineţi parametrii staţiei repetat de 20 de ori</item>
         <item>Obțineţi parametrii de căutare a stației</item>
         <item>Obțineţi parametrii benzii FM</item>
         <item>Configuraţi parametrii de căutare FM</item>
      </string-array>
-     <string-array name="cfg_rf">
+    <string-array name="cfg_rf">
         <item>Setaţi FM RSSI Delta</item>
         <item>Setaţi pragul semnalului</item>
         <item>Statistici RF</item>
      </string-array>
-     <string-array name="stats_options">
+    <string-array name="stats_options">
         <item>Selectaţi opţiunea</item>
         <item>Configuraţi parametrii de căutare FM</item>
         <item>Statistici RF</item>

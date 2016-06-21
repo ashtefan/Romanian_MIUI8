@@ -7,6 +7,7 @@
 accesați %s"</string>
     <string name="loading">Încărcare…</string>
     <string name="mibi_license">Termenii si condițiile serviciului Mi Credit</string>
+    <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
     <string name="open_wifi_connect_title">Conectați-vă la %1$s</string>
     <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>
     <string name="policy_name">Politica de confidențialitate: %s</string>

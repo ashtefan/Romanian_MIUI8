@@ -67,9 +67,12 @@
     <string name="warning_tip_content">Nu mai sunteţi conectat la Wi-Fi. Utilizarea conexiunii de date mobile pentru a finaliza această descărcare va crește utilizarea datelor. Dacă treceţi peste limita planului de date, operatorul ar putea percepe taxe suplimentare.</string>
     <string name="warning_tip_ok">Întrerupeţi</string>
     <string name="warning_tip_title">Avertisment de utilizare a datelor</string>
-    <string name="wifi_recommended_body" formatted="false">Despre descărcarea prin reţeaua mobilă\n\n %s（%s）\n\nDescărcarea fişierului poate genera costuri suplimentare.</string>
-    <string name="wifi_recommended_title">Memento trafic de date</string>
-    <string name="wifi_required_body" formatted="false">Trebuie să utilizaţi Wi-Fi pentru a finaliza această descărcare de %s.\n\nAtingeţi %s  pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi.</string>
+    <string name="wifi_recommended_body" formatted="false">Despre descărcarea prin reţeaua mobilă\n\n %s（%s）\n\nDescărcarea fişierului poate genera costuri suplimentare.
+ Apăsați %s pentru a porni descărcarea data viitoare când veți fi conectat la Wi-Fi."</string>
+    <string name="wifi_recommended_title">Adăugați pentru descărcarea ulterioară?</string>
+    <string name="wifi_required_body" formatted="false">Trebuie să utilizaţi Wi-Fi pentru a finaliza această descărcare de %s.
+    
+ Atingeţi %s  pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi.</string>
     <string name="wifi_required_title">Descărcare de dimensiune prea mare pentru reţeaua operatorului</string>
     <string name="xl_speedup_experience_notify_context">"Dacă sunteți membru Xunlei veți beneficia de viteză ridicată de descărcare"</string>
     <string name="xl_speedup_experience_notify_title">Membru Xunlei</string>
