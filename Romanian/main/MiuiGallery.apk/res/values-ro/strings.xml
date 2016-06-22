@@ -674,7 +674,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="video_editor_encode_video_error">"Nu s-a putut codifica videoclipul"</string>
     <string name="video_editor_fatal_error">Eroare necunoscută</string>
     <string name="video_editor_filter">Filtru</string>
-    <string name="video_editor_filter_black_and_white">B&W</string>
+    <string name="video_editor_filter_black_and_white">Alb-negru</string>
     <string name="video_editor_filter_blue">Albastru</string>
     <string name="video_editor_filter_cloud">Rece</string>
     <string name="video_editor_filter_gothic">Verde</string>
