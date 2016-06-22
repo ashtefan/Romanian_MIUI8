@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="slideshow_time_entries">
-        <item>5 minute</item>
-        <item>15 minute</item>
-        <item>30 de minute</item>
-        <item>1 oră</item>
-        <item>Infinit</item>
-     </string-array>
-     <string-array name="baby_sexy">
+    <string-array name="baby_sexy">
         <item>Băiat</item>
         <item>Fată</item>
     </string-array>

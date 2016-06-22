@@ -44,6 +44,7 @@
     <string name="cant_remove_folder">Nu se poate elimina dosarul</string>
     <string name="cant_remove_retained_app">Nu a putut fi eliminată această aplicație</string>
     <string name="cant_remove_system_app">Nu se poate elimina o aplicație de sistem</string>
+    <string name="change_wallpaper">Modificați</string>
     <string name="children_folder_title">Copii</string>
     <string name="children_mode_exit">Ieşire</string>
     <string name="children_mode_tips">Întoarceți-vă la Setări pentru a gestiona accesul la aplicații.</string>
@@ -52,6 +53,9 @@
     <string name="cloud_app_restore_title">În așteptare</string>
     <string name="configure_wallpaper">Setări</string>
     <string name="confirm_btn_label">OK</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplicațiile clonate vor fi dezinstalate împreună cu acestea.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Aplicația clonată va fi dezinstalată împreună cu aceasta.</string>
+    <string name="confirm_uninstall_dialog_title">Aplicațiile clonate corespunzătoare vor fi eliminate.</string>
     <string name="current_preview">Previzualizare</string>
     <string name="current_wallpaper">Actuală</string>
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
@@ -141,6 +145,7 @@
     <string name="guide_install_app_msg">Aplicaţia nu este instalată pe telefonul dvs. Căutaţi şi descărcaţi aplicaţia acum?</string>
     <string name="guide_install_app_title">Instalaţi aplicaţia</string>
     <string name="guide_tips_editing_mode">Atingeți și mențineți apăsat pentru a plasa un widget pe ecran</string>
+    <string name="home_screen">Ecranul principal</string>
     <string name="image_too_small_message">Imaginea originală nu este destul de mare</string>
     <string name="install">Instalaţi</string>
     <string name="invalid_contact_shortcut">Contact greşit</string>
@@ -151,8 +156,10 @@
     <string name="loading_desktop">Doar o secundă…</string>
     <string name="loading_wallpaper">Doar o secundă…</string>
     <string name="local_wallpaper">Descărcate</string>
+    <string name="lock_screen">Blocarea ecranului</string>
     <string name="lock_screen_failed_message">Aplicare eşuată</string>
     <string name="lock_screen_success_message">Aplicată</string>
+    <string name="lock_screen_wallpaper">Imagine de fundal în blocarea ecranului</string>
     <string name="menu_add">Adăugaţi</string>
     <string name="menu_back_desktop">Înapoi la ecranul de pornire</string>
     <string name="menu_customize">Setări</string>
@@ -170,6 +177,8 @@
     <string name="mi_wallpaper">Magazin Teme MIUI</string>
     <string name="mtzgadget_missing_text">Obiectul widget nu este disponibil</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare</string>
+    <string name="no_detail_page">Nicio pagină cu detalii</string>
+    <string name="normal_wallpaper">Imagine de fundal</string>
     <string name="online_wallpaper">On-line</string>
     <string name="out_of_space">Nu mai este loc pe acest ecran</string>
     <string name="permdesc_install_shortcut">Permite unei aplicaţii să adauge comenzi rapide fără intervenţia utilizatorului.</string>
@@ -203,7 +212,6 @@
     <string name="process" />
     <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_notice">Aplicaţii recomandate</string>
-    <string name="recommend_apps_switch_summary">Se afişează aplicațiile recomandate în partea de jos a ecranului.</string>
     <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
     <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar.</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>
@@ -249,12 +257,16 @@
     <string name="uninstall_result_other_failed" formatted="false">Nu se poate dezinstala %s şi alte %d aplicaţii</string>
     <string name="uninstall_result_succeeded">Aplicaţie dezinstalată</string>
     <string name="uninstall_result_two_failed">Nu se poate dezinstala %s şi încă o aplicaţie</string>
+    <string name="uninstall_with_xspace_dialog_message">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele acestora.</string>
+    <string name="uninstall_xspace_dialog_message">Dezinstalarea aplicației clonate va șterge și toate datele acesteia.</string>
+    <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar fără nume</string>
     <string name="wallpaper">Imagine de fundal</string>
     <string name="wallpaper_auto_change_title">Blocare ecran</string>
     <string name="wallpaper_failed_message">Nu se poate aplica imaginea de fundal</string>
     <string name="wallpaper_scaling_message">Extindere la dimensiunea fixă</string>
+    <string name="wallpaper_scroll_type_tips">Derulare imagine de fundal</string>
     <string name="wallpaper_settings">Imagine de fundal</string>
     <string name="wallpaper_success_message">Imagine de fundal aplicată</string>
     <string name="widget_favorite_contacts_edit">Editare</string>

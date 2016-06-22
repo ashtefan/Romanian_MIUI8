@@ -100,7 +100,13 @@ Actualizați oricum?"</string>
     <string name="auto_enable_avoid_disturb_comments">"Mi Band va activa modul DND după ce va detecta că ați adormit"</string>
     <string name="auto_enable_avoid_disturb_tips">Activare automată a modului DND</string>
     <string name="ave_day_step">În medie %1$d pași zilnic</string>
-    <string name="avoid_disturb_not_bound">Asociați Mi Band pentru a utiliza modul DND</string>
+    <string name="avoid_disturb_not_bound">Asociați Mi Band pentru a utiliza modul Nu deranjați</string>
+    <string name="avoid_disturb_not_bound_milipro">Asociați Mi Band pentru a utiliza modul Nu deranjați</string>
+    <string name="avoid_disturb_off_time">Sfărșit</string>
+    <string name="avoid_disturb_on_status_tips">Modul Nu deranjați este activ</string>
+    <string name="avoid_disturb_on_time">Start</string>
+    <string name="avoid_disturb_time_tips_am">AM</string>
+    <string name="avoid_disturb_time_tips_pm">PM</string>
     <string name="avoid_disturb_tips">DND</string>
     <string name="baby_no_weight">Nu există un istoric al greutăţii</string>
     <string name="baby_weight">"Greutatea bebelușului"</string>
@@ -124,6 +130,7 @@ Actualizați oricum?"</string>
     <string name="bin_weixin_device_not_connect">Conectați Mi Band pentru a adăuga contul WeChat</string>
     <string name="bind_band_to_analy">Asociați Mi Band pentru a vă analiza somnul</string>
     <string name="bind_binding">Asociere…</string>
+    <string name="bind_camery_exception">Eroare la accesarea camerei foto; verificați permisiunile și reîncercați</string>
     <string name="bind_failed">"Asocierea a eșuat"</string>
     <string name="bind_failed_help">"Nu s-a putut asocia. Restartați conexiunea Bluetooth și reîncercați"</string>
     <string name="bind_failed_net_error">"Nu s-a putut asocia. Verificați rețeaua și reîncercați"</string>

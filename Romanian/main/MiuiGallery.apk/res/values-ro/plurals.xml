@@ -1,110 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_album">
-        <item quantity="other">Ştergeţi %1$s albume (%2$s în total)?</item>
-        <item quantity="one">Ştergeţi %1$s album (%2$s în total)?</item>
-    </plurals>
-     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Elementele selectate includ fotografii sau videoclipuri din Mi Cloud, ştergeţi %s elemente de pe acest dispozitiv şi din Mi Cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Elementele selectate includ fotografii din Mi Cloud, ştergeţi %s fotografii de pe acest dispozitiv şi din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat include o fotografie din Mi Cloud, ştergeţi %s fotografie de pe acest dispozitiv şi din Mi Cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Elementele selectate includ videoclipuri din Mi Cloud, ştergeţi %s videoclipuri de pe acest dispozitiv şi din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat include un videoclip din Mi Cloud, ştergeţi %s videoclip de pe acest dispozitiv şi din Mi Cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Elementele selectate sunt fotografii sau videoclipuri din Mi Cloud, ştergeţi %s elemente din Mi Cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Elementele selectate sunt fotografii din Mi Cloud, ştergeţi %s fotografii din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat este o fotografie din Mi Cloud, ştergeţi %s fotografie din Mi Cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Elementele selectate sunt videoclipuri din Mi Cloud, ştergeţi %s videoclipuri din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat este un videoclip din Mi Cloud, ştergeţi %s videoclip din Mi Cloud?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">Ştergeţi %s elemente din acest album?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">Ştergeţi %s elemente?</item>
-    </plurals>
-      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Ştergeţi %s fotografii din acest album?</item>
-        <item quantity="one">Ştergeţi %s fotografie din acest album?</item>
-     </plurals>
-     <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Ştergeţi %s fotografii?</item>
-        <item quantity="one">Ştergeţi %s fotografie?</item>
-     </plurals>
-     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Ştergeţi %s videoclipuri din acest album?</item>
-        <item quantity="one">Ştergeţi %s videoclip din acest album?</item>
-     </plurals>
-      <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Ştergeţi %s videoclipuri?</item>
-        <item quantity="one">Ştergeţi %s videoclip?</item>
-     </plurals>
-     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">Ştergeţi %1$d videoclipuri din %2$d albume?</item>
-        <item quantity="one">Ştergeţi %1$d videoclip din %2$d albume?</item>
-    </plurals>
-    <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Ştergeţi %1$d imagini din %2$d albume?</item>
-        <item quantity="one">Ştergeţi %1$d imagine din %2$d albume?</item>
-    </plurals>
-     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selectate</item>
-        <item quantity="zero">%1$d selectate</item>
-        <item quantity="one">%1$d selectat</item>
-     </plurals>
-     <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
-     </plurals>
-     <plurals name="how_many_pics">
-        <item quantity="other">%d fotografii</item>
-        <item quantity="one">%d fotografie</item>
-     </plurals>
-     <plurals name="how_many_videos">
-        <item quantity="other">%d videoclipuri</item>
-        <item quantity="one">%d videoclip</item>
-     </plurals>
-     <plurals name="how_many_sub_folders">
-        <item quantity="other">%d dosare</item>
-        <item quantity="one">%d dosar</item>
-     </plurals>
-     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Nu aveți permisiunea de a șterge aceste %d fişiere.</item>
-        <item quantity="one">Nu aveți permisiunea de a șterge acest %d fişier.</item>
-     </plurals>
-     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Puteți selecta %d elemente</item>
-        <item quantity="one">Puteți selecta %d element</item>
-     </plurals>
-     <plurals name="number_of_images">
-        <item quantity="other">%1$d fotografii</item>
-        <item quantity="zero">%1$d fotografii</item>
-        <item quantity="one">%1$d fotografie</item>
-     </plurals>
-     <plurals name="number_of_items">
-        <item quantity="other">%1$d elemente</item>
-        <item quantity="zero">%1$d elemente</item>
-        <item quantity="one">%1$d element</item>
-     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%d secunde</item>
-        <item quantity="one">1 secundă</item>
-    </plurals>
     <plurals name="ignore_faces_alert_msg">
         <item quantity="other">Nu se afişează aceste persoane?</item>
         <item quantity="one">Nu se afişează această persoană?</item>
     </plurals>
-     <plurals name="more_face">
+    <plurals name="more_face">
         <item quantity="other">%1$s fotografii ale %2$s >></item>
         <item quantity="one">%1$s fotografie a %2$s >></item>
     </plurals>
@@ -131,6 +31,30 @@
     <plurals name="album_already_share_user_count">
         <item quantity="other">Partajat cu %d persoane</item>
         <item quantity="one">Partajat cu %d persoană</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?</item>
+        <item quantity="one">Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Fotografiile selectate nu sunt pe telefon (%dMB); le descărcați utilizând datele mobile?</item>
+        <item quantity="one">Fotografia selectată nu este pe telefon (%dMB); o descărcați utilizând datele mobile?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Fotografiile selectate nu sunt pe telefon; se descarcă</item>
+        <item quantity="one">Fotografia selectată nu este pe telefon; se descarcă</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d fotografii nu au putut fi descărcate; reîncercați?</item>
+        <item quantity="one">o fotografie nu a putut fi descărcată; reîncercați?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d fotografii (%2$dMB) nu au putut fi descărcate; reîncercați?</item>
+        <item quantity="one">o fotografie (%2$dMB) nu a putut fi descărcată; reîncercați?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Renunțați la descărcarea celor %d fotografii rămase?</item>
+        <item quantity="one">Renunțați la descărcarea ultimei fotografii?</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Ștergeți %1$d fotografii %2$s?</item>
@@ -179,22 +103,6 @@
     <plurals name="local_space_full">
         <item quantity="other">Nu există suficient spațiu pe telefon. %1$d elemente așteaptă să fie rezervate</item>
         <item quantity="one">Nu există suficient spațiu pe telefon. %1$d element așteaptă să fie rezervat</item>
-    </plurals>
-    <plurals name="baby_age_subtitle_year">
-        <item quantity="other">"%1$d ani "</item>
-        <item quantity="one">"%1$d an "</item>
-    </plurals>
-    <plurals name="baby_age_subtitle_month">
-        <item quantity="other">"%1$d luni "</item>
-        <item quantity="one">"%1$d lună "</item>
-    </plurals>
-    <plurals name="baby_age_subtitle_day">
-        <item quantity="other">%1$d zile</item>
-        <item quantity="one">%1$d zi</item>
-    </plurals>
-    <plurals name="baby_album_share_user_count_tip">
-        <item quantity="other">%1$d persoane ce urmăresc</item>
-        <item quantity="one">%1$d persoană ce urmăreşte</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d imagini aşteaptă sincronizarea</item>

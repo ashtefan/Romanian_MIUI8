@@ -12,14 +12,11 @@
     <string name="declaration_title">Termeni și Condiții de utilizare</string>
     <string name="hour_1">În fiecare oră</string>
     <string name="hour_3">La fiecare 3 ore</string>
-    <string name="lockscreen_magazine_subscribe">%1$s urmăritori</string>
     <string name="lockscreen_magazine_summary">Categorii.</string>
-    <string name="lockscreen_magazine_system_subscribe">%1$s imagini de fundal</string>
     <string name="lockscreen_magazine_system_title">Offline</string>
     <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
     <string name="minutes_15">La fiecare 15 minute</string>
     <string name="no_long_show">"Nu arăta din nou"</string>
-    <string name="ok">De acord</string>
     <string name="ok_international">De acord</string>
     <string name="ok_lockscreen">OK</string>
     <string name="ok_network">Sunt de acord</string>

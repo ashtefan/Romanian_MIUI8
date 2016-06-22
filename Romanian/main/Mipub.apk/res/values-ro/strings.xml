@@ -101,6 +101,7 @@
     <string name="message_block_processing">Procesare...</string>
     <string name="message_block_reminder">Reamintire</string>
     <string name="message_failed">Eșuat</string>
+    <string name="message_list_all_read">Marcați toate ca citite</string>
     <string name="message_pending">Trimitere</string>
     <string name="message_readed">Citit</string>
     <string name="message_saved_as_draft">Mesaj salvat ca și schiță.</string>
