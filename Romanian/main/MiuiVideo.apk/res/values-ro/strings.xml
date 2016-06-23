@@ -4,6 +4,7 @@
     <string name="about_title">Despre</string>
     <string name="about_version">1.0.1</string>
     <string name="about_version_label">Versiune</string>
+    <string name="account_auth_fail">Autentificarea în cont a eșuat</string>
     <string name="actor">Actor</string>
     <string name="actor_intro">Despre</string>
     <string name="ad_moredetail">Vizualizaţi detaliile</string>
@@ -149,6 +150,7 @@
     <string name="enter_detail">Mai multe informații</string>
     <string name="episode_name_format">Ep. %1$s</string>
     <string name="episode_suffix">"Ep. %d "</string>
+    <string name="error_empty_epg">Nicio informație EPG</string>
     <string name="error_empty_filter_title">Niciun rezultat</string>
     <string name="error_empty_title">Ceva a mers prost</string>
     <string name="expire_time">timp expirare</string>
@@ -187,6 +189,7 @@
     <string name="lastrefresh">Actualizare recentă:</string>
     <string name="lekan">Lekan</string>
     <string name="letv">Letv</string>
+    <string name="live">În direct</string>
     <string name="loading"><CDATA>Încărcare </CDATA></string>
     <string name="loading_video_netplay_label">Încărcare…</string>
     <string name="loading_video_netplay_label_v5">Încărcare…</string>
@@ -303,6 +306,7 @@
     <string name="reload_sub_title">Atingeţi pentru a reîncerca</string>
     <string name="reload_title">Nu se poate conecta la rețea</string>
     <string name="reload_title_ep">Nu s-a putut obține seria completă</string>
+    <string name="replay">Redați din nou</string>
     <string name="retry">Reîncercaţi</string>
     <string name="router">Router</string>
     <string name="router_download_task_with">%d sarcini</string>
@@ -485,6 +489,7 @@
     <string name="vp_select_ep">Selectaţi episodul</string>
     <string name="vp_select_function">Setări player</string>
     <string name="vp_select_source">Selectaţi sursa</string>
+    <string name="vp_select_tv">Canale</string>
     <string name="vp_select_video_definition">Selectaţi rezoluţia video</string>
     <string name="vp_select_video_source">Selectaţi sursa</string>
     <string name="vp_skip">Omiteţi intro și credite</string>

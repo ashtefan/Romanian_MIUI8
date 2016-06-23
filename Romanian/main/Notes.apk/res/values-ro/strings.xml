@@ -19,10 +19,18 @@
     <string name="button_new_note">Notă nouă</string>
     <string name="call_record_folder_name">Note apel</string>
     <string name="default_folder_name">Dosar fără nume</string>
+    <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
     <string name="dlg_delete_message">Ștergere…</string>
     <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul Silenţios este activat</string>
     <string name="dlg_info_creating_message">Creare mesaj…</string>
+    <string name="dlg_move_message">Mutare…</string>
+    <string name="dlg_privacy_message">Se ascunde…</string>
+    <string name="dlg_stick_message">Fixare…</string>
     <string name="dlg_title_confirm_alarm_silent">Alarmă silenţioasă</string>
+    <string name="dlg_unmark_privacy_message">Se afișează…</string>
+    <string name="empty_folder_hint">"Niciun dosar
+Atingeți simbolul + pentru a crea un dosar"</string>
+    <string name="empty_note_mark_privacy_error">"Nu se poate ascunde o notă fără conținut"</string>
     <string name="enable_sync">Sincronizaţi</string>
     <string name="enable_sync_desc">Sincronizaţi notele cu contul dvs. Mi (%1$s)?</string>
     <string name="error_contact_not_exist">Contact inexistent</string>
@@ -41,13 +49,16 @@
     <string name="menu_create_folder">Dosar nou</string>
     <string name="menu_delete">Ştergeţi</string>
     <string name="menu_folders">Dosare</string>
+    <string name="menu_mark_privacy">Ascundeți</string>
     <string name="menu_move_parent_folder">Dosarul sursă</string>
+    <string name="menu_move_to">Mutați în</string>
     <string name="menu_send_to_desktop">Plasaţi pe desktop</string>
     <string name="menu_send_wechat">Trimiteţi la WeChat</string>
     <string name="menu_send_weibo">Trimiteţi la Weibo</string>
     <string name="menu_source">Din %1$s</string>
     <string name="menu_stick">Fixaţi</string>
     <string name="menu_title_select_folder">Selectaţi dosarul</string>
+    <string name="menu_unmark_privacy">Afișați</string>
     <string name="menu_unstick">Anulaţi fixarea</string>
     <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Nu acum</string>
@@ -70,10 +81,15 @@
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
     <string name="pref_title_recover_help">Recuperați notele</string>
+    <string name="privacy_hint">Confidențialitate</string>
+    <string name="privacy_notes_fragment_title">Note ascunse</string>
     <string name="redo">Repetaţi</string>
+    <string name="rename_folder_dialog_tile">Redenumiți dosarul</string>
     <string name="search">Note</string>
     <string name="search_hint">Căutaţi note</string>
+    <string name="search_keyword_notes">Note;Memento</string>
     <string name="search_label">Căutare...</string>
+    <string name="search_path_notes">Setări/Aplicații de sistem/Note</string>
     <string name="search_setting_description">Căutare text în notele dvs.</string>
     <string name="select_account_prompt">Activaţi sincronizarea notelor</string>
     <string name="sina_share_fail">Trimitere eşuată</string>
@@ -100,19 +116,34 @@
     <string name="sns_toast_empty">Nu se poate trimite o postare goală</string>
     <string name="sns_toast_over_limit">Trimis ca imagine (peste limita de text)</string>
     <string name="sync_tips">Apăsați pentru a sincroniza notele cu Mi Cloud.</string>
+    <string name="theme_title_antique">Toamnă</string>
+    <string name="theme_title_arty">Floral</string>
+    <string name="theme_title_blue">Albastru</string>
+    <string name="theme_title_candy">Acadea</string>
+    <string name="theme_title_dark">Întunecat</string>
+    <string name="theme_title_default">Implicit</string>
+    <string name="theme_title_green">Verde</string>
+    <string name="theme_title_invitation">Invitație</string>
+    <string name="theme_title_red">Roșu</string>
+    <string name="theme_title_star">Steluțe</string>
+    <string name="theme_title_yellow">Galben</string>
     <string name="toast_folder_privacy_mode">Nu puteţi edita dosarul în modul Vizitator</string>
+    <string name="toast_mark_privacy_notes">Ascunse cu succes</string>
+    <string name="toast_mark_privacy_notes_count">%1$s note au fost ascunse cu succes</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_message_add_text_warn">Acest tip de fișier nu este acceptat</string>
     <string name="toast_note_privacy_mode">Nu puteţi edita nota în modul Vizitator</string>
+    <string name="toast_privacy_mode">"Nu se poate finaliza acțiunea pentru notițele ascunse"</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
+    <string name="toast_unmark_privacy_notes">Anularea ascunderii a reușit</string>
+    <string name="toast_unmark_privacy_notes_count">%1$s note nu mai sunt ascunse</string>
     <string name="undo">Anulaţi</string>
     <string name="unknown_source">Sursă necunoscută</string>
     <string name="welcome_note_for_cm">"Și multe alte caracteristici!
   - Sincronizare cu Mi Cloud
-  - Setare memento-uri
-
-"</string>
+ 
+  - Setare memento-uri"</string>
     <string name="widget_content_loading">Doar o secundă…</string>
     <string name="widget_havenot_content">Atingeţi pentru a crea o notă. Redimensionaţi prin apăsare și tragere spre una din margini.</string>
     <string name="widget_under_privacy_mode">Nu se pot vizualiza notele în modul Vizitator</string>

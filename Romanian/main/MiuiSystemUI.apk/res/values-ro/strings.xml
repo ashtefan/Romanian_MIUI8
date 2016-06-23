@@ -57,6 +57,8 @@
     <string name="battery_low_percent_format">Rămas: %d%%</string>
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_profiles">Utilizaţi profiluri pentru acumulator</string>
+    <string name="block_notification_content_text">"Notificările %1$s nu vor mai fi afișate. Puteți modifica acest lucru în Setări."</string>
+    <string name="block_notification_text">Ascundeți</string>
     <string name="block_record_notification_more_text">Se ascund notificările de la %1$s şi %2$d aplicaţii.</string>
     <string name="block_record_notification_text">Se ascund notificările de la %1$s.</string>
     <string name="block_record_notification_title">Notificări ascunse</string>
@@ -75,7 +77,9 @@
     <string name="camera_key_action_shortcut_wake">Blocaţi/Deblocaţi dispozitivul</string>
     <string name="camera_key_action_toggle_title">Declanşare comutator</string>
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
-    <string name="data_usage_disabled_dialog">Aţi atins limita specificată pentru utilizarea datelor.\n\nDacă reactivaţi datele, puteţi fi taxat de către operator.</string>
+    <string name="data_usage_disabled_dialog">Aţi atins limita specificată pentru utilizarea datelor.
+    
+Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="data_usage_disabled_dialog_3g_title">Datele 2G-3G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_4g_title">Datele 4G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_enable">Reactivaţi datele</string>
@@ -92,6 +96,7 @@
     <string name="dlg_error_title">Operaţiune USB nereuşită</string>
     <string name="dlg_ok">OK</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
+    <string name="enable_power_save_mode">Activați Economisire acumulator</string>
     <string name="expanded_confirm_disable_notification">Ascundeţi</string>
     <string name="expanded_notification_manager">Gestionare notificări</string>
     <string name="ext_media_badremoval_notification_message">Demontaţi cardul SD înainte de eliminare pentru a evita pierderea datelor.</string>
@@ -109,16 +114,21 @@
     <string name="ext_media_safe_unmount_notification_title">Cardul SD poate fi eliminat în siguranţă</string>
     <string name="ext_media_unmountable_notification_message">Card SD deteriorat. Va trebui să-l formatați.</string>
     <string name="ext_media_unmountable_notification_title">Card SD deteriorat</string>
+    <string name="float_incall_ignore">Ignorați</string>
+    <string name="float_incall_message">Mesaj</string>
     <string name="gps_notification_found_text">Locaţie setată prin GPS</string>
     <string name="gps_notification_searching_text">Se caută semnalul GPS</string>
-    <string name="headset_custom">Revocaţi</string>
-    <string name="headset_info">Personalizaţi funcţiile butonului</string>
-    <string name="headset_settings">Căşti conectate</string>
-    <string name="hint_for_long_press_app_switch_key">Apăsați și țineți apăsat pentru meniu</string>
-    <string name="invalid_charger">Încărcarea USB nu este acceptată.\nUtilizați doar încărcătorul furnizat de producător.</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="invalid_charger">"Încărcarea USB nu este acceptată.
+Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
     <string name="lockscreen_carrier_default">Niciun serviciu</string>
+    <string name="long_screenshot_not_support_msg">"Aplicația curentă nu suportă captura de ecran extinsă"</string>
+    <string name="long_screenshot_out_of_memory_error">Dimensiunea imaginii este prea mare</string>
+    <string name="long_screenshot_processing">Procesare…</string>
+    <string name="long_screenshot_stop">Finalizat</string>
+    <string name="long_screenshot_top_msg">Extindere captură de ecran…</string>
     <string name="managed_profile_foreground_toast">"Utilizați în prezent profilul Serviciu"</string>
     <string name="mdb_entering">Pornire…</string>
     <string name="mdb_restore_cancel">Anulaţi</string>
@@ -134,8 +144,11 @@
     <string name="mount_storage">Da</string>
     <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_notification_tips">Nicio notificare</string>
+    <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>
     <string name="notification_header_title">Notificări</string>
     <string name="notification_hidden_text">Conținut ascuns</string>
+    <string name="notification_manager">Gestionați notificările</string>
+    <string name="notification_manager_des">Filtrați și gestionați notificările</string>
     <string name="notification_otg_gamestick_in">Controller jocuri conectat</string>
     <string name="notification_otg_gamestick_out">Controller jocuri deconectat</string>
     <string name="notification_otg_keyboard_in">Tastatură conectată</string>
@@ -157,8 +170,21 @@
     <string name="oldman_incall_text">În apel</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Niciun dispozitiv asociat disponibil</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_connect_success">Conectat</string>
+    <string name="quick_settings_connecting">Conectare</string>
+    <string name="quick_settings_done">Terminat</string>
+    <string name="quick_settings_more_settings">Setări suplimentare</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
+    <string name="recent_task_app_info_text">Informații</string>
+    <string name="recent_task_lock_text">Blocați</string>
+    <string name="recent_task_unlock_text">Deblocați</string>
     <string name="reject_call">Respingere apel</string>
     <string name="return_to_incall_screen">Reveniţi la apel</string>
+    <string name="save_mode_btn_ok">OK</string>
     <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
     <string name="screen_pinning_description">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsat Înapoi și Privire de ansamblu, simultan, pentru a anula fixarea.</string>
@@ -166,18 +192,22 @@
     <string name="screen_pinning_negative">Nu, mulţumesc</string>
     <string name="screen_pinning_positive">Am înţeles</string>
     <string name="screen_pinning_title">Ecran fixat</string>
+    <string name="screenshot_edit">Editați</string>
     <string name="screenshot_failed_text">Captura de ecran nu a putut fi salvată. Este posibil să fie utilizată stocarea.</string>
+    <string name="screenshot_long_screenshot">Extindeți</string>
     <string name="screenshot_saved_text">Atingeţi pentru a vedea captura de ecran.</string>
     <string name="screenshot_saved_title">Captură de ecran realizată</string>
     <string name="screenshot_saving_text">Captura de ecran este salvată</string>
     <string name="screenshot_saving_ticker">Se salvează captura de ecran…</string>
     <string name="screenshot_saving_title">Se salvează captura de ecran…</string>
+    <string name="screenshot_send">Trimiteți</string>
     <string name="settings_custom_notification">Gestionare notificări</string>
     <string name="settings_toggle_position">Personalizaţi comutatoarele</string>
     <string name="settings_toggle_position_divider_list">Comutatoarele de deasupra barei sunt active</string>
     <string name="settings_toggle_position_divider_page">%1$d comutatoare de deasupra barei sunt active</string>
     <string name="settings_toggle_position_reset">Resetaţi comutatoarele</string>
     <string name="share">Partajaţi</string>
+    <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -191,13 +221,18 @@ d MMMM"</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="status_bar_no_recent_apps">Nu există aplicaţii recente</string>
     <string name="status_bar_notification_inspect_item_title">Informaţii despre aplicaţie</string>
-    <string name="status_bar_recent_guide_all">Glisaţi în sus pt. a închide, glisaţi în jos pt. a bloca</string>
+    <string name="status_bar_recent_guide_all">"Glisaţi în sus pentru a închide
+Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_recent_guide_bottom">Glisaţi în jos pt. a bloca</string>
     <string name="status_bar_recent_guide_top">Glisaţi în sus pt. a închide</string>
     <string name="status_bar_recent_memory_info1">Disponibil: %1$sB din %2$sB</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recording_back">Reveniţi la înregistrare</string>
     <string name="status_bar_recording_pause">Înregistrare întreruptă</string>
+    <string name="status_bar_safepay_risk">Plată riscantă</string>
+    <string name="status_bar_safepay_safe">Nu a fost găsit niciun risc pentru plată</string>
+    <string name="status_bar_safepay_scanning">Verificare mediu de plată…</string>
+    <string name="status_bar_safepay_unknown">"Nu s-a putut verifica mediul de plată"</string>
     <string name="status_bar_settings_airplane">Mod Avion</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_settings_signal_meter_disconnected">Fără conex. internet</string>
@@ -213,7 +248,8 @@ d MMMM"</string>
     <string name="usb_accessory_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
     <string name="usb_accessory_uri_prompt">Aplic. instal. nu funcţ. cu acest acces. USB. Aflaţi despre acest accesoriu la %1$s</string>
     <string name="usb_debugging_always">Permiteţi întotdeauna de la acest computer</string>
-    <string name="usb_debugging_message">Cheia amprentă RSA a computerului este:\n%1$s</string>
+    <string name="usb_debugging_message">Cheia amprentă RSA a computerului este:
+%1$s</string>
     <string name="usb_debugging_title">Permiteţi depanarea USB?</string>
     <string name="usb_device_confirm_prompt">Deschideţi %1$s la conectarea acestui dispozitiv USB?</string>
     <string name="usb_device_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
@@ -246,4 +282,7 @@ d MMMM"</string>
     <string name="vpn_text_long">Conectat la %s. Apăsați pentru a vedea detalii.</string>
     <string name="vpn_title">VPN activat</string>
     <string name="vpn_title_long">Conectare la VPN utilizând %s</string>
+    <string name="weather_description">%1$s | %2$s &gt;</string>
+    <string name="weather_description_no_aqi">%1$s &gt;</string>
+    <string name="weather_publish_time">Actualizat la %1$s</string>
 </resources>

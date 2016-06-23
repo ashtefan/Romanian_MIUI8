@@ -30,8 +30,7 @@ Permiteţi întotdeauna această acțiune?"</string>
     <string name="cancel">Anulaţi</string>
     <string name="dlg_app_replacement_statement">"Aplicaţia pe care o instalaţi va înlocui o aplicaţie existentă.
  Toate datele de utilizator vor fi păstrate."</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) va înlocui versiunea instalată (%3$s). Datele de utilizator vor fi păstrate.
-Instalaţi versiunea nouă?"</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) va înlocui versiunea instalată (%3$s). Datele de utilizator vor fi păstrate.</string>
     <string name="dlg_app_replacement_title">Înlocuiţi aplicaţia?</string>
     <string name="dlg_appstore_notice">Obțineţi această aplicație de la Magazin aplicaţii</string>
     <string name="dlg_ok">OK</string>

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="contact_entries">
+    <string-array name="folder_operations">
+        <item>Redenumiți</item>
+        <item>Ștergeți</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Cameră</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="contact_entries">
         <item>Nume</item>
         <item>Pseudonim</item>
         <item>Telefon</item>
@@ -13,18 +21,22 @@
         <item>Adresă</item>
         <item>Notă</item>
      </string-array>
-     <string-array name="font_size_names">
+    <string-array name="font_size_names">
         <item>Mic</item>
         <item>Mediu</item>
         <item>Mare</item>
         <item>Foarte mare</item>
      </string-array>
-     <string-array name="welcome_notes_content">
-        <item>"Apăsați pentru a crea o notă
+    <string-array name="welcome_notes_content">
+        <item>"Bine ați venit în aplicația Note
 "</item>
-        <item>"Pentru a adăuga o imagine sau pentru a afişa căsuţele, apăsați butonul de mai jos
+        <item>"Apăsați pentru a crea o notiță
 "</item>
-        <item>"Apăsați și țineți apăsat pe o notă pentru a o fixa, muta, sau șterge
+        <item>"Alegeți teme minunate
+"</item>
+        <item>"Creați un dosar pentru notițe
+"</item>
+        <item>"Protejați notițele private
 "</item>
         <item>"Și multe alte caracteristici!
   - Sincronizare cu Mi Cloud

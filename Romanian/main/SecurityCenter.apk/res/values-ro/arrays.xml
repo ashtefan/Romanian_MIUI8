@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="auto_memory_clean">
-        <item>După un minut</item>
-        <item>După 5 minute</item>
-        <item>După 10 minute</item>
-        <item>După 30 de minute</item>
-        <item>Niciodată</item>
-     </string-array>
     <string-array name="date_of_traffic_cmcc">
         <item>"Această săptămână "</item>
         <item>"Astăzi "</item>
@@ -62,6 +55,7 @@
         <item>"Utilizare date mobile "</item>
         <item>"Utilizare Wi-Fi "</item>
         <item>"Date economisite "</item>
+        <item>Plan de date Mi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Automat</item>
@@ -91,56 +85,24 @@
         <item>Blochează după ieșirea din aplicație</item>
         <item>Blochează după un minut de la părăsirea aplicației</item>
     </string-array>
-      <string-array name="power_dialog_auto_clean_memory_items">
-        <item>După 1 minut</item>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>După un minut</item>
         <item>După 5 minute</item>
         <item>După 10 minute</item>
+        <item>După 30 de minute</item>
         <item>Niciodată</item>
-     </string-array>
-     <string-array name="power_dialog_sleep_items">
-        <item>15 secunde</item>
-        <item>30 de secunde</item>
-        <item>1 minut</item>
-        <item>2 minute</item>
-        <item>5 minute</item>
-        <item>10 minute</item>
-        <item>Niciodată</item>
-     </string-array>
-     <string-array name="power_dialog_cpu_state_items">
-        <item>Performanţă</item>
-        <item>Echilibrat</item>
-     </string-array>
-     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Dezactivare</item>
-        <item>Activare</item>
-        <item>Prestabilit</item>
-     </string-array>
-     <string-array name="power_dialog_vibration_items">
-        <item>Fără vibrare</item>
-        <item>Vibrare în modul Silenţios</item>
-        <item>Vibrare întotdeauna</item>
-     </string-array>
-      <string-array name="alarm_repeat_type">
+    </string-array>
+    <string-array name="alarm_repeat_type">
         <item>O dată</item>
         <item>În fiecare zi</item>
         <item>Zile de lucru</item>
         <item>Zilele săptămânii</item>
         <item>Personalizat</item>
      </string-array>
-     <string-array name="alarm_repeat_type_no_workdays">
+    <string-array name="alarm_repeat_type_no_workdays">
         <item>O dată</item>
         <item>În fiecare zi</item>
         <item>Zilele săptămânii</item>
         <item>Personalizat</item>
-     </string-array>
-     <string-array name="preferred_app_entries">
-        <item>Lansator de sistem</item>
-        <item>Telefon</item>
-        <item>Mesaje</item>
-        <item>Browser</item>
-        <item>Cameră</item>
-        <item>Galerie</item>
-        <item>Muzică</item>
-        <item>E-mail</item>
      </string-array>
 </resources>

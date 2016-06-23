@@ -164,10 +164,11 @@
     <string name="exporting_progress_private_message">Exportul mesajelor…</string>
     <string name="failed_to_add_media">Nu puteţi adăuga acest %1$s la mesajul dvs.</string>
     <string name="failed_to_resize_image">Fotografia nu a fost redimensionată.</string>
+    <string name="fake_cell_alert_hint">Se pare că acest mesaj a fost trimis de pe un număr de telefon diferit față de cel afișat. Tratați cu precauție mesajele care vă solicită date financiare.</string>
+    <string name="fake_cell_checking_hint">Verificare securitate…</string>
+    <string name="fake_cell_safe_hint">Acest mesaj este sigur</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
-    <string name="feedback_description_hint">Introduceţi mesajul dvs. aici</string>
-    <string name="feedback_submit">Trimiteţi</string>
-    <string name="festival">Răspunsuri rapide</string>
+    <string name="festival">Salutări</string>
     <string name="festival_continue">OK</string>
     <string name="festival_networking_desc">Această caracteristică necesită conectarea la internet pentru a funcţiona în mod normal.</string>
     <string name="festival_networking_title">Remarcă</string>
@@ -202,6 +203,7 @@
     <string name="hms_add_image_progress_message">În lucru…</string>
     <string name="hms_first_use_tips">Pentru a recepţiona mesaje de serviciu, trebuie să vă conectaţi la o reţea Wi-Fi</string>
     <string name="hms_uri_param_err">URL-ul nu poate fi gol</string>
+    <string name="i_know">OK</string>
     <string name="importing_progress_private_message">Importul mesajelor…</string>
     <string name="in_sms">Mesaj</string>
     <string name="insufficient_drm_rights">Drepturile DRM detectate sunt insuficiente.</string>
@@ -370,7 +372,6 @@
     <string name="pref_collapse_sp_messages_summary">Grupaţi notificările operatorului în același fir</string>
     <string name="pref_edit_smsc_address">Centrul de servicii mesaje scurte(SMSC)</string>
     <string name="pref_forward_title">Redirecţionaţi</string>
-    <string name="pref_key_mx_feedback">Trimiteţi-ne un feedback</string>
     <string name="pref_message_recovery_introduction_title">Recuperare mesaje</string>
     <string name="pref_messages_to_save">Setaţi numărul de mesaje pentru salvare</string>
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
@@ -388,7 +389,6 @@
     <string name="pref_summary_mms_auto_retrieval">Descărcați fotografiile și videoclipurile din mesaje în mod automat</string>
     <string name="pref_summary_mms_read_reports">Arată o notificare atunci când destinatarul a descărcat conținutul mesajului MMS</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Descărcarea automată a fotografiilor și a videoclipurilor din mesaje în roaming</string>
-    <string name="pref_summary_mx_feedback">Raportaţi probleme și trimiteţi feedback-uri direct către Xiaomi</string>
     <string name="pref_summary_notification_body_enabled">Previzualizaţi mesajele pe blocarea ecranului şi în bara de stare</string>
     <string name="pref_summary_notification_body_enabled_when_secure">Nu puteţi previzualiza mesajele în modul Vizitator</string>
     <string name="pref_summary_off_system_mms_priority">Utilizaţi alte aplicaţii pentru trimiterea şi recepţionarea MMS-urilor</string>
@@ -448,7 +448,6 @@
     <string name="recipients_over_size">Prea mulţi destinatari.</string>
     <string name="recording_failed">Nu se poate înregistra</string>
     <string name="red_package_btn">Deschideți</string>
-  <string name="red_package_default_hint">Noroc!</string>
     <string name="refill_now">Completaţi din nou acum</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="refresh_failed">Reîmprospătare eşuată</string>
@@ -483,9 +482,16 @@
     <string name="search">Mesagerie</string>
     <string name="search_empty">Nu există potriviri</string>
     <string name="search_hint">Căutaţi în mesagerie</string>
+    <string name="search_keyword_mms">Mesaje</string>
     <string name="search_label">Mesagerie</string>
+    <string name="search_path_mms">Setări/Aplicații de sistem/Mesaje</string>
     <string name="search_setting_description">Text în mesajele dvs.</string>
     <string name="search_show_more_results">Afişaţi mai multe</string>
+    <string name="search_title_mms">Mesagerie</string>
+    <string name="second_mms">mesaj secundar</string>
+    <string name="second_mms_introduction">mergeți la spațiul secundar</string>
+    <string name="second_mms_notice">afișați doar mesajul secundar</string>
+    <string name="second_mms_switch">comutare utilizator</string>
     <string name="secs">sec.</string>
     <string name="security_alert_desc">&lt;font color="#7f000000"&gt;Expeditorul nu este în contactele dvs.
 "&lt;/font&gt;</string>
@@ -537,6 +543,8 @@
     <string name="slide_number">Diapozitiv %s</string>
     <string name="slide_show_part">Partea %1$s/%2$s</string>
     <string name="slideshow_activity">Prezentare</string>
+    <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">"Conţinut: "</string>
     <string name="sms_full_body">Mesajul primit a fost respins din lipsă de memorie pe acest dispozitiv.</string>
     <string name="sms_full_title">Memoria pentru mesaje text este plină</string>
@@ -551,7 +559,8 @@
     <string name="sp_category_bank">Mesaje servicii bancare</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Notificări</string>
-    <string name="sp_mark_as_read">Marcați toate mesajele ca citite?</string>
+    <string name="sp_mark_as_read">Marcați toate mesajele ca fiind citite?</string>
+    <string name="sp_mark_as_read_menu_title">Marcare ca citite</string>
     <string name="sp_mark_as_read_progress">Marcat ca citit…</string>
     <string name="sp_mark_as_read_title">Marcați toate notificările ca citite?</string>
     <string name="status_failed">Nereuşit</string>
@@ -585,7 +594,6 @@
     <string name="timed_message_to">către</string>
     <string name="title_allow_network_access">Actualizează informațiile în mod automat</string>
     <string name="title_collapse_sp_messages">Grupaţi notificările</string>
-    <string name="title_date_type">Marcaj de timp</string>
   <string name="title_recv_red_package">Get Red Package</string>
   <string name="title_red_package">Getting rich and good luck</string>
   <string name="title_send_red_package">Check Red Package</string>
@@ -597,10 +605,6 @@
     <string name="to_count">%d destinatari</string>
     <string name="to_label">"Pentru "</string>
     <string name="to_send_wrapper">Se va trimite la %s</string>
-    <string name="toast_description_required">Descrierea nu poate fi goală</string>
-    <string name="toast_feedback_finish">Raportul dvs. va fi trimis atunci când vă veţi conecta la Wi-Fi</string>
-    <string name="toast_feedback_max">Nu puteți trimite mai mult de 3 rapoarte pe zi</string>
-    <string name="toast_feedback_start">Colectare date pentru jurnal…</string>
     <string name="too_many_attachments">Nu se pot depăși %1$s ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi de %2$s destinatari.</string>
     <string name="too_many_unsent_mms">Mesajul nu poate fi trimis acum. Există prea multe mesaje multimedia netrimise.</string>
@@ -622,6 +626,15 @@
     <string name="unstick_conversation">Anulați fixarea conversaţiei actuale</string>
     <string name="unsticked_conversation">Conversație eliberată deja</string>
     <string name="unsupported_media_format">Format %1$s neacceptat.</string>
+    <string name="url_fraud_dangerous_alert">"Site-ul pe care încercați să-l accesați este fraudulos; poate fi dăunător telefonului dar și siguranței datelor personale. SUNTEȚI SIGUR CĂ MERGEȚI MAI DEPARTE? 
+%s"</string>
+    <string name="url_fraud_insurance">Asigurare împotriva fraudelor</string>
+    <string name="url_fraud_risky_alert">"Site-ul pe care încercați să-l vizitați poate fi fraudulos; sunteți sigur că doriți să continuați? 
+%s"</string>
+    <string name="url_fraud_title">Suspiciune de fraudă</string>
+    <string name="url_fraud_visit">&lt;u&gt;ACCESEZ ORICUM&lt;/u&gt;</string>
+    <string name="url_result_safe">Site-ul este sigur</string>
+    <string name="url_scanning">Scanare URL…</string>
     <string name="user_agreement1">Citiți termenii aplicabili cu atenție înainte de a instala un software suplimentar sau de a folosi acest produs.</string>
     <string name="user_agreement2">Condiţii de utilizare</string>
     <string name="user_agreement3">" şi "</string>

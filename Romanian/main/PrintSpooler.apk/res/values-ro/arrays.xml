@@ -8,8 +8,4 @@
         <item>Portret</item>
         <item>Peisaj</item>
     </string-array>
-    <string-array name="page_options_labels">
-        <item>Toate</item>
-        <item>Interval</item>
-    </string-array>
 </resources>

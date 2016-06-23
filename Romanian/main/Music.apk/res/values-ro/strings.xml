@@ -329,6 +329,7 @@
     <string name="impunity_declaration_summary">Afişaţi Condiţiile de utilizare pentru Baidu Online Music Service de fiecare dată când se deschide aplicația Muzică</string>
     <string name="impunity_declaration_title">Condiţii de utilizare</string>
     <string name="in_searching_please_wait">Căutare…</string>
+    <string name="input_hint_prefix">Introduceți %1$s</string>
     <string name="insufficient_space">"Nu există spațiu suficient în memoria internă a telefonului"</string>
     <string name="is_loading_data">Încă se încarcă melodiile. Așteptați un minut sau două și încercați din nou.</string>
     <string name="is_scanning">Verificare stocare...</string>
@@ -463,10 +464,17 @@
     <string name="notification_download_failed">"Nu s-a putut descărca"</string>
     <string name="notification_download_failed_more">"Nu s-au putut descărca %1$d elemente"</string>
     <string name="notification_download_success_more">%1$d descărcate</string>
+    <string name="notification_favorite_summary">Obțineți notificări despre actualizări și ultimele hituri</string>
+    <string name="notification_favorite_title">Notificări despre artiștii favoriți</string>
     <string name="notification_headset_custom">Renunțați</string>
     <string name="notification_headset_info">Apăsați pentru a vedea setările.</string>
     <string name="notification_headset_settings">Căști conectate</string>
     <string name="notification_need_wifi_for_size">Dimensiunea fișierului necesită descărcarea prin Wi-Fi.</string>
+    <string name="notification_play_summary">Vizualizați melodia curentă și pe cea ce urmează, afișați versurile pe ecranul principal</string>
+    <string name="notification_play_title">Widget perdea de notificări</string>
+    <string name="notification_recommend_summary">Aflați trendurile noi în muzică și promoții ale aplicațiilor</string>
+    <string name="notification_recommend_title">Notificări importante</string>
+    <string name="notification_setting">Setări notificări</string>
     <string name="notification_title_no_song">"Verificați ce se ascultă acum!"</string>
     <string name="nowplaying_menu_item_delete">Ştergeţi</string>
     <string name="ok">OK</string>
@@ -638,7 +646,6 @@
     <string name="sub_explanation_message">"Planul de date pentru Muzică Mi este suportat în prezent doar de China Unicom. Operatorul dumneavoastră nu suportă această caracteristică. Puteți achiziționa date mobile."</string>
     <string name="subed">Pornit</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
-    <string name="support_online_only">Doar streaming</string>
     <string name="sync_only_in_wifi">Se sincronizează doar prin Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Sincronizaţi muzica între toate dispozitivele cu Mi Cloud. Utilizarea conexiunii de date mobile pentru a sincroniza muzica va creşte utilizarea datelor. Dacă depăşiţi limita de date din planul dvs, operatorul ar putea percepe taxe suplimentare.</string>
     <string name="tab_album">Albume</string>
@@ -650,8 +657,8 @@
     <string name="tab_folder">Dosare</string>
     <string name="tab_japanese_korean">J-Pop/K-Pop</string>
     <string name="tab_local_folder_list">Dosare</string>
-    <string name="tab_track">Melodii</string>
     <string name="tab_local_track_list">Melodii</string>
+    <string name="tab_track">Melodii</string>
     <string name="tab_track_list">Melodii</string>
     <string name="take_effect_afater_restart">Trebuie să reporniţi aplicaţia Muzică pentru ca această setare să intre în vigoare.</string>
     <string name="task_already_exist">Sarcina există deja</string>
@@ -721,7 +728,6 @@
     <string name="vip_auto_renew_notification_message">Adăugaţi Credite Mi pentru a reînnoi abonamentul.</string>
     <string name="vip_auto_renew_notification_title">Achitare abonament</string>
     <string name="vip_auto_renew_title">Reînnoire abonament</string>
-    <string name="vip_recommend_title">Obţineţi muzică la o calitate superioară</string>
     <string name="vip_renew_message">Nu veţi putea să ascultaţi muzică la calitate înaltă, dar unele melodii vor fi disponibile la calitate normală.</string>
     <string name="vip_renew_notification_message">Nu veţi putea asculta muzică la calitate înaltă după expirarea abonamentului.</string>
     <string name="vip_renew_notification_title">Abonamentul expiră mâine</string>

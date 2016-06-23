@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_print_service_label">Adăugați un serviciu</string>
-    <string name="advanced_settings_button">Setările imprimantei</string>
     <string name="all_printers">Toate imprimantele...</string>
     <string name="all_printers_label">Toate imprimantele</string>
     <string name="app_label">Derulator print.</string>
@@ -30,7 +29,6 @@
     <string name="mediasize_standard_north_america">1</string>
     <string name="more_options_button">Mai multe opțiuni</string>
     <string name="no_connection_to_printer">Nu există conexiune la o imprimantă</string>
-    <string name="page_count_unknown">Pagini</string>
     <string name="page_description_template">Pagina %1$d din %2$d</string>
     <string name="pages_range_example">de ex. 1-5, 8, 11-13</string>
     <string name="permdesc_accessAllPrintJobs">Permite deținătorului să acceseze sarcinile de tipărire create de către alte aplicații. Nu ar trebui să fie necesară pentru aplicațiile obișnuite.</string>
@@ -60,7 +58,7 @@
     <string name="reason_unknown">necunoscut</string>
     <string name="restart">Reporniți</string>
     <string name="save_as_pdf">Salvați ca PDF</string>
-    <string name="save_button">Salvați</string>
+    <string name="savetopdf_button">Salvați ca PDF</string>
     <string name="search">Căutați</string>
     <string name="summary_template">Sumar:%1$s copii, dimensiunea hârtiei %2$s</string>
     <string name="template_all_pages">Toate %1$s</string>

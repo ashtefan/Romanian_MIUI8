@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="carrier_name">
+    <string-array name="carrier_name">
         <item>Digi</item>
         <item>Digi 3G</item>
-        <item>Vodafone RO</item>
-        <item>Vodafone RO 3G</item>
      </string-array>
-     <string-array name="carrier_simple_name">
+    <string-array name="carrier_simple_name">
         <item>Digi</item>
         <item>Digi 3G</item>
-        <item>Vodafone</item>
-        <item>Vodafone 3G</item>
      </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Însorit</item>
+        <item>Înnorat</item>
+        <item>Înnorat</item>
+        <item>Ceață</item>
+        <item>Ploaie torențială</item>
+        <item>Ploaie torențială</item>
+        <item>Furtună</item>
+        <item>Furtună cu trăsnete</item>
+        <item>Averse</item>
+        <item>Precipitații puternice</item>
+        <item>Ploaie moderată</item>
+        <item>Ploaie ușoară</item>
+        <item>Lapoviţă</item>
+        <item>Viscol</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare puternică</item>
+        <item>Ninsoare moderată</item>
+        <item>Ninsoare slabă</item>
+        <item>Furtună de nisip puternică</item>
+        <item>Furtună de nisip</item>
+        <item>Nisip</item>
+        <item>Vânt</item>
+        <item>Grindină</item>
+        <item>Praf</item>
+        <item>Negură</item>
+        <item>Ploaie ce îngheaţă</item>
+        <item></item>
+    </string-array>
 </resources>

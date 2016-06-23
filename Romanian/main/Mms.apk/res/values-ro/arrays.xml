@@ -23,7 +23,7 @@
         <item>:-/</item>
         <item>:-I</item>
     </string-array>   
-     <string-array name="default_smiley_names">
+    <string-array name="default_smiley_names">
         <item>Fericit</item>
         <item>Trist</item>
         <item>Clipeşte</item>
@@ -60,19 +60,11 @@
         <item>Notă</item>
         <item>Relație</item>
      </string-array> 
-       <string-array name="entries_date_type">
-        <item>Afişaţi ora primirii</item>
-        <item>Afişaţi ora trimiterii</item>
-     </string-array>
-      <string-array name="entries_date_type_rightvalue">
-        <item>Recepţionat</item>
-        <item>Trimis</item>
-    </string-array>
-       <string-array name="resent_via_entries_sms">
+    <string-array name="resent_via_entries_sms">
         <item>Prin mesaj</item>
         <item>Prin mesaj Cloud</item>
        </string-array>
-     <string-array name="resent_via_entries_mms">
+    <string-array name="resent_via_entries_mms">
         <item>Prin mesaj</item>
         <item>Prin mesaj Cloud</item>
      </string-array> 
@@ -92,7 +84,7 @@
         <item>Sincronizați toate mesajele</item>
         <item>Sincronizați mesajele de pe cartela SIM selectată</item>
     </string-array>
-     <string-array name="select_dialog_items">
+    <string-array name="select_dialog_items">
         <item>1 secundă</item>
         <item>2 secunde</item>
         <item>3 secunde</item>
@@ -105,7 +97,7 @@
         <item>10 secunde</item>
         <item>Altele</item>
      </string-array>
-      <string-array name="prefEntries_vibrateWhen">
+    <string-array name="prefEntries_vibrateWhen">
         <item>Mereu</item>
         <item>Doar în profilul Silenţios</item>
         <item>Niciodată</item>

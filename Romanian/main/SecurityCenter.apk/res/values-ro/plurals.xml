@@ -44,43 +44,63 @@
         <item quantity="other">%d aplicaţii găsite</item>
         <item quantity="one">%d aplicaţie găsită</item>
     </plurals>
-     <plurals name="power_center_battery_day">
+    <plurals name="power_center_battery_day">
         <item quantity="other">"%d zile "</item>
         <item quantity="one">"%d zi "</item>
      </plurals>
-      <plurals name="power_center_battery_hour">
+    <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
         <item quantity="one">"%d oră "</item>
      </plurals>
-      <plurals name="power_center_battery_minute">
+    <plurals name="power_center_battery_minute">
         <item quantity="other">"%d minute "</item>
         <item quantity="one">"%d minut "</item>
      </plurals>
-      <plurals name="hints_auto_start_enable_title">
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">În %1$d minute</item>
+        <item quantity="one">În %1$d minut</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">S-au rezolvat %d probleme ale acumulatorului</item>
+        <item quantity="one">A fost rezolvată o problemă legată de acumulator</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Au fost găsite %d probleme ale acumulatorului</item>
+        <item quantity="one">A fost găsită o problemă legată de acumulator</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d probleme ale acumulatorului</item>
+        <item quantity="one">%d problemă la acumulator</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d elemente pot fi optimizate</item>
+        <item quantity="one">%d element poate fi optimizat</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicații pot să pornească automat</item>
         <item quantity="one">%d aplicație poate să pornească automat</item>
      </plurals>
-      <plurals name="hints_auto_start_disable_title">
+    <plurals name="hints_auto_start_disable_title">
         <item quantity="other">%d aplicații nu au voie să pornească automat</item>
         <item quantity="one">%d aplicație nu are voie să pornească automat</item>
      </plurals>
-     <plurals name="hints_apps_perm_count">
+    <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permisiuni</item>
         <item quantity="one">%d permisiune</item>
      </plurals>
-     <plurals name="hints_permission_apps_count">
+    <plurals name="hints_permission_apps_count">
         <item quantity="other">%d aplicaţii</item>
         <item quantity="one">%d aplicaţie</item>
      </plurals>
-     <plurals name="hints_get_root_enable_title">
+    <plurals name="hints_get_root_enable_title">
         <item quantity="other">%d aplicații au acces root</item>
         <item quantity="one">%d aplicație are acces root</item>
      </plurals>
-     <plurals name="hints_get_root_disable_title">
+    <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d aplicații nu au acces root</item>
         <item quantity="one">%d aplicație nu are acces root</item>
      </plurals>
-     <plurals name="summary_app_update">
+    <plurals name="summary_app_update">
         <item quantity="other">Actualizări disponibile pentru %d aplicaţii.</item>
         <item quantity="one">Actualizare disponibilă pentru %d aplicaţie.</item>
      </plurals>
@@ -128,5 +148,21 @@
         <item quantity="other">%d aplicații găsite</item>
         <item quantity="zero">nicio aplicație găsită</item>
         <item quantity="one">o aplicație găsită</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s riscuri legate de plată</item>
+        <item quantity="one">%s risc legat de plată</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s aplicații de plată sunt protejate</item>
+        <item quantity="one">%s aplicație de plată este protejată</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s aplicații sunt protejate</item>
+        <item quantity="one">%s aplicație este protejată</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s aplicații nu sunt protejate</item>
+        <item quantity="one">%s aplicație nu este protejată</item>
     </plurals>
 </resources>

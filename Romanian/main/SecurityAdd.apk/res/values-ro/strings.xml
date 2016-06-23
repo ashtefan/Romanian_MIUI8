@@ -30,6 +30,7 @@
     <string name="no_network_btn">Încercați din nou</string>
     <string name="ok_button">OK</string>
     <string name="open_browser">Deschideți în browser</string>
+    <string name="pc_activity_title">Optimizare utilizare acumulator</string>
     <string name="pm_lable_name">Despre accesul root</string>
     <string name="privacy_declare_dialog_title">Termenii serviciului</string>
     <string name="privacy_prompt_traffic_purchase_message">"Numărul dumneavoastră de telefon și detaliile despre operator vor fi criptate și trimise la serverele Mi pentru a obține mai multe informații despre opțiunile de achiții de date."</string>

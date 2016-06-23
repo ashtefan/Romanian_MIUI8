@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="agree">De acord</string>
-    <string name="alert_dialog_btn_close">Dezactivați</string>
-    <string name="alert_dialog_btn_open">Permiteți</string>
-    <string name="alert_dialog_msg">"Unele caracterisitici și servicii importante ale MIUI nu vor putea funcționa corect fără aceste permisiuni (de ex. telefonul dvs. nu va putea afișa informațiile despre contacte în timpul unui apel). Dacă dezactivați aceste permisiuni, aplicațiile MIUI vă vor solicita individual permisiunea atunci când vor fi necesare pentru anumite activități."</string>
-    <string name="alert_dialog_title">Este posibil ca unele servicii să nu funcționeze corespunzător</string>
-    <string name="congratulation_label" />
+    <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
+    <string name="back">Înapoi</string>
+    <string name="congratulation_label">"Sunteți gata de start!​"</string>
+    <string name="congratulation_title">Configurare finalizată</string>
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
@@ -27,19 +26,14 @@
     <string name="other_settings">Setări adiţionale</string>
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să acceseze locația dvs.</string>
-    <string name="other_settings_permission">Permisiuni servicii MIUI</string>
-    <string name="other_settings_permission_summary">Activați permisiunile solicitate de către aplicațiile Mi Cloud, Telefon și alte servicii și caracteristici importante pentru a putea funcționa corespunzător</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea MIUI prin trimiterea datelor de utilizare anonime (%s)</string>
     <string name="other_settings_user_experience_summary1">Vizualizaţi Politica de confidențialitate</string>
-    <string name="page_layout_label">Ajustați dimensiunea textului și aspectul pentru ecranul de pornire, panoul de notificări, tastatură și altele.</string>
-    <string name="page_layout_title">Schemă sistem</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
-    <string name="provision_finish">OK</string>
-    <string name="provision_finish_restart">Repornire</string>
-    <string name="provision_inputmethod_policy_description">\nVizualizaţi Politica de confidențialitate a tastaturii selectate</string>
+    <string name="provision_inputmethod_policy_description">
+Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
     <string name="setting_locale">Setare localizare…</string>
     <string name="shut_down">Închidere</string>
@@ -51,11 +45,10 @@
     <string name="sim_redetection">Verificaţi din nou</string>
     <string name="skip_underline">Omiteţi acest pas</string>
     <string name="summary_not_set">Nu este setat</string>
-    <string name="summary_sim_card">Cartela %1$d</string>
-    <string name="summary_sim_card_with_operator">Cartela %1$d: %2$s</string>
     <string name="terms_of_use">Termeni și condiții</string>
-    <string name="terms_of_use_label">Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.\n\nTrebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI.</string>
-    <string name="title_congratulation">Felicitări!</string>
+    <string name="terms_of_use_label">Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
+    
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Trebuie să vă conectați la internet pentru a activa serviciile Mi și Localizarea telefonului</string>
     <string name="title_fingerprint">Adăugați amprenta</string>
     <string name="user_agreement">Termenii serviciului</string>
     <string name="welcome">Bine aţi venit</string>

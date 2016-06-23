@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="Ntracks_search_result">
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> descărcate</item>
+        <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> descărcată</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> se descarcă</item>
+        <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> se descarcă</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
         <item quantity="other">%d melodii găsite</item>
         <item quantity="one">%d melodie găsită</item>
      </plurals>
-     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">Puteți descărca doar %d Melodii Premium luna aceasta. Actualizați pachetul de Melodii Premium pentru a descărca mai multe.</item>
      </plurals>
-     <plurals name="Nalert_msg_vip_songs_for_download_limited">
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
         <item quantity="other">Puteți descărca doar %d Melodii Premium luna aceasta. Descărcați totuși melodiile selectate?</item>
      </plurals>
-     <plurals name="Nexpired_remind">
+    <plurals name="Nexpired_remind">
         <item quantity="other">%d zile rămase</item>
         <item quantity="one">%d zi rămasă</item>
      </plurals>
-     <plurals name="NTrackstoDownload">
+    <plurals name="NTrackstoDownload">
         <item quantity="other">%d melodii vor fi descărcate</item>
         <item quantity="one">O melodie va fi descărcată</item>
      </plurals>
-     <plurals name="NPlaylist_delete_confirm">
+    <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Ştergeţi %d liste de redare?</item>
         <item quantity="one">Ştergeţi %d listă de redare?</item>
     </plurals>
-     <plurals name="Nnew_tracks_count">
+    <plurals name="Nnew_tracks_count">
         <item quantity="other">%d noi</item>
         <item quantity="one">1 nouă</item>
      </plurals>
-     <plurals name="Ntracks_count">
+    <plurals name="Ntracks_count">
         <item quantity="other">%d melodii</item>
         <item quantity="one">%d melodie</item>
      </plurals>
-      <plurals name="Ntracks_similar_count">
+    <plurals name="Ntracks_similar_count">
         <item quantity="other">%d melodii similare</item>
         <item quantity="one">%d melodie similară</item>
      </plurals>
-     <plurals name="Nartists_count">
+    <plurals name="Nartists_count">
         <item quantity="other">%d artişti</item>
         <item quantity="one">%d artist</item>
     </plurals>
@@ -50,31 +58,31 @@
         <item quantity="other">Eliminaţi %d melodii?</item>
         <item quantity="one">Eliminaţi %d melodie?</item>
     </plurals>
-     <plurals name="Ntracks_add_to_playlist">
+    <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d melodii au fost adăugate în lista de redare</item>
         <item quantity="one">O melodie a fost adăugată în lista de redare</item>
      </plurals>
-      <plurals name="Ntracks_remove_from_playlist">
+    <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d melodii au fost eliminate din lista de redare</item>
         <item quantity="one">O melodie a fost eliminată din lista de redare</item>
      </plurals>
-     <plurals name="artist_list_fragment_item_count_format">
+    <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d melodii</item>
         <item quantity="one">o melodie</item>
      </plurals>
-     <plurals name="Nquit_warning">
+    <plurals name="Nquit_warning">
         <item quantity="other">Redarea se va opri peste %d minute</item>
         <item quantity="one">Redarea se va opri peste %d minut</item>
     </plurals>
-     <plurals name="send_songs_toast">
+    <plurals name="send_songs_toast">
         <item quantity="other">%d melodii vor fi trimise</item>
         <item quantity="one">o melodie va fi trimisă</item>
      </plurals>
-      <plurals name="folder_songs_count">
+    <plurals name="folder_songs_count">
         <item quantity="other">%d melodii</item>
         <item quantity="one">o melodie</item>
      </plurals>
-     <plurals name="Nnew_local_audios">
+    <plurals name="Nnew_local_audios">
         <item quantity="other">%d melodii adăugate</item>
         <item quantity="one">%d melodie adăugată</item>
     </plurals>

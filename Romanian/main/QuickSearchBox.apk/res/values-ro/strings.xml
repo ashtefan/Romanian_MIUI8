@@ -11,6 +11,7 @@
 
 Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</string>
     <string name="clear_shortcuts_summary">Eliminaţi istoricul tuturor căutărilor</string>
+    <string name="common_setting">Setări generale</string>
     <string name="connect_and_retry">Conectați-vă la internet și reîncercați</string>
     <string name="corpus_description_apps">Numele aplicaţiilor instalate</string>
     <string name="corpus_description_web">Căutare web şi marcaje</string>
@@ -43,9 +44,12 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="menu_help">Ajutor</string>
     <string name="menu_settings">Setări căutare</string>
     <string name="network_unavailable">Nu se poate conecta la rețea</string>
+    <string name="recent_apps">Aplicații recomandate</string>
     <string name="recently_shortcut_label">Comenzi rapide recente</string>
     <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutărilor?</string>
     <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
+    <string name="search_group_fold">Ascundeți</string>
+    <string name="search_group_unfold">Mai multe</string>
     <string name="search_history">Istoric</string>
     <string name="search_in_app_store">Căutaţi în magazinul Mi</string>
     <string name="search_in_web">Căutare on-line</string>
@@ -54,14 +58,14 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="search_sources_summary">Selectaţi ce doriţi să căutaţi pe telefon</string>
     <string name="search_suggestion">Sugestii</string>
     <string name="search_widget">Căutare</string>
-    <string name="searchable_sources">On-line</string>
     <string name="send_secret_code">Trimiteţi codul</string>
     <string name="show_more">Arată mai multe</string>
+    <string name="suggest_open_app_failed">"Nu s-a putut deschide aplicația"</string>
     <string name="system_search_category_title">Telefon</string>
     <string name="voice_search_hint_quotation_end">\"</string>
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_title">Încercaţi să spuneţi:</string>
-    <string name="web_search_results">Rezultate căutare web</string>
+    <string name="web_search_results">Baidu</string>
     <string name="xiaomi_hint"/>
     <string name="xiaomi_hot_query"/>
     <string name="xiaomi_search_label">Rezultate</string>
