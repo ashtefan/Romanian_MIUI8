@@ -724,12 +724,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Un microfon</item>
         <item>Microfon dublu</item>
      </string-array> 
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>model</item>
-        <item>numeric</item>
-        <item>combinat</item>
-    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Deblocare facială</item>
         <item>Model</item>

@@ -2724,7 +2724,6 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_bluetooth">Bluetooth;Nume dispozitiv;Detectare activată</string>
     <string name="search_bluetooth_device_name">Nume dispozitiv</string>
     <string name="search_bluetooth_device_searchable">Detectare activată</string>
-    <string name="search_bluetooth">bluetooth</string>
     <string name="search_brightness">luminozitate</string>
     <string name="search_button_light_timeout">Durată iluminare taste</string>
     <string name="search_calendar_sound_title">Sunet calendar</string>
@@ -2847,8 +2846,6 @@ Pentru a utiliza fixarea ecranului:
     <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, dispozitivul nu va utiliza parola de blocare a ecranului pentru criptarea datelor."</string>
     <string name="search_wifi_display">ecran wifi</string>
     <string name="second_space">Spațiu secundar</string>
-    <string name="secure_keyguard_business_title">&gt;Setați blocarea ecranului</string>
-    <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, telefonul nu va utiliza blocarea ecranului pentru sporirea criptării datelor."</string>
     <string name="security_enable_widgets_disabled_summary">Setare dezactivată de administrator</string>
     <string name="security_enable_widgets_title">Activați widgeturi</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
@@ -3997,7 +3994,6 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_tether_setting_title">Setări de bază</string>
     <string name="wifi_tether_starting">Se activează hotspotul…</string>
     <string name="wifi_tether_stopping">Se dezactivează hotspotul…</string>
-    <string name="wifi_tether_stopping">Oprire hotspot…</string>
     <string name="wifi_type_approval" />
     <string name="wifi_type_approval_dialog_title">Informații de reglementare</string>
     <string name="wifi_type_approval_title">Omologare tip</string>
