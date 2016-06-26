@@ -4,63 +4,63 @@
         <item quantity="other">"%s aplicații nu pot afișa notificări"</item>
         <item quantity="one">"1 aplicație nu poate afișa notificări"</item>
     </plurals>
- <plurals name="status_bar_settings_enabled_header_title">
+    <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s aplicații pot afișa notificări</item>
         <item quantity="one">1 aplicație poate afișa notificări</item>
     </plurals>
-     <plurals name="show_dev_countdown">
+    <plurals name="show_dev_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
      </plurals>
-     <plurals name="lockpassword_password_requires_letters">
+    <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 literă.</item>
      </plurals>
-     <plurals name="lockpassword_password_requires_lowercase">
+    <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Parola trebuie să conţină cel puţin %d minuscule.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin o minusculă.</item>
      </plurals>
-      <plurals name="lockpassword_password_requires_uppercase">
+    <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Parola trebuie să conţină cel puţin %d majuscule.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin o majusculă.</item>
      </plurals>
-     <plurals name="lockpassword_password_requires_numeric">
+    <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Parola trebuie să conţină cel puţin %d cifre.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 cifră.</item>
      </plurals>
-     <plurals name="lockpassword_password_requires_symbols">
+    <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Parola trebuie să conţină cel puţin %d simboluri speciale.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 simbol special.</item>
      </plurals>
-     <plurals name="lockpassword_password_requires_nonletter">
+    <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Parola trebuie să conţină cel puţin %d caractere care să nu fie litere.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 caracter care să nu fie o literă.</item>
      </plurals>
-     <plurals name="wrong_pin_code">
+    <plurals name="wrong_pin_code">
         <item quantity="other">Codul PIN pentru cartela SIM este incorect. V-au mai rămas %d încercări.</item>
         <item quantity="one">Codul PIN pentru cartela SIM este incorect. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
      </plurals>
-     <plurals name="manage_notification_access_summary_nonzero">
+    <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicații pot citi notificările</item>
         <item quantity="one">%d aplicație poate citi notificările</item>
      </plurals>
-     <plurals name="manage_condition_providers_summary_nonzero">
+    <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d aplicații furnizează condiții</item>
         <item quantity="one">%d aplicație furnizează condiții</item>
     </plurals>
-     <plurals name="show_pho_countdown">
+    <plurals name="show_pho_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile despre telefon.</item>
      </plurals>
-     <plurals name="show_cit_countdown">
+    <plurals name="show_cit_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a porni CIT.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a porni CIT.</item>
      </plurals>
-     <plurals name="show_rep_countdown">
+    <plurals name="show_rep_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a raporta o problemă.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a raporta o problemă.</item>
      </plurals>
-	 <plurals name="auto_disable_screenbuttons_enabled_header_title">
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Dezactivează întotdeauna pentru %d aplicații</item>
         <item quantity="one">Dezactivează întotdeauna pentru o aplicație</item>
     </plurals>
@@ -68,8 +68,4 @@
         <item quantity="other">Nu dezactiva niciodată pentru %d aplicații</item>
         <item quantity="one">Nu dezactiva niciodată pentru o aplicație</item>
     </plurals>
-     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">%1$s imprimante găsite</item>
-        <item quantity="one">%1$s imprimantă găsită</item>
-     </plurals>
 </resources>
