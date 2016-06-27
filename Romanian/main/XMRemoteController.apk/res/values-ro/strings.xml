@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Acasă</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Opțiuni suplimentare</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vizualizați tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectați o aplicație</string>
+    <string name="abc_capital_off">OPRIT</string>
+    <string name="abc_capital_on">PORNIT</string>
+    <string name="abc_search_hint">Căutare…</string>
+    <string name="abc_searchview_description_clear">Goliți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căuater</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Acceptați interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajați cu</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="ac_gree">A/C Gree</string>
     <string name="ac_mode_auto">auto</string>
     <string name="ac_mode_cold">răcire</string>
@@ -21,6 +40,7 @@
   <string name="add_fav_channel_hint">Adaugă mai multe canale favorite, permițându-vă să găsiți programe preferate</string>
     <string name="add_more">Adăugați mai multe dispozitive IR</string>
     <string name="add_new_control">Adăugați o telecomandă</string>
+  <string name="add_new_stb">Se adaugă un nou set-top box…</string>
     <string name="add_new_tv">Adaugați un televizor nou…</string>
   <string name="add_new_tv_power_only">Meci comutator de alimentare TV ...</string>
   <string name="adjust_auto_tune_interval">Intervalul de ajustare automată pentru Taiwan</string>
@@ -114,6 +134,7 @@
   <string name="channel_list">lista de canale</string>
     <string name="channel_num">—</string>
     <string name="channel_removed_from_fav">%1$s eliminat din Favorite</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_upgrade">Căutați actualizări</string>
     <string name="choose_ac">Alegeți telecomanda</string>
     <string name="choose_address_title">Selectați locația</string>
@@ -156,6 +177,8 @@
     <string name="delete_desc">"Nu veți mai putea controla “%s” cu Mi Remote."</string>
     <string name="delete_device_frame">Ștergeți %1$s?</string>
     <string name="delete_frame">Eliminați %1$s ?</string>
+  <string name="delete_navigate_view_cancel_button_text">anulat</string>
+  <string name="delete_navigate_view_delete_button_text">șterge</string>
     <string name="device_bluetoothi">Telecomandă bluetooh</string>
     <string name="device_brand">Producător</string>
     <string name="device_model">Model</string>
@@ -218,7 +241,8 @@
   <string name="epg_program_updated_to">programul %1$d actualizat</string>
   <string name="epg_search_box_hint">Căutați programele TV pe care doriți să le vizionați</string>
   <string name="epg_search_history">Istoric</string>
-  <string name="epg_search_hot_keyword">Căutări populare</string>
+  <string name="epg_search_hot_channel">Căutare canale populare</string>
+  <string name="epg_search_hot_program">Program de căutare populare</string>
     <string name="epg_status_playing_text">Rulează…</string>
     <string name="epg_status_playing_text_v5">Live</string>
   <string name="epg_stb_malfunction">Acest control de la distanță set-top box nu obține datele corecte, vă rugăm să adăugați din nou sau selectați un control de la distanță diferită</string>
@@ -279,6 +303,7 @@
     <string name="history_none">"Nu ați vizionat niciun videoclip."</string>
     <string name="history_title">Istoric</string>
     <string name="home">Acasă</string>
+    <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
     <string name="home_zhuye">﻿Acasă</string>
     <string name="hot_apps">Aplicații populare</string>
     <string name="hot_mode">Încălzire</string>
@@ -385,8 +410,8 @@ Mergeți înapoi pentru a continua"</string>
     <string name="match_guide_sub_frame">Sincronizare %1$d butoane</string>
     <string name="match_intro_power">Eliberați când aparatul pornește</string>
     <string name="match_is_respond">Aparatul a reacționat?</string>
-    <string name="match_main_tip_frame">Îndreptați telefonul către %1$s și apăsați butonul.
-    Eliberați atunci când %1$s reacționează</string>
+    <string name="match_main_tip_frame">"Îndreptați telefonul către %1$s și apăsați butonul.
+    Eliberați atunci când %1$s reacționează"</string>
   <string name="match_main_tip_frame_click">"Îndreptați telecomanda către %1$s și apăsați butonul
 Apoi răspundeți la întrebare"</string>
     <string name="match_mibox_first">    găsit Mi TV</string>
@@ -448,6 +473,9 @@ vă rog așteptați"</string>
   <string name="milink_device_online">online</string>
   <string name="milink_device_rc_saved">Telecomanda a fost salvată</string>
     <string name="milink_nowifi">Neconectat la Wi-Fi</string>
+  <string name="milink_screenshot_done">Succesul ecran TV lovitura</string>
+  <string name="milink_screenshot_pic">Imagini de ecran</string>
+  <string name="milink_view_screenshot">Salvate în albumul de telefon, faceți clic pe Răsfoire</string>
     <string name="minute">min</string>
     <string name="mitv">Mi TV</string>
     <string name="mitv_assistant_setting_version">Versiune asistent Mi TV %1$s</string>
@@ -482,10 +510,12 @@ vă rog așteptați"</string>
     <string name="no_program">Niciun conținut</string>
     <string name="no_qq">Instalați QQ întâi</string>
     <string name="no_save_brand_service">Adăugați această telecomandă din nou</string>
+  <string name="no_video">Nu am putut găsi conținutul pe care doriți</string>
     <string name="none">Gol</string>
   <string name="none_apk_note">Nu există un fișier de instalare</string>
   <string name="not_login">Neconectat</string>
     <string name="not_respond">Nicio reacție</string>
+  <string name="not_updated_yet">Scrie actualizat</string>
   <string name="notification_found_device_text">Puteți utiliza telefonul controla de la distanță, vin încercați să-l!</string>
   <string name="notification_found_device_title">descoperire %1$s</string>
     <string name="notification_found_shared_remote_text">încercați să-l comandați</string>
@@ -563,6 +593,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_get_verify_code">Obțineți codul de verificare</string>
     <string name="passport_getting_verify_code">Se obține codul</string>
     <string name="passport_identitfication_expired">Codul de verificare a expirat; reluați procesul</string>
+    <string name="passport_imei_permission_denied_message">"Vă solicităm permisiunea de a obține IMEI-ul telefonului. Contul Mi utilizează IMEI-ul pentru a identifica telefonul de pe care vă conectați/deconectați, pentru a vă menține contul Mi în siguranță."</string>
+    <string name="passport_imei_permission_denied_title">Permisiune de solicitare IMEI</string>
     <string name="passport_input_captcha_hint">Introduceți codul</string>
     <string name="passport_input_password_for_login">Acest număr de telefon este asociat cu un cont existent; introduceți parola</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
@@ -657,10 +689,12 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="play_on_tv">Rulează la TV</string>
   <string name="playing_time">Timp de emisie</string>
     <string name="please_enter">"Nu poate rămâne necompletat"</string>
+  <string name="please_select_stb">Vă rugăm să selectați set-top box</string>
     <string name="please_select_tv">Selectați televizorul</string>
     <string name="pm_2.5">PM2.5:</string>
   <string name="popup_installed_app_no_app">Se obțin aplicații de la televizor, vă rugăm să încercați din nou mai târziu</string>
   <string name="popup_installed_app_title">Selectați partea televizorului pentru a deschide aplicații</string>
+  <string name="popup_select_device">Selectați telecomanda pentru a deschide Wi-Fi</string>
     <string name="power">Pornire</string>
     <string name="power_off">Oprit</string>
     <string name="power_on">Pornit</string>
@@ -691,6 +725,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="projection_failed_for_disconnect">Dispozitive neconectate</string>
     <string name="province">Zonă</string>
     <string name="pull_down_refresh">Glisați în jos pentru actualizare</string>
+  <string name="pull_to_refresh">Trageți în jos pentru a actualiza</string>
     <string name="pull_up_refresh">Glisați în sus pentru a reîmprospăta</string>
     <string name="push_add">A fost găsită o telecomandă partajată cu dumneavoastră</string>
     <string name="push_add_desc">Controlați %1$s din apropiere cu această telecomandă?</string>
@@ -725,7 +760,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="scene_default">Implicit</string>
     <string name="scene_name_frame">%1$s %2$s%3$s</string>
     <string name="scene_name_frame_short">%1$s%2$s</string>
-    <string name="screenshot">Captură ecran</string>
+    <string name="screenshot">"Captură
+ecran"</string>
     <string name="screenshot_failed">Nu s-a realizat captura de ecran</string>
     <string name="screenshot_failed_and_check_connection">"Nu s-a putut efectua captura de ecran; verificați dispozitivele conectate"</string>
     <string name="screenshot_not_support_adb_devices">Captura ecranului nu este suportată pentru acest dispozitiv</string>
@@ -825,6 +861,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
   <string name="start_auto_tune">Boot schimbă automat canalele</string>
     <string name="start_diagnosis">Testare</string>
     <string name="start_match">Sincronizare</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stb">Decodor</string>
     <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">STB oprit/pornit</string>
@@ -845,6 +882,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="temperature">Temperatură</string>
     <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Aplicația nu a pornit</string>
+  <string name="time_error">Timp există o problemă</string>
     <string name="time_interval_in_sec">%1$d</string>
     <string name="timer">Temporizator</string>
   <string name="timer_turn_off">timp liber</string>
@@ -872,6 +910,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="unkown_device_main">"Nu se poate asocia acest dispozitiv."</string>
     <string name="unkown_device_sub">Trimiteți-ne detalii despre dispozitiv pentru a-l adăuga pe viitor în lista de aparate suportate</string>
     <string name="unkown_device_title">"Nu s-au putut obține informații despre dispozitiv"</string>
+  <string name="updated_at">Actualizat la %1$s</string>
+  <string name="updated_just_now">Actualizat acum</string>
     <string name="upgrade_already_latest">Nu există actualizări disponibile</string>
     <string name="upgrade_current_version">Versiunea curentă %1s</string>
     <string name="upgrade_download">Se descarcă aplicația</string>
@@ -890,9 +930,17 @@ Pentru a modifica, vă rugăm să apăsați lung butonul de pornire al televizor
     <string name="vendor_yaokan">Yaokan</string>
     <string name="video">Videoclipuri</string>
     <string name="video_actor_label">"Distribuție: "</string>
+  <string name="video_all_category">toate categoriile</string>
     <string name="video_area_label">"Țară: "</string>
+  <string name="video_category_filter">filtru %s</string>
+  <string name="video_channel_entry">Intra pe canalul  %s</string>
+  <string name="video_channel_hot">lovit %s</string>
+  <string name="video_count_info">Total %d Secțiunea video</string>
   <string name="video_detial_unfold">extinde</string>
     <string name="video_director_label">"Regizor: "</string>
+  <string name="video_favor">colecta</string>
+  <string name="video_filter_all">complet</string>
+  <string name="video_history">istoric</string>
     <string name="video_history_before_yestory">cu 2 zile în urmă</string>
     <string name="video_history_earlier">Mai devreme</string>
     <string name="video_history_title">Istoric</string>
@@ -903,9 +951,11 @@ Pentru a modifica, vă rugăm să apăsați lung butonul de pornire al televizor
     <string name="video_name_intro">Sumar</string>
     <string name="video_name_recommend">Asemănătoare</string>
     <string name="video_name_score">Comentarii</string>
+  <string name="video_play">difuzare</string>
     <string name="video_play_count_label">"Număr vizualizări: "</string>
   <string name="video_search_hint">Vă rugăm să introduceți un film, numele actorului</string>
   <string name="video_search_title">S-au găsit %d filme și emisiuni</string>
+  <string name="video_today_recommend">A se vedea ce în seara asta</string>
     <string name="virtual_keyhboard">Utilizați tastatura virtuală</string>
     <string name="virtual_keyhboard_intro">"Utilizați tastatura telefonului pentru a introduce un text pe ecranul dispozitivului"</string>
   <string name="voice">Voce</string>

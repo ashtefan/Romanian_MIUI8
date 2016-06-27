@@ -149,7 +149,8 @@
     <string name="progress_title_checking">Verificare pentru actualizări…</string>
     <string name="reboot">Reporniţi</string>
     <string name="recovery_failed_button">OK</string>
-    <string name="recovery_failed_msg">Dispozitivul nu are suficientă memorie pentru a intra în modul Recuperare și pentru a actualiza sistemul dvs. Încercați să folosiți Mi PC Suite:\nhttp://zhushou.xiaomi.com</string>
+    <string name="recovery_failed_msg">"Dispozitivul nu are suficientă memorie pentru a intra în modul Recuperare și pentru a actualiza sistemul dvs. Încercați să folosiți Mi PC Suite:
+http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_notification_msg">Nu se poate intra în modul Recuperare</string>
     <string name="recovery_failed_title">Utilizaţi Mi PC Suite pentru a actualiza sistemul</string>
     <string name="recovery_power_not_enough_msg">Dacă aveţi disponibil mai puţin de 30% din acumulator trebuie să conectaţi încărcătorul pentru a putea actualiza</string>
@@ -206,7 +207,8 @@
     <string name="update_feedback">Evaluaţi această actualizare</string>
     <string name="update_feedback_end">Aţi ratat votarea din această săptămână</string>
     <string name="update_feedback_end_sum">Vă puteți alătura în fiecare zi de Luni.</string>
-    <string name="update_feedback_expired">Aţi ratat votarea din această săptămână.\nParticipaţi la sondaj lunea viitoare</string>
+    <string name="update_feedback_expired">"Aţi ratat votarea din această săptămână.
+Participaţi la sondaj lunea viitoare"</string>
     <string name="update_feedback_need_account">Trebuie să vă conectați la contul dvs. Mi</string>
     <string name="update_feedback_need_network">Conectați-vă mai întâi la rețea</string>
     <string name="update_feedback_need_update">Trebuie să actualizați sistemul la cea mai recentă versiune.</string>
@@ -227,7 +229,8 @@
     <string name="updater_wait_for_unzip">Despachetare actualizare…</string>
     <string name="upgrade_close">Închideţi</string>
     <string name="upgrade_kernel">Nucleu învechit</string>
-    <string name="upgrade_kernel_msg">Versiunea actuală a nucleului nu se potriveşte cu ROM-ul MIUI. Trebuie să actualizaţi manual nucleul. Consultaţi tutorialul:\n</string>
+    <string name="upgrade_kernel_msg">"Versiunea actuală a nucleului nu se potriveşte cu cea a celei mai recente versiuni MIUI. Trebuie să actualizaţi manual nucleul. Consultaţi tutorialul:
+"</string>
     <string name="user_begin">Descărcare</string>
     <string name="user_intertup_download_msg">Descărcările au fost întrerupte. Le puteți relua în orice moment în aplicația Actualizare.</string>
     <string name="user_intertup_download_title">Descărcare în pauză</string>
@@ -235,11 +238,15 @@
     <string name="validate_pkg_failed_title">Nu se poate verifica actualizarea</string>
     <string name="view_upgrade_tutorial">Vizualizaţi tutorialul</string>
     <string name="vote_beta">Programul Feedback Beta</string>
-    <string name="vote_error1">Se pare că nu sunteți un membru\nal Programului Feedback Beta</string>
-    <string name="vote_error2">Nu se poate trimite feedback-ul.\nActualizaţi dispozitivul și încercați din nou</string>
-    <string name="vote_error3">Nu se poate conecta.\nÎncercați să vă conectați la contul dvs. Mi din nou.</string>
+    <string name="vote_error1">"Se pare că nu sunteți un membru
+al Programului Feedback Beta"</string>
+    <string name="vote_error2">"Nu se poate trimite feedback-ul.
+Actualizaţi dispozitivul și încercați din nou"</string>
+    <string name="vote_error3">"Nu se poate conecta.
+Încercați să vă conectați la contul dvs. Mi din nou."</string>
     <string name="vote_error4">Aţi trimis deja feedback-ul</string>
-    <string name="vote_error5">Ceva a mers prost\nNu se poate trimite feedback-ul</string>
+    <string name="vote_error5">"Ceva a mers prost
+Nu se poate trimite feedback-ul"</string>
     <string name="vote_error_nonetwork">Nu se poate conecta la rețea</string>
     <string name="vote_experience">Experienţă forum</string>
     <string name="vote_hint">Obţineţi 20 de puncte de experienţă pentru forumul MIUI atunci când votaţi</string>
@@ -250,6 +257,6 @@
     <string name="weekly_build">Săptămânal</string>
     <string name="welcom_button">OK</string>
     <string name="welcom_message">Sunteţi pregătit de petrecere</string>
-    <string name="welcom_title">Bun venit la MIUI 7</string>
+    <string name="welcom_title">Bun venit la MIUI 8</string>
     <string name="worst_update">Cea mai rea actualizare dintotdeauna</string>
 </resources>

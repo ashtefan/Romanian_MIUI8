@@ -52,7 +52,7 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
-     <string-array name="weather_type">
+    <string-array name="weather_type">
         <item>Senin</item>
         <item>Înnorat</item>
         <item>Înnorat</item>
@@ -79,7 +79,7 @@
         <item>Praf</item>
         <item>Negură</item>
         <item>Ploaie ce îngheaţă</item>
-        <item>Datele meteo lipsesc</item>
+        <item></item>
      </string-array>
     <string-array name="indices_uv_level">
         <item>Slab</item>
@@ -94,7 +94,7 @@
         <item>Potrivit</item>
         <item>Nepotrivit</item>
     </string-array>
-     <string-array name="wind_direction">
+    <string-array name="wind_direction">
         <item>Vânt din N</item>
         <item>Vânt din NE</item>
         <item>Vânt din E</item>
@@ -119,22 +119,4 @@
         <item> %s</item>
         <item> %s</item>
     </string-array>
-    <string-array name="moon_desc">
-        <item>Lună nouă</item>
-        <item>Semilună în creștere</item>
-        <item>Primul pătrar</item>
-        <item>Lună în creştere</item>
-        <item>Lună plină</item>
-        <item>Lună în descreştere</item>
-        <item>Ultimul pătrar</item>
-        <item>Semilună în descreștere</item>
-        <item>Lună întunecată</item>
-     </string-array>
-     <string-array name="weather_indexes_uv_level">
-        <item>Cel mai slab</item>
-        <item>Slab</item>
-        <item>Mediu</item>
-        <item>Mare</item>
-        <item>Foarte mare</item>
-     </string-array>
 </resources>

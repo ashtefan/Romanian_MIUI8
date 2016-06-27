@@ -9,7 +9,7 @@
     <string-array name="answer">
         <item>Dispozitivul dumneavoastră poate fi împerecheat cu Mi TV, Mi Box si cu o serie întreagă de alte device-uri care rulează Android, prin intermediul Wi-Fi.</item>
         <item>"Asigurați-vă că ați selectat modelul potrivit de A/C în decursul procesului de împerechere. Urmăriți întocmai indicațiile până când împerecherea este realizată în totalitate."</item>
-        <item>Din păcate, doar Mi4 poate fi folosit ca telecomandă IR în acest moment.</item>
+        <item>Din păcate, doar Mi4, Mi 4c și Redmi Note 2 pot fi folosite ca telecomandă IR în acest moment.</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Lun</item>
@@ -27,7 +27,6 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>video</item>
-        <item>imagini de ecran</item>
         <item>aplicație</item>
     </string-array>
     <string-array name="epg_channel_tab">
@@ -45,6 +44,17 @@
         <item>canal TV prin satelit</item>
         <item>canale HD</item>
         <item>vizionat recent</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV prin satelit</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang TV-satelit</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>dragon TV</item>
+        <item>TV Anhui</item>
+        <item>Beijing TV</item>
+        <item>TV Guangdong</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>

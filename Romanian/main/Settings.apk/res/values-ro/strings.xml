@@ -2724,6 +2724,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_bluetooth">Bluetooth;Nume dispozitiv;Detectare activată</string>
     <string name="search_bluetooth_device_name">Nume dispozitiv</string>
     <string name="search_bluetooth_device_searchable">Detectare activată</string>
+    <string name="search_bluetooth_enable">Bluetooth</string>
     <string name="search_brightness">luminozitate</string>
     <string name="search_button_light_timeout">Durată iluminare taste</string>
     <string name="search_calendar_sound_title">Sunet calendar</string>
@@ -3992,6 +3993,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_tether_enabled_subtext">Hotspot portabil %1$s activ</string>
     <string name="wifi_tether_failed_subtext">Eroare de hotspot Wi-Fi portabil</string>
     <string name="wifi_tether_setting_title">Setări de bază</string>
+    <string name="wifi_tether_settings_title">Hotspot personal</string>
     <string name="wifi_tether_starting">Se activează hotspotul…</string>
     <string name="wifi_tether_stopping">Se dezactivează hotspotul…</string>
     <string name="wifi_type_approval" />

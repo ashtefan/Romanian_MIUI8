@@ -14,6 +14,7 @@
     <string name="account_yellowpage_favorite">Favorite</string>
     <string name="account_yellowpage_followed">Conturi verificate</string>
     <string name="account_yellowpage_recent">Vizualizați istoricul</string>
+    <string name="add_to_desktop">Adăugați pe ecranul principal</string>
     <string name="agree">De acord</string>
     <string name="agree_to_continue">Continuați</string>
     <string name="agree_to_turn_on">De acord</string>
@@ -54,6 +55,8 @@
     <string name="data_error">A apărut o eroare</string>
     <string name="data_error_show">A apărut o eroare</string>
     <string name="delete">Ștergeți</string>
+    <string name="didi_back">înapoi</string>
+    <string name="didi_close">închideți</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="dont_enable">Dezactivați</string>
     <string name="download_completed">Descărcare salvată în %s</string>
@@ -103,6 +106,7 @@
     <string name="express_info_divider">" / "</string>
     <string name="express_inqiury_select_logistics">Serviciu de curierat</string>
     <string name="express_inquiry">Urmărire</string>
+    <string name="express_inquiry_and_send">Urmărire și trimitere</string>
     <string name="express_inquiry_button_text">Urmărește</string>
     <string name="express_inquiry_clipboard_number_message">Urmăriți numărul copiat?</string>
     <string name="express_inquiry_data_owner_prefix">"Serviciu de urmărire furnizat de "</string>
@@ -127,6 +131,14 @@ Verificați numărul de urmărire."</string>
     <string name="express_inquiry_provider_info">"Furnizat de "</string>
     <string name="express_inquiry_serial_number_indication">Număr de urmărire</string>
     <string name="express_inquiry_serial_number_prefix">Numărul: %s</string>
+    <string name="express_inquiry_status_delivered">Livrat</string>
+    <string name="express_inquiry_status_difficult_goods">Bunuri periculoase</string>
+    <string name="express_inquiry_status_dispatch">Expediție în livrare</string>
+    <string name="express_inquiry_status_on_the_way">Pe drum</string>
+    <string name="express_inquiry_status_receipted">Recepționat</string>
+    <string name="express_inquiry_status_return">Returnat</string>
+    <string name="express_inquiry_status_sign_out">Deconectat</string>
+    <string name="express_inquiry_status_unknown">NECUNOSCUT</string>
     <string name="express_inquiry_trace">Urmărește</string>
     <string name="express_inquiry_trace_device_login_notice">"Utilizați acest serviciu și pe un alt telefon. Dacă doriți să urmăriți expediția și de pe acest telefon, este necesară verificarea contului dumneavoastră Mi."</string>
     <string name="express_inquiry_trace_success">Urmărire</string>
@@ -172,6 +184,8 @@ Verificați numărul de urmărire."</string>
     <string name="express_sender_info">Informații despre expeditor</string>
     <string name="express_sender_name">Numele expeditorului</string>
     <string name="express_sender_region">Regiunea expeditorului</string>
+    <string name="express_shortcut_name">Solicită sau trimite express</string>
+    <string name="express_show_all_inquiry_history">Arată istoricul solicitărilor</string>
     <string name="express_submit_order">Trimite</string>
     <string name="express_track_order">Urmărește</string>
     <string name="express_tracking_number">Număr de urmărire</string>
@@ -262,6 +276,7 @@ Verificați numărul de urmărire."</string>
     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="more_coupons">Toate cupoanele</string>
+    <string name="more_express_numbers">Mai multe numere express</string>
     <string name="navigation_search_all_cities">Toate orașele</string>
     <string name="navigation_search_automatically_positioned_city">Orașul actual</string>
     <string name="navigation_search_default_hint">Caută locații</string>
@@ -375,6 +390,7 @@ Total: %3$s RMB"</string>
     <string name="smart_antispam">Identificare numere necunoscute</string>
     <string name="tag_follow_status">tag_follow_status</string>
     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
+    <string name="title_activity_di_di_web">DiDi</string>
     <string name="toast_finish_delete_call_log">Istoricul apelurilor a fost șters</string>
     <string name="toast_text_copied">Textul a fost copiat</string>
     <string name="try_again">Încercați din nou</string>

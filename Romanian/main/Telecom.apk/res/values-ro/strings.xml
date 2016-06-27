@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="Lch_dtmf_key">D</string>
     <string name="accessibility_call_muted">Apel redus la tăcere.</string>
     <string name="accessibility_speakerphone_enabled">Difuzor activat.</string>
     <string name="add_vm_number_str">Adăugați un număr</string>
@@ -12,6 +13,7 @@
     <string name="notification_missedCallTicker">Apel ratat de la %s</string>
     <string name="notification_missedCallTitle">Apel ratat</string>
     <string name="notification_missedCall_call_back">Sunați înapoi</string>
+    <string name="notification_missedCall_call_back_miui">Apelați</string>
     <string name="notification_missedCall_message">Mesaj</string>
     <string name="notification_missedCallsMsg">%s apeluri ratate</string>
     <string name="notification_missedCallsTitle">Apeluri ratate</string>
