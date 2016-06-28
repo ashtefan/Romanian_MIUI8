@@ -74,7 +74,6 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_popup_title_manual">Activare %s</string>
     <string name="activate_popup_title_new_sim_card">Reactivare %s</string>
     <string name="activate_popup_title_register_account">Asociaţi cartela SIM</string>
-    <string name="activate_sms_postfix">Acest SMS este utilizat pentru activarea serviciului Mi</string>
     <string name="activate_status_desc_acquire_phone_number">Obţinerea numărului de telefon…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Eroare de server la obţinerea numărului de telefon</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Nu a reuşit obținerea numărului de telefon</string>
