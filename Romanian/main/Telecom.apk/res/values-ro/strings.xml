@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="Lch_dtmf_key">D</string>
     <string name="accessibility_call_muted">Apel redus la tăcere.</string>
     <string name="accessibility_speakerphone_enabled">Difuzor activat.</string>
     <string name="add_vm_number_str">Adăugați un număr</string>
