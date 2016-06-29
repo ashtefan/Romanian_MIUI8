@@ -39,7 +39,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="fragment_tab_title_sys">Aplicații de sistem</string>
     <string name="full_screen_enter">Intrare în modul ecran complet</string>
     <string name="full_screen_exit">Ieşire din modul ecran complet</string>
-    <string name="hide_mode_desc">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și a GPS-ului</string>
+    <string name="hide_mode_desc">Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului</string>
     <string name="hide_mode_ultimate_desc">Modul Ultimate este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Ultimate.</string>
     <string name="high">Performanţă</string>
     <string name="hints_loading_text">Doar o secundă…</string>

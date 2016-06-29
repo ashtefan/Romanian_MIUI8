@@ -52,7 +52,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="connect_wlan">Conectați-vă la Wi-Fi</string>
     <string name="contact">Contacte</string>
     <string name="deskclock_backup">Creare copie de rezervă pentru ceasuri</string>
-    <string name="detect_sim_card">Caută cartela SIM din nou</string>
+    <string name="detect_sim_card">Caută cartela SIM</string>
     <string name="disable_find_device_error">Nu se poate opri localizarea dispozitivului. %1$s</string>
     <string name="disable_find_device_success">Localizarea telefonului este oprită.</string>
     <string name="enableAll">Sincronizaţi tot</string>

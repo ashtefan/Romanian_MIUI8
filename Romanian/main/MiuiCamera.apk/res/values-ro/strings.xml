@@ -24,7 +24,7 @@
     <string name="camera_error_title">Eroare Cameră foto</string>
     <string name="camera_label">Cameră</string>
     <string name="camera_mode_options">Moduri</string>
-    <string name="camera_setting">Setări cameră</string>
+    <string name="camera_setting">Cameră</string>
     <string name="camera_settings_label">Cameră</string>
     <string name="camera_snap_mode_title">Mod instantaneu</string>
     <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
@@ -86,7 +86,7 @@
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
     <string name="pano_review_saving_indication_str">Salvare…</string>
     <string name="pano_too_fast_prompt">Prea repede</string>
-    <string name="path_settings">Aplicații de sistem/Camera/Setări</string>
+    <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
     <string name="pref_audio_focus_entry_general">Normal</string>

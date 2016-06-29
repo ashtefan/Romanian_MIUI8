@@ -6,18 +6,6 @@
         <item>SMS</item>
         <item>Alarmă</item>
      </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Niciun memento</item>
-        <item>0 minute</item>
-        <item>5 minute</item>
-        <item>10 minute</item>
-        <item>15 minute</item>
-        <item>30 de minute</item>
-        <item>1 oră</item>
-        <item>1 zi</item>
-        <item>2 zile</item>
-        <item>1 săptămână</item>
-     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>
@@ -30,18 +18,6 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Niciun memento</item>
-        <item>0 minute</item>
-        <item>5 minute</item>
-        <item>10 minute</item>
-        <item>15 minute</item>
-        <item>30 de minute</item>
-        <item>1 oră</item>
-        <item>1 zi</item>
-        <item>2 zile</item>
-        <item>1 săptămână</item>
-     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
@@ -174,19 +150,9 @@
         <item>Acest eveniment şi cele viitoare</item>
         <item>Toate evenimentele</item>
      </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Acesta şi evenimentele viitoare</item>
-        <item>Toate evenimentele</item>
-     </string-array>
     <string-array name="change_response_labels">
         <item>Doar acest eveniment</item>
         <item>Toate evenimentele din serie</item>
-     </string-array>
-    <string-array name="buttons_list">
-        <item>Zi</item>
-        <item>Săptămână</item>
-        <item>Lună</item>
-        <item>Evenimente</item>
      </string-array>
     <string-array name="quick_response_defaults">
         <item>Întârzii numai câteva minute.</item>

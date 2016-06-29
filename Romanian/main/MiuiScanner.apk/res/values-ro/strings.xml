@@ -300,7 +300,7 @@
     <string name="name">Nume:</string>
     <string name="namecard_recognize_failed_tip">"Nu s-a putut citi cardul"</string>
     <string name="namecard_recognizing">Citire…</string>
-    <string name="namecard_title">Aliniați cardul în cadru pentru a-l scana</string>
+    <string name="namecard_title">Așezați cartea de vizită în cadru</string>
     <string name="namecard_vendor_info">Oferit de CamCard</string>
     <string name="nickname">Pseudonim:</string>
     <string name="no_network">"Nu se poate conecta la rețea"</string>
@@ -333,6 +333,7 @@
     <string name="shopping_vendor_info">Oferit de Taobao</string>
     <string name="spaceIsLow_content">Nu există spațiu suficient pe cardul SD. Eliberați spațiu.</string>
     <string name="study_report_title">Raportați</string>
+    <string name="study_rotate_picture">Se procesează fotografia</string>
     <string name="study_scan_result">Rezultat</string>
     <string name="study_searching">Căutare rezultate</string>
     <string name="study_title">Faceți o fotografie a problemei</string>
@@ -351,13 +352,13 @@
     <string name="translation_language_korean">Coreană</string>
     <string name="translation_language_spanish">Spaniolă</string>
     <string name="translation_prompt_cannot_find">"Nu s-a găsit cuvântul sau fraza"</string>
-    <string name="translation_prompt_maintain_level">Aliniați textul de-a lungul acestei linii</string>
+    <string name="translation_prompt_maintain_level">Mențineți textul paralel cu această linie</string>
     <string name="translation_prompt_recapture">Fotografia este neclară; realizați altă fotografie</string>
     <string name="translation_prompt_sentence">Selectați textul de tradus</string>
     <string name="translation_prompt_translating">Traducere în curs…</string>
     <string name="translation_prompt_translating_sentence">Traducere în curs…</string>
     <string name="translation_prompt_translating_word">Recunoaștere…</string>
-    <string name="translation_prompt_word">Aliniați cuvântul în interiorul cadrului</string>
+    <string name="translation_prompt_word">Încadrați cuvântul în interiorul cadrului</string>
     <string name="translation_see_more">Vizualizați definiția</string>
     <string name="translation_type_sentence">Frază</string>
     <string name="translation_type_word">Cuvânt</string>

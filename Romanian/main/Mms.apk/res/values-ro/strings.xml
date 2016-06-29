@@ -167,6 +167,7 @@
     <string name="fake_cell_alert_hint">Se pare că acest mesaj a fost trimis de pe un număr de telefon diferit față de cel afișat. Tratați cu precauție mesajele care vă solicită date financiare.</string>
     <string name="fake_cell_checking_hint">Verificare securitate…</string>
     <string name="fake_cell_safe_hint">Acest mesaj este sigur</string>
+    <string name="fake_cell_timeout_hint">Nu s-a putut verifica dacă este sigur</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
     <string name="festival">Salutări</string>
     <string name="festival_continue">OK</string>

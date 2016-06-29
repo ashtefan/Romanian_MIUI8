@@ -4,6 +4,7 @@
     <string name="account_login_title">Cont</string>
     <string name="action_mode_deselect_all">Deselectaţi tot</string>
     <string name="action_mode_select_all">Selectaţi tot</string>
+    <string name="activity_parse_video_title">Lipiți URL-ul</string>
     <string name="activity_rule">Reguli</string>
     <string name="ad_download">Descărcare</string>
     <string name="ad_downloading">Încărcare…</string>
@@ -12,6 +13,8 @@
     <string name="add_private_files">Adăugaţi fișiere</string>
     <string name="add_task">Adăugaţi sarcini</string>
     <string name="adding_upload_tasks">Adăugare sarcini…</string>
+    <string name="album_creator">Creat de %s</string>
+    <string name="album_name">Selecția zilnică: %s</string>
     <string name="all_topic">Toate subiectele</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
     <string name="already_signin_description">Sunteţi conectat deja</string>
@@ -175,6 +178,7 @@
     <string name="downloading_in_3g">Descărcare prin 3G…</string>
     <string name="drive_closed">Nu sunteți conectat</string>
     <string name="drive_opened">Conectat</string>
+    <string name="editor_commend">Editați</string>
     <string name="email_platform">E-mail</string>
     <string name="empty_comment">"Comentariul nu poate fi gol"</string>
     <string name="empty_file_download">"Nu se poate descărca un fișier gol"</string>
@@ -247,6 +251,7 @@
     <string name="hot_comments">Comentarii populare</string>
     <string name="hot_sticker">Stickere</string>
     <string name="hot_video">Videoclipuri</string>
+    <string name="hot_video_load_more">Mai multe &gt;</string>
     <string name="hottest_sticker_str">Popular</string>
     <string name="if_cancel">Renunțați?</string>
     <string name="image_loading_error">"Nu s-a putut încărca imaginea"</string>
@@ -254,6 +259,8 @@
     <string name="installing">Instalare…</string>
     <string name="instruction">Introduceți următoarea adresă într-un client FTP: </string>
     <string name="instruction_pre">Atingeţi pentru a porni serverul FTP</string>
+    <string name="interest_recommend">Videoclipuri recomandate</string>
+    <string name="join_activity">Participați</string>
     <string name="just_now">acum</string>
     <string name="kilobyteShort">KB</string>
     <string name="kp_category_all">Categorii</string>
@@ -337,7 +344,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="midrop_msg_1">Porniți Mi Drop pe celălalt telefon</string>
     <string name="midrop_msg_2">Când Mi Drop este pornit, puteți căuta alte dispozitive din apropiere și trimite fișiere</string>
     <string name="midrop_send_files">Selectați fișierele de trimis</string>
-    <string name="migrate_announcement_msg">Sincronizaţi contul existent KuaiPan cu contul dvs. Xiaomi în setările KuaiPan.</string>
+    <string name="migrate_announcement_msg">KuaiPan nu va mai funcționa după data de 30 iunie 2016. Vă sugerăm să vă mutați fișierele în Mi Drive chiar acum. Nu este necesară o conexiune de date din moment ce transferul se va realiza pe serverele noastre. În timpul transferului, activitățile curente de încărcare/descărcare vor fi suspendate. Mi Drive și Mi Cloud folosesc aceeași infrastructură de stocare.</string>
     <string name="migrate_announcement_title">Migrare finalizată</string>
     <string name="migrate_cancel">Renunță</string>
     <string name="migrate_confirm">Transferă</string>
@@ -581,7 +588,7 @@ Descărcați-le oricând doriți
     <string name="repair_error">"Nu s-au putut restaura"</string>
     <string name="repair_file">Restaurați fișierele criptate</string>
     <string name="repeat_upload_video">Acest videoclip a fost partajat deja; selectați un alt videoclip.</string>
-    <string name="reply_success">Comentariul va fi postat după ce va fi analizat.</string>
+    <string name="reply_success">Comentariul a fost postat.</string>
     <string name="report_abuse">Abuz</string>
     <string name="report_advertisement">Reclame</string>
     <string name="report_other">Altele</string>
@@ -684,6 +691,7 @@ Descărcați-le oricând doriți
     <string name="stay_awake_summary">Ecranul va fi activ permanent atunci când utilizaţi FTP</string>
     <string name="stay_awake_title">Mențineți ecranul activ</string>
     <string name="stop_server">Opriţi serverul</string>
+    <string name="storage_cloned_app">Stocare pentru aplicațiile clonate</string>
     <string name="storage_info">%1$s disponibil</string>
     <string name="storage_info_detail">Disponibil: %1$s Total: %2$s</string>
     <string name="storage_internal">Stocare internă</string>
@@ -715,6 +723,7 @@ Descărcați-le oricând doriți
     <string name="tab_storage">STOCARE</string>
     <string name="tag_weixin_video">Clipuri video</string>
     <string name="terabyteShort">TB</string>
+    <string name="title_album">Albume</string>
     <string name="title_app_tags">Aplicații</string>
     <string name="title_enable_documentsui">Activați DocumentsUI</string>
     <string name="title_expire_video">Expiră în curând</string>
@@ -748,7 +757,11 @@ Descărcați-le oricând doriți
     <string name="ui_main_toast_operation_failed">Nu s-a putut elimina din favorite %1$s</string>
     <string name="unmount_inform_text">Demontaţi stocarea USB?</string>
     <string name="unreviewed_video_cannot_share">Videoclipurile trebuie revizuite înainte de a fi partajate</string>
-    <string name="upload_failed">Încărcare eşuată</string>
+    <string name="upload_external_action_hint">Lipiți URL-ul</string>
+    <string name="upload_external_notification_failed">"Nu s-a putut posta"</string>
+    <string name="upload_external_notification_success">Postat cu succes</string>
+    <string name="upload_external_notification_title">Se postează, așteptați un moment026</string>
+    <string name="upload_failed">"Nu s-a putut încărca"</string>
     <string name="upload_file_toolarge_message">%1$d este prea mare; nu pot fi încărcate fișiere mai mari de 300 MB</string>
     <string name="upload_local_video">Partajați clipul video</string>
     <string name="upload_notification_compress_progress">Se comprimă %1$s%%</string>
@@ -763,6 +776,7 @@ Descărcați-le oricând doriți
     <string name="upload_video_dialog_message">"Videoclipul dvs. va fi afișat printre videoclipurile populare după ce va fi verificat."</string>
     <string name="upload_video_dialog_title">Videoclip partajat cu succes</string>
     <string name="upload_video_failed">"Nu s-a putut partaja videoclipul; reîncercați."</string>
+    <string name="upload_video_forbidden">"Nu încărca videoclipurile similare"</string>
     <string name="upload_video_success">Videoclipul este verificat…</string>
     <string name="upload_video_tip">Se poate partaja un singur videoclip odată</string>
     <string name="uploading">Încărcare…</string>
@@ -812,6 +826,13 @@ Descărcați-le oricând doriți
     <string name="video_data_consumption_confirm">OK</string>
     <string name="video_data_consumption_dialog_message">Pentru încărcare se vor folosi %1$s date mobile</string>
     <string name="video_data_consumption_dialog_title">Avertisment utilizare date mobile</string>
+    <string name="video_parse_btn">Start</string>
+    <string name="video_parse_error_repeated">"Nu încărca videoclipurile similare"</string>
+    <string name="video_parse_error_unknown">"Acest serviciu video nu este suportat; încercați cu un alt serviciu"</string>
+    <string name="video_parse_hint">Aplicații suportate: WeChat, Weibo, Youku.</string>
+    <string name="video_parse_success">Analizat cu succes</string>
+    <string name="video_parse_timeout">Ceva nu a mers bine; încercați din nou</string>
+    <string name="video_parsing_btn">Se analizează…</string>
     <string name="video_play_failed">Eroare necunoscută</string>
     <string name="video_publish_hint">O descriere corespunzătoare va ajuta alte persoane să vă găsească videoclipul</string>
     <string name="video_releasing">Încărcare…</string>

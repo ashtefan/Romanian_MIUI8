@@ -82,6 +82,10 @@
         <item quantity="other">%1$d e-mail-uri</item>
         <item quantity="one">un e-mail</item>
      </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">s-au găsit %1$d contacte</item>
+        <item quantity="one">s-a găsit un contact</item>
+    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favorite</item>
         <item quantity="one">%1$d favorit</item>

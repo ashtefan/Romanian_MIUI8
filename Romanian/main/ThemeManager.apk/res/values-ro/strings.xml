@@ -311,7 +311,7 @@
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Sunet de apel</string>
-    <string name="theme_apply_failured">Nu se poate aplica fundalul ecranului de blocare</string>
+    <string name="theme_apply_failured">"Nu se poate aplica fundalul ecranului de blocare"</string>
     <string name="theme_apply_success">Fundal aplicat</string>
     <string name="theme_applying">Aplicare…</string>
     <string name="theme_batch_update_all">Actualizaţi tot</string>
@@ -395,6 +395,6 @@
     <string name="wallpaper_loading_text">Doar o secundă…</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_destop">Setaţi ca imagine de fundal</string>
-    <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal blocare ecran</string>
+    <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
 </resources>

@@ -5,6 +5,7 @@
     <string name="auto_interval">Automat</string>
     <string name="cancel">Renunță</string>
     <string name="cancel_international">Renunțați</string>
+    <string name="cancel_lockscreen">Renunțați</string>
     <string name="change_time">Modifică imaginile de fundal</string>
     <string name="day">Zilnic</string>
     <string name="declaration">Obțineți zilnic imagini de fundal noi direct pe ecranul telefonului în mod gratuit</string>
@@ -17,6 +18,7 @@
     <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
     <string name="minutes_15">La fiecare 15 minute</string>
     <string name="no_long_show">"Nu arăta din nou"</string>
+    <string name="ok_enable_network_prov">De acord</string>
     <string name="ok_international">De acord</string>
     <string name="ok_lockscreen">OK</string>
     <string name="ok_network">Sunt de acord</string>
@@ -38,7 +40,7 @@
     <string name="sst_subscribe_title">Categoriile mele</string>
     <string name="sst_wifi_only_desc">Dezactivați pentru a economisi datele mobile</string>
     <string name="sst_wifi_only_title">Activați descărcarea prin date mobile</string>
-    <string name="summary">"Utilizând această caracterisitică acceptați &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acordul utilizatorului&lt;/a&gt; și &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de confidențialitate&lt;/a&gt; pentru a începe. Este necesară o conexiune la internet.​"</string>
+    <string name="summary">"Utilizând această caracterisitică acceptați &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de Confidențialitate&lt;/a&gt. Este necesară o conexiune la internet.​"</string>
     <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acordul utilizatorului&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica; încercați din nou mai târziu"</string>
     <string name="theme_apply_success">Ecran de blocare aplicat</string>

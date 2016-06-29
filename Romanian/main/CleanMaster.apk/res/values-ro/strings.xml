@@ -222,6 +222,7 @@
     <string name="hot">Populare</string>
     <string name="hot_today">Populare astăzi</string>
     <string name="information_setting">Setări news feed</string>
+    <string name="install_sucess">%s instalate cu succes</string>
     <string name="installed">Instalate</string>
     <string name="installing">Instalare</string>
     <string name="item_title_process_mode">Selectați o acțiune</string>
@@ -261,6 +262,7 @@
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
     <string name="open">Porniți</string>
+    <string name="open_app">Lansați</string>
     <string name="open_browser">Deschideți în browser</string>
     <string name="optimizecenter_data_support_cm">Oferit de Clean Master</string>
     <string name="optimizecenter_data_support_tc">Oferit de Tencent</string>

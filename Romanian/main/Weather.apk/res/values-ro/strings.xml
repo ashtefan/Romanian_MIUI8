@@ -55,7 +55,7 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="close">Închideți</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
-    <string name="daily_forcast_drawer_on_top">Prognoză extinsă</string>
+    <string name="daily_forcast_drawer_on_top">%1$s prognoză zilnică</string>
     <string name="daily_forcast_no_stable_direction">Vântul nu adie</string>
     <string name="daily_forcast_no_wind">&lt;12km/h</string>
     <string name="daily_forcast_temperature_connect"/>

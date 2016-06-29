@@ -196,6 +196,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="button_text_cleanup">Curăţaţi</string>
     <string name="button_text_clear">Curăţare</string>
     <string name="button_text_create_shortcut">Creaţi o comandă rapidă</string>
+    <string name="button_text_deny">Refuzați</string>
     <string name="button_text_disconnect_now">Deconectați</string>
     <string name="button_text_fix">Reparaţi</string>
     <string name="button_text_fix_now">Reparați</string>
@@ -236,6 +237,8 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="connect_internet_by_usbshare">Internet prin USB</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="continue_install">Instalați</string>
+    <string name="convenient_mode">Deblocați toate aplicațiile simultan</string>
+    <string name="convenient_summary">"Nu se solicită parola după ce a fost deblocată o aplicație"</string>
     <string name="correction_attention_dialog_message">Se modifică setările. Așteptați încheierea procesului și reîncercați.</string>
     <string name="cta_button_text_agree">OK</string>
     <string name="cta_button_text_cancel">Anulaţi</string>
@@ -688,6 +691,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
     <string name="notification_battery_over_heat_summary">Descoperiți ce anume cauzează încălzirea și scădeți temperatura telefonului.</string>
     <string name="notification_battery_over_heat_title">Temperatura actuală este %d℃</string>
+    <string name="notification_charging_title">Se încarcă</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_item">Activați blocarea aplicațiilor</string>

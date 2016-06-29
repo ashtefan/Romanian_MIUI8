@@ -38,4 +38,8 @@
         <item>pi</item>
         <item>egal cu</item>
      </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Rate egale</item>
+        <item>Rate descrescătoare</item>
+    </string-array>
 </resources>

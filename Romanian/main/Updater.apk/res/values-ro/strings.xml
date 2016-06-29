@@ -161,7 +161,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="root_agree_check_box_title">Înțeleg riscurile accesului root</string>
     <string name="root_dangerous_msg">Permisiunea de acces root este extrem de riscantă și vă poate expune dispozitivul și datele personale atacurilor provenite de la aplicațiile rău-intenționate. Acceptați că sunteți singurul responsabil pentru orice daune aduse dispozitivului sau pentru pierderea datelor ca urmare a permisiunii acces root.</string>
     <string name="set_auto">Se verifică pentru actualizări în mod automat</string>
-    <string name="set_auto_msg">Actualizările vor fi descărcate când sunteți conectat la Wi-Fi și vor fi instalate peste noapte, când nu utilizați telefonul.</string>
+    <string name="set_auto_msg">Descărcați actualizările când sunteți conectat la Wi-Fi și le instalați peste noapte?</string>
     <string name="set_auto_update_title">Activați actualizarea automată?</string>
     <string name="set_installfail_full_msg">Ceva a mers prost. Atingeți OK pentru a raporta această eroare.</string>
     <string name="set_installfail_msg">Nu sunteţi conectat la o rețea Wi-Fi. Utilizarea conexiunii de date mobile pentru a descărca actualizarea va creşte utilizarea de date. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>

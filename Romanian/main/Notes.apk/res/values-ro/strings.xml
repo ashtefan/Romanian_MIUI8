@@ -13,9 +13,9 @@
     <string name="all_terms">%1$s şi %2$s</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
-    <string name="attachment_camera">Cameră</string>
+    <string name="attachment_camera">Realizați o fotografie</string>
     <string name="attachment_contact">Contacte</string>
-    <string name="attachment_gallery">Galerie</string>
+    <string name="attachment_gallery">Selectați din Galerie</string>
     <string name="button_new_note">Notă nouă</string>
     <string name="call_record_folder_name">Note apel</string>
     <string name="default_folder_name">Dosar fără nume</string>
@@ -83,6 +83,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="pref_title_recover_help">Recuperați notele</string>
     <string name="privacy_hint">Confidențialitate</string>
     <string name="privacy_notes_fragment_title">Note ascunse</string>
+    <string name="recover_notes_hint">S-au detectat date anormale ale notițelor; încercați să le recuperați accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>
     <string name="rename_folder_dialog_tile">Redenumiți dosarul</string>
     <string name="search">Note</string>

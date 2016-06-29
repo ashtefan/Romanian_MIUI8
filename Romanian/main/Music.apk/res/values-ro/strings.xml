@@ -299,6 +299,8 @@
     <string name="filter_by_size_prefix">"Se ascund fişierele mai mici de "</string>
     <string name="filter_by_size_summary">Se ascund fişierele audio mici</string>
     <string name="find_music">Descoperiţi melodii</string>
+    <string name="force_touch_audio_picker">Audio Picker</string>
+    <string name="force_touch_play_local_music_random">Rulare aleatoare a melodiilor de pe telefon</string>
     <string name="format_not_support">Acest format nu este acceptat.</string>
     <string name="format_unsupported_or_corrupted">Acest format nu este acceptat sau fișierul este deteriorat</string>
     <string name="fragment_more">Mai multe</string>
@@ -348,6 +350,8 @@
     <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="loading_hint">Doar o secundă…</string>
     <string name="local_music">Muzică locală</string>
+    <string name="local_music_empty">Lista de redare locală este goală</string>
+    <string name="local_music_empty_goto_online">Nu s-au găsit melodii</string>
     <string name="local_music_is_not_available">Muzica locală nu este disponibilă.</string>
     <string name="local_tracks_short">Muzică locală</string>
     <string name="login_first">Este necesar să vă conectați la contul Mi mai întâi</string>
