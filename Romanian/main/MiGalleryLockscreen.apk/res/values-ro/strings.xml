@@ -40,7 +40,7 @@
     <string name="sst_subscribe_title">Categoriile mele</string>
     <string name="sst_wifi_only_desc">Dezactivați pentru a economisi datele mobile</string>
     <string name="sst_wifi_only_title">Activați descărcarea prin date mobile</string>
-    <string name="summary">"Utilizând această caracterisitică acceptați &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de Confidențialitate&lt;/a&gt. Este necesară o conexiune la internet.​"</string>
+    <string name="summary">"Utilizând această caracteristică, acceptați &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de Confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal."</string>
     <string name="summary_international">"Utilizând această caracteristică, sunteți de acord cu &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acordul utilizatorului&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Politica de confidențialitate&lt;/a&gt;. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal.​"</string>
     <string name="theme_apply_failured">"Nu s-a putut aplica; încercați din nou mai târziu"</string>
     <string name="theme_apply_success">Ecran de blocare aplicat</string>
