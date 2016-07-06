@@ -2161,7 +2161,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="path_network_settings">Setări/Cartele SIM și rețele mobile</string>
   <string name="path_networks_title">Settings/SIM cards &amp; mobile networks/Cellular networks</string>
   <string name="path_nfc_se_route_title">Settings/More/Secure element position</string>
- zaaaa <string name="path_notification_app_list_settings">Settings/Notifications &amp; status bar/App notifications</string>
+  <string name="path_notification_app_list_settings">Settings/Notifications &amp; status bar/App notifications</string>
   <string name="path_notification_sound">Settings/Sound &amp; vibration/Default notification sound</string>
   <string name="path_notification_sound_title">Settings/Sound &amp; vibration/Default notification sound</string>
   <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/tts_settings_title</string>
