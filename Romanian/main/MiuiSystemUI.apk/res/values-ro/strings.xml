@@ -20,6 +20,7 @@
     <string name="accessibility_data_three_bars">Semnal pentru date: trei bare.</string>
     <string name="accessibility_data_two_bars">Semnal pentru date: două bare.</string>
     <string name="accessibility_home">Ecranul de pornire.</string>
+    <string name="accessibility_ime_switch_button">Buton comutare metodă de introducere.</string>
     <string name="accessibility_managed_profile">Profil Serviciu</string>
     <string name="accessibility_menu">Meniu.</string>
     <string name="accessibility_no_data">Nu există semnal pentru date.</string>

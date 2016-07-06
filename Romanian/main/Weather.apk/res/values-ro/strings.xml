@@ -3,10 +3,10 @@
     <string name="act_find_city_hint">Introduceţi locaţia</string>
     <string name="act_find_city_hot_title">Adăugaţi</string>
     <string name="act_set_city_find_side">Localizare…</string>
-    <string name="act_set_city_find_side_error">Localizare eşuată</string>
+    <string name="act_set_city_find_side_error">"Localizare eşuată"</string>
     <string name="act_weather_find_city_added">Oraş adăugat</string>
     <string name="act_weather_find_city_click_retry">Reîncercaţi</string>
-    <string name="act_weather_find_city_net_no_good">Imposibil de conectat la reţea</string>
+    <string name="act_weather_find_city_net_no_good">"Imposibil de conectat la reţea"</string>
     <string name="act_weather_find_city_no_result">Niciun rezultat</string>
     <string name="act_weather_find_city_searching">Căutare…</string>
     <string name="activity_alert_detail_title"/>
@@ -18,11 +18,11 @@
     <string name="activity_main_clickable">&gt;</string>
     <string name="activity_main_one_alert"/>
     <string name="activity_main_refresh_fail">Nu se poate conecta la reţea</string>
-    <string name="activity_main_time_format">dd.MM</string>
+    <string name="activity_main_time_format">EEEE</string>
     <string name="activity_main_update_time">Actualizat %1$s</string>
     <string name="activity_main_update_time_right_now">acum</string>
     <string name="activity_weathermain_locationg">Localizare…</string>
-    <string name="activity_weathermain_locationg_error">Nu se poate localiza</string>
+    <string name="activity_weathermain_locationg_error">"Nu se poate localiza"</string>
     <string name="add_city">Adăugaţi</string>
     <string name="ads_extension"/>
     <string name="ads_install_num"/>
@@ -55,14 +55,14 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="close">Închideți</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
-    <string name="daily_forcast_drawer_on_top">%1$s prognoză zilnică</string>
+    <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
     <string name="daily_forcast_no_stable_direction">Vântul nu adie</string>
     <string name="daily_forcast_no_wind">&lt;12km/h</string>
     <string name="daily_forcast_temperature_connect"/>
     <string name="daily_forcast_temperature_transfer">%1$s°C / %2$s°C</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
     <string name="daily_forcast_whirl_wind">Tornadă</string>
-    <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+    <string name="daily_forcast_wind_connect">%1$s|%2$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
  
     <string name="edit_alert_city_title">Gestionați alertele</string>
@@ -71,6 +71,7 @@
     <string name="first_start_network_msg">Această aplicație trebuie să se conecteze la internet și să acceseze locația dvs. pentru a funcţiona in mod normal.</string>
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
     <string name="gps_hint">Locaţie actuală</string>
+    <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_title">Prognoză orară</string>
     <string name="indices_desc_Precip1hr">%1$s mm</string>
@@ -78,7 +79,7 @@
     <string name="indices_desc_feel_without_pic">%1$s°C</string>
     <string name="indices_desc_humidity">Umiditate %1$s%%</string>
     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-    <string name="indices_desc_pressure">%1$smb</string>
+    <string name="indices_desc_pressure">%1$s mb</string>
     <string name="indices_desc_visibility">%1$s km</string>
     <string name="indices_no_restriction">Nicio restricție</string>
     <string name="indices_title">Activități recomandate</string>
@@ -98,13 +99,13 @@
     <string name="information_views"/>
     <string name="install">Instalați</string>
     <string name="international_detail_menu_title">Detalii</string>
-    <string name="international_details_pressure_title">Presiune</string>
+    <string name="international_details_pressure_title">PRESIUNE</string>
     <string name="international_details_real_feel_title">TEMPERATURA RESIMȚITĂ®</string>
     <string name="international_details_title">Detalii</string>
-    <string name="international_details_uv_index_title">Indice UV</string>
+    <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">VÂNT</string>
-    <string name="locate_fail_detail_err">"Nu se poate obține locația
+    <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
     <string name="location_management">Locaţii</string>
     <string name="location_tag">Localizare GPS</string>
@@ -113,7 +114,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="mi_pad2">latte</string>
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
-    <string name="network_unavailable">""Nu se poate conecta la rețea""</string>
+    <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
     <string name="no_data">--</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="open">Deschideți</string>
@@ -129,7 +130,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="share_menu_title">Distribuiți</string>
     <string name="share_subject">Distribuiţi prin</string>
     <string name="share_title">Distribuire stare vreme</string>
-    <string name="share_weather_desc">\#Meteo MIUI#Astăzi %1$s %2$s</string>
+    <string name="share_weather_desc">\#Meteo MIUI# Astăzi %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Nu s-a putut efectua captura de ecran"</string>
@@ -143,9 +144,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="top_pollution_pm10">PM10</string>
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_so2">SO2</string>
-    <string name="traffic_control_daty_after_tomorrow_numbers">Poimâine: %1$s %2$s</string>
-    <string name="traffic_control_today_numbers">Astăzi: %1$s %2$s</string>
-    <string name="traffic_control_tomorrow_numbers">Mâine: %1$s %2$s</string>
+    <string name="traffic_control_daty_after_tomorrow_numbers">Poimâine: %1$s</string>
+    <string name="traffic_control_today_numbers">Astăzi: %1$s</string>
+    <string name="traffic_control_tomorrow_numbers">Mâine: %1$s</string>
   <string name="traffic_controls">Restricții de trafic</string>
     <string name="tts_report_aqi"/>
     <string name="tts_report_city_name"/>

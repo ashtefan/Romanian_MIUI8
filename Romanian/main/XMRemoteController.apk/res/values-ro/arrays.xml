@@ -27,6 +27,7 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>video</item>
+        <item>Imagini de ecran</item>
         <item>aplicație</item>
     </string-array>
     <string-array name="epg_channel_tab">

@@ -12,6 +12,7 @@
     <string name="backup_finished_notification_content">S-au salvat aplicațiile de pe ecranul principal, setările sistemului, etc.</string>
     <string name="backup_now">Faceți o copie de rezervă acum</string>
     <string name="backup_size">Dimensiune: %s</string>
+    <string name="backup_size_summary">Dimensiune: %1$s</string>
     <string name="backup_success">Crearea copiei de rezervă pentru ecranul de pornire a reuşit</string>
     <string name="backup_successfully">Copie de rezervă creată cu succes</string>
     <string name="backup_to_cloud">Creaţi o copie de rezervă în Mi Cloud</string>

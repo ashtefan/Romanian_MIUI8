@@ -65,7 +65,7 @@
     <string name="recognition_error_download_fail">"Nu s-a putut descărca. Verificați setările rețelei și reîncercați."</string>
     <string name="recognition_error_download_msg">Descărcați motorul de recunoaștere pentru a face acest seviciu disponibil.</string>
     <string name="recognition_error_download_ok">Descărcați</string>
-    <string name="recognition_error_download_title">Motoruil de recunoaștere lipsește</string>
+    <string name="recognition_error_download_title">Niciun motor de recunoaștere disponibil</string>
     <string name="recognition_error_downloading">Descărcare</string>
     <string name="recognition_error_engine">Eroare a motorului de recunoaștere</string>
     <string name="recognition_error_engine_singleton">Motorul de recunoaștere este ocupat</string>
@@ -102,6 +102,7 @@
     <string name="rename_duplicate">O altă înregistrare cu acelaşi nume există deja.</string>
     <string name="rename_no_more_tip">Nu se afişează din nou</string>
     <string name="retry">Reîncercaţi</string>
+    <string name="runtime_permission_ungranted">Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacceptate</string>
     <string name="search_app">Înregistrare</string>
     <string name="search_enable_earpiece_title">Utilizare receptor pentru redarea fișierelor audio</string>
     <string name="search_led_indicator">Indicator luminos intermitent</string>

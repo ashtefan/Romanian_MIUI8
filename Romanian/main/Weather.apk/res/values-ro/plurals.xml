@@ -14,6 +14,6 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Senin</item>
-        <item quantity="one">Însorit</item>
+        <item quantity="one">Senin</item>
     </plurals>
 </resources>

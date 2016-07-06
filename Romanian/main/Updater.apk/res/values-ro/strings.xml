@@ -54,6 +54,9 @@
     <string name="continue_update_negative_btn">Continuați</string>
     <string name="continue_update_positive_btn">Stop</string>
     <string name="daily_build">Zilnic</string>
+    <string name="dialog_reboot_message">"MIUI se va actualiza. Procesul poate dura între 5 și 20 de minute. Nu opriți telefonul și nu-l reporniți în timpul procesului de actualizare."</string>
+    <string name="dialog_reboot_title">Actualizare sistem</string>
+    <string name="dialog_reboot_yes">Actualizați</string>
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>

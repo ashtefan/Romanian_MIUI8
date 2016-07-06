@@ -40,11 +40,12 @@
     <string name="confirm_restore_message">Restabiliţi setările prestabilite ale camerei?</string>
     <string name="confirm_restore_title">Restabiliţi setările prestabilite</string>
     <string name="dialog_ok">OK</string>
-    <string name="dual_camera_lens_covered_toast">Lentile acoperite.</string>
-    <string name="dual_camera_low_constract_toast">Contrastul scăzut poate afecta efectele Cameră duală.</string>
-    <string name="dual_camera_lowlight_toast">Iluminarea slabă poate afecta efectele Cameră duală.</string>
-    <string name="dual_camera_too_close_toast">Prea aproape de obiect pentru a obține efectele Cameră duală.</string>
-    <string name="dual_camera_use_hint">Modul Cameră duală poate obține efectul de blur; distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri</string>
+    <string name="dual_camera_lens_covered_toast">Lentilele sunt acoperite.</string>
+    <string name="dual_camera_low_constract_toast">Contrastul pare a fi  prea scăzut.</string>
+    <string name="dual_camera_lowlight_toast">"Se pare că iluminarea este prea slabă".</string>
+    <string name="dual_camera_too_close_toast">Camera este prea aproape de obiect.</string>
+    <string name="dual_camera_use_hint">"Modul Cameră duală poate obține efectul de blurare a fundalului.
+Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</string>
     <string name="empty">" "</string>
     <string name="error_fail_to_start_audio_capture">Nu se poate porni înregistrarea vocală. Microfonul poate fi utilizat de o altă aplicaţie.</string>
     <string name="face_analyze_info">Vârstă: %2$s (%1$s)</string>
@@ -332,11 +333,11 @@
     <string name="pref_setting_title">Setări</string>
     <string name="pref_simple_hdr_entry_off">Oprit</string>
     <string name="pref_simple_hdr_entry_on">Pornit</string>
-    <string name="pref_skin_beautify_color_title">Culoare</string>
+    <string name="pref_skin_beautify_color_title">Nuanță</string>
     <string name="pref_skin_beautify_eye_title">Ochi</string>
     <string name="pref_skin_beautify_intelligent_title">Inteligent</string>
     <string name="pref_skin_beautify_slim_title">Zvelt</string>
-    <string name="pref_skin_beautify_smooth_title">Neted</string>
+    <string name="pref_skin_beautify_smooth_title">Skin</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
     <string name="pref_video_focusmode_entry_auto">Apăsare</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
@@ -374,7 +375,6 @@
     <string name="record_back_pressed_hint">Atingeţi din nou pentru a opri înregistrarea</string>
     <string name="search_settings">Setări cameră;Calitate;Calitatea imaginii;Localizare fotografie;Localizare imagine;Detectare față;Sunete cameră</string>
     <string name="see_qrcode_detals">Vizualizaţi detaliile</string>
-    <string name="setting_top_text">Moduri cameră</string>
     <string name="simple_mode_button_asd_flash">Dezactivaţi captarea cu bliţ</string>
     <string name="simple_mode_button_asd_hdr">Dezactivaţi captarea HDR</string>
     <string name="simple_mode_button_text_audio_capture">Dezactivaţi declanşarea prin voce</string>

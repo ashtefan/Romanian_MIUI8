@@ -112,7 +112,7 @@
     <string name="copied">Copiat</string>
     <string name="copy_failed">"Nu s-a putut copia"</string>
     <string name="copy_failed_retry">"Nu se poate copia; așteptați %1$s și încercați din nou"</string>
-    <string name="copy_file_to_kuaipan">Copiaţi fişierul în Kuaipan</string>
+    <string name="copy_file_to_kuaipan">Copiaţi fişierul în KuaiPan</string>
     <string name="copy_file_to_midrive">Copiați fișierul în Mi Drive</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
@@ -339,7 +339,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="mi_router_label">Router</string>
     <string name="midrive_network_connect_confirm">Mi Drive trebuie să se conecteze la internet pentru a funcționa corespunzător.</string>
     <string name="midrive_space_full">Spațiu insuficient în Mi Drive</string>
-    <string name="midrive_welcome_message">Fișierele dumneavoastră din Kuaipan au fost mutate cu succes în Mi Drive. Vă oferim gratuit 3 luni de utilizare a Mi Cloud. Mi Cloud și Mi Drive utilizează același mediu de stocare. Vă puteți accesa fișierele la i.mi.com.</string>
+    <string name="midrive_welcome_message">Fișierele dumneavoastră din KuaiPan au fost mutate cu succes în Mi Drive. Vă oferim gratuit 3 luni de utilizare a Mi Cloud. Mi Cloud și Mi Drive utilizează același mediu de stocare. Vă puteți accesa fișierele la i.mi.com.</string>
     <string name="midrive_welcome_title">Bine ați venit la Mi Drive!</string>
     <string name="midrop_msg_1">Porniți Mi Drop pe celălalt telefon</string>
     <string name="midrop_msg_2">Când Mi Drop este pornit, puteți căuta alte dispozitive din apropiere și trimite fișiere</string>
@@ -474,7 +474,7 @@ Descărcați-le oricând doriți
 2. Îl încărcaţi în contul dvs. KuaiPan.</string>
     <string name="open_changed_file_title">Modificare aplicată</string>
     <string name="open_file_failed">Imposibil de deschis</string>
-    <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse…</string>
+    <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse</string>
     <string name="operate_confirm_in_3g">Utilizați conexiunea de date mobile pentru a descărca acest fișier? Operatorul vă poate taxa dacă depășiți planul de date</string>
     <string name="operating">Procesare…</string>
     <string name="operation_add_fav">Adăugare la favorite…</string>
@@ -760,7 +760,7 @@ Descărcați-le oricând doriți
     <string name="upload_external_action_hint">Lipiți URL-ul</string>
     <string name="upload_external_notification_failed">"Nu s-a putut posta"</string>
     <string name="upload_external_notification_success">Postat cu succes</string>
-    <string name="upload_external_notification_title">Se postează, așteptați un moment026</string>
+    <string name="upload_external_notification_title">Se postează, așteptați un moment</string>
     <string name="upload_failed">"Nu s-a putut încărca"</string>
     <string name="upload_file_toolarge_message">%1$d este prea mare; nu pot fi încărcate fișiere mai mari de 300 MB</string>
     <string name="upload_local_video">Partajați clipul video</string>

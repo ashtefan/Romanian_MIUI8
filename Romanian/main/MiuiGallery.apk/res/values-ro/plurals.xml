@@ -33,24 +33,24 @@
         <item quantity="one">Partajat cu %d persoană</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?</item>
-        <item quantity="one">Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?</item>
+        <item quantity="other">"Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
+        <item quantity="one">"Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?"</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">Fotografiile selectate nu sunt pe telefon (%dMB); le descărcați utilizând datele mobile?</item>
-        <item quantity="one">Fotografia selectată nu este pe telefon (%dMB); o descărcați utilizând datele mobile?</item>
+        <item quantity="other">"Fotografiile selectate (%dMB) nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
+        <item quantity="one">"Fotografia selectată (%dMB) nu este pe telefon; o descărcați utilizând datele mobile?"</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
-        <item quantity="other">Fotografiile selectate nu sunt pe telefon; se descarcă</item>
-        <item quantity="one">Fotografia selectată nu este pe telefon; se descarcă</item>
+        <item quantity="other">"Fotografiile selectate nu sunt pe telefon. Acestea vor fi descărcate"</item>
+        <item quantity="one">"Fotografia selectată nu este pe telefon. Aceasta va fi descărcată"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d fotografii nu au putut fi descărcate; reîncercați?</item>
-        <item quantity="one">o fotografie nu a putut fi descărcată; reîncercați?</item>
+        <item quantity="other">"%1$d fotografii nu au putut fi descărcate; reîncercați?"</item>
+        <item quantity="one">"Fotografia nu a putut fi descărcată; reîncercați?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotografii (%2$dMB) nu au putut fi descărcate; reîncercați?</item>
-        <item quantity="one">o fotografie (%2$dMB) nu a putut fi descărcată; reîncercați?</item>
+        <item quantity="other">"%1$d fotografii (%2$dMB) nu au putut fi descărcate; reîncercați?"</item>
+        <item quantity="one">"o fotografie (%2$dMB) nu a putut fi descărcată; reîncercați?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Renunțați la descărcarea celor %d fotografii rămase?</item>

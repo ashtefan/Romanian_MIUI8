@@ -231,11 +231,11 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate."</string>
     <string name="micloud_main_memory_low_title">"Spațiul de stocare internă este insuficient"</string>
     <string name="micloud_main_message_not_synced">%s date nesincronizate</string>
-    <string name="micloud_main_multi_user_error_message">"V-ați logat la același cont ca și în spațiul principal și MiCloud s-a oprit. Dacă doriți crearea unei copii de rezervă a datelor:
+    <string name="micloud_main_multi_user_error_message">"V-ați logat la același cont ca și în spațiul principal și astfel a apărut o eroare MiCloud. Dacă doriți crearea unei copii de rezervă a datelor:
 
 1.Utilizați alt cont
 2.Transferați datele în spațiul principal"</string>
-    <string name="micloud_main_multi_user_error_title">MiCloud s-a oprit</string>
+    <string name="micloud_main_multi_user_error_title">Eroare MiCloud</string>
     <string name="micloud_main_network_abnormal">Nu se poate conecta la rețea</string>
     <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
     <string name="micloud_main_not_sync">%d elemente așteaptă sincronizarea</string>

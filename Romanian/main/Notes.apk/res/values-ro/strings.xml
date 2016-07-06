@@ -83,7 +83,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="pref_title_recover_help">Recuperați notele</string>
     <string name="privacy_hint">Confidențialitate</string>
     <string name="privacy_notes_fragment_title">Note ascunse</string>
-    <string name="recover_notes_hint">S-au detectat date anormale ale notițelor; încercați să le recuperați accesând i.mi.com</string>
+    <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>
     <string name="rename_folder_dialog_tile">Redenumiți dosarul</string>
     <string name="search">Note</string>
@@ -109,13 +109,13 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="sns_desc_preview_wechat">Previzualizare mesaj WeChat</string>
     <string name="sns_desc_preview_weibo">Previzualizare mesaj Weibo</string>
     <string name="sns_footer_text">Creat cu Note Mi</string>
-    <string name="sns_hint_content">Ce este în mintea dvs.?</string>
+    <string name="sns_hint_content">Introduceți mesajul</string>
     <string name="sns_hint_title">Subiect (opţional)</string>
     <string name="sns_message_disconnect">Nu se poate conecta la rețea. Verificați conexiunea și încercați din nou.</string>
     <string name="sns_title_edit">Editaţi titlul</string>
     <string name="sns_title_send">Trimiteţi mesaj</string>
-    <string name="sns_toast_empty">Nu se poate trimite o postare goală</string>
-    <string name="sns_toast_over_limit">Trimis ca imagine (peste limita de text)</string>
+    <string name="sns_toast_empty">"Nu se poate trimite o postare fără conținut"</string>
+    <string name="sns_toast_over_limit">Trimis ca imagine</string>
     <string name="sync_tips">Apăsați pentru a sincroniza notele cu Mi Cloud.</string>
     <string name="theme_title_antique">Toamnă</string>
     <string name="theme_title_arty">Floral</string>
@@ -138,7 +138,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toast_unmark_privacy_notes">Anularea ascunderii a reușit</string>
-    <string name="toast_unmark_privacy_notes_count">%1$s note nu mai sunt ascunse</string>
+    <string name="toast_unmark_privacy_notes_count">%1$s nu mai sunt ascunse</string>
     <string name="undo">Anulaţi</string>
     <string name="unknown_source">Sursă necunoscută</string>
     <string name="welcome_note_for_cm">"Și multe alte caracteristici!

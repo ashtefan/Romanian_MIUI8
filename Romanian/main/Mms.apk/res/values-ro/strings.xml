@@ -19,8 +19,8 @@
     <string name="add_slide_hint">Atingeţi pentru a crea un diapozitiv nou</string>
     <string name="add_smiley">Emoticon</string>
     <string name="add_timing">Temporizat</string>
-    <string name="add_to_browser_favorite_failed">eșuat</string>
-    <string name="add_to_browser_favorite_success">succes</string>
+    <string name="add_to_browser_favorite_failed">"Nu s-a putut adăuga"</string>
+    <string name="add_to_browser_favorite_success">Adăugată cu succes</string>
     <string name="add_video">Adăugaţi un videoclip</string>
     <string name="adding_attachments">Aşteptaţi până când elementele sunt adăugate în slideshow.</string>
     <string name="adding_attachments_title">Se adaugă ataşamente</string>
@@ -166,8 +166,9 @@
     <string name="failed_to_resize_image">Fotografia nu a fost redimensionată.</string>
     <string name="fake_cell_alert_hint">Se pare că acest mesaj a fost trimis de pe un număr de telefon diferit față de cel afișat. Tratați cu precauție mesajele care vă solicită date financiare.</string>
     <string name="fake_cell_checking_hint">Verificare securitate…</string>
+    <string name="fake_cell_detection_entry">Detectare stație de bază falsă</string>
     <string name="fake_cell_safe_hint">Acest mesaj este sigur</string>
-    <string name="fake_cell_timeout_hint">Nu s-a putut verifica dacă este sigur</string>
+    <string name="fake_cell_timeout_hint">"Nu s-a putut verifica securitatea"</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
     <string name="festival">Salutări</string>
     <string name="festival_continue">OK</string>
@@ -489,10 +490,8 @@
     <string name="search_setting_description">Text în mesajele dvs.</string>
     <string name="search_show_more_results">Afişaţi mai multe</string>
     <string name="search_title_mms">Mesagerie</string>
-    <string name="second_mms">mesaj secundar</string>
-    <string name="second_mms_introduction">mergeți la spațiul secundar</string>
-    <string name="second_mms_notice">afișați doar mesajul secundar</string>
-    <string name="second_mms_switch">comutare utilizator</string>
+    <string name="second_mms_introduction">Mergeți la Spațiul Secundar</string>
+    <string name="second_mms_switch">Comutați</string>
     <string name="secs">sec.</string>
     <string name="security_alert_desc">&lt;font color="#7f000000"&gt;Expeditorul nu este în contactele dvs.
 "&lt;/font&gt;</string>
@@ -555,7 +554,7 @@
     <string name="sms_report_success">Raport trimis</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[imagine]</string>
-  <string name="snippet_red_package">[Red Package]</string>
+  <string name="snippet_red_package">[Red Packet]</string>
     <string name="sp_category_all">Toate mesajele de serviciu</string>
     <string name="sp_category_bank">Mesaje servicii bancare</string>
     <string name="sp_category_title_prefix">%s</string>
@@ -595,9 +594,9 @@
     <string name="timed_message_to">către</string>
     <string name="title_allow_network_access">Actualizează informațiile în mod automat</string>
     <string name="title_collapse_sp_messages">Grupaţi notificările</string>
-  <string name="title_recv_red_package">Get Red Package</string>
-  <string name="title_red_package">Getting rich and good luck</string>
-  <string name="title_send_red_package">Check Red Package</string>
+  <string name="title_recv_red_package">Receive Red Packet</string>
+  <string name="title_red_package">Have a prosperous year!</string>
+  <string name="title_send_red_package">Send Red Packet</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
@@ -627,15 +626,15 @@
     <string name="unstick_conversation">Anulați fixarea conversaţiei actuale</string>
     <string name="unsticked_conversation">Conversație eliberată deja</string>
     <string name="unsupported_media_format">Format %1$s neacceptat.</string>
-    <string name="url_fraud_dangerous_alert">"Site-ul pe care încercați să-l accesați este fraudulos; poate fi dăunător telefonului dar și siguranței datelor personale. SUNTEȚI SIGUR CĂ MERGEȚI MAI DEPARTE? 
+    <string name="url_fraud_dangerous_alert">"Site-ul pe care încercați să-l accesați poate fi periculos. Poate fi dăunător telefonului dar și siguranței datelor personale. SUNTEȚI SIGUR CĂ MERGEȚI MAI DEPARTE? 
 %s"</string>
     <string name="url_fraud_insurance">Asigurare împotriva fraudelor</string>
-    <string name="url_fraud_risky_alert">"Site-ul pe care încercați să-l vizitați poate fi fraudulos; sunteți sigur că doriți să continuați? 
+    <string name="url_fraud_risky_alert">"Site-ul pe care încercați să-l vizitați poate fi periculos; sunteți sigur că doriți să continuați? 
 %s"</string>
-    <string name="url_fraud_title">Suspiciune de fraudă</string>
+    <string name="url_fraud_title">Site-ul poate fi fals</string>
     <string name="url_fraud_visit">&lt;u&gt;ACCESEZ ORICUM&lt;/u&gt;</string>
     <string name="url_result_safe">Site-ul este sigur</string>
-    <string name="url_scanning">Scanare URL…</string>
+    <string name="url_scanning">Verificare URL…</string>
     <string name="user_agreement1">Citiți termenii aplicabili cu atenție înainte de a instala un software suplimentar sau de a folosi acest produs.</string>
     <string name="user_agreement2">Condiţii de utilizare</string>
     <string name="user_agreement3">" şi "</string>

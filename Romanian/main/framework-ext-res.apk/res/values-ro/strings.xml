@@ -84,7 +84,7 @@
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
     <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
     <string name="security_permission_denied_text">Acces nepermis</string>
-    <string name="security_permission_failed_text">Eroare internă; reîncercați mai târziu</string>
+    <string name="security_permission_failed_text">A apărut o eroare; reîncercați mai târziu</string>
     <string name="security_permission_validate_warning">Vă mulțumim că ne ajutați să facem MIUI mai bun!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi și datele mobile pornite</string>
     <string name="security_permission_xiaomi_account_missed_text">Introduceți Mi Account ID</string>

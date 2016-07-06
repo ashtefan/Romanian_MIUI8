@@ -14,7 +14,7 @@
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="edit_frequent_phrases">Editați expresiile frecvente</string>
     <string name="frequent_phrases_des">Introduceți expresii utilizate frecvent dintr-o atingere</string>
-    <string name="frequent_phrases_size_exceeded">Se pot adăuga maxim 10 expresii frecvente. Ștergeți-le pe cele inutile pentru a putea adăuga altele</string>
+    <string name="frequent_phrases_size_exceeded">Se pot adăuga maxim 10 expresii frecvente. Ștergeți-le pe cele inutile pentru a putea adăuga altele.</string>
     <string name="menu_add_frequent_phrases">Adăugați</string>
     <string name="menu_delete">Ștergeți</string>
     <string name="menu_edit">Editați</string>

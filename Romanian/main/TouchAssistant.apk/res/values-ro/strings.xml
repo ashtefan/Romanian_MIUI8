@@ -12,6 +12,7 @@
     <string name="function_settings">Setări funcții</string>
     <string name="hide_touch_assistant">Ascundere automată Asistent ecran</string>
     <string name="hide_touch_assistant_intro">Asistentul ecran nu va fi afișat în unele aplicații.</string>
+    <string name="motion_behavior">Mod funcționare</string>
     <string name="name_alipay_payment_code">Plată Alipay</string>
     <string name="name_alipay_scan">Scaner Alipay</string>
     <string name="name_long_press_power_key">Apăsare lungă a butonului de pornire</string>

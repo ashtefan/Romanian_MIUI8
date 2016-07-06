@@ -413,7 +413,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="expandCloseViewDescription">Restrângeți </string>
     <string name="expandOpenViewDescription">Extindeți</string>
     <string name="export_sim_contact_finish">Export finalizat</string>
-    <string name="export_sim_contact_finish_msg">%1$d transferate | %2$d omise | %3$d rămase</string>
+    <string name="export_sim_contact_finish_msg">%1$d transferate | %2$d duplicate | %3$d rămase %4$s</string>
     <string name="export_to_sdcard">Export pe cardul SD</string>
     <string name="export_to_sim">Export pe cartela SIM</string>
     <string name="export_to_sim1">Exportaţi pe cartela SIM1</string>

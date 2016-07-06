@@ -212,6 +212,7 @@
     <string name="process" />
     <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_notice">Aplicaţii recomandate</string>
+    <string name="recommend_apps_notice_nodata">Aplicații recomandate (Nu există date)</string>
     <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
     <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar.</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>

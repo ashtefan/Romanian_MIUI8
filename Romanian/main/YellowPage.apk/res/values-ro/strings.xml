@@ -132,7 +132,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_inquiry_serial_number_indication">Număr de urmărire</string>
     <string name="express_inquiry_serial_number_prefix">Numărul: %s</string>
     <string name="express_inquiry_status_delivered">Livrat</string>
-    <string name="express_inquiry_status_difficult_goods">Bunuri periculoase</string>
+    <string name="express_inquiry_status_difficult_goods">Necunoscut</string>
     <string name="express_inquiry_status_dispatch">Expediție în livrare</string>
     <string name="express_inquiry_status_on_the_way">Pe drum</string>
     <string name="express_inquiry_status_receipted">Recepționat</string>

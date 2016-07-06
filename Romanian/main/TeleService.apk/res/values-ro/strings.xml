@@ -232,7 +232,7 @@
     <string name="close_dialog">OK</string>
     <string name="close_profile">Închideţi</string>
     <string name="cloud_antispam_title">Identificare numere necunoscute</string>
-    <string name="cmcc_ut_data_enable_prompt">"Nu s-a putut conecta utilizând rețeaua VoLTE. Porniți conexiunea de date mobile acum."</string>
+    <string name="cmcc_ut_data_enable_prompt">Acest serviciu necesită o conexiune de date mobile. Porniți conexiunea de date mobile pentru a continua.</string>
     <string name="command_error_fdn_failure">Trebuie să dezactivaţi FDN mai întâi</string>
     <string name="common_problem_message">Aflați mai multe în %1$s, sau apelați numărul nostru de relații cu clienții: 400-100-5678</string>
     <string name="common_setting">Setări generale</string>
@@ -485,8 +485,6 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="incall_error_supp_service_transfer">Apelul nu poate fi transferat.</string>
     <string name="incall_error_supp_service_unknown">Serviciu neacceptat.</string>
     <string name="incall_status_dialed_mmi">Se porneşte secvenţa MMI…</string>
-    <string name="incoming_video_show_pref_summary">Se afişează videoclipul stabilit de apelant. Pentru a utiliza această funcție, activaţi cartelele de contact.</string>
-    <string name="incoming_video_show_pref_title">Afişare videoclip apelant</string>
     <string name="international_calls">Doar apeluri internaționale</string>
     <string name="international_dial_complete_intention">Efectuați apeluri internaționale la costuri reduse</string>
     <string name="international_dial_complete_no">Nu acum</string>

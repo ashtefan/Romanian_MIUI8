@@ -67,7 +67,7 @@
     <string name="receiver_transfer_interrupt">Transfer întrerupt. Nu dezactivați hotspot-ul Wi-Fi în timpul transferului.</string>
     <string name="receiver_video_file_current">Se primesc %2$d​ videoclipuri de la %1$s</string>
     <string name="receiver_video_file_num">%2$d videoclipuri de la %1$s</string>
-    <string name="runtime_permission_ungranted">Nu se poate utiliza Mi Drop din cauza unei permisiuni neacceptate</string>
+    <string name="runtime_permission_ungranted">"Nu se poate utiliza Mi Drop din cauza neacordării unei permisiuni"</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
     <string name="sender_cancel">Nu trimiteţi</string>

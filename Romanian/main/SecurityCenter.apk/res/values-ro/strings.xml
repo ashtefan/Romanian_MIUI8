@@ -110,7 +110,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="apps_item_virus_cleanup_success">Eliminate cu succes!</string>
     <string name="apps_item_virus_cleanup_text">Eliminați</string>
     <string name="apps_item_virus_summary_installed">Aplicație instalată</string>
-    <string name="apps_item_virus_summary_uninstalled">Apk</string>
+    <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">Verificați aplicația de mesagerie</string>
     <string name="apps_list_header_title_sms_access">Restricționați accesul la codurile de verificare</string>
     <string name="auto_handle_title">GENERAL</string>
@@ -544,7 +544,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="lockscreen_glogin_submit_button">Autentificați-vă</string>
     <string name="main_activity_content_summary_root">Acces root</string>
     <string name="main_activity_content_summary_update">Actualizare sistem</string>
-    <string name="main_activity_content_title_scanning">Scanare...</string>
+    <string name="main_activity_content_title_scanning">Scanare…</string>
     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
     <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
@@ -736,11 +736,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="path_applicationlock">Aplicații de sistem/Securitate</string>
     <string name="path_cleanmaster">Aplicații de sistem/Securitate/Curățare</string>
     <string name="path_monthreport">Aplicații de sistem/Securitate</string>
-    <string name="path_networkassistant_1">Aplicații de sistem/Securitate/Asistent rețea</string>
-    <string name="path_networkassistant_2">Aplicații de sistem/Securitate/Asistent rețea</string>
-    <string name="path_networkassistant_4">Aplicații de sistem/Securitate/Asistent rețea/Testare rețea</string>
+    <string name="path_networkassistant_1">Aplicații de sistem/Securitate/Utilizare date</string>
+    <string name="path_networkassistant_2">Aplicații de sistem/Securitate/Utilizare date</string>
+    <string name="path_networkassistant_4">Aplicații de sistem/Securitate/Utilizare date/Verificare rețea</string>
     <string name="path_permcenter">Aplicații de sistem/Securitate/Permisiuni</string>
-    <string name="path_powercenter">Aplicații de sistem/Securitate/Economisire acumulator</string>
+    <string name="path_powercenter">Aplicații de sistem/Securitate/Utilizare acumulator</string>
     <string name="path_securitycenter">Aplicații de sistem/Securitate</string>
     <string name="path_securitycenter_settings">Aplicații de sistem/Securitate</string>
     <string name="pay_charge">Achiziţionaţi date suplimentare</string>
@@ -823,7 +823,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_save_mode_end_time">Sfârșit</string>
     <string name="power_save_mode_ontime_enabled">Programați comutarea modurilor</string>
     <string name="power_save_mode_start_time">Start</string>
-    <string name="power_save_mode_summary" formatted="false">Monitorizează procesele în fundal, dezactivează sincronizarea și ascunde animațiile de sistem. Economisirea acumulatorului se va dezactiva în mod automat atunci când capacitatea acumulatorului este peste 60%.</string>
+    <string name="power_save_mode_summary" formatted="false">Monitorizează procesele în fundal și dezactivează sincronizarea. Economisirea acumulatorului se va dezactiva în mod automat atunci când capacitatea acumulatorului este peste 60%.</string>
     <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_end_time_summary">Sfârşit</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
@@ -973,7 +973,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="resource_networkassistant_2">Calibrare plan de date mobile</string>
     <string name="resource_networkassistant_4">Testare rețea</string>
     <string name="resource_permcenter">Permisiuni</string>
-    <string name="resource_powercenter">Economisire acumulator</string>
+    <string name="resource_powercenter">Utilizare acumulator</string>
     <string name="resource_securitycenter">Securitate</string>
     <string name="resource_securitycenter_settings">Securitate</string>
     <string name="restrictbackground_conflict_saving_msg">Nu se poate utiliza economisirea datelor atunci când datele de fundal sunt restricționate. Dezactivaţi economisirea datelor şi restricţionaţi datele de fundal?</string>
@@ -981,9 +981,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="result_autoscan_info">Monitorizați în mod automat mediul sistemului atunci când aplicațiile de plăți sunt pornite</string>
     <string name="result_sign_header">Au fost găsite %d aplicații neoficiale</string>
     <string name="result_sms_header">Au fost găsite riscuri în aplicația de mesagerie</string>
-    <string name="result_sms_info_antispam">Deschideți aplicația Antispam pentru a preveni accesarea site-urilor cu risc</string>
+    <string name="result_sms_info_antispam">Activați funcția Antispam pentru a preveni accesarea site-urilor cu risc</string>
     <string name="result_sms_info_auth">Restricționați accesul aplicațiilor terțe la codurile de verificare.</string>
-<string name="result_sms_title_antispam">Tratat de URL cu risc trimis prin SMS</string>
+<string name="result_sms_title_antispam">Amenințare de URL cu risc trimis prin SMS</string>
     <string name="result_sms_title_auth">Riscul fraudelor financiare prin SMS există</string>
     <string name="result_virus_header">Au fost găsiți %d viruși și aplicații nesigure</string>
     <string name="result_wifi_header">Rețeaua Wi-Fi prezintă probleme de securitate</string>
@@ -1011,22 +1011,22 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="safe_result_header_title_system">Securitatea sistemului</string>
     <string name="safe_result_header_title_wifi">Securitatea Wi-Fi</string>
     <string name="safe_result_item_button_monitor">Setările monitorizării</string>
-    <string name="safe_result_item_empty_monitor">Nicio aplicație protejată pentru plăți</string>
+    <string name="safe_result_item_empty_monitor">Nicio aplicație pentru plăți protejată</string>
     <string name="safe_result_item_info_app_sign">Nicio aplicație neoficială</string>
     <string name="safe_result_item_info_app_virus">Niciun virus sau aplicație riscantă</string>
     <string name="safe_result_item_info_sms_auth">Restricționați accesul aplicațiilor terțe la codurile de verificare</string>
-    <string name="safe_result_item_info_sms_default">Restaurați sistemul implicit de mesagerie</string>
+    <string name="safe_result_item_info_sms_default">Comutați la aplicația implicită de mesagerie</string>
     <string name="safe_result_item_info_sms_url">Protecție împotriva URL-urilor nesigure primite prin SMS</string>
     <string name="safe_result_item_info_system_antivirus">Protecție împotriva virușilor de tip phishing</string>
     <string name="safe_result_item_info_system_root">Root sigur</string>
     <string name="safe_result_item_info_system_scan">Monitorizarea plăților este activă</string>
-    <string name="safe_result_item_info_system_version">Sistemul are cea mai nouă versiune</string>
+    <string name="safe_result_item_info_system_version">MIUI este actualizat la cea mai nouă versiune</string>
     <string name="safe_result_item_info_wifi_arp">Niciun atac ARP</string>
     <string name="safe_result_item_info_wifi_connection">Wi-Fi conectat</string>
     <string name="safe_result_item_info_wifi_dns">Server DNS sigur</string>
     <string name="safe_result_item_info_wifi_encryption">Wi-Fi parolat</string>
     <string name="safe_result_item_info_wifi_fake">Nu este fals</string>
-    <string name="safepay_alert_dialog_button_continue">Mergeți</string>
+    <string name="safepay_alert_dialog_button_continue">Continuați</string>
     <string name="safepay_alert_dialog_button_risk">Reparați</string>
     <string name="safepay_alert_dialog_button_unknown">Verificați din nou</string>
     <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Risc detectat! Intrerupeți plata curentă!&lt;/font&gt;</string>
@@ -1090,8 +1090,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="sp_settings_group_title_omit">Elemente omise</string>
     <string name="sp_settings_info_input_method">Utilizați metodele de sistem de introducere în aplicațiile de plăți</string>
     <string name="sp_settings_info_monitor">Monitorizați mediul sistemului atunci când sunt pornite aplicațiile de plăți</string>
-    <string name="sp_settings_plugin_monitor_summary">Scanare atunci când plugin-urile pentru plată sunt pornite în orice aplicație</string>
-    <string name="sp_settings_plugin_monitor_title">Monitorizare plugin pentru plată</string>
+    <string name="sp_settings_plugin_monitor_summary">Scanare atunci când plugin-urile pentru plată sunt pornite</string>
+    <string name="sp_settings_plugin_monitor_title">Monitorizare plugin-uri pentru plată</string>
     <string name="sp_settings_root_title_omit">Verificare ROOT</string>
     <string name="sp_settings_title_input_method">IME sigur</string>
     <string name="spinner_title">%1$s - Date mobile: %2$s</string>
@@ -1274,7 +1274,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="toast_reject_sms_read_permission_success">Setat cu succes!</string>
     <string name="toast_root_apply_accept">Acces root acordat pentru %s</string>
     <string name="toast_root_apply_reject">Acces root refuzat pentru %s</string>
-    <string name="toast_set_success">Deschis cu succes!</string>
+    <string name="toast_set_success">Activat cu succes!</string>
     <string name="toast_shortcut_install">Comandă rapidă plasată pe ecranul de pornire</string>
     <string name="toast_shortcut_uninstall">Comandă rapidă eliminată</string>
     <string name="toast_show_notification">Fixat în panoul notificărilor</string>
@@ -1424,6 +1424,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usbsharenet_pc_exception_summary">Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea la internet a computerului.</string>
     <string name="virus_list_header_title">%d viruşi detectaţi</string>
     <string name="voltage_symbol">V</string>
+    <string name="wakepath_confirm_start_activity">Permiteți %1$s să deschidă %2$s?</string>
     <string name="warning_open_mi_sim">Activați Mi SIM</string>
     <string name="wifi_exception_summary">Testați rețelele Wi-Fi disponibile</string>
     <string name="wifi_exception_title">Testare reţea Wi-Fi</string>
