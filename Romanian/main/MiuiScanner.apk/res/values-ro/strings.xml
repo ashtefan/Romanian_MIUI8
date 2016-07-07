@@ -227,7 +227,6 @@
     <string name="document_ocr_result_save">Salvați în Note</string>
     <string name="document_ocr_result_title">Document fotografiat</string>
     <string name="document_ocr_tip_msg">Citire…</string>
-    <string name="document_ocr_vendor_info">OCR oferit de Kingsoft</string>
     <string name="document_recognize_fail_tip">"Nu s-a putut citi documentul"</string>
     <string name="document_rectify">Ajustare</string>
     <string name="document_rectify_tip_msg">Ajustare…</string>

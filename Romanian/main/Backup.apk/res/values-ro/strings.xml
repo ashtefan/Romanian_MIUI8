@@ -139,6 +139,7 @@
     <string name="miliao_account_login">Conectaţi-vă prin intermediul MiTalk</string>
     <string name="mms_title">MMS</string>
     <string name="multi_select_title">%1$s selectate</string>
+    <string name="multi_user_mode_backup_message">"Nu se poate utiliza aplicația de Creare copie de siguranță în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_message">"Nu se poate utiliza Mi Mover în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_title">"Sunteți în modul Multi-user"</string>
     <string name="never">Niciodată</string>

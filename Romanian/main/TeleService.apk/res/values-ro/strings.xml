@@ -266,7 +266,6 @@
     <string name="default_areacode">Prefix prestabilit</string>
     <string name="default_notification_description">Sunet implicit (%1$s)</string>
     <string name="default_preference_summary">&lt;Nesetat&gt;</string>
-    <string name="default_transport">UDP</string>
     <string name="delete_fdn_contact">Ștergeţi numărul cu apelări restricţionate</string>
     <string name="deleting_fdn_contact">Se şterge numărul cu apelări restricţionate…</string>
     <string name="description_delete_button">șterge</string>
@@ -587,7 +586,7 @@ Abonați-vă și începeți să vorbiți"</string>
     <string name="livetalk_setting">Setări suplinire</string>
     <string name="livetalk_terms_conditions">Termenii și condițiile</string>
     <string name="livetalk_unavaiable_info">Serviciul este indisponibil temporar</string>
-    <string name="livetalk_user_config_title">Verificați numărul de telefon</string>
+    <string name="livetalk_user_config_title">Verificați cartela SIM</string>
     <string name="livetalk_welcome_description_text">"• Economisiți 70% din costurile apelurilor.
 • Apelați orice telefon din lume, fără restricții de operator.
 • Abonați-vă și începeți să vorbiți, configurarea este foarte facilă."</string>
@@ -723,6 +722,7 @@ Se va utiliza rețeaua preferată."</string>
     <string name="no_data">Nu există date</string>
     <string name="no_internet_available">Pentru a efectua un apel prin internet, verificaţi mai întâi conexiunea la internet.</string>
     <string name="no_more">Nu afișa mi multe</string>
+    <string name="no_number">Niciun număr de telefon</string>
     <string name="no_sim_card">Introduceți cartela SIM</string>
     <string name="no_vm_number">Lipseşte numărul mesageriei vocale</string>
     <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
@@ -829,7 +829,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="other_settings">Alte setări de apel</string>
     <string name="other_settings_category">Altele</string>
     <string name="overseas_roaming_setting">Date mobile în roaming</string>
-    <string name="password">Parolă</string>
     <string name="password_changed">Parolă modificată cu succes</string>
     <string name="password_title">Parolă</string>
     <string name="pause_prompt_no">Nu</string>
@@ -876,7 +875,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="pin_progress_unlock_icc">Deblocare cartelă SIM…</string>
     <string name="plmn_list_setting_add_plmn">PLMN nou</string>
     <string name="plmn_list_setting_title">Preferinţe</string>
-    <string name="port">Port</string>
     <string name="port_title">Numărul portului</string>
     <string name="preference_auto_ip_summary_disable">Dezactivat</string>
     <string name="preference_category_ringtone">Ton de sonerie și vibrare</string>
@@ -1047,6 +1045,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sim_roaming_settings_summary">Conectare la date mobile în roaming</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_service_setting">Mi SIM și Mi Roaming</string>
+    <string name="sim_useless">SIM indisponibil</string>
     <string name="sip_account_list">Conturi SIP</string>
     <string name="sip_accounts">Conturi pentru apelare prin internet (SIP)</string>
     <string name="sip_accounts_title">Conturi</string>
@@ -1156,7 +1155,6 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="title_user_config">Activați cartela SIM</string>
     <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
     <string name="top_up_first">Abonați-vă mai întâi</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Tip de transport</string>
     <string name="tty_mode_option_summary">Setaţi modul TTY</string>
     <string name="tty_mode_option_title">Mod TTY</string>

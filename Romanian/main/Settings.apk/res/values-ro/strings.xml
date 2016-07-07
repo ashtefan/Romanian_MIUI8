@@ -1254,6 +1254,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="filter_apps_third_party">Descărcate</string>
     <string name="filter_dlg_title">Alegeţi opţiunile de filtrare</string>
     <string name="fingerprint_and_password_entrance_title">Blocare ecran &amp; amprentă</string>
+    <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>
     <string name="fingerprint_identify_msg">Scanare amprentă…</string>
     <string name="fingerprint_identify_try_again_msg">"Scanare nereușită, încercați din nou"</string>
@@ -1476,6 +1477,14 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="keyboard_layout_picker_title">Aspecte tastatură</string>
     <string name="keyboard_settings_category">Tastatură şi metode de introducere</string>
     <string name="keyboard_settings_title">Tastatură Android</string>
+    <string name="keyguard_left_function_chooser_hint_text">Widget-ul din stânga s-a modificat în %s</string>
+    <string name="keyguard_left_function_chooser_title">Aplicație</string>
+    <string name="keyguard_left_function_title">Stânga</string>
+    <string name="keyguard_right_function_chooser_hint_text">Widget-ul din dreapta s-a modificat în %s</string>
+    <string name="keyguard_right_function_chooser_title">Aplicație</string>
+    <string name="keyguard_right_function_title">Dreapta</string>
+    <string name="keyguard_shortcut_summary">Setați în blocarea ecranului widgeturi pentru 2 aplicații</string>
+    <string name="keyguard_shortcut_title">Widgeturi în blocarea ecranului</string>
     <string name="keywords_accounts">cont</string>
     <string name="keywords_app">Memorie RAM</string>
     <string name="keywords_battery">energie</string>
@@ -1621,7 +1630,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lock_settings_common_title">Setări blocare</string>
     <string name="lock_settings_picker_settings">Setaţi blocarea ecranului</string>
     <string name="lock_settings_picker_title">Alegeţi blocare ecran</string>
-    <string name="lock_settings_title">Siguranţă ecran</string>
+    <string name="lock_settings_title">Securitate telefon</string>
     <string name="lock_settings_with_fingerprint">Blocare ecran &amp; amprentă</string>
     <string name="lock_setup">Configurarea este completă</string>
     <string name="lock_sounds_enable_title">Sunet de blocare a ecranului</string>
@@ -1635,14 +1644,23 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
  pentru al doilea spațiu"</string>
-    <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru al doilea spațiu</string>
+    <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
     <string name="lockpassword_confirm_pins_dont_match">Parolele numerice nu corespund</string>
+    <string name="lockpassword_confirm_your_lock_password_header">Confirmați parola</string>
+    <string name="lockpassword_confirm_your_lock_pattern_header">Confirmați modelul propriu</string>
+    <string name="lockpassword_confirm_your_password_generic">Introduceți parola dispozitivului pentru a continua.</string>
     <string name="lockpassword_confirm_your_password_header">Confirmaţi parola</string>
+    <string name="lockpassword_confirm_your_pattern_generic">Utilizați modelul propriu pentru a continua.</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirmaţi modelul</string>
+    <string name="lockpassword_confirm_your_pin_generic">Introduceți codul PIN pentru a continua.</string>
     <string name="lockpassword_confirm_your_pin_header">Confirmaţi parola numerică</string>
+    <string name="lockpassword_confirm_your_private_password_header">Confirmați parola</string>
+    <string name="lockpassword_confirm_your_private_pattern_header">Confirmați modelul propriu</string>
     <string name="lockpassword_continue_label">Continuaţi</string>
     <string name="lockpassword_illegal_character">Parola conţine un caracter nepermis.</string>
+    <string name="lockpassword_invalid_password">Parolă incorectă</string>
+    <string name="lockpassword_invalid_pin">PIN incorect</string>
     <string name="lockpassword_ok_label">OK</string>
     <string name="lockpassword_password_recently_used">Administrator dispozitiv nu permite parolă recentă.</string>
     <string name="lockpassword_password_requires_alpha">Parola trebuie să conţină cel puţin o literă.</string>
@@ -1679,7 +1697,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpattern_recording_intro_header">Desenaţi un model pentru deblocare</string>
     <string name="lockpattern_recording_intro_header_second_space">Desenați un model de deblocare pentru al doilea spațiu:</string>
     <string name="lockpattern_restart_button_text">Redesenare</string>
-    <string name="lockpattern_retry_button_text">Încercaţi din nou</string>
+    <string name="lockpattern_retry_button_text">Goliți</string>
     <string name="lockpattern_settings_change_lock_pattern">Modificaţi modelul pentru deblocare</string>
     <string name="lockpattern_settings_choose_lock_pattern">Setaţi modelul pentru deblocare</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Blocare cu butonul de pornire</string>
@@ -1690,6 +1708,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpattern_settings_help_how_to_record">Modul de desenare a unui model de deblocare</string>
     <string name="lockpattern_settings_power_button_instantly_locks_summary">Exceptând cazul când este menținut activ de %1$s</string>
     <string name="lockpattern_settings_title">Model pentru deblocare</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">Prea multe încercări eșuate. Încercați din nou în %d secunde.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Încercaţi din nou peste %d secunde.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Prea multe încercări incorecte!</string>
     <string name="lockpattern_tutorial_cancel_label">Anulaţi</string>
@@ -2885,6 +2904,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, dispozitivul nu va utiliza parola de blocare a ecranului pentru criptarea datelor."</string>
     <string name="security_enable_widgets_disabled_summary">Setare dezactivată de administrator</string>
     <string name="security_enable_widgets_title">Activați widgeturi</string>
+    <string name="security_encryption_title">Criptați telefonul utilizând parola de blocare a ecranului</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
     <string name="security_password_category_name">Blocare ecran</string>
     <string name="security_passwords_title">Parole</string>
@@ -3128,7 +3148,8 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_notification_led">Indicator luminos intermitent</string>
     <string name="status_bar_settings_notification_priority">Prioritate</string>
     <string name="status_bar_settings_notification_priority_summary">Se afişează notificările la începutul listei</string>
-    <string name="status_bar_settings_notification_sound_vibrate">Sunet şi vibrare</string>
+    <string name="status_bar_settings_notification_sound">Sunet</string>
+    <string name="status_bar_settings_notification_vibrate">Vibrare</string>
     <string name="status_bar_settings_show_carrier">Afişare nume operator</string>
     <string name="status_bar_settings_show_carrier_summary">Numele operatorului este în continuare afișat pe blocarea ecranului și în panoul notificărilor, atunci când această opţiune este dezactivată</string>
     <string name="status_bar_settings_show_floating_notification">Notificări plutitoare</string>

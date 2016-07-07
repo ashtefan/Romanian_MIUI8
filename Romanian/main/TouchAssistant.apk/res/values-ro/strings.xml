@@ -12,6 +12,8 @@
     <string name="function_settings">Setări funcții</string>
     <string name="hide_touch_assistant">Ascundere automată Asistent ecran</string>
     <string name="hide_touch_assistant_intro">Asistentul ecran nu va fi afișat în unele aplicații.</string>
+    <string name="hide_when_fullscreen">Îndepărtează în modul Ecran Complet</string>
+    <string name="hide_when_fullscreen_intro">Nu se afișează când se intră în modul Ecran Complet.</string>
     <string name="motion_behavior">Mod funcționare</string>
     <string name="name_alipay_payment_code">Plată Alipay</string>
     <string name="name_alipay_scan">Scaner Alipay</string>
@@ -30,7 +32,7 @@
     <string name="name_screenshot">Captură ecran</string>
     <string name="name_wechat_payment_code">Plată Wechat</string>
     <string name="name_wechat_scan">Scanner Wechat</string>
-    <string name="open_panel">Deschideți meniul asistentului</string>
+    <string name="open_panel">Activați Asistentul Ecran</string>
     <string name="pay_entry_dialog_title_select">Selectați aplicația</string>
     <string name="pay_entry_dialog_title_setting">Setați aplicația</string>
     <string name="pref_category_others">Altele</string>

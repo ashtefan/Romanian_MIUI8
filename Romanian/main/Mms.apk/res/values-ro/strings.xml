@@ -46,6 +46,7 @@
     <string name="batch_deleting_progress_message">Ştergere…</string>
     <string name="bcc_label">"Bcc: "</string>
     <string name="block_messaging_entry_title">SMS blocat</string>
+    <string name="block_support_text">Oferit de Antiy.</string>
     <string name="bookmark">Favorite</string>
     <string name="bookmark_confirm_delete_message">Eliminaţi mesajele selectate din favorite?</string>
     <string name="bookmark_empty">Niciun mesaj favorit</string>

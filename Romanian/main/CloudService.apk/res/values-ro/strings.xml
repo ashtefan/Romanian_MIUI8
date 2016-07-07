@@ -200,10 +200,14 @@ pentru reactivarea acestei caracteristici!"</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Conexiunea a expirat. Încercați din nou mai târziu.</string>
     <string name="micloud_find_device_guide_micloud">Porniți sincronizarea cu Mi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizați contactele, fotografiile, notițele și altele cu Mi Cloud</string>
-    <string name="micloud_find_device_guide_noti_content">Porniți</string>
-    <string name="micloud_find_device_guide_noti_title">Activați localizarea dispozitivului pentru a vă proteja datele atunci când vă pierdeți telefonul</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Activați localizarea dispozitivului pentru a vă proteja datele WeChat</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Activați localizarea dispozitivului pentru a vă proteja datele Alipay</string>
+    <string name="micloud_find_device_guide_noti_content">Protejați-vă datele chiar dacă pierdeți telefonul</string>
+    <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Datele dumneavoastră QQ vor fi în siguranță chiar dacă veți pierde telefonul</string>
+    <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Datele dumneavoastră WeChat vor fi în siguranță chiar dacă veți pierde telefonul</string>
+    <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Datele dumneavoastră Alipay vor fi în siguranță chiar dacă veți pierde telefonul</string>
+    <string name="micloud_find_device_guide_noti_title">Activați Localizarea telefonului</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ vă recomandă să activați Localizarea telefonului</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat vă recomandă să activați Localizarea telefonului</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_progress">Se pornește localizarea dispozitivului…</string>
     <string name="micloud_find_device_guide_title">"Conectați-vă la %s pentru a localiza, bloca
 sau șterge datele de pe telefonul dumneavoastră."</string>

@@ -135,24 +135,24 @@
     <string name="dialog_button_find_music">Descoperiţi</string>
     <string name="dialog_button_login">Conectați-vă și sincronizați muzica</string>
     <string name="dialog_button_scan_tracks">Căutați muzica de pe acest dispozitiv</string>
-    <string name="dialog_cannot_resume">Descărcarea s-a întrerupt și nu poate fi reluată.</string>
+    <string name="dialog_cannot_resume">"Descărcarea s-a întrerupt și nu poate fi reluată."</string>
     <string name="dialog_confirm_delete_checkbox_message">Ștergeți de asemenea și fișierele de pe telefon</string>
-    <string name="dialog_confirm_delete_downloads_message">Ștergeți %d sarcini?</string>
-    <string name="dialog_confirm_delete_the_download_item_message">Ștergeți sarcinile</string>
-    <string name="dialog_failed_body">Doriți să încercați să descărcați din nou mai târziu sau eliminați definitiv din lista descărcărilor?</string>
-    <string name="dialog_file_already_exists">Nu se poate descărca. Fișierul există deja.</string>
-    <string name="dialog_file_missing_body">Nu s-a găsit fișierul descărcat.</string>
+    <string name="dialog_confirm_delete_downloads_message">Ștergeți %d elemente?</string>
+    <string name="dialog_confirm_delete_the_download_item_message">Ștergeți aceste elemente?</string>
+    <string name="dialog_failed_body">Încercați să descărcați din nou mai târziu sau eliminați definitiv din lista descărcărilor?</string>
+    <string name="dialog_file_already_exists">"Nu se poate descărca. Fișierul există deja."</string>
+    <string name="dialog_file_missing_body">"Nu s-a găsit fișierul descărcat."</string>
     <string name="dialog_file_missing_title">"Nu se poate deschide fișierul"</string>
     <string name="dialog_hint_music_error">Nu a fost găsită nicio melodie.</string>
-    <string name="dialog_insufficient_space_on_cache">Nu se poate finaliza descărcarea. Nu există spațiu suficient în memoria internă.</string>
-    <string name="dialog_insufficient_space_on_external">Nu se poate finaliza descărcarea. Nu există spațiu suficient în memoria externă.</string>
-    <string name="dialog_media_not_found">Nu se poate descărca. Nu s-a detectat memoria externă.</string>
+    <string name="dialog_insufficient_space_on_cache">"Nu se poate finaliza descărcarea. Nu există spațiu suficient în memoria internă."</string>
+    <string name="dialog_insufficient_space_on_external">"Nu se poate finaliza descărcarea. Nu există spațiu suficient pe cardul SD."</string>
+    <string name="dialog_media_not_found">"Nu se poate descărca. Cardul SD nu este disponibil."</string>
     <string name="dialog_not_show_again">"Nu arăta din nou"</string>
     <string name="dialog_queued_body">Acest fișier este în coada de așteptare pentru descărcarea ulterioară.</string>
     <string name="dialog_title_add_playlist">Adăugaţi o listă de redare</string>
     <string name="dialog_title_delete_tracks">Ştergeţi</string>
     <string name="dialog_title_name_playlist">Nume listă de redare</string>
-    <string name="dialog_title_not_available">Descărcarea a eșuat</string>
+    <string name="dialog_title_not_available">"Descărcarea a eșuat"</string>
     <string name="dialog_title_queued_body">Fișierul nu este încă disponibil</string>
     <string name="dialog_title_remove_tracks">Eliminaţi</string>
     <string name="dialog_title_track_picker">Selectaţi melodii</string>
@@ -195,13 +195,13 @@
     <string name="download_info_start_deleted_tasks">Ștergeți descărcările</string>
     <string name="download_list_get_free_vip">Perioadă de încercare Xunlei</string>
     <string name="download_list_get_hightspeed_flow_auto_open">Accelerarea descărcărilor Xunlei este activată</string>
-    <string name="download_list_get_hightspeed_flow_pay_ok">Plată finalizată.</string>
+    <string name="download_list_get_hightspeed_flow_pay_ok">Plată finalizată</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Perioada de încercare Xunlei a început</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Bucurați-vă de viteze de descărcare crescute prin Xunlei</string>
     <string name="download_manage">Descărcări</string>
     <string name="download_manage_item_complete">FINALIZAT</string>
     <string name="download_method">Descărcaţi</string>
-    <string name="download_no_application_title">Nu se poate deschide fișierul</string>
+    <string name="download_no_application_title">"Nu se poate deschide fișierul"</string>
     <string name="download_paused">Descărcarea a fost oprită</string>
     <string name="download_paused_in_power_save_mode">Descărcările curente au fost oprite de către modul Economisire energie</string>
     <string name="download_pending">Se așteaptă descărcarea</string>
@@ -224,7 +224,7 @@
     <string name="download_traffic_dialog_position_button">Descărcați totuși</string>
     <string name="download_unknown_title">&lt;Nedenumit&gt;</string>
     <string name="download_wait_connect">Așteaptă conectarea la Wi-Fi</string>
-    <string name="download_when_network_connected">Descarcă utilizând datele mobile</string>
+    <string name="download_when_network_connected">Descarcă când sunteți conectat la internet</string>
     <string name="download_while_playing_no_vip_summary">Descărcare automată a melodiilor pe care le ascultaţi on-line(cu excepția celor cu plată)</string>
     <string name="download_while_playing_summary">Descărcare automată a melodiilor pe care le ascultaţi on-line</string>
     <string name="download_while_playing_title">Descărcare în timpul redării</string>
@@ -299,8 +299,8 @@
     <string name="filter_by_size_prefix">"Se ascund fişierele mai mici de "</string>
     <string name="filter_by_size_summary">Se ascund fişierele audio mici</string>
     <string name="find_music">Descoperiţi melodii</string>
-    <string name="force_touch_audio_picker">Audio Picker</string>
-    <string name="force_touch_play_local_music_random">Rulare aleatoare a melodiilor de pe telefon</string>
+    <string name="force_touch_audio_picker">Recunoaștere melodie</string>
+    <string name="force_touch_play_local_music_random">Amestecarea melodiilor din telefon</string>
     <string name="format_not_support">Acest format nu este acceptat.</string>
     <string name="format_unsupported_or_corrupted">Acest format nu este acceptat sau fișierul este deteriorat</string>
     <string name="fragment_more">Mai multe</string>
@@ -367,7 +367,7 @@
     <string name="menu_all_task_pause">Opriți tot</string>
     <string name="menu_all_task_start">Porniți tot</string>
     <string name="menu_enter_edit_mode">Editor</string>
-    <string name="menu_preferences">Setări pentru descărcări</string>
+    <string name="menu_preferences">Setări descărcare</string>
     <string name="menu_title_pause_all">Opriți tot</string>
     <string name="menu_title_resume_all">Porniți tot</string>
     <string name="menu_title_settings">Setări</string>
@@ -496,7 +496,7 @@
     <string name="package_filter">Pachete</string>
     <string name="pause_download">Oprește</string>
     <string name="paused_by_app">Oprită</string>
-    <string name="paused_in_power_save_mode">Oprită în modul Economisire acumulator</string>
+    <string name="paused_in_power_save_mode">Oprită când modul Economisire acumulator este activ</string>
     <string name="paused_insufficient_space">Așteptare</string>
     <string name="paused_queued_for_wifi">Se așteaptă conectarea la rețea</string>
     <string name="paused_unknown">Oprită</string>
@@ -519,7 +519,7 @@
     <string name="please_download_first">Trebuie să descărcaţi această melodie înainte de a o putea utiliza ca ton de apel</string>
     <string name="please_search_or_select">Căutați sau selectați un câmp</string>
     <string name="please_select_song">Selectați o melodie mai întâi</string>
-    <string name="power_save_mode_dialog_msg">Telefonul este în modul Economisire energie. Porniți descărcarea acum?</string>
+    <string name="power_save_mode_dialog_msg">Modul Economisire energie este activ. Porniți descărcarea acum?</string>
     <string name="pref_download_settings_title">Limita dimensiunii descărcărilor</string>
     <string name="pref_summary_any_bytes_popup">Descarcă doar în Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Notifică atunci când se utilizează datele mobile pentru descărcarea fișierelor</string>
@@ -532,7 +532,7 @@
     <string name="price">"Preţ: "</string>
     <string name="priority_storage">Descărcat pe cardul SD extern</string>
     <string name="priority_storage_summary">La utilizarea unui card SD extern, această funcție intră în vigoare</string>
-    <string name="privacy_notif_content">Apăsați pentru a vedea detaliile.</string>
+    <string name="privacy_notif_content">Atingeți pentru a vedea detaliile.</string>
     <string name="privacy_notif_title">Acceleratorul Xunlei este pornit</string>
     <string name="privacy_tip_cancel">Renunță</string>
     <string name="privacy_tip_content">"Utilizați acceleratorul Xunlei pentru creșterea vitezei de descărcare? URL-ul de descărcare va fi încărcat în serverele Xunlei. De asemenea se vor încărca și detaliile contului dvs Mi pentru verificarea abonării la acest serviciu."</string>
@@ -611,6 +611,18 @@
     <string name="settings">Setări</string>
     <string name="settings_notification_text">Arată widgetul în panoul notificărilor</string>
     <string name="settings_notification_title">Widget în panoul de notificări</string>
+  <string name="settings_search_key_desktop_lyric">Versuri în ecranul principal;Versuri;Muzică;Melodii</string>
+  <string name="settings_search_key_download_quality">Calitatea decărcărilor?;Calitate;Muzică;Descărcare;Melodii</string>
+  <string name="settings_search_key_download_when_favorite">Descărcare favorite;Decărcare;Favorite;Muzică;Melodii</string>
+  <string name="settings_search_key_notification">Notificări muzică;Muzică;Notificări;melodii</string>
+  <string name="settings_search_key_vip_service">Melodii premium;VIP;Pachet de melodii;Pachet de Melodii Premium;Membru;Abonament;Muzică;Melodii</string>
+  <string name="settings_search_path_advance">Aplicații de sistem/Muzică/Serviciu și setări/Setări avansate</string>
+  <string name="settings_search_path_normal">Aplicații de sistem/Muzică/Serviciu și setări</string>
+  <string name="settings_search_title_desktop_lyric">Versuri pe ecranul principal</string>
+  <string name="settings_search_title_download_quality">Calitatea descărcării</string>
+  <string name="settings_search_title_download_when_favorite">Descărcare favorite</string>
+  <string name="settings_search_title_notification">Notificări muzică</string>
+  <string name="settings_search_title_vip_service">Melodii Premium</string>
     <string name="share_append_text">Din @MIUI</string>
     <string name="share_chooser_title">Distribuiţi utilizând</string>
     <string name="share_description">Din Muzică Mi</string>
@@ -743,8 +755,8 @@
     <string name="warning_tip_ok">Opriți</string>
     <string name="warning_tip_title">Atenționare utilizare date mobile</string>
     <string name="welcome_to_new_music">Bine ați venit la noua versiune Muzică Mi!</string>
-    <string name="wifi_required_body" formatted="false">"Trebuie să vă conectați la o rețea Wi-Fi pentru a finaliza descărcarea %s. 
+    <string name="wifi_required_body" formatted="false">"Ar trebui să fiți conectat la o rețea Wi-Fi pentru a finaliza descărcarea %s. 
 
-Apăsați %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
-    <string name="wifi_required_title">Dimensiunea fișierului este prea mare pentru rețeaua operatorului</string>
+Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
+    <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>
 </resources>

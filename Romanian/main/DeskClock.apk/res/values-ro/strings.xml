@@ -75,6 +75,7 @@
     <string name="menu_item_sort_by_name">Sortaţi după nume</string>
     <string name="minute">1 minut</string>
     <string name="minutes">%s minute</string>
+    <string name="more_settings">Mai multe setări</string>
     <string name="never">O dată</string>
     <string name="oneshot_alarm">Ștergeți după ce expiră</string>
     <string name="pause">Pauză</string>
@@ -83,8 +84,8 @@
     <string name="revert">Reveniţi</string>
     <string name="set_alarm">Setaţi alarma</string>
     <string name="settings">Setări</string>
-    <string name="shutdown_alarm_disable_summary">Alarmă la deconectare dezactivată</string>
-    <string name="shutdown_alarm_enable_summary">Alarmă la deconectare activată</string>
+    <string name="shutdown_alarm_disable_summary">Alarma nu va mai suna dacă închideți telefonul</string>
+    <string name="shutdown_alarm_enable_summary">Alarma va suna chiar dacă închideți telefonul</string>
     <string name="shutdown_alarm_title">Pornire telefon</string>
     <string name="silent_alarm_summary">Silenţios</string>
     <string name="skip_alarm_date_format">%1$s(%2$s)</string>

@@ -31,6 +31,7 @@
     <string name="invalid_sim_pin_hint">Codul PIN trebuie să conțină între 4 și 8 cifre</string>
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
+    <string name="left_action_default_hint_text">Telecomandă Mi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
@@ -50,8 +51,8 @@
     <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi i.xiaomi.com.</string>
     <string name="missed_call_text">%d apeluri pierdute</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de un dispozitiv Bluetooth</string>
-    <string name="open_camera_hint_text">Glisaţi spre stânga pentru a fotografia</string>
-    <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a apela</string>
+    <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide %s</string>
+    <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a deschide %s</string>
     <string name="open_wifi_settings">Conexiune deschisă la reţea</string>
     <string name="phone_locked_string">Telefon blocat</string>
     <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>

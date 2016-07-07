@@ -261,7 +261,7 @@
     <string name="Privacy_App_Uninstall">Dezinstalaţi</string>
     <string name="Privacy_Perm_Count">Permisă: %1$d ori. Refuzată: %2$d ori</string>
     <string name="Su_Enable_Dialog">%1$s încearcă să obţină permisiune Root de sistem care este dezactivată pt. asigurarea securităţii sistemului. Dacă doriţi să o activaţi, accesaţi meniul Securitate > Permisiuni.</string>
-    <string name="Su_Package_Forbidden">%1$s nu are acces Root.</string>
+    <string name="Su_Package_Forbidden2">"nu are acces root."</string>
     <string name="Su_Unavailable">Permisiunea Root este dezactivată în versiunea MIUI stable. Instalaţi versiunea MIUI developer pentru activarea permisiunii Root.</string>
     <string name="SysOpt_Boost_AutoStart">Permiteţi pornirea automată</string>
     <string name="SysOpt_Boost_AutoStart_Group">Pornire automată</string>
@@ -283,7 +283,7 @@
     <string name="permission_group_title_settings_related">Setări</string>
     <string name="permission_request_title">Solicitare de acordare permisiuni</string>
     <string name="permission_warning_template">Permiteți %1$s pentru %2$s ?</string>
-    <string name="permisson_reject_notice_toast_text">\"%1$s\" nu are permisiunea %2$s. Puteţi să modificați permisiunile pentru aplicații în orice moment accesând meniul Securitate > Permisiuni.</string>
+    <string name="permisson_reject_notice_toast_text2">"nu are permisiunea să %1$s."</string>
     <string name="screen_overlay_button">Accesați Setări</string>
     <string name="screen_overlay_message">Pentru a modifica această setare de permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații</string>
     <string name="screen_overlay_title">Suprapunere elemente vizuale detectată</string>

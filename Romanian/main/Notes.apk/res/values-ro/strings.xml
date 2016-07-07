@@ -52,6 +52,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="menu_mark_privacy">Ascundeți</string>
     <string name="menu_move_parent_folder">Dosarul sursă</string>
     <string name="menu_move_to">Mutați în</string>
+    <string name="menu_send_as_image">Trimiteți ca imagine</string>
     <string name="menu_send_to_desktop">Plasaţi pe desktop</string>
     <string name="menu_send_wechat">Trimiteţi la WeChat</string>
     <string name="menu_send_weibo">Trimiteţi la Weibo</string>
@@ -106,6 +107,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="sns_choose_quality_low">Joasă</string>
     <string name="sns_choose_quality_title">Selectaţi calitatea imaginii</string>
     <string name="sns_content_default">Distribuire fotografie</string>
+    <string name="sns_desc_image_preview">Previzualizare mesaj</string>
     <string name="sns_desc_preview_wechat">Previzualizare mesaj WeChat</string>
     <string name="sns_desc_preview_weibo">Previzualizare mesaj Weibo</string>
     <string name="sns_footer_text">Creat cu Note Mi</string>
@@ -128,13 +130,10 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="theme_title_red">Roșu</string>
     <string name="theme_title_star">Steluțe</string>
     <string name="theme_title_yellow">Galben</string>
-    <string name="toast_folder_privacy_mode">Nu puteţi edita dosarul în modul Vizitator</string>
     <string name="toast_mark_privacy_notes">Ascunse cu succes</string>
     <string name="toast_mark_privacy_notes_count">%1$s note au fost ascunse cu succes</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_message_add_text_warn">Acest tip de fișier nu este acceptat</string>
-    <string name="toast_note_privacy_mode">Nu puteţi edita nota în modul Vizitator</string>
-    <string name="toast_privacy_mode">"Nu se poate finaliza acțiunea pentru notițele ascunse"</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toast_unmark_privacy_notes">Anularea ascunderii a reușit</string>

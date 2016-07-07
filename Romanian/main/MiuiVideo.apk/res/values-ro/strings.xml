@@ -159,6 +159,7 @@
     <string name="file_error">Eroare fişier</string>
     <string name="file_not_exist">Fișierul nu a fost găsit</string>
     <string name="filter">Filtru</string>
+    <string name="finish_install">Instalată cu succes</string>
     <string name="forecast">Prognoză</string>
     <string name="forecast_empty_hint">Niciun program</string>
     <string name="forecasts">Avanpremieră</string>

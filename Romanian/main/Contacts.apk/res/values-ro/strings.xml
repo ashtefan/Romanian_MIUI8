@@ -253,6 +253,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contacts_unavailable_create_contact">Creaţi o intrare nouă în Agendă</string>
     <string name="contacts_unavailable_import_contacts">Importaţi contactele dintr-un fişier</string>
     <string name="convenient_service">Servicii</string>
+    <string name="copy_number">Copiați</string>
     <string name="copy_text">Copiaţi în clipboard</string>
     <string name="createContactShortcutSuccessful">Widgetul Agendă a fost adăugat la ecranul de pornire</string>
     <string name="create_group_dialog_title">Creaţi un grup nou</string>
@@ -447,7 +448,6 @@ Motivul: „%s”"</string>
     <string name="favoritesFrequentContacted">Contactate frecvent</string>
     <string name="favorites_list_empty">Niciun contact favorit</string>
     <string name="firewall_setting">Listă blocări</string>
-    <string name="followed_yellowpage">Conturi verificate</string>
     <string name="force_touch_miprofile">Carte de vizită</string>
     <string name="force_touch_new_contact">Contact nou</string>
     <string name="foundTooManyContacts">S-au găsit peste %d contacte</string>
@@ -661,13 +661,12 @@ Motivul: „%s”"</string>
     <string name="miprofile_error_not_opened">Dezactivaţi cartelele de contact</string>
     <string name="miprofile_error_not_set">Cartela dvs. de contact nu a fost sincronizată cu serverul</string>
     <string name="miprofile_error_unknown">Eroare necunoscută</string>
-    <string name="miprofile_find_miprofile_title">Adăugați un profil</string>
-    <string name="miprofile_find_profile_batch_add">Adăugați toate profilurile</string>
+    <string name="miprofile_find_miprofile_title">Adăugați pentru a vedea toate informațiile</string>
+    <string name="miprofile_find_profile_batch_add">Adăugați toate</string>
     <string name="miprofile_find_profile_batch_finish">Finalizat</string>
     <string name="miprofile_find_profile_batch_request_failed">Nu s-a putut adăuga profilul</string>
     <string name="miprofile_find_profile_loading">Încărcare...</string>
     <string name="miprofile_find_profile_no_recommend">Niciun profil recomandat</string>
-    <string name="miprofile_find_profile_subtitle">Adăugați pentru a vedea fotografia și informații suplimentare</string>
     <string name="miprofile_finding_label">Găsire cartele de contact</string>
     <string name="miprofile_name">Profilul meu</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -1099,8 +1098,10 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="strequentList">Favorite</string>
     <string name="success_message_import_from_account">Import finalizat</string>
     <string name="summary_kind_title">Rezumat</string>
-    <string name="t9_search_guide_pinyin">Introduceţi 7 şi 5 pt. a căuta Steve Jobs</string>
-    <string name="t9_search_guide_zhuyin">Introduceţi 7 şi 5 pt. a căuta Steve Jobs</string>
+    <string name="t9_search_guide_pinyin_title1">Căutați rapid contactele introducând literele de început</string>
+    <string name="t9_search_guide_pinyin_title2">Tastați 2 și 3 pentru a căuta &lt;font fgcolor=""&gt;A&lt;/font&gt;lan &lt;font fgcolor=""&gt;F&lt;/font&gt;rank</string>
+    <string name="t9_search_guide_zhuyin_title1">Căutați rapid contactele introducând literele de început</string>
+    <string name="t9_search_guide_zhuyin_title2">Tastați 5 și 6 pentru a căuta &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
     <string name="take_new_photo">Creaţi o fotografie nouă</string>
     <string name="take_photo">Fotografiaţi</string>
     <string name="titleJoinContactDataWith">Asociaţi intrările din agendă</string>

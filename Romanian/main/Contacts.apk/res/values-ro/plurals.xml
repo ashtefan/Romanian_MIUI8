@@ -68,7 +68,7 @@
      </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d contacte recente</item>
-        <item quantity="one">1 contact recent</item>
+        <item quantity="one">%1$d contact recent</item>
      </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contacte</item>
@@ -80,11 +80,11 @@
      </plurals>
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d e-mail-uri</item>
-        <item quantity="one">un e-mail</item>
+        <item quantity="one">%1$d e-mail</item>
      </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">S-au găsit %1$d contacte</item>
-        <item quantity="one">S-a găsit un contact</item>
+        <item quantity="one">S-a găsit %1$d contact</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favorite</item>
@@ -100,11 +100,11 @@
      </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Ştergeţi %d contacte</item>
-        <item quantity="one">Ştergeţi contactul</item>
+        <item quantity="one">Ştergeţi %d contact</item>
      </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d persoane</item>
-        <item quantity="one">1 persoană</item>
+        <item quantity="one">%d persoană</item>
      </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contacte importate</item>
@@ -121,11 +121,11 @@
      </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Blocaţi aceste %1$d numere de telefon?</item>
-        <item quantity="one">Blocaţi acest număr de telefon?</item>
+        <item quantity="one">Blocaţi %1$d număr de telefon?</item>
      </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Deblocaţi aceste %1$d numere de telefon?</item>
-        <item quantity="one">Deblocaţi acest număr de telefon?</item>
+        <item quantity="one">Deblocaţi %1$d număr de telefon?</item>
      </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d persoane</item>
@@ -140,7 +140,7 @@
         <item quantity="one">%1$d contact</item>
      </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d contacte nu au fost sincronizate</item>
-        <item quantity="one">1 contact nu a fost sincronizat</item>
+        <item quantity="other">"%d contacte sau fotografii nu au fost sincronizate"</item>
+        <item quantity="one">"%d contact sau fotografie nu a fost sincronizat"</item>
      </plurals>
 </resources>

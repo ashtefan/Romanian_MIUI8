@@ -136,7 +136,8 @@
     <string name="location_service_not_working">Serviciul de localizare nu funcționează</string>
     <string name="logout_failed">Nu se poate deconecta</string>
     <string name="mi_account_identity_title">Verificaţi identitatea dvs.</string>
-    <string name="mi_pass">Mi Pass</string>
+    <string name="mi_insurance">Asigurare Mi</string>
+    <string name="mi_pass">Pașaport Mi</string>
     <string name="mi_pay_identity">Identitate</string>
     <string name="micloud_space_info">Disponibil: %s</string>
     <string name="mili_center">Credite Mi</string>
