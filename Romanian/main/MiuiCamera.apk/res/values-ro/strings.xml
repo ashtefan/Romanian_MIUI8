@@ -282,7 +282,6 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_tilt_shift_entry_circle">Cerc</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralel</string>
     <string name="pref_camera_tilt_shift_title">Înclinare</string>
-    <string name="pref_camera_tilt_shift_title">Înclinare</string>
     <string name="pref_camera_touchafaec_entry_off">Dezactivată</string>
     <string name="pref_camera_touchafaec_entry_on">Activată</string>
     <string name="pref_camera_ubifocus_title">Refocusare</string>
