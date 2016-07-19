@@ -822,6 +822,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Mod Copil</item>
         <item>Explorator fișiere</item>
         <item>Blocare aplicație</item>
+        <item>Second space</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>În fiecare zi</item>
