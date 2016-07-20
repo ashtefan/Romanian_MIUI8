@@ -8,7 +8,9 @@
     <string name="activing_simcard">Verificare SIM %1$d</string>
     <string name="activing_simcard_alone">Verificare SIM…</string>
     <string name="add">Adăugaţi</string>
+    <string name="add_by_input">Adăugați prin introducere</string>
     <string name="add_fdn_contact">Adăugaţi un număr cu apelări restricţionate</string>
+    <string name="add_from_contacts">Adăugați din contacte</string>
     <string name="add_sip_account">Adăugaţi un cont</string>
     <string name="add_vm_number_str">Adăugaţi numărul</string>
     <string name="adding_fdn_contact">Se adaugă numărul cu apelări restricţionate…</string>
@@ -725,7 +727,7 @@ Se va utiliza rețeaua preferată."</string>
     <string name="no_number">Niciun număr de telefon</string>
     <string name="no_sim_card">Introduceți cartela SIM</string>
     <string name="no_vm_number">Lipseşte numărul mesageriei vocale</string>
-    <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
+    <string name="no_vm_number_msg">Niciun număr al căsuței vocale nu este stocat pe cartela SIM.</string>
     <string name="no_voip">Apelarea prin internet neacceptată</string>
     <string name="no_wifi_available">Trebuie să fiţi conectat la o reţea Wi-Fi pentru a efectua apeluri prin internet (utilizaţi setările pentru Reţele wireless).</string>
     <string name="not_a_valid_port">Numărul portului trebuie să fie cuprins între 1000 şi 65534.</string>
@@ -906,6 +908,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="pin_progress_set_fdn_lock">Setare stare de blocare FDN…</string>
     <string name="pin_progress_set_icc_lock">Setare stare de blocare ICC…</string>
     <string name="pin_progress_unlock_icc">Deblocare cartelă SIM…</string>
+    <string name="please_enter_phone_number">Introduceți numărul de telefon</string>
     <string name="plmn_list_setting_add_plmn">PLMN nou</string>
     <string name="plmn_list_setting_title">Preferinţe</string>
     <string name="port_title">Numărul portului</string>

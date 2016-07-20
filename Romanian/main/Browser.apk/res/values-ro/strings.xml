@@ -294,6 +294,9 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
+    <string name="force_quick_search_title">Căutați</string>
+    <string name="force_touch_bookmark_history_title">Marcaje și istoric</string>
+    <string name="force_touch_infoflow_title">Știri zilnice</string>
     <string name="geolocation_permissions_prompt_dont_share">Refuzaţi</string>
     <string name="geolocation_permissions_prompt_message">%s doreşte să vă cunoască locaţia</string>
     <string name="geolocation_permissions_prompt_remember">Memoraţi preferinţele</string>

@@ -91,7 +91,6 @@
     <string name="data_keep_in_device">Păstrați pe acest dispozitiv</string>
     <string name="data_wipe_from_device">Ștergeți de pe dispozitiv</string>
     <string name="delete_action">Ştergeţi</string>
-  <string name="delete_bank_card_failed">Eliminarea cardului bancar a eșuat; vă rugăm să reîncercați</string>
     <string name="delete_device_btn">Eliminaţi</string>
     <string name="delete_device_failed">Nu se poate elimina dispozitivul</string>
     <string name="delete_device_notice">După ce dispozitivul este eliminat, va fi deconectat din contul dvs. Mi în mod automat. Nu veţi putea utiliza acest dispozitiv pentru a accesa fotografiile, mesajele sau alt conținut stocat în contul dvs.</string>

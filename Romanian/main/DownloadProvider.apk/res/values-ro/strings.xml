@@ -34,10 +34,10 @@
     <string name="notification_download_failed">Descărcare nereuşită</string>
     <string name="notification_download_failed_more">Descărcarea a %1$d fişiere a eșuat</string>
     <string name="notification_download_success_more">Au fost descărcate %1$d fişiere</string>
-    <string name="notification_need_wifi_for_size">Dimensiunea fişierului necesită Wi-Fi</string>
+    <string name="notification_need_wifi_for_size">Dimensiunea fişierului necesită conectarea la Wi-Fi</string>
     <string name="notification_paused_in_background">Întreruptă în fundal</string>
     <string name="notify_disabled_net_by_app">Conectarea la internet a fost restricționată de către aplicația de Securitate</string>
-    <string name="notify_only_wifi_download">Așteaptă conectarea la Wi-Fi</string>
+    <string name="notify_only_wifi_download">Se așteaptă conectarea la Wi-Fi</string>
     <string name="paused_waiting_for_network">Aşteptare disponibilitate reţea</string>
     <string name="permdesc_accessAllDownloads">Permite aplicaţiei să vizualizeze şi să modifice toate descărcările iniţiate de orice aplicaţie din sistem.</string>
     <string name="permdesc_downloadCacheNonPurgeable">Permite aplic. să descarce fişiere în memoria cache de desc., care nu poate fi ştearsă în mod automat când managerul de desc. are nevoie de mai mult spaţiu.</string>
@@ -64,16 +64,16 @@
     <string name="root_downloads">Descărcări</string>
     <string name="task_already_exist">Sarcina există deja</string>
     <string name="warning_tip_cancel">Descărcaţi</string>
-    <string name="warning_tip_content">Nu mai sunteţi conectat la Wi-Fi. Utilizarea conexiunii de date mobile pentru a finaliza această descărcare va crește utilizarea datelor. Dacă treceţi peste limita planului de date, operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="warning_tip_content">"Nu mai sunteţi conectat la Wi-Fi. Utilizarea conexiunii de date mobile pentru a finaliza această descărcare va crește utilizarea datelor. Dacă treceţi peste limita planului de date, operatorul ar putea percepe taxe suplimentare."</string>
     <string name="warning_tip_ok">Întrerupeţi</string>
     <string name="warning_tip_title">Avertisment de utilizare a datelor</string>
-    <string name="wifi_recommended_body" formatted="false">Despre descărcarea prin reţeaua mobilă\n\n %s（%s）\n\nDescărcarea fişierului poate genera costuri suplimentare.
+    <string name="wifi_recommended_body" formatted="false">"Pornind descărcarea %s acum poate duce la utilizarea excesivă a conexiunii de date mobile, ceea ce poate genera costuri suplimentare, în funcție de planul de date pe care îl dețineți.
  Apăsați %s pentru a porni descărcarea data viitoare când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_recommended_title">Adăugați pentru descărcarea ulterioară?</string>
-    <string name="wifi_required_body" formatted="false">Trebuie să utilizaţi Wi-Fi pentru a finaliza această descărcare de %s.
+    <string name="wifi_required_body" formatted="false">"Trebuie să utilizaţi Wi-Fi pentru a finaliza descărcarea %s.
     
- Atingeţi %s  pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi.</string>
-    <string name="wifi_required_title">Descărcare de dimensiune prea mare pentru reţeaua operatorului</string>
+ Atingeţi %s  pentru a începe această descărcare data viitoare când vă conectaţi la o reţea Wi-Fi."</string>
+    <string name="wifi_required_title">Dimensiunea fișierului de descărcat este prea mare pentru reţeaua operatorului</string>
     <string name="xl_speedup_experience_notify_context">"Dacă sunteți membru Xunlei veți beneficia de viteză ridicată de descărcare"</string>
     <string name="xl_speedup_experience_notify_title">Membru Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Încercați în mod gratuit</string>

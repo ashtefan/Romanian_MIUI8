@@ -44,10 +44,12 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="menu_help">Ajutor</string>
     <string name="menu_settings">Setări căutare</string>
     <string name="network_unavailable">Nu se poate conecta la rețea</string>
-    <string name="recent_apps">Aplicații recomandate</string>
+    <string name="recent_apps">Aplicații recente</string>
     <string name="recently_shortcut_label">Comenzi rapide recente</string>
     <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutărilor?</string>
     <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
+    <string name="search_apps">Căutați aplicații</string>
+    <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
     <string name="search_group_fold">Ascundeți</string>
     <string name="search_group_unfold">Mai multe</string>
     <string name="search_history">Istoric</string>
@@ -57,6 +59,8 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="search_sources">Elemente de căutat</string>
     <string name="search_sources_summary">Selectaţi ce doriţi să căutaţi pe telefon</string>
     <string name="search_suggestion">Sugestii</string>
+    <string name="search_videos">Căutați videoclipuri</string>
+    <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
     <string name="search_widget">Căutare</string>
     <string name="send_secret_code">Trimiteţi codul</string>
     <string name="show_more">Arată mai multe</string>
@@ -66,10 +70,10 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_title">Încercaţi să spuneţi:</string>
     <string name="web_search_results">Baidu</string>
-    <string name="xiaomi_hint"/>
-    <string name="xiaomi_hot_query"/>
+    <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+    <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
+    <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
     <string name="xiaomi_search_label">Rezultate</string>
-    <string name="xiaomi_suggest_base"/>
-    <string name="baidu_suggest_base"/>
-    <string name="baidu_search_url">http://www.google.ro/search?q=%s</string>
+    <string name="xiaomi_source_url">https://search.browser.miui.com</string>
+    <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>

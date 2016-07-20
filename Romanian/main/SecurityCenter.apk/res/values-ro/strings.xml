@@ -222,6 +222,10 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_button">Anulaţi</string>
     <string name="celcius_symbol">℃</string>
+    <string name="charging_text_battery_full_time">Ultima încărcare</string>
+    <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
+    <string name="charging_text_battery_perfect">Încărcat complet</string>
+    <string name="charging_text_time_calculating">Se calculează durata de încărcare…</string>
     <string name="chat_number">10 ore</string>
     <string name="chat_uint">" ore"</string>
     <string name="check_network_state">Testare reţea</string>
@@ -480,7 +484,6 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="item_virus_lib">Actualizare automată a definițiilor de viruși</string>
     <string name="keywords_antispam">Listă blocări;Blocare;Black list;Smart blocklist;Fraudă;Vânzări;Agenți</string>
     <string name="keywords_antivirus">Virus;Risc;Antivirus;Scanare</string>
-    <string name="keywords_applicationlock">Parolă;Confidențialitate;Blocarea aplicațiilor;Acces;Protecție</string>
     <string name="keywords_cleanmaster">Coș de gunoi;Golire;Viteză;Stocare;Cache</string>
     <string name="keywords_monthreport">Raport;Raport lunar;Raport anual;Raport de securitate</string>
     <string name="keywords_networkassistant_1">Date;Trafic</string>
@@ -733,7 +736,6 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="passwordIncorrect">Numele de utilizator sau parola sunt incorecte</string>
     <string name="path_antispam">Aplicații de sistem/Securitate/Listă blocări</string>
     <string name="path_antivirus">Aplicații de sistem/Securitate/Scanare pentru viruși</string>
-    <string name="path_applicationlock">Aplicații de sistem/Securitate</string>
     <string name="path_cleanmaster">Aplicații de sistem/Securitate/Curățare</string>
     <string name="path_monthreport">Aplicații de sistem/Securitate</string>
     <string name="path_networkassistant_1">Aplicații de sistem/Securitate/Utilizare date</string>
@@ -966,7 +968,6 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="replace_dns">Înlocuire DNS în mod automat</string>
     <string name="resource_antispam">Listă blocări</string>
     <string name="resource_antivirus">Scanare pentru viruși</string>
-    <string name="resource_applicationlock">Blocarea aplicațiilor</string>
     <string name="resource_cleanmaster">Curățare</string>
     <string name="resource_monthreport">Raport de securitate</string>
     <string name="resource_networkassistant_1">Utilizare date mobile</string>

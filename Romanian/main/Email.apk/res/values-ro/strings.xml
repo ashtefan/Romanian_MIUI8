@@ -129,7 +129,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_options_mail_window_auto">Automat</string>
     <string name="account_setup_options_mail_window_default">Setări prestabilite cont</string>
     <string name="account_setup_options_mail_window_label">Sincronizare e-mail</string>
-    <string name="account_setup_options_mail_window_label_imap_or_pop3">Păstrează pentru</string>
+    <string name="account_setup_options_mail_window_label_imap_or_pop3">Perioadă sincronizare</string>
     <string name="account_setup_options_title">Setări cont</string>
     <string name="account_setup_outgoing_port_label">Port</string>
     <string name="account_setup_outgoing_require_login_label">Solicitaţi conectarea</string>
@@ -359,7 +359,7 @@ Actualizaţi acum?"</string>
     <string name="edit_quick_response_dialog">Mesaje rapide</string>
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
-    <string name="email_setting">Setări E-mail</string>
+    <string name="email_setting">E-mail</string>
     <string name="email_setting_keywords">Conturi;Adăugare cont;conturi de e-mail;adăugare cont de e-mail;confirmare înainte de ștergere;confirmare ștergere;confirmare înainte de a trimite;confirmare trimitere;ștergere flux de mesaje;delete redirect;vizualizare conversații;mail conversation;economisire acumulator;acumulator e-mail;trimitere comentariu;încărcare jurnale</string>
     <string name="empty_account_tip">Nu s-a putut găsi contul</string>
     <string name="empty_email_tip">Nu se poate trimite un mesaj gol</string>
@@ -508,7 +508,7 @@ Actualizaţi acum?"</string>
     <string name="mailbox_name_display_drafts">Mesaje nefinalizate</string>
     <string name="mailbox_name_display_inbox">Mesaje primite</string>
     <string name="mailbox_name_display_junk">Mesaje nedorite</string>
-    <string name="mailbox_name_display_outbox">Mesaje trimise</string>
+    <string name="mailbox_name_display_outbox">Mesaje de trimis</string>
     <string name="mailbox_name_display_sent">Trimis</string>
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>

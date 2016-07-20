@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_cancel">Anulaţi</string>
-    <string name="action_confirm">Selectaţi</string>
     <string name="action_submit">Trimiteţi</string>
     <string name="announcement">Atenţie</string>
     <string name="app_empty">Nu ați descărcat nicio aplicaţie.</string>
     <string name="app_label">Raportare probleme</string>
+    <string name="app_name">Raportare probleme</string>
     <string name="btn_send">Trimiteţi</string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
@@ -100,14 +100,15 @@
     <string name="menu_copy">Copiaţi</string>
     <string name="message_label">Mesaj</string>
     <string name="michat_app_name">Suport online</string>
-    <string name="michat_artifical_customer_phone">4001005678</string>
-    <string name="michat_artifical_customer_phone_dial_error">"Dacă nu puteți suna la numărul cu 400, formați %1$s de pe alt telefon"</string>
-    <string name="michat_artifical_customer_text">Personal din echipa de suport</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
+    <string name="michat_artificial_customer_phone_dial_error">"Dacă nu puteți suna la numărul cu 400, formați %1$s de pe alt telefon"</string>
+    <string name="michat_artificial_customer_text">Personal din echipa de suport</string>
     <string name="michat_attach_image">Imagine</string>
     <string name="michat_attach_smiley">Emoticon</string>
     <string name="michat_attach_take_photo">Fotografie</string>
     <string name="michat_back_to_detail">Mergeți înapoi la chat</string>
-    <string name="michat_cant_join_artifical">"Nu s-a putut conecta datorită unei erori de rețea"</string>
+    <string name="michat_cant_access_artificial">"Nu se poate contacta echipa de suport acum"</string>
+    <string name="michat_cant_join_artificial">"Nu s-a putut conecta datorită unei erori de rețea"</string>
     <string name="michat_check_network">Verificați setările rețelei</string>
     <string name="michat_close_text">Chat încheiat</string>
     <string name="michat_comment_net_error">"Nu s-a putut conecta la rețea; încercați din nou mai târziu"</string>
@@ -123,18 +124,19 @@
     <string name="michat_failed_to_fetch_fql">"Nu s-au putut obține răspunsurile la problemele frecvente; verificați conexiunea la rețea"</string>
     <string name="michat_feedback_title_name">Studiul feedback-ului</string>
     <string name="michat_finish_text">Finalizați</string>
-    <string name="michat_in_artifical_customer_state">"Nu puteți încheia această acțiune în timp ce primiți ajutor"</string>
+    <string name="michat_in_artificial_customer_state">"Nu puteți încheia această acțiune în timp ce primiți ajutor"</string>
     <string name="michat_invalid_url">URL invalid</string>
     <string name="michat_invation_invite_fail">Ne pare rău, echipa de suport este ocupată acum. Reveniți mai târziu.</string>
     <string name="michat_invation_invite_full">Ne pare rău, întreaga echipă de suport este ocupată acum. Reveniți mai târziu.</string>
     <string name="michat_kefu_welcome">Bine ați venit la serviciul de suport online Xiaomi!</string>
-    <string name="michat_lose_artifical">A apărut o eroare de rețea și ați părăsit chat-ul</string>
+    <string name="michat_lose_artificial">A apărut o eroare de rețea și ați părăsit chat-ul</string>
     <string name="michat_menu_copy_text">Copiați</string>
     <string name="michat_mesage_resend_error_network">"Nu s-a putut conecta la rețea"</string>
     <string name="michat_mesage_send_error_network">"Nu s-a putut trimite; verificați conexiunea la rețea"</string>
     <string name="michat_message_copy_info">Copiat în clipboard</string>
     <string name="michat_message_join_again">"Bine ați revenit!"</string>
     <string name="michat_message_robot_welcome">"Numele meu este Iepurașul Mi. Sunt un robot care asigur suportul online."</string>
+    <string name="michat_motto">Echipa de suport Mi este gata să vă acorde ajutorul</string>
     <string name="michat_msg_image_upload_error">"Nu s-a putut trimite imaginea; încercați din nou mai târziu"</string>
     <string name="michat_msg_input_info">Descrieți problema pe scurt</string>
     <string name="michat_msg_status_arrived">Trimis</string>

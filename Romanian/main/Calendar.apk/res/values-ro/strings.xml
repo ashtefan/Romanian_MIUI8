@@ -299,6 +299,7 @@
     <string name="preferences_clear_search_history_summary">Eliminaţi toate căutările efectuate</string>
     <string name="preferences_clear_search_history_title">Ştergeţi istoricul căutărilor</string>
     <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_default_reminder_default_value">10</string>
     <string name="preferences_default_reminder_dialog">Timp predefinit pentru memento</string>
     <string name="preferences_default_reminder_title">Timp predefinit pentru memento</string>
     <string name="preferences_general_title">Setarea afişării calendarului</string>
@@ -388,6 +389,7 @@
   <string name="subscribe_description_card_more_launch">Extindeți</string>
   <string name="subscribe_detail_title">Detalii abonament</string>
   <string name="subscribe_ed">Deja subscris</string>
+  <string name="swipe_up_guide_hint_text">Glisați pentru a afla mai multe</string>
     <string name="sync_notice_cancel_toast_message">Calendarul local nu va fi sincronizat cu Mi Cloud</string>
     <string name="sync_notice_message">Sincronizaţi calendarul dvs. cu Mi Cloud?</string>
     <string name="sync_notice_ok">Sincronizaţi acum</string>

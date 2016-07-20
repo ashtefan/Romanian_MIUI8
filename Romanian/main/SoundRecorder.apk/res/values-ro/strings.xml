@@ -26,6 +26,7 @@
     <string name="duration_format_hour">%s h</string>
     <string name="duration_format_minute">%s m</string>
     <string name="duration_format_second">%s s</string>
+    <string name="empty_recognition_tip">Gol</string>
     <string name="error_app_internal">O altă aplicație ar putea utiliza funcția de înregistrare. Verificaţi şi încercaţi din nou.</string>
     <string name="error_app_internal_title">Eroare înregistrare sunet</string>
     <string name="error_file_access">Fișierul nu există sau este deteriorat</string>

@@ -303,7 +303,7 @@
     <string name="namecard_vendor_info">Oferit de CamCard</string>
     <string name="nickname">Pseudonim:</string>
     <string name="no_network">"Nu se poate conecta la rețea"</string>
-    <string name="no_storage">Instalați cardul SD înainte de a utiliza Camera</string>
+    <string name="no_storage">Nu există un mediu intern de stocare</string>
     <string name="not_insert_contact">"Nu se poate adăuga contactul"</string>
     <string name="not_recommend_access_web_url">Accesați site-ul oricum</string>
     <string name="not_tips">"Nu arăta din nou"</string>
@@ -317,7 +317,7 @@
   <string name="pref_camera_jpeg_quality_fine">fine</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
-    <string name="preparing_sd">Se pregătește cardul SD…</string>
+    <string name="preparing_sd">Se pregătește mediul intern de stocare…</string>
     <string name="previous">Înapoi</string>
     <string name="qr_code_details">Detalii cod QR:</string>
     <string name="recognize">Scanați</string>
@@ -330,7 +330,7 @@
     <string name="shopping_searching">Căutare…</string>
     <string name="shopping_title">Realizați o fotografie a produsului</string>
     <string name="shopping_vendor_info">Oferit de Taobao</string>
-    <string name="spaceIsLow_content">Nu există spațiu suficient pe cardul SD. Eliberați spațiu.</string>
+    <string name="spaceIsLow_content">Nu există spațiu de stocare suficient în memoria internă. Eliberați spațiu.</string>
     <string name="study_report_title">Raportați</string>
     <string name="study_rotate_picture">Se procesează fotografia</string>
     <string name="study_scan_result">Rezultat</string>

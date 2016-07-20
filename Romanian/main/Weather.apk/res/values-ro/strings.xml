@@ -27,6 +27,7 @@
     <string name="ads_extension"/>
     <string name="ads_install_num"/>
     <string name="ads_score_title"/>
+    <string name="alert_warning">Avertizări meteo</string>
     <string name="app_name">Meteo</string>
     <string name="aqi_data_source">Oferit de Caiyun Weather</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
@@ -41,11 +42,12 @@
     <string name="aqi_detail_sub_title">Detalii ICA</string>
     <string name="aqi_detail_subtitle">ICA %1$s</string>
     <string name="aqi_detail_title">Indicele de Calitate a Aerului</string>
+    <string name="aqi_detail_unit">Unitatea de măsură:µg/m3(CO:mg/m3)</string>
     <string name="aqi_publish_source">Actualizat la %1$s de CNEMC</string>
     <string name="aqi_publish_time">Actualizat la %1$s</string>
     <string name="aqi_short_desc">ICA %1$s</string>
     <string name="aqi_sub_desc">ICA</string>
-    <string name="aqi_top_pollution">Grad de poluare maximă</string>
+    <string name="aqi_top_pollution">Grad maxim de poluare</string>
     <string name="button_abandon">Renunțați la modificări</string>
     <string name="button_add_city">Adăugați o locație</string>
     <string name="button_allow">OK</string>
@@ -54,10 +56,12 @@
     <string name="button_not_allow">Renunţaţi</string>
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="close">Închideți</string>
+    <string name="commercial">Reclamă</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
     <string name="daily_forcast_no_stable_direction">Vântul nu adie</string>
-    <string name="daily_forcast_no_wind">&lt;12km/h</string>
+    <string name="daily_forcast_no_wind">&lt;12 km/h</string>
+    <string name="daily_forcast_no_wind_miles">&lt;19,3 mph</string>
     <string name="daily_forcast_temperature_connect"/>
     <string name="daily_forcast_temperature_transfer">%1$s°C / %2$s°C</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
@@ -74,6 +78,7 @@
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_title">Prognoză orară</string>
+    <string name="index_item_install_now">Instalați acum</string>
     <string name="indices_desc_Precip1hr">%1$s mm</string>
     <string name="indices_desc_feel">Se simte ca la %1$s °C</string>
     <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -95,6 +100,7 @@
     <string name="information_manager_information">Informații despre vreme</string>
     <string name="information_manager_wlan">Actualizați în Wi-Fi</string>
     <string name="information_menu_title"/>
+    <string name="information_set">Setare informații</string>
     <string name="information_time_source">%1$s | %2$s</string>
     <string name="information_views"/>
     <string name="install">Instalați</string>
@@ -123,6 +129,12 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
     <string name="realtime_wind_default_title">Vânt</string>
+    <string name="retry">Reîncercați</string>
+    <string name="set">Setări</string>
+    <string name="set_degree_centigrade">°C</string>
+    <string name="set_fahrenheit">°F</string>
+    <string name="set_kilometre">km/h</string>
+    <string name="set_land_mile">mph</string>
     <string name="share">Partajați</string>
     <string name="share_btn_cancel">Anulaţi</string>
     <string name="share_btn_confirm">Distribuiţi</string>
@@ -157,6 +169,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="tts_report_weather_desc"/>
     <string name="tts_report_wind"/>
     <string name="twc_logo_title"/>
+    <string name="unit">Unitatea de măsură</string>
+    <string name="unit_temperature">Unitatea de măsură pentru temperatură</string>
+    <string name="unit_wind">Unitatea de măsură pentru puterea vântului</string>
     <string name="video_dialog_no_play"/>
     <string name="video_dialog_play"/>
     <string name="video_dialog_subtitle"/>
@@ -165,5 +180,6 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="view_indexes_item_today">Astăzi</string>
     <string name="view_indexes_item_tommorrow">Mâine</string>
     <string name="weather_alert">Atenționări meteo</string>
+    <string name="wind_miles_unit">%1$s mph</string>
     <string name="wind_unit">%1$s km/h</string>
 </resources>

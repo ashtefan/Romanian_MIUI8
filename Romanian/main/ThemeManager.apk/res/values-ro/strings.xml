@@ -231,7 +231,7 @@
     <string name="resource_no_result">Nu s-a găsit nimic</string>
     <string name="resource_notification_default">Notificări</string>
     <string name="resource_on_trial">Încercare: %1$s</string>
-    <string name="resource_online">%1$s on-line</string>
+    <string name="resource_online">On-line</string>
     <string name="resource_pack_confirm">Chiar dacă ați achiziționat deja %1$d componente din această temă, este totuşi mai ieftin decât dacă ați procura pachetul complet.</string>
     <string name="resource_pack_discount_info">%1$s salvat</string>
     <string name="resource_pack_get_auth_has_been_undercarriaged">Această temă nu mai este disponibilă.</string>

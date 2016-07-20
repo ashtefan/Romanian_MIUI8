@@ -733,8 +733,9 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="video_editor_text_none">Niciunul</string>
     <string name="video_editor_text_preview_text">Text</string>
     <string name="video_editor_trim">Ajustare</string>
-    <string name="video_err">Imposibil de redat videoclipul</string>
-    <string name="video_not_exist">Videoclip inexistent</string>
+    <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
+    <string name="video_err">"Imposibil de redat videoclipul"</string>
+    <string name="video_not_exist">"Videoclip inexistent"</string>
     <string name="view_baby_album">Vizualizaţi Albumul Copilului</string>
     <string name="view_by_gallery_tip">Galerie MIUI</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
