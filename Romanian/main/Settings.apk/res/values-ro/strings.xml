@@ -101,7 +101,6 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_fingerprint_done_title">Realizat!</string>
     <string name="add_fingerprint_failed_retry_text">"Nu s-a putut adăuga amprenta; încercați din nou"</string>
     <string name="add_fingerprint_finished_button_text">Realizat</string>
-    <string name="add_fingerprint_instruction_dialog_msg">"Pentru adăugarea amprentei, plasați degetul pe senzor și ridicați-l abia după ce simțiți o vibrație a telefonului.</string>
     <string name="add_fingerprint_instruction_msg">Deblocați dispozitivul sau realizați plăți securizate utilizând amprenta digitală.</string>
     <string name="add_fingerprint_instruction_title">Adăugați o amprentă digitală</string>
     <string name="add_fingerprint_put_finger_edge_msg">Atingeți senzorul, ridicați degetul și repetați mișcarea până când amprenta este înregistrată cu succes.</string>
@@ -1259,6 +1258,8 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="fingerprint_identify_msg">Scanare amprentă…</string>
     <string name="fingerprint_identify_try_again_msg">"Scanare nereușită, încercați din nou"</string>
     <string name="fingerprint_list_title">Amprentă</string>
+    <string name="fingerprint_lock_first">Deblocați Spațiul principal</string>
+    <string name="fingerprint_lock_second">Deblocați Spațiul secundar</string>
     <string name="finish_application">Opriţi</string>
     <string name="finish_button_label">Finalizaţi</string>
     <string name="firmware_version">Versiune Android</string>
@@ -1636,11 +1637,11 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lock_sounds_enable_title">Sunet de blocare a ecranului</string>
     <string name="lockpassword_cancel_label">Anulaţi</string>
     <string name="lockpassword_choose_for_second_user">Setați parola pentru al doilea spațiu</string>
-    <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de deblocare</string>
-    <string name="lockpassword_choose_your_password_header">Introduceţi parola</string>
+    <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de blocare a ecranului</string>
+    <string name="lockpassword_choose_your_password_header">Setați parola</string>
     <string name="lockpassword_choose_your_password_second_space">"Setați parola 
  pentru al doilea spațiu"</string>
-    <string name="lockpassword_choose_your_pattern_header">Selectaţi modelul</string>
+    <string name="lockpassword_choose_your_pattern_header">Setați modelul de deblocare</string>
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
  pentru al doilea spațiu"</string>
@@ -1696,7 +1697,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpattern_recording_intro_footer">Apăsaţi pe Meniu pentru ajutor</string>
     <string name="lockpattern_recording_intro_header">Desenaţi un model pentru deblocare</string>
     <string name="lockpattern_recording_intro_header_second_space">Desenați un model de deblocare pentru al doilea spațiu:</string>
-    <string name="lockpattern_restart_button_text">Redesenare</string>
+    <string name="lockpattern_restart_button_text">Desenați din nou</string>
     <string name="lockpattern_retry_button_text">Goliți</string>
     <string name="lockpattern_settings_change_lock_pattern">Modificaţi modelul pentru deblocare</string>
     <string name="lockpattern_settings_choose_lock_pattern">Setaţi modelul pentru deblocare</string>
@@ -2191,7 +2192,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="path_owner_info_settings">Setări/Blocare ecran și parolă/Info. proprietar</string>
     <string name="path_page_layout_settings">Setări/Afișaj/Dimensiunea textului</string>
     <string name="path_pointer_speed">Setări/Setări adiționale/Limbă și metodă de introducere/Viteza indicatorului</string>
-  <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
+  <string name="path_power_checker">Setări/Setări adiționale/Beta features/Power Checker</string>
     <string name="path_power_hide_mode_title">Setări/Acumulator și performanță/Gestionare utilizare acumulator de către aplicații</string>
     <string name="path_power_mode_settings">Setări/Acumulator și performanță/Energie</string>
   <string name="path_power_optimize">Setări/Setări adiționale/Beta features/Battery saver</string>

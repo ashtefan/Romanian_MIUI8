@@ -184,7 +184,7 @@
     <string name="download_cloud_error_retryable">Eroare de server Mi Cloud, încercați din nou mai târziu.</string>
     <string name="download_cloud_error_unknow">"Nu s-a putut conecta la Mi Cloud."</string>
     <string name="download_complete">Descărcare completă</string>
-    <string name="download_complete_btn">Instalată…</string>
+    <string name="download_complete_btn">Instalată</string>
     <string name="download_complete_start_install">Instalare…</string>
     <string name="download_completed">Descărcată</string>
     <string name="download_confirm_button_text">Instalați</string>
@@ -218,7 +218,7 @@
     <string name="download_share_dialog">Partajați prin</string>
     <string name="download_speed_null"/>
     <string name="download_start">Pornire descărcare…</string>
-    <string name="download_start_btn">Descărcare gratuită…</string>
+    <string name="download_start_btn">Descărcare gratuită</string>
     <string name="download_success">Finalizată</string>
     <string name="download_title_sorted_by_date">Descărcări - Sortate după dată</string>
     <string name="download_title_sorted_by_size">Descărcări - Sortate după dimensiune</string>

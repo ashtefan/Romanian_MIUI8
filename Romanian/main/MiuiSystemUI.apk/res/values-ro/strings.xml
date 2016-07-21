@@ -288,7 +288,6 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="vpn_text_long">Conectat la %s. Apăsați pentru a vedea detalii.</string>
     <string name="vpn_title">VPN activat</string>
     <string name="vpn_title_long">Conectare la VPN utilizând %s</string>
-    <string name="weather_description">%1$s | %2$s &gt;</string>
-    <string name="weather_description_no_aqi">%1$s &gt;</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Actualizat la %1$s</string>
 </resources>

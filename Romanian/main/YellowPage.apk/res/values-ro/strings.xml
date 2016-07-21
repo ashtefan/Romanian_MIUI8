@@ -233,12 +233,17 @@ Verificați numărul de urmărire."</string>
     <string name="locating_fail">"Nu s-a putut găsi locația dumneavoastră"</string>
     <string name="login_before_use">Trebuie să vă autentificați mai întâi</string>
     <string name="login_ok">Autentificare</string>
+    <string name="mark_number_check_choose_others">Alegeți altele</string>
+    <string name="mark_number_check_dialog_title">Marcați numărul</string>
+    <string name="mark_number_check_most_choice">(Cele mai utilizate)</string>
     <string name="mark_number_custom_mark_deleted">Etichetă eliminată</string>
     <string name="mark_number_dialog_maintitle">Etichetați numărul și încărcați</string>
     <string name="mark_number_dialog_subtitle">Etichetat de %2$d persoane ca %1$s</string>
     <string name="mark_number_feedback">Raport</string>
     <string name="mark_number_feedback_hint">Introduceți comentariul dumneavoastră</string>
     <string name="mark_number_feedback_invalid_hint">Introduceți un comentariu valid</string>
+    <string name="mark_number_feedback_not_number">"Nu este numărul lui %s"</string>
+    <string name="mark_number_feedback_personal_number">"Este numărul personal"</string>
     <string name="mark_number_feedback_success">Comentariul a fost trimis; numărul va fi verificat.</string>
     <string name="mark_number_marked_maintitle">Modificați raportul despre acest număr</string>
     <string name="mark_number_marked_subtitle">Ați raportat acest număr ca %s</string>

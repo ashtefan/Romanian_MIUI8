@@ -122,7 +122,7 @@
     <string name="mul">×</string>
     <string name="mulDesc">înmulţire</string>
     <string name="network_confirm_content">"Convertorul valutar și calculatorul de taxe și credit trebuie să poată utiliza conexiunea la internet și serviciul de localizare a telefonului pentru a funcționa în mod normal."</string>
-    <string name="network_confirm_title">Este necesară autorizarea</string>
+    <string name="network_confirm_title">Este necesară acordarea unor permisiuni</string>
     <string name="percentage">%</string>
     <string name="pi">π</string>
     <string name="piDesc">pi</string>

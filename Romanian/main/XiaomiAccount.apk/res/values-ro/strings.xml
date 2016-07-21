@@ -216,7 +216,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_get_back_pwd">Recuperaţi parola contului</string>
     <string name="passport_get_verify_code">Obţineţi codul</string>
     <string name="passport_getting_verify_code">Obţinere</string>
-    <string name="passport_i_know">Știu</string>
+    <string name="passport_i_know">Am înțeles</string>
     <string name="passport_identitfication_expired">Codul de verificare a expirat, porniţi de la început</string>
     <string name="passport_imei_permission_denied_message">"Vă solicităm permisiunea de a obține IMEI-ul telefonului. Mi Account utilizează IMEI-ul pentru identificarea dispozitivului cu care vă conectați/deconectați, pentru a vă menține contul în siguranță."</string>
     <string name="passport_imei_permission_denied_title">Solicitare permisiune obținere IMEI</string>
@@ -277,8 +277,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_register_by_email"><u>Creaţi un cont utilizând adresa de e-mail</u></string>
     <string name="passport_register_restricted">Prea multe conturi au fost asociate cu acest număr, încercați altul</string>
     <string name="passport_register_restricted_title">Nu se poate utiliza acest număr de telefon</string>
-    <string name="passport_registered_phone_user_ID">ID utilizator:%s</string>
-    <string name="passport_registered_phone_user_name">Nume utilizator:%s</string>
+    <string name="passport_registered_phone_user_ID">ID utilizator: %s</string>
+    <string name="passport_registered_phone_user_name">Nume utilizator: %s</string>
     <string name="passport_reject_recycle_account">Nu</string>
     <string name="passport_relogin">Conectaţi-vă din nou</string>
     <string name="passport_relogin_notice">Trebuie să vă conectați din nou</string>
@@ -291,7 +291,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_restart">Reluaţi</string>
     <string name="passport_restart_register_prompt">Un alt mesaj de verificare poate fi necesar pentru a crea un cont.</string>
     <string name="passport_restart_register_title">Creaţi un cont Mi</string>
-    <string name="passport_retry">Reîncercați</string>
+    <string name="passport_retry">Încercați din nou</string>
     <string name="passport_select_reg_ways_title">Alte modalități de creare cont</string>
     <string name="passport_send_too_many_code">Au fost trimise prea multe coduri de verificare la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="passport_setting">Configurare…</string>

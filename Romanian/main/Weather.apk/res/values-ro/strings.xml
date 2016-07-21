@@ -125,7 +125,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="no_network_btn">Reîncercați</string>
     <string name="open">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
-    <string name="pressure_connect">%1$s MB</string>
+    <string name="pressure_connect">%1$s mb</string>
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
     <string name="realtime_wind_default_title">Vânt</string>

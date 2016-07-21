@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_enter_lock_wallpaper">Atingeți în interiorul imaginii de fundal a blocării ecranului</string>
     <string name="click_to_enter_text">Apăsaţi pentru a vizualiza</string>
     <string name="confirm_pin_msg">Reintroduceţi codul PIN</string>
     <string name="default_lockscreen_unlock_hint_text">Glisaţi în sus pentru a debloca</string>

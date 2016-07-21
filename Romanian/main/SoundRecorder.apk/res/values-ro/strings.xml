@@ -56,7 +56,7 @@
     <string name="preference_enable_earpiece_summary">Utilizați difuzorul frontal pentru redare audio</string>
     <string name="preference_enable_earpiece_title">Utilizați difuzorul frontal</string>
     <string name="preference_led_indicator">Înregistrare în blocarea ecranului</string>
-    <string name="preference_led_indicator_prompt">În timpul înregistrării indică în bara de stare şi activează pulsarea LED-ului</string>
+    <string name="preference_led_indicator_prompt">În timpul înregistrării, indică în bara de stare şi activează pulsarea LED-ului în Blocarea ecranului</string>
     <string name="preference_record_scenes_dialog_title">Selectaţi scena înregistrării</string>
     <string name="preference_scenes">Tip înregistrare</string>
     <string name="preference_silent_mode">Dezactivaţi soneria în timpul înregistrării</string>
@@ -103,11 +103,11 @@
     <string name="rename_duplicate">O altă înregistrare cu acelaşi nume există deja.</string>
     <string name="rename_no_more_tip">Nu se afişează din nou</string>
     <string name="retry">Reîncercaţi</string>
-    <string name="runtime_permission_ungranted">Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacceptate</string>
+    <string name="runtime_permission_ungranted">"Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacordate</string>
     <string name="search_app">Înregistrare</string>
     <string name="search_enable_earpiece_title">Utilizare receptor pentru redarea fișierelor audio</string>
     <string name="search_led_indicator">Indicator luminos intermitent</string>
-  <string name="search_led_indicator_prompt">În timpul înregistrării, arată în bara de stare și led-ul de notificare la blocarea ecranului</string>
+  <string name="search_led_indicator_prompt">În timpul înregistrării, afișează un widget în bara de stare iar led-ul de notificare va pulsa în blocarea ecranului</string>
     <string name="search_quliaty_title">Calitatea înregistrării</string>
     <string name="search_scenes">Tipul înregistrării</string>
     <string name="search_silent_mode">Dezactivați soneria în timpul înregistrării</string>

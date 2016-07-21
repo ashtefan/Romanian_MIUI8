@@ -96,7 +96,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_failed_security">"Nu s-a putut deschide conexiunea la server din cauza unei erori de securitate."</string>
     <string name="account_setup_failed_security_policies_unsupported">"Pentru acest server sunt necesare funcţii de securitate pe care dispozitivul dvs. Android nu le acceptă, inclusiv: %s"</string>
     <string name="account_setup_failed_tls_required">TLS solicitat, dar neacceptat de către server.</string>
-    <string name="account_setup_failed_too_many_partnerships">Conectare eşuată. A fost atins numărul maxim de conexiuni pe server.</string>
+    <string name="account_setup_failed_too_many_partnerships">"Conectare eşuată. A fost atins numărul maxim de conexiuni pe server."</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Când şterg un mesaj din Mesaje primite</string>
     <string name="account_setup_incoming_delete_policy_never_label">Niciodată</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">Opţional</string>

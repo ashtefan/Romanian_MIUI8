@@ -324,6 +324,7 @@
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
     <string name="scan_fail">"Nu s-a putut scana codul"</string>
     <string name="scan_result">Rezultat</string>
+    <string name="sdk_not_ready">Pregătire SDK. Încercați din nou mai târziu.</string>
     <string name="secure_access_web_url">Accesați site-ul</string>
     <string name="see_app_details">Vizualizați detaliile aplicației</string>
     <string name="settings">Setări</string>

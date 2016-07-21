@@ -117,9 +117,9 @@
     <string name="timer_got_it">OK</string>
     <string name="timer_item_duration_display">%1$d min %2$d sec</string>
     <string name="timer_item_label_hint">Nume temporizator</string>
-    <string name="timer_item_picker_hour">Oră</string>
-    <string name="timer_item_picker_minute">Min</string>
-    <string name="timer_item_picker_second">Sec</string>
+    <string name="timer_item_picker_hour">H</string>
+    <string name="timer_item_picker_minute">M</string>
+    <string name="timer_item_picker_second">S</string>
     <string name="timer_new_item">Adăugaţi un temporizator</string>
     <string name="timer_notify_text">Amânaţi sau anulaţi temporizatorul.</string>
     <string name="timer_start_alarm">Timpul a expirat</string>

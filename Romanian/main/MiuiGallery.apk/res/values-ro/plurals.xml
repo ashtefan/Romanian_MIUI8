@@ -136,4 +136,8 @@
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"S-au omis %1$d fotografii care nu au putut fi încărcate."</item>
+        <item quantity="one">"S-a omis o fotografie care nu a putut fi încărcată."</item>
+    </plurals>
 </resources>

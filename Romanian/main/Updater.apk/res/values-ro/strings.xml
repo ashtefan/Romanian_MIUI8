@@ -123,7 +123,7 @@
     <string name="notification_load_title_alpha">Conectați-vă la contul dvs. Mi</string>
     <string name="notification_load_title_dev">Conectați-vă la contul dvs. Mi</string>
     <string name="notification_reboot_btn">Reporniţi</string>
-    <string name="notification_reboot_seccess_des">Apăsați pentru a partaja informaţii despre actualizare.</string>
+    <string name="notification_reboot_seccess_des">Apăsați pentru a vizualiza informaţii despre actualizare.</string>
     <string name="notification_reboot_seccess_title">Dispozitiv actualizat</string>
     <string name="notification_reboot_summary_hm">Atingeți pentru a reporni dispozitivul.</string>
     <string name="notification_reboot_title">Reporniți pentru a aplica actualizarea</string>
