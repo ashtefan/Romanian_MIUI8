@@ -40,6 +40,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="error_unsupport_content">Această notă include conținut neacceptat; apăsați aici pentru actualizare</string>
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="folder_exist">Un dosar cu acelaşi număr există deja</string>
+    <string name="force_touch_menu_add">Adăugați o notiță</string>
     <string name="format_move_notes_out_folder">%1$s mutat</string>
     <string name="format_move_notes_to_folder">Au fost mutate %1$s în %2$s</string>
     <string name="hint_foler_name">Nume</string>
@@ -91,7 +92,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="search_hint">Căutaţi note</string>
     <string name="search_keyword_notes">Note;Memento</string>
     <string name="search_label">Căutare...</string>
-    <string name="search_path_notes">Setări/Aplicații de sistem/Note</string>
+    <string name="search_path_notes">Aplicații de sistem/Note</string>
     <string name="search_setting_description">Căutare text în notele dvs.</string>
     <string name="select_account_prompt">Activaţi sincronizarea notelor</string>
     <string name="sina_share_fail">Trimitere eşuată</string>

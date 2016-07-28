@@ -50,6 +50,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="face_analyze_info">Vârstă: %2$s (%1$s)</string>
     <string name="face_analyze_info_female">Femeie</string>
     <string name="face_analyze_info_male">Bărbat</string>
+    <string name="face_beauty_advanced">Pro</string>
     <string name="face_beauty_age_alias_0_7">0-7</string>
     <string name="face_beauty_age_alias_18_30">18-30</string>
     <string name="face_beauty_age_alias_31_44">31-44</string>
@@ -68,10 +69,12 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="face_beauty_age_alias_male_45_60">Bărbat 45-60</string>
     <string name="face_beauty_age_alias_male_60_m">Bărbat 60+</string>
     <string name="face_beauty_age_alias_male_8_17">Bărbat 8-17</string>
+    <string name="face_beauty_close">Oprit</string>
     <string name="face_beauty_intelligent_level_0">Oprit</string>
     <string name="face_beauty_intelligent_level_1">Scăzut</string>
     <string name="face_beauty_intelligent_level_2">Mediu</string>
     <string name="face_beauty_intelligent_level_3">Ridicat</string>
+    <string name="face_beauty_smart">Inteligent</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
     <string name="no_storage">Introduceţi un card SD.</string>
     <string name="not_enough_space">Cardul SD este plin</string>
@@ -112,6 +115,11 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_autoexposure_entry_frameaverage">Mediere</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Fix</string>
     <string name="pref_camera_autoexposure_title">Setări expunere automată</string>
+    <string name="pref_camera_beautify_entry_auto">Oprit</string>
+    <string name="pref_camera_beautify_entry_close">Oprit</string>
+    <string name="pref_camera_beautify_entry_high">Înalt</string>
+    <string name="pref_camera_beautify_entry_low">Redus</string>
+    <string name="pref_camera_beautify_entry_normal">Mediu</string>
     <string name="pref_camera_coloreffect_entry_aqua">Acvatic</string>
     <string name="pref_camera_coloreffect_entry_big_face">Extindere</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">Alb-negru</string>
@@ -395,6 +403,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="toast_start_audio_capture">Faceţi un sunet pentru a fotografia</string>
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) cât și din depărtare</string>
+    <string name="video_camera_label">Cameră video</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="wait">O secundă…</string>

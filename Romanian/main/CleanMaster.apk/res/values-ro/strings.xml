@@ -29,7 +29,7 @@
     <string name="apk_status_install">Instalat</string>
     <string name="apk_status_installed_old">Versiune veche</string>
     <string name="apk_status_uninstalled">Neinstalat</string>
-    <string name="app_install_tips_go_to">Lansați acum</string>
+    <string name="app_install_tips_go_to">Lansați</string>
     <string name="app_install_tips_install_success">%1$s instalată cu succes</string>
     <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
     <string name="apps_sort_type_item_size">Dimensiune</string>
@@ -344,7 +344,7 @@
     <string name="similar_image_title">Fotografii</string>
     <string name="sms">SMS/MMS</string>
     <string name="sponsored">Sponsorizate</string>
-    <string name="start_downloading_app">A început descărcarea pentru：%1$s</string>
+    <string name="start_downloading_app">A început descărcarea pentru： %1$s</string>
     <string name="start_install">Instalați acum</string>
     <string name="summary_auto_cleaner">Curățați sistemul în mod automat la fiecare 3 zile?</string>
     <string name="summary_delete_apk">Ștergeți definitiv fișierele .apk selectate?</string>

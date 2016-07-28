@@ -360,7 +360,7 @@ Părăsiţi această pagină?"</string>
     <string name="media_player_error_button">OK</string>
     <string name="media_player_error_text_invalid_progressive_playback">Acest videoclip nu este valabil pentru streaming pe acest dispozitiv.</string>
     <string name="media_player_error_text_unknown">Acest videoclip nu poate fi redat</string>
-    <string name="media_player_error_title">Nu se poate reda acest videoclip</string>
+    <string name="media_player_error_title">"Nu se poate reda acest videoclip"</string>
     <string name="media_player_loading_video">Încărcare video</string>
     <string name="menu_addtodesk">Plasaţi pe ecranul principal</string>
     <string name="menu_exit_nightmode">Ieşire</string>

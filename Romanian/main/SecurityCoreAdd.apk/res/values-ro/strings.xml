@@ -151,7 +151,7 @@ Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
 pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="scanner_fingerprint_error_tips_desc">"Nu s-au găsit amprente care să corespundă. Adăugați amprenta pentru Spațiul secundar?"</string>
     <string name="scanner_fingerprint_error_tips_title">"Nu s-au găsit amprente care să corespundă"</string>
-    <string name="scanner_fingerprint_tips_desc">Selectați amprenta pentru accesarea Spațiului secundar. Nu o veți putea utiliza pentru Spațiul principal.</string>
+    <string name="scanner_fingerprint_tips_desc">"Selectați amprenta pentru accesarea Spațiului secundar. Nu o veți putea utiliza pentru Spațiul principal."</string>
     <string name="scanner_fingerprint_tips_title">Accesați Spațiul secundar utilizând amprenta existentă</string>
     <string name="scanner_second_space_fingerprint">Scanați amprenta pentru Spațiul secundar</string>
     <string name="secondSpace">Spațiul Secundar</string>

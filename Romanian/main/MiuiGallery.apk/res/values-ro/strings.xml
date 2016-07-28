@@ -68,6 +68,7 @@
     <string name="album_share_subtitle_quitting">Ieşire…</string>
     <string name="album_share_subtitle_requesting">Obţinere informaţii album…</string>
     <string name="album_share_title_new_album">Distribuiţi un album nou</string>
+    <string name="album_show_local_only">Arată doar albumele locale</string>
     <string name="album_type_baby">Albume partajate</string>
     <string name="album_type_share">Albumul copilului</string>
     <string name="album_type_system">Albume de sistem</string>
@@ -208,12 +209,13 @@
     <string name="default_album_name">Album nou</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_album_failed">Nu s-a putut șterge albumul.</string>
-    <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s%3$s?</string>
+    <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s %3$s?</string>
     <string name="delete_album_success">Album șters</string>
     <string name="delete_finish_format">%d șters</string>
     <string name="delete_from_album">din albumul \"%s\" de pe toate dispozitivele</string>
     <string name="delete_from_album_no_account">din albumul \"%s\"</string>
     <string name="delete_from_all_devices">de pe toate dispozitivele</string>
+    <string name="delete_from_cloud">Ștergeți fotografiile din albumul din Cloud</string>
     <string name="delete_from_devices">De pe toate dispozitivele cu sincronizare automată</string>
     <string name="delete_from_devices_album">De pe toate dispozitivele pe care s-a sincronizat acest album</string>
     <string name="delete_from_homepage_album">Din albumele din Galerie</string>
@@ -530,6 +532,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="posterize">Posterizare</string>
     <string name="preparing_data">Doar o secundă…</string>
     <string name="projection_checkbox_text">Reține acest ecran</string>
+    <string name="projection_device_connection_failed">Nu s-a putut conecta la proiector</string>
     <string name="projection_local_mobile">Acest telefon</string>
     <string name="projection_multi_title">Listă dispozitive</string>
     <string name="projection_single_title">Distribuiți la %s</string>

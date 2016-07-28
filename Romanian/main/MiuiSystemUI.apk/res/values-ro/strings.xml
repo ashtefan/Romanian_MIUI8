@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_airplane_mode">Mod Avion.</string>
+    <string name="accessibility_assistant">Asistent ecran.</string>
     <string name="accessibility_back">Înapoi.</string>
     <string name="accessibility_battery_level">Acumulator: %d procente.</string>
     <string name="accessibility_bluetooth_connected">Conectat prin Bluetooth</string>

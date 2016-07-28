@@ -42,7 +42,7 @@
     <string name="aqi_detail_sub_title">Detalii ICA</string>
     <string name="aqi_detail_subtitle">ICA %1$s</string>
     <string name="aqi_detail_title">Indicele de Calitate a Aerului</string>
-    <string name="aqi_detail_unit">Unitatea de măsură:µg/m3(CO:mg/m3)</string>
+    <string name="aqi_detail_unit">Unitatea de măsură: µg/m3 (CO:mg/m3)</string>
     <string name="aqi_publish_source">Actualizat la %1$s de CNEMC</string>
     <string name="aqi_publish_time">Actualizat la %1$s</string>
     <string name="aqi_short_desc">ICA %1$s</string>
@@ -67,7 +67,7 @@
     <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
     <string name="daily_forcast_whirl_wind">Tornadă</string>
     <string name="daily_forcast_wind_connect">%1$s|%2$s</string>
-    <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date">d.M</string>
  
     <string name="edit_alert_city_title">Gestionați alertele</string>
     <string name="edit_city">Editaţi</string>
@@ -100,7 +100,7 @@
     <string name="information_manager_information">Informații despre vreme</string>
     <string name="information_manager_wlan">Actualizați în Wi-Fi</string>
     <string name="information_menu_title"/>
-    <string name="information_set">Setare informații</string>
+    <string name="information_set">Setări pagină de start</string>
     <string name="information_time_source">%1$s | %2$s</string>
     <string name="information_views"/>
     <string name="install">Instalați</string>
@@ -129,7 +129,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
     <string name="realtime_wind_default_title">Vânt</string>
-    <string name="retry">Reîncercați</string>
+    <string name="retry">Încercați din nou</string>
     <string name="set">Setări</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
@@ -171,7 +171,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="twc_logo_title"/>
     <string name="unit">Unitatea de măsură</string>
     <string name="unit_temperature">Unitatea de măsură pentru temperatură</string>
-    <string name="unit_wind">Unitatea de măsură pentru puterea vântului</string>
+    <string name="unit_wind">Unitatea de măsură pentru viteza vântului</string>
     <string name="video_dialog_no_play"/>
     <string name="video_dialog_play"/>
     <string name="video_dialog_subtitle"/>

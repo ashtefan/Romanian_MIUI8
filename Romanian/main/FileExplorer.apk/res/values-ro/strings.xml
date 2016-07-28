@@ -222,6 +222,8 @@
     <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
     <string name="folder_name_invalid">"Numele dosarului nu poate conține următoarele caractere: /\\:*?&lt;&gt;"</string>
+    <string name="force_touch_clean">Curățați</string>
+    <string name="force_touch_search">Căutați fișiere</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Atingeţi&lt;/a&gt;pentru a merge la Coşul de reciclare</string>
     <string name="found_router">Router conectat</string>
     <string name="found_usb">Stocare USB conectată</string>

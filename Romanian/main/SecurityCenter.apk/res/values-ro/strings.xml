@@ -104,7 +104,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="apps_item_sms_reset_button_text">Restabiliți setările implicite</string>
     <string name="apps_item_sms_title">Setări implicite mesagerie</string>
     <string name="apps_item_summary_sms">%s are acces la mesajele dumneavoastră; poate cauza probleme de securitate</string>
-    <string name="apps_item_summary_system_rooted">Accesul root a fost permis; restaurați setările implicite pentru a evita riscurile de securitate!</string>
+    <string name="apps_item_summary_system_rooted">Accesul root a fost permis. Restaurați setările implicite pentru a evita riscurile de securitate!</string>
     <string name="apps_item_summary_system_update">Unele probleme au fost rezolvate în versiunea nouă pentru a crește securitatea plăților.</string>
     <string name="apps_item_title_system">Actualizare sistem</string>
     <string name="apps_item_virus_cleanup_success">Eliminate cu succes!</string>
@@ -222,7 +222,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_button">Anulaţi</string>
     <string name="celcius_symbol">℃</string>
-    <string name="charging_text_battery_full_time">Ultima încărcare</string>
+    <string name="charging_text_battery_full_time">Durata ultimei încărcări: </string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
     <string name="charging_text_battery_perfect">Încărcat complet</string>
     <string name="charging_text_time_calculating">Se calculează durata de încărcare…</string>
@@ -1061,7 +1061,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="sp_settings_info_monitor">Monitorizați mediul sistemului atunci când sunt pornite aplicațiile de plăți</string>
     <string name="sp_settings_plugin_monitor_summary">Scanare atunci când plugin-urile pentru plată sunt pornite</string>
     <string name="sp_settings_plugin_monitor_title">Monitorizare plugin-uri pentru plată</string>
-    <string name="sp_settings_root_title_omit">Verificare ROOT</string>
+    <string name="sp_settings_root_title_omit">Verificare acces ROOT</string>
     <string name="sp_settings_title_input_method">IME sigur</string>
     <string name="spinner_title">%1$s - Date mobile: %2$s</string>
     <string name="st_title_mode_choose_group">Selectați un profil</string>
@@ -1238,10 +1238,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="toast_garbage_lib">Au fost activate actualizările automate pentru Curăţare</string>
     <string name="toast_lockscreen_glogin_empty_password">Parola este necesară</string>
     <string name="toast_network_switch">Această aplicație se poate conecta la internet</string>
-    <string name="toast_reject_sms_read_permission_success">Setat cu succes!</string>
+    <string name="toast_reject_sms_read_permission_success">Setat cu succes</string>
     <string name="toast_root_apply_accept">Acces root acordat pentru %s</string>
     <string name="toast_root_apply_reject">Acces root refuzat pentru %s</string>
-    <string name="toast_set_success">Activat cu succes!</string>
+    <string name="toast_set_success">Activat cu succes</string>
     <string name="toast_shortcut_install">Comandă rapidă plasată pe ecranul de pornire</string>
     <string name="toast_shortcut_uninstall">Comandă rapidă eliminată</string>
     <string name="toast_show_notification">Fixat în panoul notificărilor</string>
