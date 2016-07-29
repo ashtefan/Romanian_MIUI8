@@ -54,6 +54,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="menu_move_parent_folder">Dosarul sursă</string>
     <string name="menu_move_to">Mutați în</string>
     <string name="menu_send_as_image">Trimiteți ca imagine</string>
+    <string name="menu_send_as_text">Trimiteți ca text</string>
     <string name="menu_send_to_desktop">Plasaţi pe desktop</string>
     <string name="menu_send_wechat">Trimiteţi la WeChat</string>
     <string name="menu_send_weibo">Trimiteţi la Weibo</string>

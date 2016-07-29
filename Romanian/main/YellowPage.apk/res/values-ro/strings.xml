@@ -135,10 +135,10 @@ Verificați numărul de urmărire."</string>
     <string name="express_inquiry_status_difficult_goods">Necunoscut</string>
     <string name="express_inquiry_status_dispatch">Expediție în livrare</string>
     <string name="express_inquiry_status_on_the_way">Pe drum</string>
-    <string name="express_inquiry_status_receipted">Recepționat</string>
+    <string name="express_inquiry_status_receipted">Primit</string>
     <string name="express_inquiry_status_return">Returnat</string>
-    <string name="express_inquiry_status_sign_out">Deconectat</string>
-    <string name="express_inquiry_status_unknown">NECUNOSCUT</string>
+    <string name="express_inquiry_status_sign_out">Respins</string>
+    <string name="express_inquiry_status_unknown">Necunoscut</string>
     <string name="express_inquiry_trace">Urmărește</string>
     <string name="express_inquiry_trace_device_login_notice">"Utilizați acest serviciu și pe un alt telefon. Dacă doriți să urmăriți expediția și de pe acest telefon, este necesară verificarea contului dumneavoastră Mi."</string>
     <string name="express_inquiry_trace_success">Urmărire</string>
@@ -405,7 +405,7 @@ Total: %3$s RMB"</string>
     <string name="turn_on_phone_event_dialog_title">Actualizați baza de date pentru identificarea numerelor</string>
     <string name="turn_on_phone_event_summary">Încărcați starea numerelor pentru servicii</string>
     <string name="turn_on_phone_event_title">Primiți informații despre serviciu</string>
-    <string name="turn_on_smart_antispam_hint">"Identificați apelurile provenite de la persoane necunoscute utilizând baza de date online"</string>
+    <string name="turn_on_smart_antispam_hint">Identificați apelurile provenite de la persoane necunoscute</string>
     <string name="turn_on_smart_antispam_summary_off">Caută doar numerele salvate pe acest telefon</string>
     <string name="turn_on_smart_antispam_summary_on">Încărcați și identificați numerele necunoscute din apeluri și mesajele text</string>
     <string name="turn_on_smart_antispam_title">Identificare numere necunoscute</string>

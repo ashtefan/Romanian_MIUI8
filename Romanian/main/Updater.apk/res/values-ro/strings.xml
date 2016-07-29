@@ -41,7 +41,7 @@
     <string name="check_update_when_wifi_available">Utilizaţi doar Wi-Fi pentru verificarea actualizărilor</string>
     <string name="check_update_when_wifi_available_sum">"Se verifică pentru actualizări doar atunci când este conexiune la internet prin Wi-Fi"</string>
     <string name="clean_up_button">Curăţare</string>
-    <string name="comment_invalid">Daţi o notă acestei actualizări (atingeţi o stea)</string>
+    <string name="comment_invalid">Daţi o notă acestei actualizări (atingeţi steluțele)</string>
     <string name="comment_publish">Trimiteţi</string>
     <string name="comment_sending">Trimitere…</string>
     <string name="comment_upload_failed">Trimiterea comentariului a eşuat</string>
@@ -92,6 +92,7 @@
     <string name="later">Reporniţi mai târziu</string>
     <string name="loading">Solicitare…</string>
     <string name="log_share">Partajaţi</string>
+    <string name="menu_more_button">Meniu</string>
     <string name="menu_title_current_version_log">Ce este nou</string>
     <string name="menu_title_download_current_rom">Descărcați cel mai recent ROM</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>

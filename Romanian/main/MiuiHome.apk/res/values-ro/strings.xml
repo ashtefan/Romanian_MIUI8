@@ -47,8 +47,9 @@
     <string name="change_wallpaper">Modificați</string>
     <string name="children_folder_title">Copii</string>
     <string name="children_mode_exit">Ieşire</string>
-    <string name="children_mode_tips">Întoarceți-vă la Setări pentru a gestiona accesul la aplicații.</string>
-    <string name="choose_wallpaper">Selectaţi imaginea de fundal</string>
+    <string name="children_mode_tips_message">Nu există nicio aplicație în Modul Copil. Selectați aplicația, vă rog.</string>
+    <string name="children_mode_tips_title">Selectați aplicația</string>
+    <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
     <string name="cloud_app_restore_title">În așteptare</string>
     <string name="configure_wallpaper">Setări</string>
@@ -211,9 +212,9 @@
     <string name="preferences_title">Setări lansator de sistem</string>
     <string name="process" />
     <string name="recommend_apps_default_title">Gol</string>
-    <string name="recommend_apps_notice">Aplicaţii recomandate</string>
-    <string name="recommend_apps_notice_nodata">Aplicații recomandate (Nu există date)</string>
-    <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
+    <string name="recommend_apps_notice">Aplicaţii promovate</string>
+    <string name="recommend_apps_notice_nodata">Aplicații promovate (Nu există date)</string>
+    <string name="recommend_apps_switch_title">Aplicaţii promovate</string>
     <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar.</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>
     <string name="screen_number">Ecranul %d</string>

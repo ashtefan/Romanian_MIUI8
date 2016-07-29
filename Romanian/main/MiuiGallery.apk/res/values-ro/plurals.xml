@@ -44,6 +44,10 @@
         <item quantity="other">"Fotografiile selectate nu sunt pe telefon. Acestea vor fi descărcate"</item>
         <item quantity="one">"Fotografia selectată nu este pe telefon. Aceasta va fi descărcată"</item>
     </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"S-au omis %d fotografii care nu există pe telefon."</item>
+        <item quantity="one">"S-a omis o fotografie care nu există pe telefon."</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"%1$d fotografii nu au putut fi descărcate; reîncercați?"</item>
         <item quantity="one">"Fotografia nu a putut fi descărcată; reîncercați?"</item>

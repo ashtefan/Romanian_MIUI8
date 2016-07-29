@@ -97,7 +97,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
     <string name="app_version">Versiune</string>
     <string name="app_wifi">Wi-Fi</string>
-    <string name="apps_item_sign_dialog_content">\"%s\"semnătura este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației.</string>
+    <string name="apps_item_sign_dialog_content">"Semnătura %s este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației."</string>
     <string name="apps_item_sign_dialog_title">Instalați versiunea oficială a aplicației</string>
     <string name="apps_item_sign_install_button_text">Înlocuiți</string>
     <string name="apps_item_sms_default_set_success">Setată cu succes!</string>
@@ -107,7 +107,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="apps_item_summary_system_rooted">Accesul root a fost permis. Restaurați setările implicite pentru a evita riscurile de securitate!</string>
     <string name="apps_item_summary_system_update">Unele probleme au fost rezolvate în versiunea nouă pentru a crește securitatea plăților.</string>
     <string name="apps_item_title_system">Actualizare sistem</string>
-    <string name="apps_item_virus_cleanup_success">Eliminate cu succes!</string>
+    <string name="apps_item_virus_cleanup_success">Eliminate cu succes</string>
     <string name="apps_item_virus_cleanup_text">Eliminați</string>
     <string name="apps_item_virus_summary_installed">Aplicație instalată</string>
     <string name="apps_item_virus_summary_uninstalled">APK</string>
@@ -765,6 +765,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_auto_start_by_system_event">Permite aplicațiilor să pornească automat</string>
     <string name="pm_auto_start_proc_is_running">Rulează</string>
     <string name="pm_remember_choice">Memorează preferințele</string>
+    <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
     <string name="power_20s_shutdown">Dispozitivul se va închide peste 20 de secunde</string>
     <string name="power_analysis_consume_title">Utilizare acumulator</string>
@@ -956,7 +957,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="result_autoscan_info">Monitorizați în mod automat mediul sistemului atunci când aplicațiile de plăți sunt pornite</string>
     <string name="result_sign_header">Au fost găsite %d aplicații neoficiale</string>
     <string name="result_sms_header">Au fost găsite riscuri în aplicația de mesagerie</string>
-    <string name="result_sms_info_antispam">Activați funcția Antispam pentru a preveni accesarea site-urilor cu risc</string>
+    <string name="result_sms_info_antispam">Activați funcția Listă blocări pentru a preveni accesarea site-urilor cu risc</string>
     <string name="result_sms_info_auth">Restricționați accesul aplicațiilor terțe la codurile de verificare.</string>
 <string name="result_sms_title_antispam">Amenințare de URL cu risc trimis prin SMS</string>
     <string name="result_sms_title_auth">Riscul fraudelor financiare prin SMS există</string>
@@ -1031,6 +1032,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="settings_category_overheat">Supraîncălzire</string>
     <string name="settings_choice_no_notification">Dezactivat</string>
     <string name="settings_power_save_ontime_title">Program</string>
+    <string name="settings_title_payment_security">Setări de securitate pentru plăți</string>
     <string name="settings_title_permission">Setări permisiuni</string>
     <string name="show_traffic_dialog_message">Informaţia despre utilizarea datelor va fi afișată în panoul notificărilor. Puteți activa sau dezactiva această caracteristică oricând în Utilizare date > Setări</string>
     <string name="show_traffic_dialog_title">Afişare utilizare date în panoul notificărilor</string>

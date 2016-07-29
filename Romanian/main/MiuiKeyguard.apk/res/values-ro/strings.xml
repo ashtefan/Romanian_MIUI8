@@ -36,6 +36,8 @@
     <string name="left_action_default_hint_text">Telecomandă Mi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lock_wallpaper_learn_more">Mai multe &gt;</string>
+    <string name="lock_wallpaper_see_more">Vedeți mai mult &gt;</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
     <string name="lockscreen_access_pattern_detected">Finalizat</string>

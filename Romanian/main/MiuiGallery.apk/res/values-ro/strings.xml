@@ -33,7 +33,7 @@
     <string name="adding">Adăugare...</string>
     <string name="adding_recipients">Adăugare destinatari…</string>
     <string name="adding_to_album">Adăugare fotografii…</string>
-    <string name="adjust">Ajustare</string>
+    <string name="adjust">Intensificare</string>
     <string name="adjust_auto">Auto</string>
     <string name="adjust_blur">Blur</string>
     <string name="adjust_brightness">Strălucire</string>
@@ -197,6 +197,7 @@
     <string name="create_quick_icon_on_desk">Creaţi o comandă rapidă</string>
     <string name="creating_baby_album">Creare album…</string>
     <string name="crop">Trunchiere</string>
+    <string name="crop_and_rotate">Ajustați</string>
     <string name="crop_label">Fotografii trunchiate</string>
     <string name="crop_save_text">Salvaţi</string>
     <string name="crop_tooltip">Trageţi markerii pentru a trunchia</string>
@@ -429,6 +430,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="micloud_introduce">Salvați în mod automat fotografiile și videoclipurile(este necesar un cont Mi)</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face_album_name">Mai multe persoane</string>
+    <string name="move_to_other_albums_tip">Sincronizarea în Mi Cloud a albumului va fi oprită dacă veți muta acest album în lista Alte albume. Îl mutați acum?</string>
     <string name="must_pick_file">Selectaţi o fotografie</string>
     <string name="name_split">,</string>
     <string name="need_to_turn_on_network">Nu aveţi o conexiune la internet</string>
@@ -459,19 +461,19 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="operation_add_secret">Ascundeți</string>
     <string name="operation_delete">Ștergeți</string>
     <string name="operation_detail">Detalii</string>
-    <string name="operation_disable_auto_upload">Dezactivați sincronizarea cu Mi Cloud</string>
     <string name="operation_do_delete_local_thumnail">Ștergeți din telefon</string>
     <string name="operation_download">Descărcați fotografia (%s)</string>
     <string name="operation_edit">Editați</string>
-    <string name="operation_enable_auto_upload">Activați sincronizarea cu Mi Cloud</string>
-    <string name="operation_enter_delte_thumbnail">Ștergeți din telefon fotografiile și videoclipurile sincronizate</string>
+    <string name="operation_enter_delete_local">Ștergeți fotografiile și videoclipurile sincronizate de pe telefon</string>
     <string name="operation_failed">Operaţiune eşuată</string>
     <string name="operation_force_top">Fixați</string>
     <string name="operation_hide">Ascundeți</string>
     <string name="operation_in_process">Procesare…</string>
+    <string name="operation_move_to_other_albums">Mutați în Alte albume</string>
     <string name="operation_not_show_in_photos_tab">"Nu arăta în Fotografii"</string>
     <string name="operation_projection">Distribuiți</string>
     <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
+    <string name="operation_remove_from_other_albums">Eliminați din Alte albume</string>
     <string name="operation_remove_secret">Afișați</string>
     <string name="operation_save">Salvați</string>
     <string name="operation_send">Trimiteți</string>
@@ -525,14 +527,13 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="picker_image_will_download">"%d dintre fotografiile selectate nu sunt pe telefon; acestea vor fi descărcate"</string>
     <string name="picker_mobile_data_video">"Nu se pot descărca videoclipuri utilizând datele mobile; au fost omise %d."</string>
     <string name="picker_origin_need_download">"%1$d dintre fotografiile selectate nu sunt pe telefon (%2$dMB); le descărcați utilizând datele mobile?"</string>
-    <string name="picker_skip_unavailable_images">" "&lt;număr="una"&gt;"S-a omis o fotografie care nu există în telefon."&lt;/item&gt; &lt;număr="mai multe"&gt;"S-au omis %d fotografii care nu sunt în telefon."&lt;/item&gt;" "</string>
     <string name="picker_title_format">Fotografii selectate: %d</string>
     <string name="picker_title_selection_format">Au fost selectate %d fotografii</string>
     <string name="picker_title_unlimit">Selectați fotografiile</string>
     <string name="posterize">Posterizare</string>
     <string name="preparing_data">Doar o secundă…</string>
     <string name="projection_checkbox_text">Reține acest ecran</string>
-    <string name="projection_device_connection_failed">Nu s-a putut conecta la proiector</string>
+    <string name="projection_device_connection_failed">"Nu s-a putut conecta la proiector"</string>
     <string name="projection_local_mobile">Acest telefon</string>
     <string name="projection_multi_title">Listă dispozitive</string>
     <string name="projection_single_title">Distribuiți la %s</string>
@@ -560,6 +561,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="relation_text_mother">Mamă</string>
     <string name="relation_with_you">Alegeți gradul de rudenie</string>
     <string name="release_space_finish_format">A fost eliberat %s spațiu de stocare intern</string>
+    <string name="remove_from_other_albums_tip">Sincronizarea albumului în Mi Cloud ar trebui să fie pornită atunci când il eliminați din Alte albume; eliminați albumul acum?</string>
     <string name="remove_from_secret_fail">"Nu s-a putut elimina din albumul secret"</string>
     <string name="remove_from_secret_failed_with_reason">"Nu se poate elimina din albumul secret. %1$s."</string>
     <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elemente nu au putut fi eliminate din albumul secret. %1$s."</string>
@@ -672,6 +674,8 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="trash_bin">Coș de gunoi</string>
     <string name="trash_bin_summary">Vedeți fotografiile salvate care au fost șterse recent</string>
     <string name="try_to_send">Trimiteţi</string>
+    <string name="turn_off_and_move">Dezactivați și mutați</string>
+    <string name="turn_on_and_remove">Activați și eliminați</string>
     <string name="turn_on_sync">Activați sincronizarea</string>
     <string name="unpublish_failed">Eşuare</string>
     <string name="unpublish_succeeded">Album nepublicat</string>
