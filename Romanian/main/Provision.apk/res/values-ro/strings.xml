@@ -5,6 +5,8 @@
     <string name="back">Înapoi</string>
     <string name="congratulation_label">"Sunteți gata de start!​"</string>
     <string name="congratulation_title">Configurare finalizată</string>
+    <string name="content_description_complete">Finalizat</string>
+    <string name="content_description_start">Start</string>
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>

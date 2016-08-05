@@ -271,35 +271,6 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="data_usage_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
     <string name="data_usage_warning_title">Avertizare utilizare date</string>
     <string name="datausage_ignore_app_list_count">Ignorare utilizare date de la %d aplicaţii</string>
-    <string name="datausage_purchase_backto_ns">Înapoi</string>
-    <string name="datausage_purchase_banner_title">%s ofertă de reîncărcare (exclusiv)</string>
-    <string name="datausage_purchase_buy">Obţineţi</string>
-    <string name="datausage_purchase_confirm_tip">Comanda dvs.:</string>
-    <string name="datausage_purchase_get_captcha">Obţineţi codul (%d)</string>
-    <string name="datausage_purchase_get_captcha_again">Trimiteţi un cod nou</string>
-    <string name="datausage_purchase_get_captcha_failed">Nu s-a putut obţine codul de verificare. Verificați conexiunea de date și încercați din nou.</string>
-    <string name="datausage_purchase_goto_monthsetting">Editaţi informaţia despre abonament</string>
-    <string name="datausage_purchase_none_history">Gol</string>
-    <string name="datausage_purchase_order_failure">"Cumpărare eșuată"</string>
-    <string name="datausage_purchase_order_failure_cause">"Nu s-a putut finaliza achiziționarea"</string>
-    <string name="datausage_purchase_order_history">Istoric</string>
-    <string name="datausage_purchase_ordering">Achiziţie…</string>
-    <string name="datausage_purchase_pay_captcha_hint">Introduceți codul pe care îl primiți aici</string>
-    <string name="datausage_purchase_pay_captcha_tips">După ce veți primi codul de verificare, introduceţi-l în caseta de mai sus și apăsați \"Procuraţi\" pentru a finaliza achiziția. Rețineți: codul este valabil doar 10 minute!</string>
-    <string name="datausage_purchase_pay_confirm">Obţineţi</string>
-    <string name="datausage_purchase_pay_hint">Pentru a anula, apelaţi %s</string>
-    <string name="datausage_purchase_pkglist_networkerror">Imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
-    <string name="datausage_purchase_pkglist_nodata">Există un conflict între abonamentul de date curent și abonamentul de date pe care încercați să-l procuraţi.
-\nContactaţi operatorul dvs. pentru mai multe informații."</string>
-    <string name="datausage_purchase_pkglist_servererror">Hopa! Ceva nu a mers bine cu serverul nostru.</string>
-    <string name="datausage_purchase_result_failed">Imposibil de procurat date. Contactaţi operatorul dvs. pentru mai multe informații despre problemă.</string>
-    <string name="datausage_purchase_result_ok">Aţi obţinut %s.
-\nPentru mai multe informaţii verificaţi mesajul primit de la furnizorul de servicii"</string>
-    <string name="datausage_purchase_time_in">" în "</string>
-    <string name="datausage_purchase_title_confirm">Detalii despre achiziţionare</string>
-    <string name="datausage_purchase_title_order">Suplinire</string>
-    <string name="datausage_purchase_title_pkglist">Suplinire</string>
-    <string name="datausage_purchase_view_detail">Vizualizaţi detalii</string>
     <string name="declaration_dialog_msg">Această caracteristică vă poate ajuta să urmăriți utilizarea datelor, dar nu vă garantează prevenirea costurilor suplimentare. Pentru rezultate optime, setați o limită conservatoare.</string>
     <string name="deep_clean_disconnect_data_title">Dezactivați datele mobile atunci când telefonul este blocat</string>
     <string name="deep_clean_memory_clean_title">Goliți memoria cache atunci când telefonul este blocat</string>
@@ -392,8 +363,6 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_service_network_blocked">Utilizarea reţelelor %2$s a fost restricţionată pentru %1$s</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
-    <string name="force_stop_dlg_text">Dacă restricționați datele mobile în fundal, unele aplicații și servicii nu vor funcționa decât dacă sunteți conectat la o rețea Wi-Fi.</string>
-    <string name="force_stop_dlg_title">Restricționaţi datele în fundal</string>
     <string name="foreground_traffic">În prim plan: %s</string>
     <string name="forget_password_button_text">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
     <string name="forget_pattern">&lt;u&gt;Ați uitat modelul de deblocare?&lt;/u&gt;</string>
@@ -547,8 +516,6 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
     <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
-    <string name="main_alert_message_slot_no_data_connection">Slotul cartelei SIM nu susţine
-o conexiune de date mobile"</string>
     <string name="main_button_idel_traffic">În afara orelor de vârf</string>
     <string name="main_button_normal_traffic">Maxim</string>
     <string name="main_button_usage_adjust">Sincronizaţi utilizarea datelor mobile</string>
@@ -684,6 +651,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="networkchanged_exception_summary">Conexiunea la rețea s-a modificat. Testați din nou.</string>
     <string name="networkchanged_exception_title">Conexiune modificată</string>
     <string name="never">O dată</string>
+    <string name="next_step_button">Mai departe</string>
     <string name="none_mi_service_app_detail">Gol</string>
     <string name="notification_battery_consume_abnormal_summary">S-a utilizat %2$s din acumulator în ultimele %1$d minute</string>
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
@@ -1022,7 +990,6 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="security_scan_optimizing">Optimizare…</string>
     <string name="see_detail">Detalii</string>
     <string name="select_pattern">Selectați modelul propriu</string>
-    <string name="setting_traffic_pkg">Setaţi pachetul de date</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
     <string name="settings_battery_consume_abnormal_title">Notificări descărcare acumulator</string>
@@ -1284,13 +1251,6 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_over_purchase_body">Atingeți pentru a vizualiza detalii.</string>
     <string name="traffic_over_purchase_link">"Ați atins limita de utilizare a datelor din planul dvs. mobil.&lt;br/>Dacă depăşiţi limita de utilizare a planului de date, operatorul ar putea percepe taxe suplimentare.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Apăsați pentru a suplimenta soldul.&lt;/U>&lt;/font>"</string>
     <string name="traffic_over_purchase_title">Limita de date depășită</string>
-    <string name="traffic_protection_data_usage_summary">Setaţi alerte de utilizare a datelor pentru a evita depășirea limitelor de date lunare.</string>
-    <string name="traffic_protection_label">Avertizare utilizare date</string>
-    <string name="traffic_protection_next">Următorul</string>
-    <string name="traffic_protection_summary">Setați valoarea de avertizare</string>
-    <string name="traffic_protection_text_hint">Setaţi limita de utilizare a datelor pentru %s</string>
-    <string name="traffic_protection_unknown">&lt;u&gt;Setați mai târziu&lt;/u&gt;</string>
-    <string name="traffic_protection_use_data">Date mobile</string>
     <string name="traffic_purchase_body">Apăsați pentru a suplimenta soldul.</string>
     <string name="traffic_purchse_suggestion">Suplinire date mobile</string>
     <string name="traffic_setting_app_count">%d aplicaţii</string>

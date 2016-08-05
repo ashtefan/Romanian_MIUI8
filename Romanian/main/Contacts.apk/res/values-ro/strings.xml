@@ -201,6 +201,7 @@
     <string name="contact_detail_action_item_nocalllog">Nu există istoric</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
     <string name="contact_detail_calllog_call_record_tips">Înregistrare apeluri</string>
+    <string name="contact_detail_calllog_empty">Nu există un istoric de apelare</string>
     <string name="contact_detail_menu_delete_miprofile">Ştergere cartelă</string>
     <string name="contact_detail_miprofile_accept">Schimb cartele de contact</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Nu s-au putut schimba cartelele de contact</string>
@@ -455,6 +456,7 @@ Motivul: „%s”"</string>
     <string name="frequentList">Frecvent</string>
     <string name="from_account_format">%1$s</string>
     <string name="full_name">Nume</string>
+    <string name="gallery">Galerie</string>
     <string name="generic_no_account_prompt">Păstraţi-vă agenda în  siguranţă, chiar dacă pierdeţi telefonul, prin sincronizarea acesteia cu un serviciu online.</string>
     <string name="generic_no_account_prompt_title">Adăugaţi un cont</string>
     <string name="ghostData_company">Companie</string>
@@ -733,14 +735,68 @@ Motivul: „%s”"</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizaţi contactele Xiaomi, Google, Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restabiliţi datele contactelor utilizând contul Xiaomi</string>
     <string name="noContacts">Niciun contact</string>
-    <string name="noContactsHelpText">""Nu există contacte din agendă de afişat.Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contacte de pe cartela SIM sau cardul SD"</li></font></b>"</string>
-    <string name="noContactsHelpTextForCreateShortcut">Niciun contact din agendă de afişat.</string>
-    <string name="noContactsHelpTextWithSync">""Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.){Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contactele de pe cartela SIM sau cardul SD"</li></font></b>"</string>
+    <string name="noContactsHelpText">"Nu există contacte din agendă de afişat.
+    
+    Dacă doriţi să adăugaţi contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
+    
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/Exportaţi pentru a importa contacte de pe cartela SIM sau de pe cardul SD
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
+    <string name="noContactsHelpTextForCreateShortcut">"Niciun contact din agendă de afişat."</string>
+    <string name="noContactsHelpTextWithSync">"Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.)
+
+Dacă doriţi să adăugaţi contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
+
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/Exportaţi pentru a importa contactele de pe cartela SIM sau de pe cardul SD
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Niciun contact în agendă de afişat. (Dacă tocmai aţi adăugat un cont, poate dura câteva minute sincronizarea contactelor.)</string>
-    <string name="noContactsNoSimHelpText">""Nu aveţi contacte din agendă de afişat.Pentru a adăuga contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu telefonul"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contacte de pe cardul SD"</li></font></b>"</string>
-    <string name="noContactsNoSimHelpTextWithSync">""Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.){Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă"</li></font></b>""<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contacte de pe cardul SD"</li></font></b>"</string>
+    <string name="noContactsNoSimHelpText">"Nu aveţi contacte din agendă de afişat.
+
+Pentru a adăuga contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
+
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/exportaţi pentru a importa contacte de pe cardul SD
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
+    <string name="noContactsNoSimHelpTextWithSync">"Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.)
+
+{Dacă doriţi să adăugaţi contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
+
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/exportaţi pentru a importa contacte de pe cardul SD
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
     <string name="noContactsWithPhoneNumbers">Niciun contact cu numere de telefon</string>
-    <string name="noFavoritesHelpText">""Nu aveţi favorite. Pentru a adăuga un contact în lista de favorite:       "<li>Apăsaţi pe fila <b>Agendă</b>""</li>""<li>"Apăsaţi contactul pe care doriţi să-l adăugaţi în lista de favorite"</li>""<li>"Apăsaţi pe steluţa de lângă numele contactului"</li>"</string>
+    <string name="noFavoritesHelpText">"Nu aveţi numere favorite.
+    
+Pentru a adăuga un contact în lista de favorite:
+
+"&lt;li&gt;Apăsați fila &lt;b&gt;Contacte&lt;/b&gt;"
+"&lt;/li&gt;" 
+"&lt;li&gt;"Apăsați contactul pe care doriți să-l adăugați la Favorite
+"&lt;/li&gt;" 
+"&lt;li&gt;"Apăsați steluța din dreptul numelui contactului
+"&lt;/li&gt;"
+"</string>
     <string name="noGroups">Niciun grup</string>
     <string name="noMatchingContacts">Nu a fost găsit niciun contact potrivit în agendă.</string>
     <string name="noRecentContacts">Nicio persoană contactată recent</string>
@@ -817,8 +873,8 @@ Motivul: „%s”"</string>
     <string name="photo_fragment">Fotografie</string>
     <string name="photo_labels_group">Fotografie de profil</string>
     <string name="photo_load_failed">Nu s-a putut încărca fotografia</string>
-    <string name="pick_new_photo">Selectaţi o fotografie nouă din Galerie</string>
-    <string name="pick_photo">Alegeţi o fotografie din Galerie</string>
+    <string name="pick_new_photo">Selectaţi o fotografie nouă din %s</string>
+    <string name="pick_photo">Alegeţi o fotografie din %s</string>
     <string name="pickerNewContactHeader">Creaţi un contact nou în agendă</string>
     <string name="pickerNewContactText">Creaţi o intrare nouă în agendă</string>
     <string name="picker_all_list_empty">Niciun contact</string>

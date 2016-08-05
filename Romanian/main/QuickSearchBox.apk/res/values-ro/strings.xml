@@ -55,6 +55,8 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="search_history">Istoric</string>
     <string name="search_in_app_store">Căutaţi în magazinul Mi</string>
     <string name="search_in_web">Căutare on-line</string>
+    <string name="search_keyword_quicksearchbox">Căutare</string>
+    <string name="search_path_quicksearchbox">Setări/Aplicații instalate/Căutare</string>
     <string name="search_settings">Căutare în setări</string>
     <string name="search_sources">Elemente de căutat</string>
     <string name="search_sources_summary">Selectaţi ce doriţi să căutaţi pe telefon</string>

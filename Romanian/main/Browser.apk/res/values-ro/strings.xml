@@ -311,6 +311,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="geolocation_settings_page_title">Opriţi accesul la locaţie</string>
     <string name="go_supermarket_button">Mergeți</string>
     <string name="go_supermarket_title">Mai multe aplicații, viteză crescută și trafic de date mai redus în Magazinul Play</string>
+    <string name="gold_medals">Medalii de aur</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
     <string name="history_saved_webpage">Salvaţi pagina</string>
@@ -709,6 +710,7 @@ Părăsiţi această pagină?"</string>
     <string name="suggest_access_item_singer_albums">%d albume</string>
     <string name="suggest_access_item_singer_pop">%d melodii populare</string>
     <string name="suggest_access_music">Muzică Mi</string>
+    <string name="suggest_item_delete_text">Ștergeți</string>
     <string name="suggest_open_app_failed">Nu s-a putut deschide această aplicație</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
     <string name="switch_proxy_dialog_title">Fraudare rețea</string>

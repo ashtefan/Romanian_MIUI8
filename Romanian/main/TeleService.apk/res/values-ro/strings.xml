@@ -268,6 +268,7 @@
     <string name="default_areacode">Prefix prestabilit</string>
     <string name="default_notification_description">Sunet implicit (%1$s)</string>
     <string name="default_preference_summary">&lt;Nesetat&gt;</string>
+    <string name="delete">Eliminați</string>
     <string name="delete_fdn_contact">Ștergeţi numărul cu apelări restricţionate</string>
     <string name="deleting_fdn_contact">Se şterge numărul cu apelări restricţionate…</string>
     <string name="description_delete_button">șterge</string>

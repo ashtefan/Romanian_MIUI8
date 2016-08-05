@@ -152,6 +152,7 @@
     <string name="episode_suffix">"Ep. %d "</string>
     <string name="error_empty_epg">Nicio informație EPG</string>
     <string name="error_empty_filter_title">Niciun rezultat</string>
+    <string name="error_empty_live_favor">Nu există nicio colecție de canale TV</string>
     <string name="error_empty_title">Ceva a mers prost</string>
     <string name="expire_time">timp expirare</string>
     <string name="favorite">Favorite</string>
@@ -160,6 +161,7 @@
     <string name="file_not_exist">Fișierul nu a fost găsit</string>
     <string name="filter">Filtru</string>
     <string name="finish_install">Instalată cu succes</string>
+    <string name="font_family">miui</string>
     <string name="forecast">Prognoză</string>
     <string name="forecast_empty_hint">Niciun program</string>
     <string name="forecasts">Avanpremieră</string>

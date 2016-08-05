@@ -1206,14 +1206,14 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="erase_external_storage_description">Ştergeţi toate datele de pe cardul SD, cum ar fi muzica sau fotografiile</string>
     <string name="erase_internal_storage">Ştergeţi memoria telefonului</string>
     <string name="erase_internal_storage_description">Ştergeţi toate datele din memoria telefonului, ca muzica sau fotografiile</string>
-    <string name="erase_optional">Conţinut</string>
+    <string name="erase_optional">Opțional</string>
     <string name="erase_personal_data">Date personale</string>
     <string name="erase_personal_data_description">Ştergeţi informaţiile despre contul dvs. Mi, datele aplicaţiilor şi setările de sistem</string>
-    <string name="erase_sure">Date personale</string>
-    <string name="error_apn_empty">Numele APN nu poate fi necompletat.</string>
+    <string name="erase_sure">Obligatoriu</string>
+    <string name="error_apn_empty">"Numele APN nu poate fi necompletat."</string>
     <string name="error_mcc_not3">Câmpul MCC trebuie să conţină 3 cifre.</string>
     <string name="error_mnc_not23">Câmpul MNC trebuie să conţină 2 sau 3 cifre.</string>
-    <string name="error_name_empty">Câmpul Nume nu poate fi necompletat.</string>
+    <string name="error_name_empty">"Câmpul Nume nu poate fi necompletat."</string>
     <string name="error_title" />
     <string name="every_day">În fiecare zi</string>
     <string name="experimental_preference">(Experimental)</string>
@@ -1640,11 +1640,11 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de blocare a ecranului</string>
     <string name="lockpassword_choose_your_password_header">Setați parola</string>
     <string name="lockpassword_choose_your_password_second_space">"Setați parola 
- pentru al doilea spațiu"</string>
+ pentru spațiul secundar"</string>
     <string name="lockpassword_choose_your_pattern_header">Setați modelul de deblocare</string>
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
- pentru al doilea spațiu"</string>
+ pentru spațiul secundar"</string>
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
     <string name="lockpassword_confirm_pins_dont_match">Parolele numerice nu corespund</string>
@@ -2147,7 +2147,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="path_dndm_alarm_content">Setări/Nu deranjați/Excepții</string>
     <string name="path_dndm_auto_button_title">Setări/Nu deranjați/Perioadă</string>
     <string name="path_dndm_auto_time_setting">Setări/Nu deranjați/Setați perioada</string>
-    <string name="path_dndm_open">Setări/Nu deranjați/Do not disturb enable</string>
+    <string name="path_dndm_open">Setări/Nu deranjați/Nu deranjați</string>
     <string name="path_dndm_repeated_call_setting_title">Setări/Nu deranjați/Apeluri repetate</string>
     <string name="path_dndm_vip_call_setting_title">Setări/Nu deranjați/Excepții</string>
     <string name="path_dndm_wristband">Setări/Nu deranjați/Activați cu Mi Band</string>
@@ -2158,7 +2158,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="path_font_settings">Setări/Afișaj/Fontul sistemului</string>
     <string name="path_gesture_wakeup_title">Setări/Afișaj/Apăsare dublă pe ecran pentru pornire</string>
     <string name="path_gps_settings">Setări/Setări adiționale/Confidențialitate/Locație</string>
-    <string name="path_handy_mode_settings">Setări/Setări adiționale/One_handed mode</string>
+    <string name="path_handy_mode_settings">Setări/Setări adiționale/Modul Operare cu o mână</string>
     <string name="path_home_key">Setări/Setări adiționale/Butoane/Acasă</string>
     <string name="path_key_settings">Setări/Setări adiționale/Butoane</string>
   <string name="path_lab_functions_title">Setări/Setări adiționale/Beta features</string>
@@ -2280,7 +2280,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="permission_detail_info">Detalii permisiuni</string>
     <string name="permission_detail_info_summary">Securitate: %1$d | Confidenţialitate: %2$d | Altele: %3$d</string>
     <string name="permission_manage">Gestionare permisiuni</string>
-    <string name="permission_manage_summary">Porniţi automat gestionarea permisiunilor de confidențialitate şi securitate</string>
+    <string name="permission_manage_summary">Gestionați opțiunile de securitate și permisiunile</string>
     <string name="permission_manage_title">Permisiuni pentru %s</string>
     <string name="permission_manager">Permisiuni</string>
     <string name="permission_mgr">Permisiuni</string>

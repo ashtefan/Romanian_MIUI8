@@ -20,6 +20,9 @@
     <string name="accessibility_video_pause_button">Buton pauză video</string>
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="burst_shoot_exit_button_text">Dezactivaţi fotografierea în serie</string>
+    <string name="button_fisheye_camera_title">Ochi de pește</string>
+    <string name="button_front_camera_title">Realizați un selfie</string>
+    <string name="button_normal_video_title">Înregistrați un videoclip</string>
     <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
     <string name="camera_error_title">Eroare Cameră foto</string>
     <string name="camera_label">Cameră</string>

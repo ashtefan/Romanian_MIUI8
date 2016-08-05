@@ -150,6 +150,10 @@
     <string name="no_response_retry">Niciun răspuns, reîncercaţi.</string>
     <string name="no_sim_card">Nicio cartelă SIM</string>
     <string name="nobind">Nu a fost adăugat</string>
+    <string name="notify_network_restricted_content_bg_network">"Conectarea la internet pentru Contul Mi este restricționată. Atingeți pentru a permite conectarea."</string>
+    <string name="notify_network_restricted_content_hidden_state">"Rularea în fundal pentru Contul Mi este restricționată. Atingeți pentru a permite."</string>
+    <string name="notify_network_restricted_content_mobile_network">"Conectarea la internet pentru Contul Mi este restricționată. Atingeți pentru a permite conectarea."</string>
+    <string name="notify_network_restricted_title">"Aplicația Cont Mi nu s-a putut conecta la rețea"</string>
     <string name="other_devices">Alte dispozitive</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_hint_text">Adresă de e-mail sau ID cont Mi</string>

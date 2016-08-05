@@ -15,6 +15,8 @@
     <string name="experimental_validate_username">Nume utilizator</string>
     <string name="experimental_validate_warning">Mulţumim pentru că ajutaţi MIUI să devină mai bun!</string>
     <string name="find_device_turn_off_flight_mode">Dezactivaţi modul Avion.</string>
+    <string name="fingerprint_enter_second_psw_msg">Introduceți parola pentru Spațiul Secundar după repornirea telefonului pentru a putea utiliza deblocarea cu amprentă</string>
+    <string name="fingerprint_enter_second_psw_title">Introduceți parola pentru Spațiul Secundar</string>
     <string name="fingerprint_lockout_msg">Așteptați un minut apoi încercați din nou să deblocați utilizând amprenta</string>
     <string name="fingerprint_not_identified_msg">Introduceți parola pentru a debloca dispozitivul.</string>
     <string name="fingerprint_not_identified_title">"Nu se poate citi amprenta"</string>
