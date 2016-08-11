@@ -197,7 +197,6 @@
     <string name="onscreen_close_preview_camera">Închideți camera</string>
     <string name="onscreen_hold_text">Menţinere</string>
     <string name="onscreen_merge_calls_text">Îmbinare apeluri</string>
-    <string name="onscreen_mi_support_calls_text">Suport Mi</string>
     <string name="onscreen_mute_text">Mut</string>
     <string name="onscreen_note_calls_text">Notă</string>
     <string name="onscreen_rcs_text">Mesaje</string>
@@ -215,6 +214,7 @@
     <string name="select_sim_hint">"Nu se poate utiliza cartela SIM %2$d, în timp ce SIM %1$d este în uz."</string>
     <string name="select_voice_call_sim">Selectaţi cartela SIM</string>
     <string name="separate_from_conference">Separaţi apelul</string>
+    <string name="sip_call_not_support_record">"Nu se pot înregistra apelurile SIP"</string>
     <string name="suspect_info">Verificaţi mereu identitatea persoanei cu care vorbiţi prin telefon înainte de a răspunde la orice mesaje care implică datele personale.</string>
     <string name="time_left_livetalk">(%ds)</string>
     <string name="unknown">Necunoscut</string>

@@ -264,6 +264,14 @@
         <item quantity="few">videoclipuri</item>
         <item quantity="many">videoclipuri</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">urmăritori</item>
+        <item quantity="zero">urmăritori</item>
+        <item quantity="one">urmăritor</item>
+        <item quantity="two">urmăritori</item>
+        <item quantity="few">urmăritori</item>
+        <item quantity="many">urmăritori</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s comentarii</item>
         <item quantity="zero">%1$s comentarii</item>
@@ -279,5 +287,13 @@
         <item quantity="two">%1$s videoclipuri</item>
         <item quantity="few">%1$s videoclipuri</item>
         <item quantity="many">%1$s videoclipuri</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s urmăritori</item>
+        <item quantity="zero">%1$s urmăritori</item>
+        <item quantity="one">%1$s urmăritor</item>
+        <item quantity="two">%1$s urmăritori</item>
+        <item quantity="few">%1$s urmăritori</item>
+        <item quantity="many">%1$s urmăritori</item>
     </plurals>
 </resources>

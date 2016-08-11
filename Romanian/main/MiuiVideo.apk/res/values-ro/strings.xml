@@ -130,6 +130,7 @@
     <string name="download_file_fail">Accesul la fișierul local nu a reușit; probabil nu există spațiu pe cardul SD</string>
     <string name="download_finished">Finalizat</string>
     <string name="download_geturl_fail">Obţinerea URL-ului a eşuat, verificaţi rețeaua și încercați din nou.</string>
+    <string name="download_insufficient_space">Spațiu insuficient</string>
     <string name="download_is_in_tasklist">A fost descărcat</string>
     <string name="download_paused">Întrerupt</string>
     <string name="download_percent_hint">Descărcare %d%%</string>
@@ -238,7 +239,7 @@
     <string name="notification_default_title">Videoclip Offline</string>
     <string name="notification_sub_title">În total %d sarcini de descărcare încheiate</string>
     <string name="notification_ticker_text">S-a descărcat videoclipul offline</string>
-    <string name="notification_title">\"%s\" descărcat</string>
+    <string name="notification_title">\"%1$s\" descărcat</string>
     <string name="nowifi_alert_dialog_continue">Continuaţi</string>
     <string name="nowifi_alert_dialog_exit">Anulaţi</string>
     <string name="nowifi_alert_dialog_message">Acest lucru poate crește în mod semnificativ utilizarea datelor mobile</string>

@@ -390,10 +390,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="phone_number_required_dspt_provision">"Acest serviciu solicită numărul dvs. de telefon. "</string>
     <string name="photo">Fotografii</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizați fotografiile contactelor doar atunci când sunteți conectat la o rețea Wi-Fi</string>
-    <string name="pref_summary_sync_video_on_wifi_only">Se sincronizează videoclipurile persoanelor de contact doar atunci când sunteți conectat la o rețea Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
-    <string name="pref_title_sync_video_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea videoclipurilor</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="provision_arrow_back">&lt;</string>
     <string name="provision_arrow_next">&gt;</string>

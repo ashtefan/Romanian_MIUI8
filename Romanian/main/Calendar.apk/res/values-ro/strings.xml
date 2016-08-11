@@ -279,7 +279,6 @@
     <string name="no_syncable_calendars">Niciun calendar</string>
     <string name="no_title_label">(Fără titlu)</string>
     <string name="not_synced">nesincronizat</string>
-  <string name="olympic_county">Țară</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>
@@ -370,14 +369,14 @@
     <string name="select_date">Selectaţi data</string>
     <string name="select_synced_calendars_title">Calendare de sincronizat</string>
     <string name="set_as_wallpaper">Setați ca imagine de fundal</string>
-    <string name="setting_about_calendar_version">Versiune Calendar:</string>
+    <string name="setting_about_calendar_version">Versiunea Calendarului:</string>
     <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">Versiune MIUI:</string>
+    <string name="setting_about_miui_version">Versiunea MIUI:</string>
     <string name="setting_about_summary">Versiune:</string>
-  <string name="setting_holiday_display_desc">Zile libere în pagina de pornire a Calendarului</string>
+    <string name="setting_holiday_display_desc">Zilele libere apar sub agendă în pagina de pornire</string>
     <string name="setting_holiday_display_title">Arată zilele libere</string>
     <string name="setting_holiday_reminder">Memento zile libere</string>
-    <string name="setting_homepage">Afișare în pagina de pornire</string>
+    <string name="setting_homepage">Setările paginii de pornire</string>
     <string name="setting_others">Altele</string>
   <string name="setting_sms_import">SMS-uri import evenimente</string>
     <string name="setting_title_about">Despre</string>

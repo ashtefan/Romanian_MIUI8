@@ -207,6 +207,7 @@
     <string name="hms_add_image_progress_message">În lucru…</string>
     <string name="hms_first_use_tips">Pentru a recepţiona mesaje de serviciu, trebuie să vă conectaţi la o reţea Wi-Fi</string>
     <string name="hms_uri_param_err">URL-ul nu poate fi gol</string>
+    <string name="hold_to_talk">Mențineți pentru a vorbi</string>
     <string name="i_know">OK</string>
     <string name="importing_progress_private_message">Importul mesajelor…</string>
     <string name="in_sms">Mesaj</string>
@@ -217,7 +218,6 @@
     <string name="invalid_recipient_message">Corectaţi destinatarii, altfel nu vor primi mesajul</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Aspect prezentare "</string>
-    <string name="left_cancel">Glisați spre stânga pentru a anula</string>
     <string name="loading_all_messages">Doar o secundă…</string>
     <string name="loading_conversations">Doar o secundă…</string>
     <string name="loading_mms">Doar o secundă…</string>
@@ -360,6 +360,7 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Mesaje noi</string>
     <string name="number_add_hint">Introduceţi numărul de telefon</string>
+    <string name="open_audio_record_panel">Deschideți panoul de înregistrare audio</string>
     <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
     <string name="over_max_mms_size">MMS prea mare.</string>
     <string name="overwrite_edited_content">Conținutul editat va fi suprascris</string>
@@ -433,7 +434,6 @@
     <string name="pref_title_wake_up_screen">Trezire ecran</string>
     <string name="preferences_title">Setări</string>
     <string name="prepare_send">Pregătire pentru trimitere…</string>
-    <string name="press_recording">Apăsați și țineți apăsată pictograma Mic pentru a înregistra</string>
     <string name="preview">Previzualizaţi</string>
     <string name="preview_slideshow">Previzualizaţi</string>
     <string name="priority_high">Ridicată</string>
@@ -489,7 +489,7 @@
     <string name="search">Mesagerie</string>
     <string name="search_empty">Nu există potriviri</string>
     <string name="search_hint">Căutaţi în mesagerie</string>
-    <string name="search_keyword_mms">Mesaje</string>
+    <string name="search_keyword_mms">Mesagerie;SMS;MMS;Text;Mesaj;Mesaje</string>
     <string name="search_label">Mesagerie</string>
     <string name="search_path_mms">Setări/Aplicații de sistem/Mesaje</string>
     <string name="search_setting_description">Text în mesajele dvs.</string>
@@ -547,6 +547,7 @@
     <string name="sim_view">Vizualizaţi</string>
     <string name="slide_number">Diapozitiv %s</string>
     <string name="slide_show_part">Partea %1$s/%2$s</string>
+    <string name="slide_up_to_cancel">Glisați în sus pentru a renunța</string>
     <string name="slideshow_activity">Prezentare</string>
     <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
