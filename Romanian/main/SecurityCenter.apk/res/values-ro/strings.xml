@@ -778,7 +778,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_disable_start_other_app">Preveniți pornirea aplicațiilor de către alte aplicații</string>
     <string name="power_optimize_loading">Încărcare</string>
     <string name="power_optimize_manual_catagory_title">Manual</string>
-    <string name="power_optimize_open_hide_mode">Actiavți Modul Ascuns</string>
+    <string name="power_optimize_open_hide_mode">Activați Modul Ascuns</string>
     <string name="power_optimize_save_mode_not_opened">Economisirea acumulatorului este dezactivată</string>
     <string name="power_optimize_save_on_lockscreen">Economisiți energia atunci când telefonul este blocat</string>
     <string name="power_phone">Apeluri vocale</string>

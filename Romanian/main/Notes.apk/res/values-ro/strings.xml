@@ -20,11 +20,14 @@
     <string name="call_record_folder_name">Note apel</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
+    <string name="dlg_check_reminder">"Nu arăta din nou"</string>
     <string name="dlg_delete_message">Ștergere…</string>
     <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul Silenţios este activat</string>
     <string name="dlg_info_creating_message">Creare mesaj…</string>
     <string name="dlg_move_message">Mutare…</string>
     <string name="dlg_privacy_message">Se ascunde…</string>
+    <string name="dlg_quick_delete_title">Ștergere rapidă</string>
+    <string name="dlg_restore_message">Restaurare…</string>
     <string name="dlg_stick_message">Fixare…</string>
     <string name="dlg_title_confirm_alarm_silent">Alarmă silenţioasă</string>
     <string name="dlg_unmark_privacy_message">Se afișează…</string>
@@ -79,11 +82,13 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="permdesc_accessNote">Aplicațiile rău intenționate pot utiliza aceasta pentru a accesa informaţiile personale.</string>
     <string name="permlab_accessNote">Accesare note</string>
     <string name="pref_desc_alarm_when_silent">Alarmele pentru memento vor suna în continuare atunci când modul Silenţios este activat</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">"Nu arăta fereastra de dialog când se elimină o notiță printr-un gest"</string>
     <string name="pref_title_alarm_when_silent">Alarmă în modul Silenţios</string>
     <string name="pref_title_common">Setări adiţionale</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
     <string name="pref_title_recover_help">Recuperați notele</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Ștergere rapidă</string>
     <string name="privacy_hint">Confidențialitate</string>
     <string name="privacy_notes_fragment_title">Note ascunse</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
@@ -136,6 +141,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="toast_mark_privacy_notes_count">%1$s note au fost ascunse cu succes</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_message_add_text_warn">Acest tip de fișier nu este acceptat</string>
+    <string name="toast_notes_delete_success">Eliminată cu succces</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toast_unmark_privacy_notes">Anularea ascunderii a reușit</string>

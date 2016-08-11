@@ -40,7 +40,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="full_screen_enter">Intrare în modul ecran complet</string>
     <string name="full_screen_exit">Ieşire din modul ecran complet</string>
     <string name="hide_mode_desc">Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului</string>
-    <string name="hide_mode_ultimate_desc">Modul Ultimate este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Ultimate.</string>
+    <string name="hide_mode_ultimate_desc">Modul Extrem este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Extrem.</string>
     <string name="high">Performanţă</string>
     <string name="hints_loading_text">Doar o secundă…</string>
     <string name="invalid_size_value">Nu s-a putut obține dimensiunea pachetului.</string>
@@ -106,10 +106,10 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_config_select_apps_empty">Apăsați pentru a selecta aplicațiile</string>
     <string name="power_config_select_apps_title">Aplicaţii</string>
     <string name="power_config_title">Setări</string>
-    <string name="power_config_ultimate_description">MIUI va opri aplicațiile din fundal</string>
-    <string name="power_config_ultimate_off_already">Modul Ultimate este dezactivat</string>
-    <string name="power_config_ultimate_on_already">Modul Ultimate este activat</string>
-    <string name="power_config_ultimate_title">Ultima</string>
+    <string name="power_config_ultimate_description">MIUI va opri toate aplicațiile din fundal</string>
+    <string name="power_config_ultimate_off_already">Modul Extrem este dezactivat</string>
+    <string name="power_config_ultimate_on_already">Modul Extrem este activat</string>
+    <string name="power_config_ultimate_title">Extrem</string>
     <string name="power_config_ultimate_unlock_already">Toate elementele au fost deblocate</string>
     <string name="power_configure_screen_brightness_enable">Setaţi luminozitatea ecranului</string>
     <string name="power_customize_giveup_change">Renunţaţi la modificări?</string>

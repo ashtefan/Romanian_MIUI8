@@ -274,6 +274,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_startup_count">%d aplicaţii pornesc automat</string>
     <string name="automatic_brightness">Luminozitate automată</string>
     <string name="available_size">%s (Disponibil)</string>
+    <string name="avoid_ui">Evitare UI</string>
     <string name="awake">Durată de activitate a dispozitivului</string>
     <string name="back_key">Tasta Înapoi</string>
     <string name="background_data">Date în fundal</string>
@@ -1520,6 +1521,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="large_font">Mare</string>
     <string name="last_synced">Ultima sincronizare %1$s</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
+    <string name="lattice_smartcover_title">Capac ecran perforat tip Lattice</string>
     <string name="launching_cit">Lansare CIT</string>
     <string name="launching_pho">Lansare info telefon, aşteptaţi.</string>
     <string name="launching_rep">Raportare…</string>

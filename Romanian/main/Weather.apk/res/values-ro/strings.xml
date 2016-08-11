@@ -67,7 +67,7 @@
     <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
     <string name="daily_forcast_whirl_wind">Tornadă</string>
     <string name="daily_forcast_wind_connect">%1$s|%2$s</string>
-    <string name="daily_forecast_detail_date">d.M</string>
+    <string name="daily_forecast_detail_date">dd.MM</string>
  
     <string name="edit_alert_city_title">Gestionați alertele</string>
     <string name="edit_city">Editaţi</string>

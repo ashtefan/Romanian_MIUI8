@@ -109,6 +109,7 @@
     <string name="time">Ora</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Atingeţi ecranul pentru a opri soneria</string>
+    <string name="timer_alarm_dot_matrix_label">TEMPORIZATOR</string>
     <string name="timer_alert_alert_silenced">Temporizator oprit după %d minute.</string>
     <string name="timer_clock_alert_text">Setați temporizatorul</string>
     <string name="timer_continue">Continuaţi</string>

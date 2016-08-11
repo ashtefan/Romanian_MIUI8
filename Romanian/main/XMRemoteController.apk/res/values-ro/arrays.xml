@@ -26,36 +26,36 @@
         <item>Pot folosi un telefon Mi3, Mi2 sau Redmi ca și telecomandă?</item>
     </string-array>
     <string-array name="assistant_tab">
-        <item>video</item>
-        <item>Imagini de ecran</item>
-        <item>aplicație</item>
+        <item>Videoclip</item>
+        <item>Capturi de ecran</item>
+        <item>Aplicație</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>complet</item>
-        <item>colectare</item>
+        <item>Complet</item>
+        <item>Colectare</item>
         <item>CCTV</item>
-        <item>televizor</item>
+        <item>Televizor</item>
         <item>HD</item>
-        <item>recent</item>
+        <item>Recent</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
-        <item>toate canalele</item>
-        <item>canale preferate</item>
-        <item>canal CCTV</item>
-        <item>canal TV prin satelit</item>
-        <item>canale HD</item>
-        <item>vizionat recent</item>
+        <item>Toate canalele</item>
+        <item>Canale preferate</item>
+        <item>Canal CCTV</item>
+        <item>Canal TV prin satelit</item>
+        <item>Canale HD</item>
+        <item>Recent vizionat</item>
     </string-array>
     <string-array name="epg_default_hot_channels">
-        <item>Hunan TV prin satelit</item>
+        <item>TV Hunan</item>
         <item>CCTV-6</item>
-        <item>Zhejiang TV-satelit</item>
+        <item>TV prin satelit Zhejiang</item>
         <item>CCTV-5</item>
         <item>CCTV-3</item>
-        <item>dragon TV</item>
-        <item>TV Anhui</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
         <item>Beijing TV</item>
-        <item>TV Guangdong</item>
+        <item>Guangdong TV</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
