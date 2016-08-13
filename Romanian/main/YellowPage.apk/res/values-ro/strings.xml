@@ -228,7 +228,7 @@ Verificați numărul de urmărire."</string>
     <string name="group_name_title"/>
     <string name="hms_no_subject_view">(Niciun subiect)</string>
     <string name="hms_notification">Mesaje</string>
-    <string name="homepage_barcode_prompt">Scanați pentru a deschide pagina de pornire.</string>
+    <string name="homepage_barcode_prompt">Scanați pentru a deschide pagina de pornire</string>
     <string name="info_divider">|</string>
     <string name="locating_fail">"Nu s-a putut găsi locația dumneavoastră"</string>
     <string name="login_before_use">Trebuie să vă autentificați mai întâi</string>
@@ -237,6 +237,8 @@ Verificați numărul de urmărire."</string>
     <string name="mark_number_check_dialog_title">Marcați numărul</string>
     <string name="mark_number_check_most_choice">(Cele mai utilizate)</string>
     <string name="mark_number_custom_mark_deleted">Etichetă eliminată</string>
+    <string name="mark_number_delete_confirm_message">Eliminați stegulețul %s ?</string>
+    <string name="mark_number_delete_confirm_title">Eliminați stegulețul</string>
     <string name="mark_number_dialog_maintitle">Etichetați numărul și încărcați</string>
     <string name="mark_number_dialog_subtitle">Etichetat de %2$d persoane ca %1$s</string>
     <string name="mark_number_feedback">Raport</string>

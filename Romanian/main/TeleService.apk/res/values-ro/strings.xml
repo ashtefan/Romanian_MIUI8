@@ -543,7 +543,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="lable_disable">Dezactivat</string>
     <string name="lable_enable">Activat</string>
     <string name="lable_incoming_calls_except">Apeluri primite în roaming</string>
-    <string name="lable_sim_not_ready">Aplicaţia Instrumente SIM nu este pregătită sau nu este acceptată.</string>
+    <string name="lable_network_not_supported">"Rețeaua nu este suportată"</string>
     <string name="lafs_disable">Orarele de zbor ale aeroportului local sunt dezactivate</string>
     <string name="lafs_enable">Orarele de zbor ale aeroportului local sunt activate</string>
     <string name="left_minutes">min</string>

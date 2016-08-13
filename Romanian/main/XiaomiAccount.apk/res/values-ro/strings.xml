@@ -35,8 +35,6 @@
     <string name="account_user_education">Nivel de educație</string>
     <string name="account_user_email">E-mail</string>
     <string name="account_user_gender">Sex</string>
-    <string name="account_user_gender_female">Feminin</string>
-    <string name="account_user_gender_male">Masculin</string>
     <string name="account_user_id">ID cont Mi</string>
     <string name="account_user_income">Venit lunar</string>
     <string name="account_user_location">Locație</string>

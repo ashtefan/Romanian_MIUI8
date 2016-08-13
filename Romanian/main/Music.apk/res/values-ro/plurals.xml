@@ -94,4 +94,12 @@
         <item quantity="other">melodii au fost adăugate la favorite.</item>
         <item quantity="one">melodie a fost adăugată la favorite.</item>
     </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d comentarii</item>
+        <item quantity="one">%d comentariu</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d urmăritori</item>
+        <item quantity="one">%d urmăritor</item>
+    </plurals>
 </resources>

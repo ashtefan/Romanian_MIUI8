@@ -83,6 +83,10 @@
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
     <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
+    <string name="screenshot_gesture_detect_alert_button">Mergeți la setările pentru capturi de ecran pentru a activa</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">Nu arăta din nou</string>
+    <string name="screenshot_gesture_detect_alert_msg">Activați realizarea capturii de ecran prin glisarea a 3 degete simultan?</string>
+    <string name="screenshot_gesture_detect_alert_title">Captură de ecran cu 3 degete</string>
     <string name="security_permission_denied_text">Acces nepermis</string>
     <string name="security_permission_failed_text">A apărut o eroare; reîncercați mai târziu</string>
     <string name="security_permission_validate_warning">Vă mulțumim că ne ajutați să facem MIUI mai bun!</string>

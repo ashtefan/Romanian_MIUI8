@@ -18,7 +18,7 @@
     <string name="activity_main_clickable">&gt;</string>
     <string name="activity_main_one_alert"/>
     <string name="activity_main_refresh_fail">Nu se poate conecta la reţea</string>
-    <string name="activity_main_time_format">EEEE</string>
+    <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Actualizat %1$s</string>
     <string name="activity_main_update_time_right_now">acum</string>
     <string name="activity_weathermain_locationg">Localizare…</string>

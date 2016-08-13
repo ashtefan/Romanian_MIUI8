@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alert_message_delete_record">Ştergeți înregistrările selectate?</string>
+    <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Mi Cloud. Ştergeți înregistrările selectate oricum?</string>
     <string name="alert_message_delete_record_title">Ştergeţi înregistrarea?</string>
     <string name="app_name">Înregistrare</string>
     <string name="back">Înapoi</string>

@@ -656,21 +656,20 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
+"&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
+"&lt;/b&gt;"Dacă sunteți conectat la o rețea Wi-Fi publică, numărul de utilizatori conectați la această rețea poate duce la încetinirea vitezei sau să creeze probleme de conectivitate. Conectaţi-vă la o altă rețea și încercați din nou.
 
-1. Probleme de rețea publică Wi-Fi
-Dacă sunteți conectat la o rețea Wi-Fi publică, numărul de utilizatori conectați la această rețea poate duce la încetinirea vitezei sau să creeze probleme de conectivitate. Conectaţi-vă la o altă rețea și încercați din nou.
+2."&lt;b&gt;" Probleme de furnizor servicii internet
+A"&lt;/b&gt;"sigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
 
-2. Probleme de furnizor servicii internet
-Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
+3."&lt;b&gt;" Probleme hardware router
+Î"&lt;/b&gt;"ncercați repornirea router-ului sau verificarea setărilor admin pentru router.
 
-3. Probleme hardware router
-Încercați repornirea router-ului sau verificarea setărilor admin pentru router.
+4."&lt;b&gt;" Alte probleme de router
+C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
 
-4. Alte probleme de router
-Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
-
-5. Asigurați-vă că routerul este conectat corect
-Încercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
+5."&lt;b&gt;" Asigurați-vă că routerul este conectat corect
+Î"&lt;/b&gt;"ncercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
     <string name="network_sim_exception_detail">"Este posibil să existe o problemă cu cartela SIM:
 
 1. Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet. Încercați să utilizaţi cartela SIM a unui prieten pentru a vedea dacă telefonul se conectează în mod normal.
@@ -723,6 +722,34 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
+    <string name="optimize_result_button_cloudspace">Adăugați stocare în Cloud</string>
+    <string name="optimize_result_button_consume_power_analysis">Scanare acumulator</string>
+    <string name="optimize_result_button_cooldown_now">Răcorire</string>
+    <string name="optimize_result_button_correct_now">Calibrare</string>
+    <string name="optimize_result_button_fix_now">Reparare</string>
+    <string name="optimize_result_button_onekey_open">Activați</string>
+    <string name="optimize_result_button_onekey_restore">Restaurați</string>
+    <string name="optimize_result_button_open_now">Activați</string>
+    <string name="optimize_result_button_operators_diagnose">Testare operator</string>
+    <string name="optimize_result_button_purchase">Achiziționați</string>
+    <string name="optimize_result_button_purchase_flow">Suplimentați datele mobile</string>
+    <string name="optimize_result_button_see_detaills">Detalii</string>
+    <string name="optimize_result_button_to_open">Activați</string>
+    <string name="optimize_result_button_to_set">Setați</string>
+    <string name="optimize_result_button_update_now">Actualizați</string>
+    <string name="optimize_result_summary_sucurity_risk">Unele caracteristici de securitate sunt dezactivate. Activați-le pentru a vă face telefonul mai sigur:</string>
+    <string name="optimize_result_summary_system_default_settings">"Utilizarea aplicațiilor MIUI implicite crește nivelul de stabilitate și securitate al sistemului."</string>
+    <string name="optimize_result_title_sucurity_risk">Au fost găsite riscuri de securitate</string>
+    <string name="optimize_result_title_system_default_settings">Setările implicite au fost modificate</string>
+    <string name="optimize_result_toast_system_default_settings">Setările implicite au fost restaurate</string>
+    <string name="optimize_result_toast_system_no_item_selected">Niciun element selectat</string>
+    <string name="optmizingbar_optimize_done">Optimizat</string>
+    <string name="optmizingbar_ready">Optimizare…</string>
+    <string name="optmizingbar_stop_optmize">Stop</string>
+    <string name="optmizingbar_title_acceleration">Optimizare…</string>
+    <string name="optmizingbar_title_clear">Goliți cache-ul</string>
+    <string name="optmizingbar_title_security">Securitate</string>
+    <string name="optmizingbar_title_system">Securitatea sistemului</string>
     <string name="other_exception_summary">Nu aveți o conexiune la internet</string>
     <string name="other_exception_title">Verificarea pentru alte probleme</string>
     <string name="package_change_notification_summary">Apăsați pentru a afla mai multe.</string>
@@ -1276,20 +1303,19 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="traffic_alert_auto_modify_notification_titile">Plan de date actualizat</string>
     <string name="traffic_alert_auto_modify_package_summary">"Ajustați pachetele de date în mod automat, în conformitate cu informațiile operatorului"</string>
     <string name="traffic_config_alert_auto_modify">Actualizați planul de date în mod automat</string>
-    <string name="traffic_config_alert_body">Contabilizarea operatorului dvs. arată că aţi utilizat %s.
-\nActualizați informațiile de utilizare a datelor?</string>
+    <string name="traffic_config_alert_body">"Contabilizarea operatorului dvs. arată că aţi utilizat %s.
 
-
-    <string name="traffic_config_alert_body_extra">
-\nAți procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual.</string>
-    <string name="traffic_config_alert_body_extra_notset">
-\nAți procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual.</string>
-    <string name="traffic_config_alert_body_leisure">
-\nContabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual.</string>
-    <string name="traffic_config_alert_body_leisure_notset">
-\nContabilizarea operatorului dvs. arată că aveţi %s din datele orelor de vârf. Nu aţi setat o limită pentru datele în afara orelor de vârf.</string>
-    <string name="traffic_config_alert_body_normal">
-\nContabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual.</string>
+Acceptați această valoare?"</string>
+    <string name="traffic_config_alert_body_extra">"
+Ați procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual."</string>
+    <string name="traffic_config_alert_body_extra_notset">"
+Ați procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual."</string>
+    <string name="traffic_config_alert_body_leisure">"
+Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
+    <string name="traffic_config_alert_body_leisure_notset">"
+Contabilizarea operatorului dvs. arată că aveţi %s din datele orelor de vârf. Nu aţi setat o limită pentru datele în afara orelor de vârf."</string>
+    <string name="traffic_config_alert_body_normal">"
+Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
     <string name="traffic_config_alert_package">"
 Traficul de date suplimentar a fost depășit"</string>
     <string name="traffic_config_alert_setted">Setări aplicate</string>
@@ -1301,6 +1327,7 @@ Traficul de date suplimentar a fost depășit"</string>
     <string name="traffic_correction_success_notify_message">Atingeţi pentru a vizualiza detaliile.</string>
     <string name="traffic_limit_error_alert_body">Contabilizarea operatorului dvs. arată că aveţi %1$s rămaşi în această lună. Este mai mult decât limita de %2$s setată manual.</string>
     <string name="traffic_limit_error_alert_package">"
+
 Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_limit_error_alert_title">Memento limită de date %s</string>
     <string name="traffic_none">Nimic</string>

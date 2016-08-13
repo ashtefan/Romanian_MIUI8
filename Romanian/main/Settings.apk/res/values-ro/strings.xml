@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Conturi</string>
-    <string name="aaid_info">"
-Identificatorul pentru reclame este un număr unic asociat permanent telefonului dumneavoastră. Acesta este utilizat de către vânzători pentru a selecta conținutul reclamelor astfel încât să vă fie cât mai utile.
-
-Dacă optați să nu personalizați conținutul reclamelor, numărul acestora nu se va reduce, însă va scădea semnificativ rata de afișare a reclamelor utile pentru dumneavoastră."</string>
+    <string name="aaid_info">"    
+Identificatorul pentru reclame este un număr unic asociat permanent telefonului dumneavoastră. Acesta este utilizat de către vânzători pentru a selecta conținutul reclamelor astfel încât să vă fie cât mai utile."</string>
     <string name="about_settings">Informaţii telefon</string>
     <string name="about_settings_summary">Afişaţi informaţiile legale, starea şi versiunea software</string>
     <string name="ac_enable_summary">Setați o parolă pentru lansarea aplicațiilor</string>
@@ -53,8 +51,8 @@ Dacă telefonul are mai mulţi utilizatori, folosirea acestei comenzi rapide pe 
     <string name="accessibility_screen_magnification_summary">"După activarea acestei funcţii, puteţi mări şi micşora atingând de trei ori ecranul.
 
 În timp ce măriţi, puteţi:
-"<li><ul>"să deplasaţi: deplasaţi două sau mai multe degete pe ecran;
-"<li>să ajustaţi nivelul de zoom: ciupiţi cu două sau mai multe degete ori îndepărtați-le.</li></ul></li>"
+"&lt;li&gt;&lt;ul&gt;"să deplasaţi: deplasaţi două sau mai multe degete pe ecran.
+"&lt;li&gt;să ajustaţi nivelul de zoom: ciupiţi cu două sau mai multe degete ori îndepărtați-le.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
 De asemenea, puteţi să măriţi temporar ceea ce se află sub degetul dvs. atingând ecranul de trei ori şi menţinând degetul pe ecran. În această stare mărită, puteţi să glisaţi degetul pentru a explora diferite părţi ale ecranului. Ridicaţi degetul pentru a reveni la starea anterioară.
 
@@ -1874,8 +1872,8 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="msd_driver_download_mac_url">Obţineţi driver-ul de la http://www.android.com/filetransfer/</string>
     <string name="msd_driver_download_xp">Windows: Descărcaţi Mi Phone Manager pentru a utiliza telefonul ca dispozitiv de stocare USB.</string>
     <string name="msd_driver_download_xp_url">Obţineţi driver-ul de la http://zhushou.mi.com/</string>
-    <string name="msd_help_summary">Aveţi probleme la conectarea dispozitivului?
-\nSelectaţi sistemul de operare de mai jos:</string>
+    <string name="msd_help_summary">"Aveţi probleme la conectarea dispozitivului?
+Selectaţi sistemul de operare de mai jos:"</string>
     <string name="msd_help_title">Ajutor</string>
     <string name="msd_install">Reinstalaţi driver-ul?</string>
     <string name="msd_install_download_zhushou">Am descărcat Mi Phone Manager</string>
@@ -2157,6 +2155,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="path_dtmf_tone_enable_title">Setări/Sunet și vibrații/Tonuri la atingerea tastelor numerice</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
     <string name="path_equalizer">Setări/Sunet și vibrații/Setări audio/Egalizator</string>
+  <string name="path_fluency_mode">Setări/Acumulator și performanță/Animații de sistem</string>
     <string name="path_font_settings">Setări/Afișaj/Fontul sistemului</string>
     <string name="path_gesture_wakeup_title">Setări/Afișaj/Apăsare dublă pe ecran pentru pornire</string>
     <string name="path_gps_settings">Setări/Setări adiționale/Confidențialitate/Locație</string>
@@ -2561,6 +2560,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
  "<li>aplicaţii prestabilite pentru acţiuni;</li>"
  "<li>restricţii privind datele de fundal pentru aplicaţii.</li>"
 "<li>orice restricţii pentru permisiuni.</li>"
+
  Nu veţi pierde nimic din datele aplicaţiilor."</string>
     <string name="reset_app_preferences_title">Resetaţi preferințele aplicațiilor?</string>
     <string name="reset_legacy_password_settings_preface_text">Trebuie să resetaţi parola de blocare a ecranului.</string>
@@ -2569,9 +2569,6 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="restore_default_apn">Se restabilesc setările APN prestabilite.</string>
     <string name="restore_default_apn_completed">Resetarea setărilor APN prestabilite a fost finalizată.</string>
     <string name="restr_pin_enter_admin_pin">Introduceți codul PIN al administratorului</string>
-    <string name="restrict_background_data_dialog_summary">"Aplicaţiile care rulează în fundal nu pot primi mesaje"</string>
-    <string name="restrict_background_data_notification_summary">Aplicațiile nu se pot conecta la rețea în cazul în care datele de fundal sunt restricționate</string>
-    <string name="restrict_background_data_title">Restricţionaţi datele de fundal</string>
     <string name="restriction_bluetooth_config_summary">Permiteți modificarea împerecherilor și setărilor Bluetooth</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_location_enable_summary">Permiteți ca aplicațiile să utilizeze informațiile despre locație</string>
@@ -2693,6 +2690,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="screensaver_settings_summary_sleep">În timpul încărcării</string>
     <string name="screensaver_settings_title">Screensaver</string>
     <string name="screensaver_settings_when_to_dream">Când porneşte Daydream</string>
+    <string name="screenshot">Captură de ecran</string>
+    <string name="screenshot_three_gesture">Glisarea pe ecran cu 3 degete simultan va realiza o captură de ecran</string>
     <string name="sd_card_settings_label">Card SD</string>
     <string name="sd_card_storage">Card SD</string>
     <string name="sd_eject">Demontaţi cardul SD</string>
@@ -2721,7 +2720,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="sdcard_unmount">Demontaţi cardul SD</string>
     <string name="se_route_ese">Element de securitate încorporat</string>
     <string name="se_route_uicc">Element de securitate pe cartela SIM</string>
-    <string name="search_about">"Informații telefon;Nume dispozitiv;Număr model;Versiune Android;Versiune MiUI;Procesor;RAM;Memorie internă;Versiunea benzii de bază;Versiune Kernel;Număr model;Stare;Informații de ordin juridic "</string>
+    <string name="search_about">Informații telefon;Număr model;Versiune Android;Versiune MIUI;Procesor;RAM;Memorie internă;Versiunea benzii de bază;Versiune Kernel;Numărul versiunii</string>
     <string name="search_accelerometer">Rotire automată a ecranului;Rotirea ecranului;Orientare;Portret;Peisaj</string>
   <string name="search_access_control">Setări confidențialitate;Securitatea confidențialității;Vizitator;Mod vizitator</string>
     <string name="search_accessibility">Accesibilitate</string>
@@ -2744,9 +2743,9 @@ Pentru a utiliza fixarea ecranului:
   <string name="search_back_key">Înapoi;Tasta Înapoi</string>
   <string name="search_battery">Acumulator și performanță;Battery and performance;Acumulator;performanță;Economisire acumulator;Save battery</string>
     <string name="search_battery_indicator">Indicator acumulator</string>
-    <string name="search_bluetooth">Bluetooth;Nume dispozitiv;Detectare activată</string>
-    <string name="search_bluetooth_device_name">Nume dispozitiv</string>
-    <string name="search_bluetooth_device_searchable">Detectare activată</string>
+    <string name="search_bluetooth">Bluetooth;Detectare activată</string>
+    <string name="search_bluetooth_device_name">Nume dispozitiv;Nume bluetooth;Nume telefon</string>
+    <string name="search_bluetooth_device_searchable">Detectare activată;Vizibil;Nume bluetooth</string>
     <string name="search_bluetooth_enable">Bluetooth</string>
     <string name="search_brightness">luminozitate</string>
     <string name="search_button_light_timeout">Durată iluminare taste</string>
@@ -2763,19 +2762,20 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_development_settings">Opțiuni dezvoltator</string>
     <string name="search_device_name">Nume dispozitiv</string>
     <string name="search_device_status">Stare</string>
-    <string name="search_display">Afișaj;Iluminare;Temperatură de culoare și saturație;Glove mode;Screensaver;Rotire automată a ecranului</string>
-    <string name="search_dndm_alarm_content">Exceptții</string>
+    <string name="search_display">Afișaj;Ecran;Lumină ambientală;Buzunar;Apelare în buzunar</string>
+    <string name="search_dndm_alarm_content">Excepții</string>
     <string name="search_dndm_auto_button_title">Perioadă</string>
     <string name="search_dndm_auto_time_setting">Setați perioada</string>
     <string name="search_dndm_open">Nu deranjați</string>
     <string name="search_dndm_repeated_call_setting_title">Apeluri repetate</string>
     <string name="search_dndm_vip_call_setting_title">ViP;Excepții</string>
     <string name="search_dndm_wristband">Activați cu Mi Band</string>
-    <string name="search_do_not_disturb">Nu deranjați;Vip;Setați perioada;Excepții;Apeluri repetate</string>
+    <string name="search_do_not_disturb">Nu deranjați</string>
     <string name="search_dtmf_tone_enable_title">Tonuri la atingerea tastelor numerice</string>
   <string name="search_edge_handgrip">Edge controls</string>
     <string name="search_empty">Niciun rezultat</string>
     <string name="search_equalizer">Egalizator</string>
+    <string name="search_fluency_mode">Animații de sistem</string>
     <string name="search_font">Fontul sistemului</string>
     <string name="search_gesture_wakeup_title">Apăsare dublă pe ecran pentru pornire</string>
     <string name="search_gps">GPS;Acces la locație</string>
@@ -2803,7 +2803,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_music_headset_mode_settings">Butoane căști</string>
     <string name="search_music_headset_settings">Căști și efecte audio</string>
     <string name="search_music_mi_effect_title">Amplificatorul Mi Sound</string>
-    <string name="search_network">Rețele mobile;Date mobile;Date mobile în roaming;Preluare MMS automat;;Numele punctelor de acces;Tipul de rețea preferat;Rețele mobile;Wi-Fi direct</string>
+    <string name="search_network">Rețele mobile;Date mobile;Date celulare;Date;Roaming în străinătate;Roaming;Preluare MMS;Rețele celulare;</string>
     <string name="search_networks_title">Rețele mobile</string>
   <string name="search_nfc_se_route_title">Secure element position</string>
     <string name="search_notification_app_list_settings">Notificările aplicațiilor</string>
@@ -2811,7 +2811,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_ntts_settings_title">Rezultatul transformării textului în vorbire;TTS</string>
     <string name="search_oldman_mode">Modul Ușor</string>
   <string name="search_onekey_migrate">Transfer;One key migrate</string>
-    <string name="search_other_advanced_settings">Setări adiționale;Setări confidențialitate;Data și ora;Limbă și metode de introducere;Modul operare cu o mână;Acumulator și performanță;Performanță;Stocare;LED notificări;LED;Căști și efecte audio;Butoane;Taste;Accesibilitate;Caracteristici Beta;Lab functions;Opțiuni dezvoltator;Creare copie de rezervă și resetare;Transfer;One key migrate</string>
+    <string name="search_other_advanced_settings">Setări adiționale;Mai multe</string>
     <string name="search_owner_info_settings">Informații proprietar</string>
     <string name="search_page_layout_settings">Mărimea textului</string>
   <string name="search_pointer_speed">Viteza indicatorului</string>
@@ -2819,7 +2819,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_power_hide_mode_title">Gestionare utilizare acumulator de către aplicații</string>
     <string name="search_power_mode">mod utilizare acumulator</string>
     <string name="search_power_optimize">Economisire acumulator</string>
-    <string name="search_pref_volume_wake_title">Trezire cu butoanele de volum</string>
+    <string name="search_pref_volume_wake_title">Trezire cu butoanele de volum;butoane de volum</string>
     <string name="search_preferred_network_type_title">Tipul de rețea preferat</string>
     <string name="search_privacy">Creare copie de rezervă și resetare</string>
     <string name="search_privacy_policy">Politica de confidențialitate</string>
@@ -2830,12 +2830,12 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_ring_volume">Volum sonerie;Ton de apel;Alarmă;Media</string>
     <string name="search_ringtone">ton de apel</string>
     <string name="search_safe_result_header_title_system">Confidențialitate</string>
-    <string name="search_screen_effect">Temperatură de culoare și saturație;Contrast</string>
+    <string name="search_screen_effect">Temperatură de culoare și saturație;Culori și contrast;culoare;saturația culorilor;contrast</string>
     <string name="search_screen_key_long_press_timeout">Durată apăsare lungă</string>
     <string name="search_screen_on_proximity_sensor_title">Prevenirea apelării în buzunar</string>
     <string name="search_screen_paper_mode">Mod Citire</string>
     <string name="search_screen_saver_settings">Imagine de fundal</string>
-    <string name="search_screen_timeout">durată inactivitate;blocare automată a ecranului</string>
+    <string name="search_screen_timeout">durată inactivitate;blocare automată a ecranului;blocarea ecranului</string>
     <string name="search_second_space">Spațiul secundar</string>
     <string name="search_security_encryption_title">Criptare telefon utilizând parola de blocare a ecranului</string>
     <string name="search_security_passwords_title">Parolă</string>
@@ -2846,8 +2846,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_sms_delivered_sound_title">Mesaj expediat</string>
     <string name="search_sms_received">Mesaj recepţionat</string>
     <string name="search_sound_effects_enable_title">Sunete atingeri</string>
-    <string name="search_sound_settings">Sunet;Volume;Mod Silențios;Alarmă;Muzică;Vibrații;Ton de apel;Sunet de notificare implicit;Mesaj recepționat;Mesaj expediat;Atingeri;Sunet blocare ecran;Setări audio;Suprimare zgomot de fond</string>
-    <string name="search_status_bar">Notificările aplicațiilor;Poziția comutatoarelor;Afișare viteză de conexiune;Afișare nume operator;Screenshot notification;Se afișează pe blocarea ecranului</string>
+    <string name="search_sound_settings">Sunet;Volume;vibrații;Suprimare zgomot;Suprimare zgomot de fond</string>
+    <string name="search_status_bar">Notificări și bara de stare;Notificări;Bara de stare</string>
     <string name="search_status_bar_settings_custom_carrier">Editați numele operatorului</string>
     <string name="search_status_bar_settings_expandable_under_keyguard">Se afișează pe blocarea ecranului</string>
     <string name="search_status_bar_settings_show_carrier">Afișare nume operator</string>
@@ -2861,9 +2861,9 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_storage_settings">Curățare</string>
     <string name="search_sync_settings">Sincronizare;Auto;Doar în Wi-Fi</string>
     <string name="search_system_app_settings">Aplicații de sistem</string>
-    <string name="search_tether">Hotspot Wi-Fi portabil;Hotspot personal</string>
-    <string name="search_tether_settings_title_bluetooth">Tethering prin Bluetooth</string>
-    <string name="search_tether_settings_title_usb">Tethering prin USB</string>
+    <string name="search_tether">Tethering;Hotspot Wi-Fi portabil;Tether;partajare internet;Hotspot Wi-Fi</string>
+    <string name="search_tether_settings_title_bluetooth">Tethering prin Bluetooth;tethering</string>
+    <string name="search_tether_settings_title_usb">Tethering prin USB;Tethering;USB</string>
     <string name="search_theme_settings">Teme</string>
     <string name="search_toggle_position">Poziția comutatoarelor</string>
     <string name="search_touch_assistant">Asistent ecran</string>
@@ -2871,17 +2871,17 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_trusted_credentials">Acreditări de încredere</string>
     <string name="search_tts_settings_title">Rezultatul transformării textului în vorbire</string>
     <string name="search_turn_on_security_lock">Modificați blocarea ecranului</string>
-    <string name="search_unlock_set">Blocare ecran;Info. proprietar;Inactivitate;Trezire ecran pentru notificări;Parolă;Prevenirea apelării în buzunar;Deblocați cu un dispozitiv Bluetooth;Blocare ecran și parolă</string>
+    <string name="search_unlock_set">Blocare ecran și parolă;Deblocați cu un dispozitiv Bluetooth;parolă;Deblocare Bluetooth</string>
     <string name="search_user_agreement">Termenii serviciului</string>
-    <string name="search_user_dict_settings_title">Dicționar personal</string>
+    <string name="search_user_dict_settings_title">Dicționar personal;Dicționar</string>
     <string name="search_vibrate_in_silent_title">Vibrează în Modul Silențios</string>
     <string name="search_vibrate_on_touch_title">Vibrare la atingere</string>
     <string name="search_vibrate_when_ringing_title">Vibrează când sună</string>
-  <string name="search_virtual_sim">SIM virtual</string>
+  <string name="search_virtual_sim">SIM virtual;Roaming de date;Date mobile în roaming</string>
     <string name="search_vpn">VPN</string>
     <string name="search_vpn_enable">VPN</string>
     <string name="search_vpn_settings_password">Parolă de protecție VPN</string>
-    <string name="search_wakeup_for_keyguard_notification_title">Trezire ecran pentru notificări</string>
+    <string name="search_wakeup_for_keyguard_notification_title">Trezire ecran pentru notificări;trezire ecran;trezire telefon;trezire dispozitiv</string>
     <string name="search_wallpaper">Imaginea de fundal</string>
     <string name="search_wifi">Wi-Fi;Setări avansate</string>
     <string name="search_wifi_advanced_ip_address_title">Adresă IP</string>
@@ -2892,7 +2892,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_wifi_install_credentials">Instalare certificate</string>
     <string name="search_wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="search_wifi_menu_wps_pin">Introduceți PIN WPS</string>
-  <string name="search_wifi_more_settings">Mai multe;Mod Avion;VPN;Tethering;Ecran wireless;International mobile data;NFC;Android Beam;Secure element position</string>
+  <string name="search_wifi_more_settings">Mai multe;Wi-Fi</string>
     <string name="search_wifi_scan_always_available">Scanare nereu disponibilă</string>
     <string name="search_wifi_setting_frequency_band_title">Bandă de frecvență Wi-Fi</string>
     <string name="search_wifi_setting_sleep_policy_title">Mențineți Wi-Fi activat în modul Inactiv</string>
@@ -3081,7 +3081,7 @@ Codul PIN poate fi incorect."</string>
     <string name="skip_lock_screen_confirm_msg">Notificările, controalele muzicale, Camera și Mi Home vor fi dezactivate pe blocarea ecranului.</string>
     <string name="skip_step">Omiteţi</string>
     <string name="slot_name">SIM %d</string>
-    <string name="slot_number">(Slot%1$d)</string>
+    <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="small_font">Mică</string>
     <string name="smallwindow_smartcover_title">Carcasă frontală transparentă</string>
@@ -3274,6 +3274,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tether_settings_title_usb">Tethering prin USB</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
     <string name="tether_settings_title_wifi">Hotspot portabil</string>
+    <string name="tether_share_qrcode_title">Partajați codul QR</string>
     <string name="tethering_help_button_text">Ajutor</string>
     <string name="tethering_settings_not_available">Modificați setările pentru hotspot în Spațiul Principal</string>
     <string name="theme_settings_title">Teme</string>

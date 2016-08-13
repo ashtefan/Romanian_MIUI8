@@ -4,9 +4,11 @@
     <string name="android_ringtone_default_with_actual">Ton de apel prestabilit (%1$s)</string>
     <string name="android_ringtone_silent">Niciunul</string>
     <string name="android_ringtone_unknown">Ton de apel necunoscut</string>
+    <string name="carousel">Carusel</string>
     <string name="cloud_state_disabled">Sincronizarea cu Mi Cloud este dezactivată</string>
     <string name="cloud_state_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizat cu Mi Cloud</string>
+    <string name="daydream">Daydream</string>
     <string name="delete_frequent_phrases">Ștergeți expresiile frecvente</string>
     <string name="delete_frequent_phrases_confirm">Ștergeți expresiile frecvente selectate?</string>
     <string name="device_hongmi">Redmi</string>
