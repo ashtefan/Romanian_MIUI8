@@ -52,13 +52,25 @@
         <item quantity="other">"%1$d fotografii nu au putut fi descărcate; reîncercați?"</item>
         <item quantity="one">"Fotografia nu a putut fi descărcată; reîncercați?"</item>
     </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Nu s-au putut descărca %1$d fotografii, conectați-vă la rețea și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut descărca fotografia, conectați-vă la rețea și reîncercați"</item>
+    </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"%1$d fotografii (%2$dMB) nu au putut fi descărcate; reîncercați?"</item>
         <item quantity="one">"o fotografie (%2$dMB) nu a putut fi descărcată; reîncercați?"</item>
     </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Nu s-au putut descărca %1$d fotografii (%2$d MB), conectați-vă la rețea și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut descărca fotografia (%2$d MB), conectați-vă la rețea și reîncercați"</item>
+    </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Renunțați la descărcarea celor %d fotografii rămase?</item>
         <item quantity="one">Renunțați la descărcarea ultimei fotografii?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">S-au adăugat %d fotografii din Cloud, dezactivați \"Arată doar albumele locale\" pentru a le vedea.</item>
+        <item quantity="one">S-a adăugat %d fotografie din Cloud, dezactivați \"Arată doar albumele locale\" pentru a o vedea.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Ștergeți %1$d fotografii %2$s?</item>

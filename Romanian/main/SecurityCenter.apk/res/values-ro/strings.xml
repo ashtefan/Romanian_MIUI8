@@ -725,7 +725,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="optimize_result_button_cloudspace">Adăugați stocare în Cloud</string>
     <string name="optimize_result_button_consume_power_analysis">Scanare acumulator</string>
     <string name="optimize_result_button_cooldown_now">Răcorire</string>
-    <string name="optimize_result_button_correct_now">Calibrare</string>
+    <string name="optimize_result_button_correct_now">Ajustați</string>
     <string name="optimize_result_button_fix_now">Reparare</string>
     <string name="optimize_result_button_onekey_open">Activați</string>
     <string name="optimize_result_button_onekey_restore">Restaurați</string>
@@ -1131,7 +1131,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="summary_flow_purchase">"Se pare că limita de date mobile este aproape atinsă. Achiziționați date mobile pentru a rămâne conectat."</string>
     <string name="summary_flow_purchase_beyond">Ați depășit limita de date lunare din planul operatorului dvs. cu %s MB</string>
     <string name="summary_flow_verify">Nu au fost sincronizate statisticile de utilizare a datelor de la operatorul dvs. de %d zile</string>
-    <string name="summary_flow_verify_failed">Calibrați</string>
+    <string name="summary_flow_verify_failed">Ajustați în mod automat utilizarea datelor pentru a evita taxarea suplimentară</string>
     <string name="summary_garbage_lib">Utilizați cele mai recente definiții pentru a elimina programele spyware, adware și alte reziduuri nedorite</string>
     <string name="summary_install_virus">Verificare aplicații pentru viruși înainte de instalare</string>
     <string name="summary_live_talk_purchase">Doar o,o5 RON/minut pentru apelurile locale.</string>
@@ -1257,7 +1257,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="title_flow_purchase">Suplimentați datele mobile</string>
     <string name="title_flow_rank">Utilizarea datelor mobile</string>
     <string name="title_flow_verify">Comparare contabilizare</string>
-    <string name="title_flow_verify_failed">"Nu s-a putut calibra 5 zile la rând"</string>
+    <string name="title_flow_verify_failed">"Nu s-a putut ajusta 5 zile la rând"</string>
     <string name="title_garbage_lib">Actualizați definițiile pentru gunoi</string>
     <string name="title_install_virus_no">Monitorizare instalare dezactivată</string>
     <string name="title_install_virus_yes">Monitorizare instalare activată</string>
@@ -1273,7 +1273,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="title_permission_yes">Gestionare permisiuni activată</string>
     <string name="title_power_optimizer">Economisire acumulator</string>
     <string name="title_show_notification">Widget panou notificări</string>
-    <string name="title_telecom_operator">Calibrați</string>
+    <string name="title_telecom_operator">Ajustare automată</string>
     <string name="title_usb_no">Depanare USB activată</string>
     <string name="title_usb_yes">Depanare USB dezactivată</string>
     <string name="title_virus_cloudscan">Scanare de viruși în Cloud</string>
@@ -1282,7 +1282,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="title_virus_update_yes">Actualizare automată definiții viruși activată</string>
     <string name="title_virus_yes">Niciun virus găsit</string>
     <string name="title_xiaomi_roaming">Mi Roaming</string>
-    <string name="toast_auto_traffic_correct">Calibrarea automată este activată</string>
+    <string name="toast_auto_traffic_correct">Utilizarea datelor este ajustată în mod automat</string>
     <string name="toast_cleaner_cloudscan">Curăţarea va utiliza definiții on-line</string>
     <string name="toast_default_app">%1$s este setată ca %2$s prestabilită de sistem</string>
     <string name="toast_flow_notification">Au fost activate notificările de utilizare a datelor</string>

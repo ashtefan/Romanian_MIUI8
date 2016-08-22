@@ -8,9 +8,12 @@
     <string name="cal_text_copied">Text copiat</string>
     <string name="choose_currency">Selectați moneda</string>
     <string name="choose_unit">Select unitatea de măsură</string>
+    <string name="city">Oraș</string>
     <string name="clear">C</string>
     <string name="clearDesc">ştergere</string>
     <string name="clear_history">Ştergeţi istoricul</string>
+    <string name="combine_loan">Împrumut combinat</string>
+    <string name="commercial_loan">Credit comercial</string>
     <string name="convert_currency">Convertor valutar</string>
     <string name="convertion_unit">Convertor unități de măsură</string>
     <string name="convertion_unit_area">Convertor pentru arie</string>
@@ -24,6 +27,10 @@
     <string name="cosDesc">cosinus</string>
     <string name="cos_mathematical_value">cos</string>
     <string name="currency_update_time_format">Ratele de schimb sunt furnizate de hexun.com (%s)</string>
+    <string name="current_rate_remind_commercial"/>
+    <string name="current_rate_remind_fund"/>
+    <string name="dateformat">dd,MM,yyyy</string>
+    <string name="day">zi</string>
     <string name="del">DEL</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
@@ -53,6 +60,9 @@
     <string name="from_unit">km/h</string>
     <string name="from_unit_en">Kilometri pe oră</string>
     <string name="from_unit_short">km/h</string>
+    <string name="fund"/>
+    <string name="fund_loan"/>
+    <string name="income_type"/>
  <string name="item_title_aa_payment">Defalcare factură</string>
     <string name="item_title_area_conversion">Arie</string>
     <string name="item_title_calculator">Calculator</string>
@@ -87,6 +97,7 @@
     <string name="loan_unit">×10K</string>
     <string name="minus">−</string>
     <string name="minusDesc">minus</string>
+    <string name="month"/>
     <string name="mortgage_amount">Total</string>
     <string name="mortgage_average_repayment_first_month">Prima lună de rambursare</string>
     <string name="mortgage_average_repayment_monthly">Rambursare lunară</string>
@@ -136,8 +147,10 @@
     <string name="sin">sin</string>
     <string name="sinDesc">sinus</string>
     <string name="sin_mathematical_value">sin</string>
+    <string name="social_security"/>
     <string name="sqrt">√</string>
     <string name="sqrtDesc">rădăcină pătrată</string>
+    <string name="start_calculate"/>
     <string name="tan">tan</string>
     <string name="tanDesc">tangentă</string>
     <string name="tan_mathematical_value">tan</string>
@@ -150,6 +163,7 @@
     <string name="tax_city">Orașul</string>
     <string name="tax_city_located">Locația</string>
     <string name="tax_city_picker">Orașul</string>
+    <string name="tax_edittext_hint"/>
     <string name="tax_endowment">Fondul la pensionare</string>
     <string name="tax_fixed_salary_hint">Introduceți venitul de dinainte de impozitare</string>
     <string name="tax_income_before_tax">Înainte de impozitare</string>
@@ -169,8 +183,11 @@
   <string name="tax_thershold_foreign">%s (Foreign nationals)</string>
   <string name="tax_thershold_native">%s (Mainland China)</string>
     <string name="tax_threshold">Prag lipsă impozitare</string>
+    <string name="tax_title_primary"/>
+    <string name="tax_title_secondary"/>
     <string name="tax_unemployment">Șomaj</string>
     <string name="tax_update_time_format">Data in year %s, oferit de HeXun</string>
+    <string name="times"/>
     <string name="title_bar">Convertor pentru măsuri de lungime</string>
     <string name="to_num">62.7</string>
     <string name="unit_data_default_area_0">sq.m</string>
@@ -386,4 +403,5 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+    <string name="year"/>
 </resources>

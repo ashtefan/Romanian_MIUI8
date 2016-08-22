@@ -48,6 +48,10 @@
         <item quantity="other">%d aplicații furnizează condiții</item>
         <item quantity="one">%d aplicație furnizează condiții</item>
     </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d dispozitive</item>
+        <item quantity="one">%d dispozitiv</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon.</item>
         <item quantity="one">Mai aveți de parcurs %1$d pas pentru a vizualiza informaţiile despre telefon.</item>

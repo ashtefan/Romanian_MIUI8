@@ -21,7 +21,6 @@
     <string name="browser_local_resource">Resurse locale</string>
     <string name="change_host_hint">Modificare gazdă</string>
     <string name="change_wallpaper">Imagine de fundal</string>
-    <string name="choose_new_themes">Teme</string>
     <string name="close">Închideţi</string>
     <string name="component_backup_preference_title">Faceți o copie de rezervă a temei</string>
     <string name="component_category_finest_title">Recomandate</string>
@@ -164,6 +163,7 @@
     <string name="resource_comment_upload_not_logined">Conectaţi-vă mai întâi</string>
     <string name="resource_comment_upload_success">Comentariul dvs. va fi afișat după o scurtă trecere în revistă.</string>
     <string name="resource_continue">Mai departe</string>
+    <string name="resource_data_empty">Nu există conținut.</string>
     <string name="resource_default">Ton de apel prestabilit</string>
     <string name="resource_default_name">Resursă</string>
     <string name="resource_delete">Ştergeţi</string>

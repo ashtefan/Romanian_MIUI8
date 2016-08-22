@@ -172,8 +172,10 @@
     <string name="dislike_toast">"Asemenea videoclipuri nu vă vor fi recomandate."</string>
     <string name="dislike_video">"Nu mă interesează"</string>
     <string name="dlg_error_unmount_text">"Demontarea stocării USB a eşuat"</string>
+    <string name="download">Descărcați</string>
     <string name="download_current_progress">%1$d%%</string>
-    <string name="download_failed">Nu s-a putut descărca</string>
+    <string name="download_fail">"Nu s-a putut descărca"</string>
+    <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="download_link_completed">%1$s partajat prin KuaiPan. Atingeți link-ul de mai jos pentru a vedea: </string>
     <string name="downloaded_sticker_str">Descărcat</string>
     <string name="downloading">Descărcare…</string>
@@ -220,6 +222,7 @@
     <string name="file_too_large">Fișierul este prea mare</string>
     <string name="files">Fişiere</string>
     <string name="finished">Finalizat</string>
+    <string name="flow_setting">Setări</string>
     <string name="folder_exist">Dosar existent</string>
     <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
@@ -252,6 +255,7 @@
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view">Stocare</string>
     <string name="homepage_tab_recent">Recente</string>
+    <string name="hot_app">Aplicații populare</string>
     <string name="hot_comments">Comentarii populare</string>
     <string name="hot_sticker">Stickere</string>
     <string name="hot_video">Videoclipuri</string>
@@ -260,6 +264,7 @@
     <string name="if_cancel">Renunțați?</string>
     <string name="image_loading_error">"Nu s-a putut încărca imaginea"</string>
     <string name="input_memo_hint">Introduceți detalii suplimentare (opțional)</string>
+    <string name="install_fail">"Nu s-a putut instala"</string>
     <string name="installing">Instalare…</string>
     <string name="instruction">Introduceți următoarea adresă într-un client FTP: </string>
     <string name="instruction_pre">Atingeţi pentru a porni serverul FTP</string>
@@ -476,9 +481,11 @@ Descărcați-le oricând doriți
     <string name="oauth_failed_tip">"Nu s-a putut finaliza autorizarea"</string>
     <string name="oauth_success_tip">Autorizare finalizată</string>
     <string name="online_not_support">Nu se poate vizualiza acest fișier în acest moment.</string>
-    <string name="open_changed_file_message">Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:
+    <string name="only_wifi">Descărcați când sunteți conectat la Wi-Fi</string>
+    <string name="open_app">Deschideți</string>
+    <string name="open_changed_file_message">"Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:
 1. Descărcați din nou fișierul pentru a-l actualiza.
-2. Îl încărcaţi în contul dvs. KuaiPan.</string>
+2. Îl încărcaţi în contul dvs. KuaiPan."</string>
     <string name="open_changed_file_title">Modificare aplicată</string>
     <string name="open_file_failed">Imposibil de deschis</string>
     <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse</string>
@@ -587,6 +594,7 @@ Descărcați-le oricând doriți
     <string name="qq_platform">QQ</string>
     <string name="quota_info">Mi Drive: %1$s disponibil, %2$s în total</string>
     <string name="qzone_platform">Qzone</string>
+    <string name="recent_show">Recent</string>
     <string name="recommend">Recomandat</string>
     <string name="recommend_topic">Subiecte recomandate</string>
     <string name="recommend_user">Profiluri recomandate</string>
@@ -661,6 +669,7 @@ Descărcați-le oricând doriți
     <string name="select_image">Selectaţi fotografiile</string>
     <string name="select_music">Selectaţi melodiile</string>
     <string name="select_video">Selectaţi videoclipurile</string>
+    <string name="select_volume">Selectați volumul</string>
     <string name="send_comment">Trimiteți</string>
     <string name="send_error">"Nu s-a putut adăuga comentariul"</string>
     <string name="send_sticker">Trimiteți sticker</string>

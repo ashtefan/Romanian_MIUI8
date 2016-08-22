@@ -24,7 +24,7 @@
     <string name="callFailed_number_unreachable">Numărul nu poate fi contactat</string>
     <string name="callFailed_outOfService">În afara ariei de acoperire</string>
     <string name="callFailed_out_of_network">Apelat din afara reţelei</string>
-    <string name="callFailed_powerOff">Radio oprit</string>
+    <string name="callFailed_powerOff">Antena este deconectată</string>
     <string name="callFailed_server_error">Eroare de server. Încercaţi din nou mai târziu.</string>
     <string name="callFailed_server_unreachable">Server inaccesibil</string>
     <string name="callFailed_simError">Eroare de SIM</string>

@@ -1280,6 +1280,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
 "</string>
     <string name="font_size_summary1">"Dacă textul sistemului dvs. este încă prea mic, încercați "</string>
     <string name="font_size_summary2">Modul \"Uşor\"</string>
+    <string name="forbidden_switch_apn_string">"Setările APN selectat nu se potrivesc tipului de rețea curentă"</string>
     <string name="force_hw_ui">Forţaţi redarea cu GPU</string>
     <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desen în 2D</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
@@ -1519,7 +1520,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="large_font">Mare</string>
     <string name="last_synced">Ultima sincronizare %1$s</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
-    <string name="lattice_smartcover_title">Capac ecran perforat tip Lattice</string>
     <string name="launching_cit">Lansare CIT</string>
     <string name="launching_pho">Lansare info telefon, aşteptaţi.</string>
     <string name="launching_rep">Raportare…</string>
@@ -1778,8 +1778,9 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="master_clear_summary">Şterge toate datele de pe telefon</string>
     <string name="master_clear_title">Resetarea la configurarea din fabrică</string>
     <string name="max_cpu10_info">"Deca-core Max "</string>
+    <string name="max_cpu2_info">Dual-core Max</string>
     <string name="max_cpu4_info">"Quad-core Max "</string>
-    <string name="max_cpu6_info">"Hexa-core Max "</string>
+    <string name="max_cpu6_info">Hexa-core Max</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">"Nu se pot adăuga mai mult de 5 amprente. Pentru a putea adăuga o nouă amprentă va trebui să eliminați una sau mai multe amprente existente."</string>
     <string name="media_button">Butonul media</string>
@@ -1982,6 +1983,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="no_application">Niciuna</string>
     <string name="no_applications">Nu există aplicaţii.</string>
     <string name="no_condition_providers">Nu există niciun furnizor de condiții instalat.</string>
+    <string name="no_connected_devices">Niciun dispozitiv conectat</string>
     <string name="no_device_admins">Nu există niciun administrator de dispozitive disponibil</string>
     <string name="no_media_button_receiver">Nu</string>
     <string name="no_nearby_wifi">Nu s-au detectat reţele Wi-Fi</string>
@@ -2970,6 +2972,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="show_all_anrs">Afişaţi toate elem. ANR</string>
     <string name="show_all_anrs_summary">Afiş. dialog. Aplic. nu răsp. pt. aplic. de fundal</string>
     <string name="show_background_processes">Procese memorie cache</string>
+    <string name="show_connected_devices_summary">Vizualizați dispozitivele conectate</string>
+    <string name="show_connected_devices_title">Dispozitive conectate</string>
     <string name="show_cpu_usage">Afişaţi utilizarea procesorului.</string>
     <string name="show_cpu_usage_summary">Suprap. pe ecran indic. util. curentă a procesor.</string>
     <string name="show_dev_already">Nu mai este nevoie, sunteţi deja dezvoltator.</string>
@@ -3269,6 +3273,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="testing_sim_toolkit">Instrumente SIM</string>
     <string name="testing_usage_stats">Statistici de utilizare</string>
     <string name="testing_wifi_info">Informaţii Wi-Fi</string>
+    <string name="tether_devices_management_title">Gestionați dispozitivele</string>
+    <string name="tether_settings_disabled">Hotspot-ul personal este oprit</string>
     <string name="tether_settings_title_all">Tethering şi hotspot portabil</string>
     <string name="tether_settings_title_bluetooth">Tethering prin Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering prin USB</string>

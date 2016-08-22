@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_airplane_mode">Mod Avion.</string>
+    <string name="accessibility_airplane_mode">Mod Avion</string>
     <string name="accessibility_assistant">Asistent ecran</string>
     <string name="accessibility_back">Înapoi.</string>
     <string name="accessibility_battery_level">Acumulator: %d procente.</string>
@@ -56,7 +56,7 @@
     <string name="audio_effect_custom">Configuraţi</string>
     <string name="audio_effect_info">Optimizaţi sunetul</string>
     <string name="audio_effect_settings">Selectaţi tipul căştilor</string>
-    <string name="battery_low_percent_format">Rămas: %d%%</string>
+    <string name="battery_low_percent_format">Disponibil: %d%%</string>
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_profiles">Utilizaţi profiluri pentru acumulator</string>
     <string name="block_notification_content_text">"Notificările %1$s nu vor mai fi afișate. Puteți modifica acest lucru în Setări."</string>
@@ -245,6 +245,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_settings_signal_meter_disconnected">Fără conex. internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectat</string>
     <string name="status_bar_style_settings">Notificări</string>
+    <string name="status_bar_volte_label">HD</string>
     <string name="task_access_locked_app_msg">Blocarea aplicației este activată.</string>
     <string name="title_usb_accessory">Accesoriu USB</string>
     <string name="torch_activity_hint">Ţineţi apăsată [iconița] pentru a activa lanterna în blocarea ecranului</string>

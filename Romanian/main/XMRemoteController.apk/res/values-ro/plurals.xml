@@ -8,32 +8,20 @@
         <item quantity="other">%1$s utilizatori</item>
         <item quantity="one">%1$s utilizator</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">cu %1$d zile în urmă</item>
+        <item quantity="one">cu %1$d zi în urmă</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">cu %1$d ore în urmă</item>
+        <item quantity="one">cu %1$d oră în urmă</item>
+    </plurals>
     <plurals name="match_brand_selection_des">
         <item quantity="other">%d modele disponibile</item>
         <item quantity="one">1 model disponibil</item>
     </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">cu %1$d zile în urmă</item>
-        <item quantity="zero">cu %1$d zile în urmă</item>
-        <item quantity="one">cu %1$d zi în urmă</item>
-        <item quantity="two">cu %1$d zile în urmă</item>
-        <item quantity="few">cu %1$d zile în urmă</item>
-        <item quantity="many">cu %1$d zile în urmă</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">cu %1$d ore în urmă</item>
-        <item quantity="zero">cu %1$d ore în urmă</item>
-        <item quantity="one">cu %1$d oră în urmă</item>
-        <item quantity="two">cu %1$d ore în urmă</item>
-        <item quantity="few">cu %1$d ore în urmă</item>
-        <item quantity="many">cu %1$d ore în urmă</item>
-    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">cu %1$d minute în urmă</item>
-        <item quantity="zero">cu %1$d minute în urmă</item>
         <item quantity="one">cu %1$d minut în urmă</item>
-        <item quantity="two">cu %1$d minute în urmă</item>
-        <item quantity="few">cu %1$d minute în urmă</item>
-        <item quantity="many">cu %1$d minute în urmă</item>
     </plurals>
 </resources>

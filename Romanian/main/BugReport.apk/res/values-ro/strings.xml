@@ -7,6 +7,8 @@
     <string name="app_label">Raportare probleme</string>
     <string name="app_name">Raportare probleme</string>
     <string name="btn_send">Trimiteţi</string>
+    <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
+    <string name="bugreport_dialog_submit_content">Comentariul poate conține informații personale.</string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Durează câteva minute.</string>
@@ -84,6 +86,7 @@
     <string name="feedback_submit_hint2">Mergeți la \"Rapoartele mele\" pentru a vedea detaliile</string>
     <string name="feedback_submit_succ">Trimis cu succes</string>
     <string name="feedback_submit_succ_button">Finalizat</string>
+    <string name="feedback_submitting">Se trimite…</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s sugestie \"%2$s\"</string>
     <string name="feedback_title">Titlu</string>
     <string name="feedback_title_hint">Descrieți pe scurt problema</string>
@@ -131,11 +134,11 @@
     <string name="michat_kefu_welcome">Bine ați venit la serviciul de suport online Xiaomi!</string>
     <string name="michat_lose_artificial">A apărut o eroare de rețea și ați părăsit chat-ul</string>
     <string name="michat_menu_copy_text">Copiați</string>
-    <string name="michat_mesage_resend_error_network">"Nu s-a putut conecta la rețea"</string>
-    <string name="michat_mesage_send_error_network">"Nu s-a putut trimite; verificați conexiunea la rețea"</string>
     <string name="michat_message_copy_info">Copiat în clipboard</string>
+    <string name="michat_message_error_network">"Nu s-a putut conecta la rețea"</string>
     <string name="michat_message_join_again">"Bine ați revenit!"</string>
     <string name="michat_message_robot_welcome">"Numele meu este Iepurașul Mi. Sunt un robot care asigur suportul online."</string>
+    <string name="michat_message_send_error_network">"Nu s-a putut trimite; verificați conexiunea la rețea"</string>
     <string name="michat_motto">Echipa de suport Mi este gata să vă acorde ajutorul</string>
     <string name="michat_msg_image_upload_error">"Nu s-a putut trimite imaginea; încercați din nou mai târziu"</string>
     <string name="michat_msg_input_info">Descrieți problema pe scurt</string>
@@ -213,7 +216,7 @@
     <string name="section_screenshot">Captură de ecran</string>
     <string name="submit_dialog_cancel">Anulaţi</string>
     <string name="submit_dialog_confirm">Trimiteţi</string>
-    <string name="submit_dialog_content">Feedback-ul dvs., împreună cu jurnalurile erorilor și imagini atașate, vor fi trimise la serverele Mi.</string>
+    <string name="submit_dialog_content">Feedback-ul dvs., împreună cu jurnalurile erorilor și imagini atașate, vor fi trimise la serverele MIUI. Acesta poate conține informații personale.</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu probleme</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>

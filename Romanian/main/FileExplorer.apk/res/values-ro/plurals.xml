@@ -169,20 +169,20 @@
         <item quantity="many">Au fost găsite %1$d fişiere noi</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
-        <item quantity="zero">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
-        <item quantity="one">A fost recepţionat %1$d fişier al aplicaţiei %2$s</item>
-        <item quantity="two">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
-        <item quantity="few">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
-        <item quantity="many">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
+        <item quantity="other">Au fost recepţionate %1$d fişiere de la %2$s</item>
+        <item quantity="zero">Au fost recepţionate %1$d fişiere de la %2$s</item>
+        <item quantity="one">A fost recepţionat %1$d fişier de la %2$s</item>
+        <item quantity="two">Au fost recepţionate %1$d fişiere de la %2$s</item>
+        <item quantity="few">Au fost recepţionate %1$d fişiere de la %2$s</item>
+        <item quantity="many">Au fost recepţionate %1$d fişiere de la %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
-        <item quantity="zero">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
-        <item quantity="one">A fost recepţionat %1$d fişier al aplicaţiei WeChat</item>
-        <item quantity="two">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
-        <item quantity="few">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
-        <item quantity="many">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
+        <item quantity="other">Au fost recepţionate %1$d fişiere din WeChat</item>
+        <item quantity="zero">Au fost recepţionate %1$d fişiere din WeChat</item>
+        <item quantity="one">A fost recepţionat %1$d fişier din WeChat</item>
+        <item quantity="two">Au fost recepţionate %1$d fişiere din WeChat</item>
+        <item quantity="few">Au fost recepţionate %1$d fişiere din WeChat</item>
+        <item quantity="many">Au fost recepţionate %1$d fişiere din WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>

@@ -74,7 +74,9 @@
     <string name="empty">" "</string>
     <string name="first_start_network_msg">Această aplicație trebuie să se conecteze la internet și să acceseze locația dvs. pentru a funcţiona in mod normal.</string>
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
+    <string name="global_aqi">ICA: %1$s %2$s</string>
     <string name="gps_hint">Locaţie actuală</string>
+    <string name="hide_topic">Ascundeți</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_title">Prognoză orară</string>
