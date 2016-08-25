@@ -213,7 +213,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_find_device_activate_account">Activați contul</string>
     <string name="passport_find_device_display_id">Numărul de deblocare: %s</string>
     <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a vă reseta parola.</string>
-    <string name="passport_forget_password"><u>Am uitat parola<u></string>
+    <string name="passport_forget_password">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
     <string name="passport_forget_password_no_underline">Am uitat parola</string>
     <string name="passport_get_back_pwd">Recuperaţi parola contului</string>
     <string name="passport_get_verify_code">Obţineţi codul</string>
@@ -239,8 +239,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_notice">Conectare…</string>
     <string name="passport_login_prompt">Un cont Mi. Toate serviciile Mi.</string>
     <string name="passport_login_title">Conectaţi-vă la un cont existent</string>
-    <string name="passport_login_using_other_ways"><u>Alte modalități de conectare<u></string>
-    <string name="passport_login_with_email_or_id"><u>Conectaţi-vă cu adresa de e-mail sau ID-ul contului Mi<u></string>
+    <string name="passport_login_using_other_ways">&lt;u&gt;Alte modalități de conectare&lt;/u&gt;</string>
+    <string name="passport_login_with_email_or_id">&lt;u&gt;Conectaţi-vă cu adresa de e-mail sau ID-ul contului Mi&lt;/u&gt;</string>
     <string name="passport_miui_provision_find_status_text">"Acest telefon este asociat unui cont Mi existent (%1$s); trebuie să introduceți parola pentru a se verifica telefonul.
 (Cod de deblocare: %2$s)"</string>
     <string name="passport_next">Înainte</string>
@@ -268,7 +268,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_reg_type_email">Utilizaţi adresa de e-mail</string>
     <string name="passport_reg_type_other_ways"><u>Utilizați adresa de e-mail sau un număr de telefon alternativ</u></string>
     <string name="passport_reg_type_other_ways_title">Creaţi un cont Mi</string>
-    <string name="passport_reg_using_other_phone"><u>Utilizaţi un număr de telefon alternativ<u></string>
+    <string name="passport_reg_using_other_phone">&lt;u&gt;Utilizaţi un număr de telefon alternativ&lt;/u&gt;</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Creați un cont nou utilizând "</string>
     <string name="passport_reg_using_phone_number_prompt">Creați un cont nou utilizând un număr de telefon</string>
     <string name="passport_reg_via_sms_alert">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>

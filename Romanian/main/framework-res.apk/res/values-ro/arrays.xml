@@ -43,25 +43,4 @@
         <item>Altele</item>
         <item>Personalizat</item>
     </string-array>
-    <string-array name="fingerprint_acquired_vendor">
-        <item>Rezervat0</item>
-        <item>Rezervat1</item>
-        <item>Plasați degetul pe senzor</item>
-        <item>Acoperiți complet senzorul cu degetul</item>
-        <item>Ridicați degetul 1, acoperiți senzorul cu fermitate și complet</item>
-        <item>Ridicați degetul 1, acoperiți senzorul cu fermitate și complet</item>
-        <item>Rezervat6</item>
-        <item>Rezervat7</item>
-        <item>Rezervat8</item>
-        <item>Rezervat9</item>
-        <item>Rezervat10</item>
-        <item>Rezervat11</item>
-        <item>Rezervat12</item>
-        <item>Plasați degetul 3 pe senzor</item>
-        <item>Mutați degetul 4 încet între scanări</item>
-        <item>Ridicați degetul 5</item>
-        <item>Apăsați degetul mai mult timp pe senzor</item>
-        <item>Rezervat17</item>
-        <item>Rezervat18</item>
-    </string-array>
 </resources>

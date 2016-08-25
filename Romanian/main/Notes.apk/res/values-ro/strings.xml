@@ -10,7 +10,6 @@
     <string name="alert_message_edit_anyway">Dacă editați această notă, o parte din conținutul său poate fi pierdut.</string>
     <string name="alert_title_delete">Ştergeți notă?</string>
     <string name="alert_title_edit_anyway">Această notă include conținut neacceptat</string>
-    <string name="alert_title_hidden_note">Ați primit un memento pentru o notiță ascunsă</string>
     <string name="all_folder_name">Toate notițele</string>
     <string name="all_terms">%1$s şi %2$s</string>
     <string name="app_name">Note</string>
@@ -42,8 +41,6 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="error_note_empty_for_clock">Nu se poate seta timpul de memento pentru o notă goală</string>
     <string name="error_note_empty_for_send_to_desktop">Notele goale nu pot fi plasate pe desktop</string>
     <string name="error_note_not_exist">Nota nu există</string>
-    <string name="error_send_empty_note">"Nu se poate trimite o notiță goală"</string>
-    <string name="error_send_empty_note_to_weibo">"Nu se poate trimite o notiță goală către Weibo"</string>
     <string name="error_unsupport_content">Această notă include conținut neacceptat; apăsați aici pentru actualizare</string>
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="folder_exist">Un dosar cu acelaşi număr există deja</string>
@@ -62,7 +59,6 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="menu_hide">Ascundeți</string>
     <string name="menu_move_parent_folder">Dosarul sursă</string>
     <string name="menu_move_to">Mutați în</string>
-    <string name="menu_new_folder">Dosar nou</string>
     <string name="menu_restore">Restaurați</string>
     <string name="menu_send_as_image">Trimiteți ca imagine</string>
     <string name="menu_send_as_text">Trimiteți ca text</string>

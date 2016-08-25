@@ -57,7 +57,4 @@
         <item>Imagini de fundal</item>
         <item>Efecte</item>
      </string-array>
-    <string-array name="quality_business_devices">
-        <item>litiu</item>
-    </string-array>
 </resources>

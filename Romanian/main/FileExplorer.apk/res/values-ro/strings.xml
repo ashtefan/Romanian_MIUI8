@@ -841,7 +841,7 @@ Descărcați-le oricând doriți
     <string name="user_setting_follow_new_msg">Notificări de la persoanele pe care le urmăriți</string>
     <string name="user_setting_follow_new_msg_tip">Primiți notificări pentru videoclipurile noi</string>
     <string name="user_setting_followed_msg">Notificări despre urmăritori</string>
-    <string name="user_setting_followed_msg_tip">"Veți primi notificări atunci când persoanele încep să vă urmărească postările"</string>
+    <string name="user_setting_followed_msg_tip">Primiți notificări atunci când persoanele încep să vă urmărească postările</string>
     <string name="user_setting_new_comment">Notificări despre comentariile noi</string>
     <string name="user_setting_new_comment_tip">"Veți primi notificări despre postările la comentariile și videoclipurile dvs."</string>
     <string name="user_setting_new_liked">Notificări pentru aprecieri</string>

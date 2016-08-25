@@ -2,13 +2,10 @@
 <resources>
     <string name="agree">De acord</string>
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
-    <string name="app_name">Provision</string>
     <string name="back">Înapoi</string>
     <string name="congratulation_label">"Sunteți gata de start!​"</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
-    <string name="content_description_language_picker">Selectare limbă</string>
-    <string name="content_description_miui_version">MIUI 8</string>
     <string name="content_description_start">Start</string>
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
@@ -25,6 +22,7 @@
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Termenii și condițiile la %s.</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
     <string name="multisim_settings_title">2 cartele SIM detectate</string>
+    <string name="network_access_warning">Trebuie să vă conectaţi la internet pentru a activa serviciile Mi.</string>
     <string name="next">Înainte</string>
     <string name="next_fingerprint">Următoarea</string>
     <string name="other_settings">Setări adiţionale</string>
@@ -52,7 +50,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="terms_of_use">Termeni și condiții</string>
     <string name="terms_of_use_label">Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
     
-Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Trebuie să vă conectați la internet pentru a activa serviciile Mi, Localizarea telefonului și Mi Home</string>
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Trebuie să vă conectați la internet pentru a activa serviciile Mi și Localizarea telefonului</string>
     <string name="title_fingerprint">Adăugați amprenta</string>
     <string name="user_agreement">Termenii serviciului</string>
     <string name="welcome">Bine aţi venit</string>

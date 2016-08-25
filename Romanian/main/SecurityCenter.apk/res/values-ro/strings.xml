@@ -243,15 +243,9 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="card_main_paysafe_action">Activați</string>
     <string name="card_main_paysafe_summary">Scanați mediul de plată pentru a identifica riscurile potențiale</string>
     <string name="card_main_paysafe_title">Securitatea plăților</string>
-    <string name="card_main_private_space_action">Creați</string>
-    <string name="card_main_private_space_summary">Utilizând Spațiul Secundar e ca și cum ați avea 2 telefoane</string>
-    <string name="card_main_private_space_title">Spațiu Secundar</string>
     <string name="card_main_sectool_title">Unelte</string>
     <string name="card_main_speeddetail_title">Viteza de conectare</string>
     <string name="card_main_speeddetailt_summary">Vedeți viteza de conectare pentru fiecare aplicație</string>
-    <string name="card_main_xspace_action">Creați</string>
-    <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
-    <string name="card_main_xspace_title">Aplicații clonate</string>
     <string name="celcius_symbol">℃</string>
     <string name="charging_text_battery_full_time">Durata ultimei încărcări: </string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
@@ -400,8 +394,8 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="firewall_service_network_blocked">Utilizarea reţelelor %2$s a fost restricţionată pentru %1$s</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
     <string name="foreground_traffic">În prim plan: %s</string>
-    <string name="forget_password_button_text"><u>Am uitat parola<u></string>
-    <string name="forget_pattern"><u>Ați uitat modelul de deblocare?<u></string>
+    <string name="forget_password_button_text">&lt;u&gt;Am uitat parola&lt;/u&gt;</string>
+    <string name="forget_pattern">&lt;u&gt;Ați uitat modelul de deblocare?&lt;/u&gt;</string>
     <string name="free_time_traffic">Limită de date în afara orelor de vârf</string>
     <string name="free_time_traffic_hint">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
@@ -738,7 +732,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="optimize_result_button_open_now">Activați</string>
     <string name="optimize_result_button_operators_diagnose">Testare operator</string>
     <string name="optimize_result_button_purchase">Achiziționați</string>
-    <string name="optimize_result_button_purchase_flow">Vedeți tot</string>
+    <string name="optimize_result_button_purchase_flow">Suplimentați datele mobile</string>
     <string name="optimize_result_button_see_detaills">Detalii</string>
     <string name="optimize_result_button_to_open">Activați</string>
     <string name="optimize_result_button_to_set">Setați</string>
@@ -878,8 +872,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_allow_connect_network_title">Roaming internațional de date</string>
     <string name="pref_allow_connect_network_whitelist_title">Permiteți excepţiilor să utilizeze datele mobile în roaming</string>
     <string name="pref_app_traffic_managent">Restricționați utilizarea datelor de către aplicații</string>
-    <string name="pref_auto_adjust_settings">Setări ale ajustării automate a statisticii utilizării datelor</string>
-    <string name="pref_auto_adjust_traffic">Ajustare automată a statisticilor utilizării datelor</string>
+    <string name="pref_auto_adjust_settings">Setări ale statisticii utilizării datelor pentru sincronizarea automată</string>
+    <string name="pref_auto_adjust_traffic">Statistica utilizării datelor pentru sincronizarea automată</string>
     <string name="pref_automatic_adjust">Sincronizați utilizarea oferită de către operator</string>
     <string name="pref_avaible_traffic">Plan de date</string>
     <string name="pref_category_title_lock_screen_memory_clean">Curăţare la blocarea ecranului</string>

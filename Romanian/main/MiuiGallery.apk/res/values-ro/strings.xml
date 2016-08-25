@@ -527,7 +527,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="picker_image_need_download">"%d dintre fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</string>
     <string name="picker_image_will_download">"%d dintre fotografiile selectate nu sunt pe telefon; acestea vor fi descărcate"</string>
     <string name="picker_mobile_data_video">"Nu se pot descărca videoclipuri utilizând datele mobile; au fost omise %d."</string>
-    <string name="picker_no_network_message">Conectați-vă la rețea pentru a putea descărca</string>
+    <string name="picker_no_network_message">rețeaua este indisponibilă, conectați-vă și descărcați</string>
     <string name="picker_origin_need_download">"%1$d dintre fotografiile selectate nu sunt pe telefon (%2$dMB); le descărcați utilizând datele mobile?"</string>
     <string name="picker_title_format">Fotografii selectate: %d</string>
     <string name="picker_title_selection_format">Au fost selectate %d fotografii</string>
@@ -607,7 +607,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="send_too_many_files_error">Se pot trimite cel mult %d elemente odată</string>
     <string name="sepia">Sepia</string>
     <string name="set_as_baby_lock_wallpaper">Setaţi ca imagine de fundal a blocării ecranului</string>
-    <string name="set_as_wallpaper_description">Această imagine este o miniatură, vreți să descărcați fotografia originală？</string>
+    <string name="set_as_wallpaper_description">Această imagine este o miniatură, vreți să descărcați fotografia originală mai întâi？</string>
     <string name="set_as_wallpaper_title">Setați ca imagine de fundal</string>
     <string name="set_face_group_toast_msg_new_user">Prin apăsarea lungă pe imaginea de copertă, chipurile pot fi îmbinate sau ignorate.</string>
     <string name="set_face_group_toast_msg_old_user">"Prin apăsarea lungă pe imaginea unei persoane, chipurile pot fi grupate după familie, prieteni, colegi, etc."</string>
@@ -619,7 +619,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="share">Partajați</string>
     <string name="share_album">Distribuiţi albumul</string>
     <string name="share_album_needs_auto_upload_tip">"Nu se poate dezactiva salvarea automată pentru albumele partajate"</string>
-    <string name="share_app_is_launching">Aplicația se deschide...</string>
+    <string name="share_app_is_launching">Aplicația vizată se deschide</string>
     <string name="share_by_email_start">Distribuiţi %1$s în fundal</string>
     <string name="share_by_email_successfully">Distribuit prin %1$s</string>
     <string name="share_public_url_text">Am distribuit albumul %1$s. Îl poţi vedea la %2$s</string>
