@@ -233,6 +233,7 @@ Actualizaţi acum?"</string>
     <string name="colon">:</string>
     <string name="compose">Compuneţi</string>
     <string name="compose_attachment_number_limit">Numărul maxim de atașări este 10!</string>
+    <string name="compose_paste_address_oob">Conținutul lipit este prea lung și a fost trunchiat</string>
     <string name="compose_picturesexceedlimits">Numărul maxim de imagini incluse este 5!</string>
     <string name="compose_send">Trimiteţi</string>
     <string name="compose_sent">E-mail trimis</string>

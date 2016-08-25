@@ -629,6 +629,7 @@
         <item>Lansare Asistent</item>
         <item>Lansare Google now</item>
         <item>Închiderea aplicaţiei curente</item>
+        <item>Lansare Căutare rapidă</item>
         <item>Afişare meniu</item>
      </string-array>
     <string-array name="screen_key_long_press_timeout">

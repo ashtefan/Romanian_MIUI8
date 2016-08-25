@@ -179,7 +179,6 @@
     <string name="resource_detail_jump_to_online_title">On-line</string>
     <string name="resource_detail_jump_to_same_author_title">Acelaşi autor</string>
     <string name="resource_detail_recommend_desiner_other_themes">Alte teme concepute de %1$s</string>
-    <string name="resource_detail_recommend_desiner_themes">%1$s teme</string>
     <string name="resource_detail_recommend_other_themes">Utilizatorilor, de asemenea, le-a plăcut</string>
     <string name="resource_detail_update_log_title">Actualizări</string>
     <string name="resource_detail_vertical_divider">|</string>
