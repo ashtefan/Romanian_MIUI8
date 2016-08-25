@@ -579,7 +579,7 @@ vă rog așteptați"</string>
     <string name="passport_bad_authentication">Nume de utilizator sau parolă greșite</string>
     <string name="passport_btn_return">Înapoi</string>
     <string name="passport_button_cancel">Renunțare</string>
-    <string name="passport_change_account">&lt;u&gt;Modificați contul&lt;/u&gt;</string>
+    <string name="passport_change_account"><u>Modificați contul<u></string>
     <string name="passport_change_phone_number">Schimbați numărul</string>
     <string name="passport_checking_account">Verificare parolă…</string>
     <string name="passport_checking_input">Verificare date…</string>
@@ -620,7 +620,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_error_verify_code">Codul introdus este incorect</string>
     <string name="passport_failed_to_send_activate_email">"Nu s-a putut trimite e-mailul de activare"</string>
     <string name="passport_find_password_on_web_msg">Accesați account.mi.com pentru a vă reseta parola.</string>
-    <string name="passport_forget_password">&lt;u&gt;Parola uitată&lt;/u&gt;</string>
+    <string name="passport_forget_password"><u>Parola uitată<u></string>
     <string name="passport_forget_password_no_underline">Am uitat parola</string>
     <string name="passport_get_back_pwd">Recuperați parola</string>
     <string name="passport_get_verify_code">Obțineți codul de verificare</string>
@@ -645,7 +645,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_notice">Logare…</string>
     <string name="passport_login_short">Conectați-vă</string>
     <string name="passport_login_title">Se conectează la contul Mi</string>
-    <string name="passport_login_with_email_or_id">&lt;u&gt;Conectare utilizând adresa de e-mail sau ID-ul contului Mi&lt;/u&gt;</string>
+    <string name="passport_login_with_email_or_id"><u>Conectare utilizând adresa de e-mail sau ID-ul contului Mi<u></string>
     <string name="passport_next">Următorul</string>
     <string name="passport_notification_title">Eroare de conectare la %1$s</string>
     <string name="passport_password_req_notice">Parola trebuie sa conțină 8-16 caractere, litere și numere(se face diferențiere între litere mici si majuscule).</string>
@@ -665,7 +665,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_reg_success">Cont creat</string>
     <string name="passport_reg_success_summary">%1$s a fost asociat contului dumneavoastră. Îl puteți folosi pentru a vă conecta sau pentru a vă reseta parola.</string>
     <string name="passport_reg_type_email">Creați un cont utilizând adresa de e-mail</string>
-    <string name="passport_reg_type_other_ways">&lt;u&gt;Creați un cont utilizând alte metode&lt;/u&gt;</string>
+    <string name="passport_reg_type_other_ways"><u>Creați un cont utilizând alte metode<u></string>
     <string name="passport_reg_type_other_ways_title">Creați un cont MI</string>
     <string name="passport_reg_using_other_phone">Înregistrare cu un alt număr de telefon</string>
     <string name="passport_reg_using_other_phone_number_prompt">Creați un cont nou utilizând </string>
@@ -675,7 +675,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_register">Creați un cont</string>
     <string name="passport_register_account_goto_email">Verificați căsuța de e-mail</string>
     <string name="passport_register_account_verified_confirm">"Cont verificat"</string>
-    <string name="passport_register_by_email">&lt;u&gt;Creați un cont utilizând adresa de e-mail&lt;/u&gt;</string>
+    <string name="passport_register_by_email"><u>Creați un cont utilizând adresa de e-mail<u></string>
     <string name="passport_register_restricted">Au fost asociate prea multe conturi cu acest număr de telefon; încercați cu un alt număr de telefon</string>
     <string name="passport_register_restricted_title">"Nu se poate utiliza acest număr de telefon"</string>
     <string name="passport_reject_recycle_account">Nu</string>

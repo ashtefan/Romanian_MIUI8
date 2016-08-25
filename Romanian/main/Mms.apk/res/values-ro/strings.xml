@@ -638,7 +638,7 @@
     <string name="url_fraud_risky_alert">"Site-ul pe care încercați să-l vizitați poate fi periculos; sunteți sigur că doriți să continuați? 
 %s"</string>
     <string name="url_fraud_title">Site-ul poate fi fals</string>
-    <string name="url_fraud_visit">&lt;u&gt;ACCESEZ ORICUM&lt;/u&gt;</string>
+    <string name="url_fraud_visit"><u>ACCESEZ ORICUM<u></string>
     <string name="url_result_safe">Site-ul este sigur</string>
     <string name="url_scanning">Verificare URL…</string>
     <string name="user_agreement1">Citiți termenii aplicabili cu atenție înainte de a instala un software suplimentar sau de a folosi acest produs.</string>

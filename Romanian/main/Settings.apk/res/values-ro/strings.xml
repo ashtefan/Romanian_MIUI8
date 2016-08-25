@@ -1291,7 +1291,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="force_stop_dlg_text">Dacă forţaţi oprirea unei aplicaţii, aceasta se poate comporta necorespunzător.</string>
     <string name="force_stop_dlg_title">Opriţi forţat?</string>
     <string name="forget">RENUNȚAȚI</string>
-    <string name="forget_password_button_text">&lt;u&gt;Parolă uitată&lt;/u&gt;</string>
+    <string name="forget_password_button_text"><u>Parolă uitată<u></string>
     <string name="forget_wifi_message">Telefonul nu se va mai conecta în mod automat la această rețea.</string>
     <string name="found_new_version">Actualizare disponibilă</string>
     <string name="fp_nav_center_back_to_home_title">Apăsați butonul Acasă pentru a merge la ecranul principal</string>
@@ -2159,6 +2159,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="path_equalizer">Setări/Sunet și vibrații/Setări audio/Egalizator</string>
   <string name="path_fluency_mode">Setări/Acumulator și performanță/Animații de sistem</string>
     <string name="path_font_settings">Setări/Afișaj/Fontul sistemului</string>
+  <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
     <string name="path_gesture_wakeup_title">Setări/Afișaj/Apăsare dublă pe ecran pentru pornire</string>
     <string name="path_gps_settings">Setări/Setări adiționale/Confidențialitate/Locație</string>
     <string name="path_handy_mode_settings">Setări/Setări adiționale/Modul Operare cu o mână</string>
@@ -2779,6 +2780,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_equalizer">Egalizator</string>
     <string name="search_fluency_mode">Animații de sistem</string>
     <string name="search_font">Fontul sistemului</string>
+  <string name="search_force_touch">3D Touch</string>
     <string name="search_gesture_wakeup_title">Apăsare dublă pe ecran pentru pornire</string>
     <string name="search_gps">GPS;Acces la locație</string>
     <string name="search_handy_mode">Modul operare cu o mână</string>

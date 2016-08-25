@@ -97,7 +97,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_status_ok">Găsiți dispozitivul de oriunde accesând i.mi.com</string>
     <string name="find_device_status_ok_international">Localizați dispozitivul dvs. accesând www.mi.com/micloud</string>
     <string name="find_device_success_title">Localizare dispozitiv</string>
-    <string name="forget_password">&lt;u&gt;Parolă uitată&lt;/u&gt;</string>
+    <string name="forget_password"><u>Parolă uitată<u></string>
     <string name="free_space_has_received">Ați adăugat deja spațiu liber în această lună</string>
     <string name="free_space_receive_fail">Nu se poate actualiza</string>
     <string name="get_first_month_gb">Obţineţi %s de spațiu gratuit</string>
@@ -248,7 +248,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_set_internet">Reţea</string>
     <string name="micloud_main_space_full">Spațiu de stocare insuficient.</string>
     <string name="micloud_main_space_full_title">Spaţiul de stocare este epuizat</string>
-    <string name="micloud_main_space_low">Spaţiu aproape epuizat…</string>
+    <string name="micloud_main_space_low">Spaţiu aproape epuizat</string>
     <string name="micloud_main_stop_sync">Sincronizare oprită</string>
     <string name="micloud_main_suggest_master_sync">"Nu s-au putut sincroniza toate elementele"</string>
     <string name="micloud_main_suggest_setting">"Așteptare conexiune Wi-Fi pentru sincronizare
@@ -299,7 +299,7 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_notif_content_sync_with_off">Apăsați pentru a vă sincroniza dispozitivul acum.</string>
     <string name="micloud_notif_title_battery_low">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_clipboard_push">Conținut copiat în clipboard</string>
-    <string name="micloud_notif_title_depend_wifi">%d în așteptarea sincronizării</string>
+    <string name="micloud_notif_title_depend_wifi">Elemente în așteptarea sincronizării: %d</string>
     <string name="micloud_notif_title_master_depend_wifi">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_memory_low">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_multi_user_error">"Nu se poate sincroniza cu Mi Cloud"</string>
@@ -353,7 +353,7 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_warn_full_sum">Elementele noi nu vor fi sincronizate cu Mi Cloud.</string>
     <string name="micloud_warn_full_title">Spaţiu epuizat</string>
     <string name="micloud_warn_low_sum">Mi Cloud este 90% plin.</string>
-    <string name="micloud_warn_low_title">Spaţiu aproape epuizat…</string>
+    <string name="micloud_warn_low_title">Spaţiu aproape epuizat</string>
     <string name="micloud_web_discription">Vizitaţi i.mi.com</string>
     <string name="micloud_web_discription_01">Conectaţi-vă la i.mi.com</string>
     <string name="micloud_web_discription_02">pentru a stoca și accesa fișierele de oriunde</string>

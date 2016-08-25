@@ -133,7 +133,7 @@
     <string name="notification_share">Partajaţi</string>
     <string name="notification_uncrypt_summary_hm">Atingeți pentru a reporni telefonul.</string>
     <string name="notification_uncrypt_title_hm">Reporniți telefonul pentru a aplica actualizarea</string>
-    <string name="notification_uncrypting">Se criptează actualizarea</string>
+    <string name="notification_uncrypting">Decriptare actualizare...</string>
     <string name="notification_update_new_version">Actualizare disponibilă</string>
     <string name="notification_update_now">Actualizați acum</string>
     <string name="notification_updating">Actualizare…</string>
@@ -205,7 +205,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="timer_title">Dispozitivul va reporni în %d secunde.</string>
     <string name="title_toast_auto">Dispozitivul va reporni în</string>
     <string name="top_secret_build">Top-secret</string>
-    <string name="uncrypt_title">Se criptează (%s)</string>
+    <string name="uncrypt_title">Decriptare (%s)</string>
     <string name="unkown_error_title">Nu se poate descărca</string>
     <string name="unstable_build">Instabil</string>
     <string name="update_comment_hint"></string>

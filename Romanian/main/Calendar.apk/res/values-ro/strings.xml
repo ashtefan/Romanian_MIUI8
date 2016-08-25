@@ -29,7 +29,6 @@
   <string name="ad_card_installing">instalare</string>
   <string name="ad_card_network_error">Nu există nicio conexiune de rețea, vă rugăm să încercați din nou mai târziu!</string>
   <string name="ad_card_spread">Partajați</string>
-    <string name="add_account">Adăugaţi un cont</string>
     <string name="add_calendar">Abonare</string>
   <string name="add_card">Adaugă carte</string>
     <string name="add_topic_success">Abonare reuşită la \"%s\"</string>
@@ -272,12 +271,13 @@
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="new_event_dialog_label">Eveniment nou</string>
     <string name="new_event_dialog_option">Eveniment nou</string>
-    <string name="no_calendars_found">Înainte de a putea adăuga un eveniment, trebuie să adăugaţi cel puţin un cont Calendar pe dispozitiv şi să faceţi un calendar vizibil. Atingeţi „Adăugaţi un cont” pentru a adăuga un cont (dacă tocmai aţi adăugat un cont, aşteptaţi să se termine sincronizarea şi încercaţi din nou). Sau atingeţi „Anulaţi” şi asiguraţi-vă că cel puţin un calendar este vizibil.</string>
     <string name="no_local_calendar">Niciun calendar</string>
     <string name="no_network">Nicio rețea, încercați să reîmprospătați din nou rețeaua</string>
     <string name="no_network_btn">Reîncercați</string>
-    <string name="no_syncable_calendars">Niciun calendar</string>
     <string name="no_title_label">(Fără titlu)</string>
+    <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont în pasul următor.</string>
+    <string name="no_visiable_calendar_select_account">Selectare cont</string>
+    <string name="no_visiable_calendar_title">Selectare Cont Calendar</string>
     <string name="not_synced">nesincronizat</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>
@@ -413,6 +413,7 @@
     <string name="taishen">Copil al lui Dumnezeu</string>
     <string name="tardis">TARDIS</string>
     <string name="template_announce_item_index">Evenimentul %1$s din %2$s.</string>
+    <string name="template_week_num">Săpt. %1$s</string>
     <string name="text_year">An</string>
   <string name="ticket_card_date"> luna %1$s ziua %2$s</string>
   <string name="ticket_card_description">Astăzi poate fi rezervat</string>
