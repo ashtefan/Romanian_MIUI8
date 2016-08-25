@@ -400,8 +400,8 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="firewall_service_network_blocked">Utilizarea reţelelor %2$s a fost restricţionată pentru %1$s</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
     <string name="foreground_traffic">În prim plan: %s</string>
-    <string name="forget_password_button_text"><u>Am uitat parola<u></string>
-    <string name="forget_pattern"><u>Ați uitat modelul de deblocare?<u></string>
+    <string name="forget_password_button_text"><u>Am uitat parola</u></string>
+    <string name="forget_pattern"><u>Ați uitat modelul de deblocare?</u></string>
     <string name="free_time_traffic">Limită de date în afara orelor de vârf</string>
     <string name="free_time_traffic_hint">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>

@@ -1291,7 +1291,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="force_stop_dlg_text">Dacă forţaţi oprirea unei aplicaţii, aceasta se poate comporta necorespunzător.</string>
     <string name="force_stop_dlg_title">Opriţi forţat?</string>
     <string name="forget">RENUNȚAȚI</string>
-    <string name="forget_password_button_text"><u>Parolă uitată<u></string>
+    <string name="forget_password_button_text"><u>Parolă uitată</u></string>
     <string name="forget_wifi_message">Telefonul nu se va mai conecta în mod automat la această rețea.</string>
     <string name="found_new_version">Actualizare disponibilă</string>
     <string name="fp_nav_center_back_to_home_title">Apăsați butonul Acasă pentru a merge la ecranul principal</string>
