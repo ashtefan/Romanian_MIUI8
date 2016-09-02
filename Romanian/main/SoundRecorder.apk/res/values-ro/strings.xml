@@ -6,8 +6,7 @@
     <string name="back">Înapoi</string>
     <string name="button_queue_for_wifi">În coadă</string>
     <string name="button_start_now">Descărcaţi</string>
-    <string name="call_record">Înregistrări apel (%d)</string>
-    <string name="cloud_record">Înregistrare în Cloud (%d)</string>
+    <string name="call_record">Apeluri înregistrate</string>
     <string name="cloud_record_open">Sincronizare înregistrări</string>
     <string name="cloud_record_tip">Sincronizare înregistrări cu Mi Cloud.</string>
     <string name="cloud_status_full_dialog_cancel">Nu acum</string>
@@ -35,7 +34,6 @@
     <string name="error_sdcard_access">Imposibil de accesat stocarea internă sau externă</string>
     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
     <string name="export_to_note">Exportați în Note</string>
-    <string name="fm_record">Înregistrări radio (%d)</string>
     <string name="invalid_argument">Argument invalid</string>
     <string name="low_battery_error">Acumulatorul telefonului are mai puțin de 5% disponibil. Pentru ca înregistrarea să nu fie pierdută, ea a fost oprită și salvată. Deconectarea neașteptată poate duce la pierderea înregistrării; se recomandă ca înregistrarea să se efectueze atunci când acumulatorul este complet încărcat.</string>
     <string name="mark_point_list_title">Marcaje</string>

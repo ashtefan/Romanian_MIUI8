@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Căutare</string>
+    <string name="application_desc">Aplicație</string>
+    <string name="applications_search_label">Aplicații</string>
     <string name="apps_search_activity" />
     <string name="clear_history">Goliți istoricul de căutare</string>
     <string name="clear_shortcuts">Eliminaţi istoricul căutărilor</string>
@@ -60,6 +62,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="search_videos">Căutați videoclipuri</string>
     <string name="search_widget">Căutare</string>
     <string name="send_secret_code">Trimiteţi codul</string>
+    <string name="settings_description">Numele aplicațiilor instalate</string>
     <string name="show_more">Arată mai multe</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide aplicația"</string>
     <string name="system_search_category_title">Telefon</string>

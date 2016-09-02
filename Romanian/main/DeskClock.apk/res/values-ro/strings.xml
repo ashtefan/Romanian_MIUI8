@@ -58,7 +58,7 @@
     <string name="hours">%s ore</string>
     <string name="keep_screen_on">Menține ecranul activ</string>
     <string name="label">Setaţi o etichetă</string>
-    <string name="label_pref_summary">Etichetați această alarmă</string>
+    <string name="label_pref_summary">Etichetă</string>
     <string name="lap">Circuit</string>
     <string name="lap_num">circuit</string>
     <string name="legal_off_day">Zile nelucrătoare legale</string>

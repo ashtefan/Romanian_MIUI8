@@ -200,9 +200,9 @@
 trebuie să se întâmple"</string>
     <string name="custom_head_card_text_incognito">"Navigați incognito!
 Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</string>
-    <string name="data_traffic_prompt_change">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="data_traffic_prompt_message">Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="data_traffic_prompt_message_short">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus.</string>
+    <string name="data_traffic_prompt_change">"Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare."</string>
+    <string name="data_traffic_prompt_message">"Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare."</string>
+    <string name="data_traffic_prompt_message_short">"Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus."</string>
     <string name="data_traffic_prompt_title">Avertisment de utilizare a datelor</string>
     <string name="date_picker_dialog_clear">Curăţaţi</string>
     <string name="date_picker_dialog_other_button_label">Altele</string>
@@ -245,7 +245,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="download_completed">Descărcat</string>
     <string name="download_default_path_txt">Memorează această alegere</string>
     <string name="download_dialog_default_path_invalid">Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…</string>
-    <string name="download_dialog_file_length_hint_txt">"Dimensiune fişier: "</string>
+    <string name="download_dialog_file_length_hint_txt">"Mărime fişier: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 kb</string>
     <string name="download_dialog_file_length_nolength_error_txt">Descărcare eşuată</string>
     <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
@@ -294,7 +294,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="error_title">Nu se poate sincroniza</string>
     <string name="error_unauthorized">Sincronizarea cu contul dvs. Mi a fost dezactivată din cauza prea multor încercări de conectare.</string>
     <string name="exit_browser_warning">Ieşiţi din browser acum?</string>
-    <string name="file_dir">Modificați directorul</string>
+    <string name="file_dir">Modificați dosarul</string>
     <string name="file_name">"Nume : "</string>
     <string name="file_picker">Selectaţi calea</string>
     <string name="filename_empty_alert_message">Introduceţi numele fișierului :)</string>
@@ -343,6 +343,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="is_last_tab">Aceasta este ultima filă</string>
     <string name="is_page_bottom">Sunteţi în partea de jos a paginii</string>
     <string name="is_page_top">Sunteţi în partea de sus a paginii</string>
+    <string name="isreplace">Fișierul există deja, îl înlocuiți?</string>
     <string name="js_dialog_before_unload">"%s
     
 Părăsiţi această pagină?"</string>
@@ -371,9 +372,9 @@ Părăsiţi această pagină?"</string>
     <string name="media_error_timeout">Conexiune la rețea expirată</string>
     <string name="media_error_video_not_exist">Videoclipul nu există</string>
     <string name="media_player_error_button">OK</string>
-    <string name="media_player_error_text_invalid_progressive_playback">Acest videoclip nu este valabil pentru streaming pe acest dispozitiv.</string>
-    <string name="media_player_error_text_unknown">Acest videoclip nu poate fi redat</string>
-    <string name="media_player_error_title">Nu se poate reda videoclipul</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Videoclipul nu poate fi vizionat online pe acest dispozitiv."</string>
+    <string name="media_player_error_text_unknown">"Acest videoclip nu poate fi redat"</string>
+    <string name="media_player_error_title">"Nu se poate reda videoclipul"</string>
     <string name="media_player_loading_video">Încărcare video</string>
     <string name="menu_addtodesk">Plasaţi pe ecranul principal</string>
     <string name="menu_exit_nightmode">Ieşire</string>
@@ -467,6 +468,7 @@ Părăsiţi această pagină?"</string>
     <string name="no_space_alert_text">Nu există spațiu suficient de stocare</string>
     <string name="no_space_alert_title">Descărcare întreruptă</string>
     <string name="no_space_clean_failed">Nu s-a putut obține spațiu suplimentar de stocare pe dispozitiv​</string>
+    <string name="not_allowed_open">"Nu s-a putut utiliza Browser-ul în boot-strap"</string>
     <string name="not_remind_again">Memorează alegerea mea</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
     <string name="ok">OK</string>
@@ -624,6 +626,7 @@ Părăsiţi această pagină?"</string>
     <string name="remove_history_item">Eliminaţi din istoric</string>
     <string name="remove_snapshot">Ştergeţi pagina salvată</string>
     <string name="removed_from_bookmarks">Eliminat din marcaje</string>
+    <string name="replace">Înlocuiește</string>
     <string name="reply_comment_title">Răspuns: %s</string>
     <string name="resume_download">Start</string>
     <string name="retry_after_network_available">"Nu se poate conecta la rețea"</string>
@@ -792,6 +795,7 @@ Părăsiţi această pagină?"</string>
     <string name="video_download_downloading">Descărcare</string>
     <string name="video_download_fail">Eşuat</string>
     <string name="video_download_failed">"Nu s-a putut descărca"</string>
+    <string name="video_download_finding_address">Se caută adresa</string>
     <string name="video_download_pause">Întrerupt</string>
     <string name="video_download_start">Descărcare…</string>
     <string name="video_download_success">Finalizat</string>
@@ -812,6 +816,7 @@ Părăsiţi această pagină?"</string>
     <string name="video_group_noupdates_list">Nicio actualizare disponibilă</string>
     <string name="video_group_updates_list">Actualizări</string>
     <string name="video_history_empty">Istoricul este gol</string>
+    <string name="video_manager_action_bar_end_view">Videoclipuri</string>
     <string name="video_play_error">Nu se poate reda videoclipul</string>
     <string name="video_project_button">Opriţi</string>
     <string name="video_project_msg">Videoclipul este proiectat pe %s</string>
@@ -819,8 +824,11 @@ Părăsiţi această pagină?"</string>
     <string name="video_push_multi_message">%1$d actualizări disponibile.</string>
     <string name="video_push_multi_title">Actualizări disponibile</string>
     <string name="video_push_single_message">Apăsaţi pentru a actualiza la %1$d.</string>
-    <string name="video_subtitle_prefix_message">"Vizionate: "</string>
+    <string name="video_subtitle_last_message1">A rămas mai puțin de un minut</string>
+    <string name="video_subtitle_prefix1">Urmărit</string>
+    <string name="video_subtitle_prefix2">"Urmărit "</string>
     <string name="video_title_prefix_message">"Off-line: "</string>
+    <string name="video_unknown_duration">Durată necunoscută</string>
     <string name="view_certificate">Vizualizaţi certificatul</string>
     <string name="view_document_downloaded_files">Vizualizați fișierele descărcate în Managerul de descărcări</string>
     <string name="voice_sub_title">Nu știţi ce să spuneţi? Încercaţi, deschideți mi.com!</string>

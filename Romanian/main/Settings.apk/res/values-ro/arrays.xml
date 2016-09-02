@@ -749,7 +749,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Galerie</item>
         <item>Muzică</item>
         <item>E-mail</item>
-        <item>Video</item>
+        <item>Rulare videoclip</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Viteza rețelei este scăzută datorită traficului intens</item>

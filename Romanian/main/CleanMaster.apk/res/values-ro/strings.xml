@@ -24,6 +24,8 @@
     <string name="activity_title_uninstall_apps">Aplicaţii</string>
     <string name="activity_title_video">Eliminare videoclipuri</string>
     <string name="activity_title_white_list">Excepţii</string>
+    <string name="ad_install_success_dialog_lunch">Deschideți</string>
+    <string name="ad_install_success_dialog_title">%1$s a fost instalată cu succes. O deschideți acum?</string>
     <string name="apk_status_damage">Deteriorat</string>
     <string name="apk_status_duplicate">Duplicat</string>
     <string name="apk_status_install">Instalat</string>
@@ -44,6 +46,10 @@
     <string name="browser_search_history_desc">Elementele căutate</string>
     <string name="btn_text_done">Finalizat</string>
     <string name="btn_text_quick_cleanup">Curăţare</string>
+    <string name="btn_text_quick_cleanup_apk">Șterge aplicațiile selectate %1$s</string>
+    <string name="btn_text_quick_cleanup_appdata">Șterge datele selectate %1$s</string>
+    <string name="btn_text_quick_cleanup_large_file">Șterge fișierele selectate %1$s</string>
+    <string name="btn_text_quick_cleanup_video">Șterge videoclipurile selectate %1$s</string>
     <string name="btn_text_quick_scan">Scanare</string>
     <string name="btn_text_stop">Opriţi</string>
     <string name="button_optimizer">OK</string>
@@ -96,8 +102,10 @@
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Conexiune la rețea</string>
     <string name="connecting">Conectare…</string>
+    <string name="deep_clean_completed_tips">Curățare încheiată cu succes</string>
     <string name="deep_clean_data_path_clean_title">Golire memorie cache</string>
     <string name="deep_clean_normal_clean_progress_desc">S-au curățat %1$s fișiere</string>
+    <string name="deep_clean_uninstall_completed_tips">Dezinstalată cu succes</string>
     <string name="deepclean_1_k_clean">Curățare dintr-un click</string>
     <string name="deepclean_apk_content">Ștergeți fișierele .apk sau aplicațiile inutile</string>
     <string name="deepclean_apk_summary_empty">Totul arată bine, nu există fișiere .apk ce trebuie șterse</string>
@@ -107,6 +115,8 @@
     <string name="deepclean_cache_content">Curăţare date generate de aplicații</string>
     <string name="deepclean_cache_header_left">Fişiere de date: %d</string>
     <string name="deepclean_cache_summary_empty">Totul arată bine, nu există date ce trebuie șterse</string>
+    <string name="deepclean_empty">Totul arată bine</string>
+    <string name="deepclean_install_info_desc2">Eliminați aplicații pentru a elibera spațiu</string>
     <string name="deepclean_large_content">Ștergeţi fișierele mai mari de 10 MB</string>
     <string name="deepclean_large_summary_empty">Totul arată bine, nu există fișiere ce trebuie șterse</string>
     <string name="deepclean_list_item_from_app">Magazin Play</string>
@@ -132,7 +142,6 @@
     <string name="deepclean_video_summary_empty">Totul arată bine</string>
     <string name="default_cache_type">Fişiere de date</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Se şterg, de asemenea, fotografiile din Mi Cloud</string>
-    <string name="dialog_content_delete_image_confirm">Ştergeţi %d fotografii?</string>
     <string name="dialog_content_select_all_confirm">Păstrați o copie a acestei fotografii?</string>
     <string name="dialog_msg_add_white_list_error">"Fișierul nu poate fi adăugat la excepții"</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Faceţi o copie de rezervă şi apoi dezinstalaţi aplicațiile selectate?</string>
@@ -175,7 +184,7 @@
     <string name="grabage_rank_title">Curățat astăzi</string>
     <string name="harass_detail">Au fost blocate %1$d SMS-uri și %2$d apeluri</string>
     <string name="header_optimizer">Prin utilizarea acestei funcții, sunteți de acord cu %s.</string>
-    <string name="hint_clean_select_similar_image">Ştergere…</string>
+    <string name="hint_clean_select_items">Ştergere duplicate…</string>
     <string name="hints_ad_header_left">Anunțuri</string>
     <string name="hints_apk_header_left">Pachete</string>
     <string name="hints_apk_version">Versiune %s</string>
@@ -348,6 +357,7 @@
     <string name="safety_rank">Înaintea a %d%% utilizatori MIUI în ceea ce privește securitatea</string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
+    <string name="scanning">Scanare…</string>
     <string name="search_history">Istoricul de căutare</string>
     <string name="see_more">Mai multe</string>
     <string name="set_immediately">Setați</string>

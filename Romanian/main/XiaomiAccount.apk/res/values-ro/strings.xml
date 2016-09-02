@@ -22,7 +22,6 @@
     <string name="account_no_set">Nimic</string>
     <string name="account_none">Nimic</string>
     <string name="account_none_binded_info">Niciunul</string>
-    <string name="account_none_binded_secure_phone">Niciun număr de telefon</string>
     <string name="account_none_user_name">Nimic</string>
     <string name="account_security_question">Întrebare de siguranță</string>
     <string name="account_settings">Cont</string>
@@ -364,9 +363,7 @@ Asigurați-vă că știți răspunsurile la aceste întrebări."</string>
     <string name="turn_off_find_device_failed_title">"Nu se poate dezactiva Localizarea dispozitivului"</string>
     <string name="turning_off_find_device">Dezactivare Localizare dispozitiv…</string>
     <string name="unbind_sns_description">După ce eliminați acest cont, nu veți putea utiliza %s pentru a vă accesa contul dvs. Mi.</string>
-    <string name="unbind_weibo_description">După ce eliminați acest cont, nu veți putea sincroniza contactele de pe Weibo sau să utilizaţi contul Sina Weibo pentru a vă conecta.</string>
     <string name="update_contacts">Actualizaţi agenda</string>
-    <string name="update_contacts_description">Permiteţi Sina Weibo să utilizeze Contul Mi pentru a sincroniza contactele între platforme</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul.</string>
     <string name="update_email_address_dialog_title">Actualizare adresă de e-mail</string>
     <string name="update_phone_number_notice_message">Trebuie să vă verificăm identitatea înainte de a actualiza numărul de telefon.</string>

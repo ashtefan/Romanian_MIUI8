@@ -243,6 +243,7 @@
     <string name="toast_title_required">Descrieți problema</string>
     <string name="topic_author">1#</string>
     <string name="try_again">Încercați din nou</string>
+    <string name="upload_log_failed">"Nu s-au putut trimite rapoartele cu erori"</string>
     <string name="warning_field_empty">Introduceți %1$s</string>
     <string name="warning_field_invalid">Selectați o %1$s validă</string>
 </resources>

@@ -351,6 +351,7 @@
     <string name="no">Anulaţi</string>
     <string name="no_block_button_msg">Nu se blochează mesajele de la acest număr</string>
     <string name="no_conversations">Nicio conversaţie</string>
+    <string name="no_delivery_report">Niciun raport de livrare</string>
     <string name="no_subject">(niciun subiect)</string>
     <string name="no_subject_view">(niciun subiect)</string>
     <string name="non_english_subject_limit">Limită: 13 caractere</string>
@@ -387,6 +388,7 @@
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
     <string name="pref_show_sms_template_summary">Se copiază și se completează în mod automat codurile de verificare</string>
+    <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
     <string name="pref_sms_theme_title">Afişare</string>
     <string name="pref_summary_allow_si_sl_push">Permiteţi încărcarea conținutului din site-urile web</string>
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
@@ -534,6 +536,7 @@
     <string name="set">Setaţi</string>
     <string name="share_img">Distribuiţi</string>
     <string name="show_all_messages">Afişaţi toate mesajele</string>
+    <string name="show_delivery_status">Arată raport de livrare</string>
     <string name="show_sender">Arată informațiile despre expeditor</string>
     <string name="sim_card1">Cartelă SIM1</string>
     <string name="sim_card2">Cartelă SIM2</string>

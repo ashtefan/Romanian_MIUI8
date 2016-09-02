@@ -270,9 +270,10 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_restore_title">Restabilire automată</string>
     <string name="auto_startup_application_manage">Pornire</string>
     <string name="auto_startup_count">%d aplicaţii pornesc automat</string>
+    <string name="auto_upload_debug_log_summary">Datele de diagnosticare pot include informații despre modul de utilizare a componentelor hardware, sistemul de operare și aplicații. Datele vor fi utilizate pentru localizarea și analizarea problemelor din sistem și nu vor fi folosite pentru identificarea utilizatorului.</string>
+    <string name="auto_upload_debug_log_title">Trimite Date de Diagnosticare în mod automat</string>
     <string name="automatic_brightness">Luminozitate automată</string>
     <string name="available_size">%s (Disponibil)</string>
-    <string name="avoid_ui">Evitare UI</string>
     <string name="awake">Durată de activitate a dispozitivului</string>
     <string name="back_key">Tasta Înapoi</string>
     <string name="background_data">Date în fundal</string>
@@ -946,7 +947,6 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="debug_intent_sender_label">Depanare intenție expeditor</string>
     <string name="debug_layout">Afişaţi limite aspect</string>
     <string name="debug_layout_summary">Afişaţi limitele clipului, marginile, etc.</string>
-    <string name="debug_log">Program Experienţă Utilizator</string>
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="debug_view_attributes">Activați vizualizarea atributelor</string>
     <string name="default_date_format">dd/MM/yyyy</string>
@@ -1354,6 +1354,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
     <string name="haptic_feedback_level">Intensitate vibrare</string>
     <string name="hardkeyboard_category">Setări pentru tastatura fizică</string>
+    <string name="has_screenshot_sound">Sunet captură de ecran</string>
     <string name="hdcp_checking_dialog_title">Setaţi comp. verif. HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
     <string name="hdmi_3d_display_enable_summary">Activaţi pentru a susţine jocuri 3D</string>
@@ -2352,6 +2353,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="preference_change_password_title">Modificaţi parola</string>
     <string name="preferred_app_settings">Setări aplicaţii prestabilite</string>
     <string name="preferred_app_settings_default">Prestabilit</string>
+    <string name="preferred_app_settings_not_selected">Neselectat</string>
     <string name="preferred_app_settings_reset">Resetaţi la valorile implicite</string>
     <string name="preferred_app_settings_reset_button">Resetaţi</string>
     <string name="preferred_app_settings_reset_message">Preferințele implicite ale aplicației vor fi resetate la valorile din fabrică.</string>
@@ -2694,7 +2696,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="screensaver_settings_title">Screensaver</string>
     <string name="screensaver_settings_when_to_dream">Când porneşte Daydream</string>
     <string name="screenshot">Captură de ecran</string>
-    <string name="screenshot_three_gesture">Glisarea pe ecran cu 3 degete simultan va realiza o captură de ecran</string>
+    <string name="screenshot_three_gesture">Glisați pe ecran 3 degete simultan pentru a realiza o captură de ecran</string>
+    <string name="screenshot_three_gesture_summary">Celelalte gesturi identice vor fi dezactivate</string>
     <string name="sd_card_settings_label">Card SD</string>
     <string name="sd_card_storage">Card SD</string>
     <string name="sd_eject">Demontaţi cardul SD</string>
@@ -3275,6 +3278,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="testing_sim_toolkit">Instrumente SIM</string>
     <string name="testing_usage_stats">Statistici de utilizare</string>
     <string name="testing_wifi_info">Informaţii Wi-Fi</string>
+    <string name="tether_and_hotspot_title">Tethering și hotspot</string>
     <string name="tether_devices_management_title">Gestionați dispozitivele</string>
     <string name="tether_settings_disabled">Hotspot-ul personal este oprit</string>
     <string name="tether_settings_title_all">Tethering şi hotspot portabil</string>
@@ -3436,8 +3440,6 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
     <string name="untitled_apn">Fără titlu</string>
     <string name="update_progress_for_updates">Actualizare (%s)</string>
-    <string name="upload_debug_log_summary">Ajutaţi MIUI prin trimiterea datelor anonime de diagnosticare şi utilizare a datelor.</string>
-    <string name="upload_debug_log_title">Program Experienţă Utilizator</string>
     <string name="usage_access_title">Aplicaţii cu acces la utilizare</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -3566,6 +3568,9 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="user_exit_guest_confirm_title">Eliminați contul vizitator?</string>
     <string name="user_exit_guest_dialog_remove">Eliminați</string>
     <string name="user_exit_guest_title">Eliminați contul vizitator</string>
+    <string name="user_experience_program">Program Experiență Utilizator</string>
+    <string name="user_experience_program_summary">Ajutați-ne să îmbunătățim MIUI prin trimiterea datelor anonime de utilizare</string>
+    <string name="user_experience_program_title">Program Experiență Utilizator</string>
     <string name="user_guest">Vizitator</string>
     <string name="user_image_choose_photo">Alegeți o fotografie din Galerie</string>
     <string name="user_image_photo_selector">Alegeți o fotografie</string>

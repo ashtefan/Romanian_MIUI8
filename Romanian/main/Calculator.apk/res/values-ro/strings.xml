@@ -29,7 +29,7 @@
     <string name="currency_update_time_format">Ratele de schimb sunt furnizate de hexun.com (%s)</string>
     <string name="current_rate_remind_commercial"/>
     <string name="current_rate_remind_fund"/>
-    <string name="dateformat">dd,MM,yyyy</string>
+    <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">zi</string>
     <string name="del">DEL</string>
     <string name="digit0">0</string>

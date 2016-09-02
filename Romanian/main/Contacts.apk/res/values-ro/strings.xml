@@ -499,7 +499,7 @@ Motivul: „%s”"</string>
     <string name="ic_menu_back">Înapoi</string>
     <string name="ic_menu_done">Finalizat</string>
     <string name="imLabelsGroup">IM</string>
-    <string name="imei">"IMEI : "</string>
+    <string name="imei">IMEI</string>
     <string name="import_all_sim_entries_miui">Importul tuturor contactelor</string>
     <string name="import_all_vcard_string">Importaţi toate fişierele vCard</string>
     <string name="import_contact_card_aggregate_suggestion_button">Îmbină cartelele</string>
@@ -585,7 +585,7 @@ Motivul: „%s”"</string>
     <string name="map_home">Vizualizaţi adresa de domiciliu</string>
     <string name="map_other">Vizualizaţi adresa poştală</string>
     <string name="map_work">Vizualizaţi adresa de serviciu</string>
-    <string name="meid">"MEID : "</string>
+    <string name="meid">MEID</string>
     <string name="menuMoreDescription">Mai multe</string>
     <string name="menu_accounts">Conturi</string>
     <string name="menu_addStar">Adăugaţi la lista de favorite</string>
