@@ -63,6 +63,7 @@
     <string name="phone_locked_string">Telefon blocat</string>
     <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>
     <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %s secunde</string>
+    <string name="symbol_colon">:</string>
     <string name="unlock_sim_string">Deblocare cartelă SIM</string>
     <string name="unlock_string">OK</string>
     <string name="unlocking_sim_card">Deblocare cartelă SIM</string>

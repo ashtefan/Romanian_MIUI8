@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abort_backup_confirm">Copia de rezervă nu a fost creată. Opriţi oricum?</string>
+    <string name="abort_restore_confirm">"Restaurarea nu s-a încheiat. Opriți oricum?"</string>
     <string name="account_contact_backup_info">Contul Google, contul Mi şi datele de contact</string>
     <string name="account_login">Conectaţi-vă</string>
     <string name="account_summary">" ale contului Google, contului Mi şi alte date de utilizator"</string>

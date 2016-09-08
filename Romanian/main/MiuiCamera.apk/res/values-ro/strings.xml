@@ -6,8 +6,7 @@
     <string name="accessibility_effect_mode_button">Buton efecte</string>
     <string name="accessibility_flash_mode_button">Buton bliţ</string>
     <string name="accessibility_hdr">Buton comutare HDR</string>
-    <string name="accessibility_module_picker">Selector modul</string>
-    <string name="accessibility_panorama_review_cancel">Anulare salvare panoramă</string>
+    <string name="accessibility_mode_dismiss_button">Buton Închidere Selectare Moduri</string>
     <string name="accessibility_peak">Buton focus</string>
     <string name="accessibility_review_thumbnail">Ultimele fotografii</string>
     <string name="accessibility_seek_bar_line">Bară de căutare</string>
@@ -82,16 +81,11 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="no_storage">Introduceţi un card SD.</string>
     <string name="not_enough_space">Cardul SD este plin</string>
     <string name="object_track_enable_toast">Pentru a selcta un obiect, apăsați simultan două puncte de pe diagonala conturului.</string>
-    <string name="pano_dialog_panorama_failed">Nu se poate salva panorama</string>
-    <string name="pano_dialog_title">Panoramă</string>
-    <string name="pano_dialog_waiting_previous">Aşteptarea finalizării panoramei anterioare</string>
     <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Aliniați săgeata cu linia de referință</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continuaţi…</string>
     <string name="pano_how_to_use_prompt_slow_down">Mutați telefonul mai încet</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
-    <string name="pano_review_saving_indication_str">Salvare…</string>
-    <string name="pano_too_fast_prompt">Prea repede</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>

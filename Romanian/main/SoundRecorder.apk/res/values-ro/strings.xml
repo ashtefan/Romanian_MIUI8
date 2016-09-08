@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="alert_message_clear_records">Ștergeți înregistrările selectate?</string>
     <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Mi Cloud. Ştergeți înregistrările selectate oricum?</string>
     <string name="alert_message_delete_record_title">Ştergeţi înregistrarea?</string>
     <string name="app_name">Înregistrare</string>
     <string name="back">Înapoi</string>
+    <string name="btn_clear_records">Ștergere înregistrări(%d elemente)</string>
     <string name="button_queue_for_wifi">În coadă</string>
     <string name="button_start_now">Descărcaţi</string>
     <string name="call_record">Apeluri înregistrate</string>
+    <string name="choose_call_records_count">%d elemente</string>
+    <string name="clear_records">Ștergeți înregistrările sincronizate</string>
     <string name="cloud_record_open">Sincronizare înregistrări</string>
     <string name="cloud_record_tip">Sincronizare înregistrări cu Mi Cloud.</string>
     <string name="cloud_status_full_dialog_cancel">Nu acum</string>
@@ -44,7 +48,7 @@
     <string name="notification_playback">Redare…</string>
     <string name="notification_recording">Înregistrare…</string>
     <string name="notification_recording_ticker">Sunete dezactivate</string>
-    <string name="notification_stopped">Înregistrare oprită</string>
+    <string name="notification_stopped">Înregistrare finalizată</string>
     <string name="notification_title_all_paused">Descărcare în pauză</string>
     <string name="notification_warning">Stocare insuficientă (mai puţin de %d minute)…</string>
     <string name="path_soundrecorder_setting">Aplicații de sistem/Înregistrare</string>

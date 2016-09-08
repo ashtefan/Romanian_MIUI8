@@ -100,8 +100,8 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_status_desc_wait_for_sms">Așteptarea SMS-ului de activare de pe server…</string>
     <string name="activate_status_desc_wait_for_sms_fail">Nu a reuşit primirea mesajului de activare de pe server</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS de activare primit de la server</string>
-    <string name="activate_status_title_activating">Activare cartelă SIM…</string>
-    <string name="activate_status_title_activating_msim">Activare cartelă SIM%s…</string>
+    <string name="activate_status_title_activating">Activare cartelă SIM</string>
+    <string name="activate_status_title_activating_msim">Activare cartelă SIM %s</string>
     <string name="app_name">Mi Cloud Service Framework</string>
     <string name="error_device_id_message">"ID dispozitiv nevalid: %s
 ID-ul dispozitivului trebuie să fie un IMEI sau o adresă MAC validă. Fără ID-ul dispozitivului, unele caracteristici ale contului Mi și ale Mi Cloud vor fi indisponibile."</string>

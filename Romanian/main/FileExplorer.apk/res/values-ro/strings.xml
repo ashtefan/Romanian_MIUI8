@@ -42,9 +42,11 @@
     <string name="backup_title">Creați copii de rezervă WeChat video?</string>
     <string name="big5_summary">Codare prestabilită în Chineză Tradiţională Windows</string>
     <string name="big5_title">BIG5</string>
+    <string name="bind">Adăugați</string>
     <string name="bind_account">Sincronizare cont existent</string>
     <string name="bind_account_summary">Sincronizaţi contul KuaiPan cu contul dvs. Mi</string>
     <string name="bind_failed_tip">"Nu s-a putut adăuga"</string>
+    <string name="bind_need_to_login">Conectați-vă</string>
     <string name="bind_phone_dialog_bind">Adăugați acum</string>
     <string name="bind_phone_dialog_cancle">"Nu adăuga"</string>
     <string name="bind_phone_dialog_tip">"Videoclipul dumneavoastră poate participa la evaluare și câștiga premii. În cazul în care veți câștiga ceva, nu vă vom putea contacta dacă nu adăugați numărul de telefon."</string>
@@ -94,6 +96,7 @@
     <string name="clean_title">Ştergeţi fişierele mai vechi de 30 de zile</string>
     <string name="clean_trash_box">Goliți coșul de reciclare</string>
     <string name="click_to_switch_volume">Apăsați aici pentru a comuta între memoria internă și cardul SD</string>
+    <string name="click_to_switch_volume_pad">Atingeți pentru a comuta între memoria internă și cardul SD</string>
     <string name="close">Închideţi</string>
     <string name="comment_delete_message">Comentariul va fi șters definitiv.</string>
     <string name="comment_delete_title">Ștergeți comentariul</string>
@@ -159,6 +162,8 @@
     <string name="delete_video_dialog_title">Șterge videoclipul</string>
     <string name="delete_video_success">Șters cu succes</string>
     <string name="des_running_trans">%1$d fişiere nu au fost transferate</string>
+    <string name="dialog_logout_message">Vă deconectați acum?</string>
+    <string name="dialog_logout_title">Deconectare</string>
     <string name="dialog_select_type">Selectaţi tipul fişierului</string>
     <string name="dialog_type_audio">Audio</string>
     <string name="dialog_type_image">Imagine</string>
@@ -208,6 +213,7 @@
     <string name="favorite_photo">Fotografii</string>
     <string name="favorite_ringtone">Tonuri de apel</string>
     <string name="favorite_screen_cap">Capturi de ecran</string>
+    <string name="female">Feminin</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_already_downlaoded">Fişier salvat în \"%1$s\"</string>
     <string name="file_info_canread">Citire: </string>
@@ -325,7 +331,8 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="make_private_msg_1">Ascundeți acest fișier?</string>
     <string name="make_private_msg_2">Ascundeți aceste fișiere?</string>
     <string name="make_private_msg_3">Toate fișierele din acest dosar vor fi ascunse.</string>
-    <string name="megabyteShort">MB</string>
+    <string name="male">Masculin</string>
+    <string name="megabyteShort"> MB</string>
     <string name="menu_item_cleanup">Curăţare</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_midrop">Mi Drop</string>
@@ -388,6 +395,7 @@ Ne cerem scuze pentru acest lucru!"</string>
     <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul să administreze fișierele mai eficient.</string>
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
     <string name="move_to">Mutaţi în…</string>
+    <string name="msg_notify_setting">Setări notificare</string>
     <string name="msg_set_password">Stabiliți parola mai întâi</string>
     <string name="multi_select_title">%1$s selectate</string>
     <string name="my_app">Date aplicaţii</string>
@@ -450,8 +458,6 @@ Descărcați-le oricând doriți
     <string name="no_message">Niciun mesaj</string>
     <string name="no_more_space">Spaţiu de stocare insuficient</string>
     <string name="no_network_retry">"Nu se poate conecta la rețea. Verificați conexiunea și reîncercați."</string>
-    <string name="no_network_str">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
-    <string name="no_network_tip">"Nu se poate conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="no_new_content_tip">Toate elementele sunt actualizate</string>
     <string name="no_recent_files">Niciun fişier recent</string>
     <string name="no_tasks">Nimic</string>
@@ -480,6 +486,7 @@ Descărcați-le oricând doriți
     <string name="notify_private_folder_title">Creați dosare ascunse</string>
     <string name="oauth_failed_tip">"Nu s-a putut finaliza autorizarea"</string>
     <string name="oauth_success_tip">Autorizare finalizată</string>
+    <string name="one_account_bind_needed">Adăugați cel puțin un cont</string>
     <string name="online_not_support">Nu se poate vizualiza acest fișier în acest moment.</string>
     <string name="only_wifi">Descărcați când sunteți conectat la Wi-Fi</string>
     <string name="open_app">Deschideți</string>
@@ -534,13 +541,14 @@ Descărcați-le oricând doriți
     <string name="operation_unfavorite">Eliminaţi din favorite</string>
     <string name="operation_unlike">Eliminați din Favorite</string>
     <string name="origin_name">%1$s: </string>
-    <string name="other_user_follow_title">Persoanele pe care le-am urmărit</string>
+    <string name="other_user_fans_tab">Fani</string>
+    <string name="other_user_follow_tab">Urmăritori</string>
     <string name="other_user_liked_topic_tip">Niciun subiect</string>
-    <string name="other_user_liked_video_title">Videoclipurile pe care le-am apreciat</string>
+    <string name="other_user_liked_video_tab">Favorite</string>
     <string name="other_user_no_follow_tip">"Nu ați urmărit pe nimeni până acum."</string>
     <string name="other_user_no_liked_video_tip">Niciun videoclip apreciat.</string>
     <string name="other_user_topic_tab">Subiecte</string>
-    <string name="other_user_video_tab">Videoclipuri</string>
+    <string name="other_user_video_tab">Încărcări</string>
     <string name="pan_settting">Setări KuaiPan</string>
     <string name="partial_cancel_successful">"Nu s-au putut elimina unele fișiere. Restul au fost mutate în %s."</string>
     <string name="partial_delete_failure">"Nu s-au putut șterge unele fișiere; reîncercați"</string>
@@ -558,6 +566,7 @@ Descărcați-le oricând doriți
     <string name="phone_get_code_tip">Prea multe încercări de obținere a codului astăzi</string>
     <string name="phone_has_used_tip">Acest număr de telefon este asociat unui cont existent; încercați cu alt număr de telefon.</string>
     <string name="phone_login_title">Telefon</string>
+    <string name="phone_num">Număr de telefon</string>
     <string name="phone_num_et_hint">Introduceți numărul de telefon</string>
     <string name="phone_num_format_tip">Numărul de telefon nu este valid</string>
     <string name="phone_send_code">Obțineți codul</string>
@@ -619,11 +628,14 @@ Descărcați-le oricând doriți
     <string name="request_timeout">Solicitarea rețelei a expirat</string>
     <string name="reset_password">Schimbați parola</string>
     <string name="restoring">Restaurare…</string>
+    <string name="rlv_closing">Se închide…</string>
     <string name="rlv_last_loading_time">Ultima actualizare: %1$s</string>
     <string name="rlv_last_refreshing_time">Actualizat %1$s</string>
     <string name="rlv_loading_more">Doar o secundă…</string>
+    <string name="rlv_pull_to_close">Glisați în jos pentru a închide</string>
     <string name="rlv_pull_to_refresh">Trageți în jos pentru a reîmprospăta</string>
     <string name="rlv_refreshing">Reîmprospătare…</string>
+    <string name="rlv_release_to_close">Eliberați pentru a închide</string>
     <string name="rlv_release_to_refresh">Eliberați pentru a actualiza</string>
     <string name="save_to_local">Descărcați</string>
     <string name="sd_card_available">Disponibil: %1$s</string>
@@ -682,6 +694,8 @@ Descărcați-le oricând doriți
     <string name="server_control_settings">Setări</string>
     <string name="server_error">Eroare de server, încercați mai târziu. (Eroare %s)</string>
     <string name="setting">Setări</string>
+    <string name="setting_account_bind">Adăugați un cont</string>
+    <string name="setting_message_notify">Notificări</string>
     <string name="share_box">Partajate</string>
     <string name="share_box_receive">Recepţionate</string>
     <string name="share_box_send">Trimise</string>
@@ -748,6 +762,7 @@ Descărcați-le oricând doriți
     <string name="tab_storage">STOCARE</string>
     <string name="tag_weixin_video">Clipuri video</string>
     <string name="terabyteShort">TB</string>
+    <string name="tip">Atenție</string>
     <string name="title_album">Albume</string>
     <string name="title_app_tags">Aplicații</string>
     <string name="title_enable_documentsui">Activați DocumentsUI</string>
@@ -780,8 +795,19 @@ Descărcați-le oricând doriți
     <string name="ui_main_toast_favorite_added">Adăugat la favorite</string>
     <string name="ui_main_toast_favorite_removed">Eliminat din favorite</string>
     <string name="ui_main_toast_operation_failed">Nu s-a putut elimina din favorite %1$s</string>
+    <string name="unbind">Ștergeți</string>
+    <string name="unbind_account">Ștergeți %s?</string>
+    <string name="unbind_fail">"Nu s-a putut șterge"</string>
+    <string name="unbind_success">Șters cu succes</string>
+    <string name="unlogin">Conectați-vă mai întâi</string>
     <string name="unmount_inform_text">Demontaţi stocarea USB?</string>
     <string name="unreviewed_video_cannot_share">Videoclipurile trebuie revizuite înainte de a fi partajate</string>
+    <string name="update_failed">"Nu s-a putut salva, încercați din nou"</string>
+    <string name="update_loading">Salvare…</string>
+    <string name="upload_avatar_camera">Cameră</string>
+    <string name="upload_avatar_failed">"Nu s-a putut încărca, încercați din nou"</string>
+    <string name="upload_avatar_loading">Încărcare…</string>
+    <string name="upload_avatar_local">Galerie</string>
     <string name="upload_external_action_hint">Lipiți link-ul videoclipului</string>
     <string name="upload_external_notification_failed">"Nu s-a putut posta"</string>
     <string name="upload_external_notification_success">Postat cu succes</string>
@@ -797,6 +823,7 @@ Descărcați-le oricând doriți
     <string name="upload_notification_success">Încărcat cu succces</string>
     <string name="upload_notification_success_content">"Videoclipul trebuie revizuit înainte de a fi partajat altor persoane"</string>
     <string name="upload_notification_title">Se încarcă videoclipul</string>
+    <string name="upload_user_photo">Încărcați</string>
     <string name="upload_video">Partajați videoclipul</string>
     <string name="upload_video_dialog_message">"Videoclipul dvs. va fi afișat printre videoclipurile populare după ce va fi verificat."</string>
     <string name="upload_video_dialog_title">Videoclip partajat cu succes</string>
@@ -809,6 +836,7 @@ Descărcați-le oricând doriți
     <string name="usb_label">USB</string>
     <string name="used">Utilizat</string>
     <string name="user_agreement">Acordul utilizatorului</string>
+    <string name="user_cancel">Renunțare</string>
     <string name="user_center_title">Acasă</string>
     <string name="user_follow_me_title">Urmăritorii mei</string>
     <string name="user_follow_title">Persoanele pe care le urmăresc</string>
@@ -821,6 +849,8 @@ Descărcați-le oricând doriți
     <string name="user_guide_save_file">Salvați fișierele utilizând KuaiPan</string>
     <string name="user_guide_summary">Stocare în cloud securizată și ușor de utilizat</string>
     <string name="user_guide_upload_to_kuaipan">Stocaţi elemente în Kuaipan de pe dispozitivul dvs.</string>
+    <string name="user_icon">Fotografie de profil</string>
+    <string name="user_info_setting">Editați informațiile</string>
     <string name="user_like_text">Îi place</string>
     <string name="user_liked_video_title">Videoclipurile la care am dat like</string>
     <string name="user_login_dialog_cancle">Renunțare</string>
@@ -828,6 +858,8 @@ Descărcați-le oricând doriți
     <string name="user_login_dialog_title">Conectați-vă</string>
     <string name="user_message_text">Mesaje</string>
     <string name="user_msg_text">Mesaje</string>
+    <string name="user_nickname">Pseudonim</string>
+    <string name="user_nickname_limit">Pseudonimul trebuie să aibă între 4–20 caractere</string>
     <string name="user_no_fans_tip">Niciun urmăritor</string>
     <string name="user_no_follow_topic">"Nu ați urmărit niciun subiect încă."</string>
     <string name="user_no_follow_user">"Nu ați urmărit pe nimeni până acum."</string>
@@ -842,12 +874,15 @@ Descărcați-le oricând doriți
     <string name="user_setting_follow_new_msg_tip">Primiți notificări pentru videoclipurile noi</string>
     <string name="user_setting_followed_msg">Notificări despre urmăritori</string>
     <string name="user_setting_followed_msg_tip">"Veți primi notificări atunci când persoanele încep să vă urmărească postările"</string>
+    <string name="user_setting_logout">Deconectare</string>
     <string name="user_setting_new_comment">Notificări despre comentariile noi</string>
     <string name="user_setting_new_comment_tip">"Veți primi notificări despre postările la comentariile și videoclipurile dvs."</string>
     <string name="user_setting_new_liked">Notificări pentru aprecieri</string>
     <string name="user_setting_new_liked_tip">"Veți primi notificări atunci când alte persoane vă apreciază videoclipurile și comentariile"</string>
     <string name="user_setting_topic_new_msg">Notificări despre subiecte</string>
     <string name="user_setting_topic_new_msg_tip">"Veți primi notificări despre videoclipurile noi din subiectele pe care le urmăriți"</string>
+    <string name="user_sex">Sex</string>
+    <string name="user_sign">Semnătură</string>
     <string name="user_topic_btn_text">Vedeți mai multe subiecte</string>
     <string name="user_topic_text">Subiectele mele</string>
     <string name="user_upload_text">Încărcări</string>
@@ -900,6 +935,7 @@ Descărcați-le oricând doriți
     <string name="wait_wifi">Aşteptare Wi-Fi…</string>
     <string name="waiting">Aşteptare…</string>
     <string name="wangpan_root_path">KuaiPan</string>
+    <string name="wechat_btn_bind">WeChat</string>
     <string name="wechat_btn_str">WeChat</string>
     <string name="wechat_platform">WeChat</string>
     <string name="wechat_video">Video la %s</string>
@@ -911,9 +947,11 @@ Descărcați-le oricând doriți
     <string name="wx_title3">Vedeși videoclipuri virale din toată lumea!</string>
     <string name="wxcircle_platform">Momente</string>
     <string name="xiaomi_account">Cont Mi</string>
+    <string name="xiaomi_btn_bind">Cont Mi</string>
     <string name="xiaomi_btn_str">Mi</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
+    <string name="zero">0</string>
     <string name="zero_comment">Niciun comentariu</string>
 </resources>

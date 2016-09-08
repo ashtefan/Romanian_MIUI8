@@ -28,8 +28,12 @@
     <string name="next">Înainte</string>
     <string name="next_fingerprint">Următoarea</string>
     <string name="other_settings">Setări adiţionale</string>
+    <string name="other_settings_auto_update">Actualizați în mod automat</string>
+    <string name="other_settings_auto_update_summary">MIUI va selecta ora de descărcare și instalare a actualizărilor.</string>
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să acceseze locația dvs.</string>
+    <string name="other_settings_upload_debug_log_summary">Datele de diagnosticare pot include informații despre modul dumneavoastră de utilizare a dispozitivului, a sistemului de operare și a aplicațiilor. Datele vor fi utilizate pentru localizarea și analizarea problemelor de sistem și nu vor fi folosite pentru a vă identifica.</string>
+    <string name="other_settings_upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
     <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea MIUI prin trimiterea datelor de utilizare anonime (%s)</string>
     <string name="other_settings_user_experience_summary1">Vizualizaţi Politica de confidențialitate</string>

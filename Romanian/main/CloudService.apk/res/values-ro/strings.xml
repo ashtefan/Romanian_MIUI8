@@ -397,6 +397,14 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="provision_arrow_next">&gt;</string>
     <string name="remind_later">Nu acum</string>
     <string name="restoreSync">Sincronizaţi acum</string>
+    <string name="search_cloudbackup_pref">Copie Cloud</string>
+    <string name="search_cloudbackup_pref_desc">Dezactivați/activați copiile în Cloud</string>
+    <string name="search_cloudbackup_pref_key_words">copie de rezervă cloud, copie cloud</string>
+    <string name="search_cloudbackup_pref_path">Contul Mi/Mi Cloud/CREARE COPIE DE REZERVĂ ȘI RESTAURARE</string>
+    <string name="search_finddevice_pref">Localizare dispozitiv</string>
+    <string name="search_finddevice_pref_desc">Activare/dezactivare Localizare dispozitiv</string>
+    <string name="search_finddevice_pref_key_words">localizare dispozitiv, găsire telefon</string>
+    <string name="search_finddevice_pref_path">Contul Mi/Mi Cloud/LOCALIZARE DISPOZITIV</string>
     <string name="setting">Setări</string>
     <string name="settings_backup_title">Creare copie de rezervă pentru setările de sistem</string>
     <string name="share_cancel">Partajare anulată</string>

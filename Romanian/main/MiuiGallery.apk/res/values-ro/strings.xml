@@ -80,6 +80,7 @@
     <string name="already_create_baby_album">Albumul copilului există deja în Mi Cloud.</string>
     <string name="app_name">Galerie</string>
     <string name="app_name_view_picture">Vizualizare imagini</string>
+    <string name="app_name_view_video">Vizualizare videoclipuri</string>
     <string name="apply">Aplicaţi</string>
     <string name="aspect_ratio_format" formatted="false">%d:%d</string>
     <string name="aspect_ratio_free">Personalizat</string>
@@ -94,7 +95,7 @@
     <string name="auto_upload_before_share_message">Acest album trebuie salvat în MiCloud înainte de a fi partajat</string>
     <string name="auto_upload_before_share_title">Sugestie</string>
     <string name="auto_upload_disable_tip">Sincronizarea cu Mi Cloud este dezactivată</string>
-    <string name="auto_upload_disable_toast_long_press_menu">Sincronizarea cu Mi Cloud este dezactivată; mergeți la Alte albume pentru a vizualiza</string>
+    <string name="auto_upload_disable_toast_long_press_menu">Sincronizarea cu Mi Cloud este dezactivată; mergeți la alte albume pentru a vizualiza</string>
     <string name="auto_upload_enable_toast_long_press_menu">Sincronizarea cu Mi Cloud este activată; mergeți la Albume pentru a vizualiza</string>
     <string name="baby_album">Albumele copiilor</string>
     <string name="baby_album_change_background">Modificați imaginea de fundal</string>
@@ -367,6 +368,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="kilobyteShort">KB</string>
     <string name="limit_height">Înâlțimea trebuie să fie &gt; 0</string>
     <string name="limit_width">Lățimea trebuie să fie &gt; 0</string>
+    <string name="loading_dual_tip">Încărcare fotografie duală...</string>
     <string name="loading_fail">Nu s-a putut descărca</string>
     <string name="loading_fail_sync_off">Activați sincronizarea cu Mi Cloud pentru a descărca</string>
     <string name="loading_fail_sync_off_message">"Nu s-au putut încărca fotografiile; sincronizarea cu Mi Cloud este oprită."</string>
@@ -548,7 +550,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="send_public_url">Trimiteţi URL album</string>
     <string name="send_too_many_files_error">Se pot trimite cel mult %d elemente odată</string>
     <string name="set_as_baby_lock_wallpaper">Setaţi ca imagine de fundal a blocării ecranului</string>
-    <string name="set_as_wallpaper_description">Această imagine este o miniatură, vreți să descărcați fotografia originală？</string>
+    <string name="set_as_wallpaper_description">Această imagine este o miniatură, vreți să descărcați fotografia originală?</string>
     <string name="set_as_wallpaper_title">Setați ca imagine de fundal</string>
     <string name="set_face_group_toast_msg_new_user">Prin apăsarea lungă pe imaginea de copertă, chipurile pot fi îmbinate sau ignorate.</string>
     <string name="set_face_group_toast_msg_old_user">"Prin apăsarea lungă pe imaginea unei persoane, chipurile pot fi grupate după familie, prieteni, colegi, etc."</string>

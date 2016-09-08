@@ -35,7 +35,7 @@
     <string name="notif_receive_cancel">%1$s fişiere nu au fost transferate</string>
     <string name="notif_receive_lockscreen">Apăsați pentru a vizualiza detaliile</string>
     <string name="notif_receive_progress">Se primesc %1$s fişiere…</string>
-    <string name="notif_receive_success">Au fost primite %1$s fişiere</string>
+    <string name="notif_receive_success">Au fost primite fișiere de la %1$s</string>
     <string name="notif_send_cancel">Transferul fişierului către %1$s a fost întrerupt</string>
     <string name="notif_send_cancel_multi">Transferul fişierului către %1$s+%2$ a fost întrerupt</string>
     <string name="notif_send_progress">Trimitere fişiere la %1$s…</string>

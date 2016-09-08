@@ -229,7 +229,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
     <string name="passport_loading">Doar o secundă…</string>
     <string name="passport_login">Conectaţi-vă</string>
-    <string name="passport_login_check_find_device">Se verifică starea serviciului Localizare dispozitiv…</string>
+    <string name="passport_login_check_find_device">Se obțin informațiile despre securitatea telefonului…</string>
     <string name="passport_login_check_find_device_failed_title">"Nu s-a putut verifica starea Localizării telefonului"</string>
     <string name="passport_login_failed">Nu se poate conecta</string>
     <string name="passport_login_find_device_bind">Acest telefon este asociat unui cont Mi existent (%s).</string>
@@ -238,7 +238,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_notice">Conectare…</string>
     <string name="passport_login_prompt">Un cont Mi. Toate serviciile Mi.</string>
     <string name="passport_login_title">Conectaţi-vă la un cont existent</string>
-    <string name="passport_login_using_other_ways"><u>Alte modalități de conectar</u>></string>
+    <string name="passport_login_using_other_ways"><u>Alte modalități de conectare</u></string>
     <string name="passport_login_with_email_or_id"><u>Conectaţi-vă cu adresa de e-mail sau ID-ul contului Mi</u></string>
     <string name="passport_miui_provision_find_status_text">"Acest telefon este asociat unui cont Mi existent (%1$s); trebuie să introduceți parola pentru a se verifica telefonul.
 (Cod de deblocare: %2$s)"</string>

@@ -1354,6 +1354,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
     <string name="haptic_feedback_level">Intensitate vibrare</string>
     <string name="hardkeyboard_category">Setări pentru tastatura fizică</string>
+    <string name="hardware_version">Versiune hardware</string>
     <string name="has_screenshot_sound">Sunet captură de ecran</string>
     <string name="hdcp_checking_dialog_title">Setaţi comp. verif. HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
@@ -1718,6 +1719,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockscreen_glogin_checking_password">Verificare…</string>
     <string name="lockscreen_glogin_password_hint">Parolă</string>
     <string name="lockscreen_glogin_submit_button">Conectare</string>
+    <string name="long_press_volume_down">Apăsarea lungă a butonului Volum -</string>
     <string name="lte_ram_dump_off">Dezactivaţi imaginea de memorie RAM LTE</string>
     <string name="lte_ram_dump_on">Activaţi imaginea de memorie RAM LTE</string>
     <string name="macaddr_label">Adresa MAC:</string>
@@ -2041,7 +2043,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="open_wifi_connect_summary">Atingeţi pentru a vizualiza detalii</string>
     <string name="open_wifi_connect_title">Conectaţi-vă la %1$s</string>
     <string name="optimization_cancel">Renunțați</string>
-    <string name="optimization_close">Dezactivați &amp; reporniți</string>
+    <string name="optimization_close">Dezactivați și reporniți</string>
     <string name="optimization_open">Activați</string>
     <string name="other_advanced_settings">Setări adiţionale</string>
     <string name="other_personal_settings">Setări personale</string>

@@ -701,7 +701,7 @@ Abonați-vă și începeți să vorbiți"</string>
     <string name="network_settings_select_automatic_hint">"Nu se poate înregistra în rețeaua pe care ați selectat-o.
 Se va utiliza rețeaua preferată."</string>
     <string name="network_settings_title">Rețele mobile</string>
-    <string name="network_settings_turn_off">oprit</string>
+    <string name="network_settings_turn_off">Oprit</string>
     <string name="network_settings_warn_message">Dispozitivul se va conecta numai la rețelele selectate manual.</string>
     <string name="network_type">Tip de reţea</string>
     <string name="network_type_2g">2G</string>

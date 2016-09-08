@@ -735,7 +735,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="press_to_continue_match">Apăsați pentru a continua</string>
     <string name="press_to_match">Apăsați pentru a sincroniza</string>
   <string name="prev_remote">Telecomanda anterioară</string>
-    <string name="privacy_content">"Citiți Politica de confidențialitate &lt;a href=http://www.miui.com/res/doc/privacy/en.html&gt; și Acordul utilizatorului &lt;a href=http://www.miui.com/res/doc/eula/en.html&gt; ale Xiaomi înainte de a utiliza Telecomanda Mi. Aplicația trebuie să se conecteze la internet și să acceseze localizarea pentru a funcționa în mod normal."</string>
+    <string name="privacy_content">"Citiți <u>Politica de confidențialitate</u> și <u>Acordul utilizatorului</u> ale Xiaomi înainte de a utiliza Telecomanda Mi. Aplicația trebuie să se conecteze la internet și să acceseze localizarea pentru a funcționa în mod normal."</string>
     <string name="privacy_nohit">"Nu arăta din nou"</string>
     <string name="privacy_title">Termeni și condiții</string>
     <string name="program_booking_book_filter_book_status">Starea rezervării</string>
