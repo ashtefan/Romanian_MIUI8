@@ -835,7 +835,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="other_settings">Alte setări de apel</string>
     <string name="other_settings_category">Altele</string>
     <string name="overseas_roaming_setting">Date mobile în roaming</string>
-    <string name="password">Parolă</string>
     <string name="password_changed">Parolă modificată cu succes</string>
     <string name="password_title">Parolă</string>
     <string name="path_answer_state_setting_title">Aplicații de sistem/Telefon/Setările apelurilor primite</string>
@@ -917,7 +916,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="please_enter_phone_number">Introduceți numărul de telefon</string>
     <string name="plmn_list_setting_add_plmn">PLMN nou</string>
     <string name="plmn_list_setting_title">Preferinţe</string>
-    <string name="port">Port</string>
     <string name="port_title">Numărul portului</string>
     <string name="preference_auto_ip_summary_disable">Dezactivat</string>
     <string name="preference_category_ringtone">Ton de sonerie și vibrare</string>
@@ -1050,7 +1048,6 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="saving_account">Se salvează contul…</string>
     <string name="search_antispam_setting">Listă blocări</string>
     <string name="search_app_name">Telefon;Înregistrarea apelurilor;Redirecționarea apelurilor;redirecționare;Apel în așteptare;Lista blocărilor;Codul țării;Codul ariei;Codurile țării;Codurile ariei;Înregistrare apeluri;Înregistrare apel;Tastatură numerică;Apel;Apeluri;Telefonie;VoIP;VoLTE;Apel pierdut;Apeluri pierdute;SIP;T9;Apelare IP;FDN</string>
-    <string name="search_app_name">Telefon</string>
     <string name="search_networks">Căutaţi reţele</string>
     <string name="selectContact">selectarea unei persoane din agendă</string>
     <string name="select_automatically">Selectaţi în mod automat</string>
