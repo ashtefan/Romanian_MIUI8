@@ -30,7 +30,6 @@
   <string name="ad_card_network_error">Nu există nicio conexiune de rețea, vă rugăm să încercați din nou mai târziu!</string>
   <string name="ad_card_spread">Publicitate</string>
     <string name="add_calendar">Abonare</string>
-  <string name="add_card">Adaugă carte</string>
     <string name="add_topic_success">Abonare reuşită la \"%s\"</string>
     <string name="adding_calendar">Abonamente</string>
     <string name="agenda_today">AZI, %1$s</string>
@@ -275,7 +274,7 @@
     <string name="no_network">Nicio rețea, încercați să reîmprospătați din nou rețeaua</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_title_label">(Fără titlu)</string>
-    <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont în pasul următor.</string>
+    <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont pentru a continua.</string>
     <string name="no_visiable_calendar_select_account">Selectare cont</string>
     <string name="no_visiable_calendar_title">Selectare Cont Calendar</string>
     <string name="not_synced">nesincronizat</string>

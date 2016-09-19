@@ -270,8 +270,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_restore_title">Restabilire automată</string>
     <string name="auto_startup_application_manage">Pornire</string>
     <string name="auto_startup_count">%d aplicaţii pornesc automat</string>
-    <string name="auto_upload_debug_log_summary">Datele de diagnosticare pot include informații despre modul de utilizare a componentelor hardware, sistemul de operare și aplicații. Datele vor fi utilizate pentru localizarea și analizarea problemelor din sistem și nu vor fi folosite pentru identificarea utilizatorului.</string>
-    <string name="auto_upload_debug_log_title">Trimite Date de Diagnosticare în mod automat</string>
     <string name="automatic_brightness">Luminozitate automată</string>
     <string name="available_size">%s (Disponibil)</string>
     <string name="awake">Durată de activitate a dispozitivului</string>
@@ -297,6 +295,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="band_mode_succeeded">Reuşit</string>
     <string name="band_mode_title">Setaţi banda GSM/UMTS</string>
     <string name="baseband_version">Versiunea benzii de bază</string>
+    <string name="batch_delete_saved_network">Ștergeți rețeaua salvată: %s?</string>
     <string name="battery_action_app_details">Informaţii despre aplicaţie</string>
     <string name="battery_action_app_settings">Setări aplicaţii</string>
     <string name="battery_action_bluetooth">Setări Bluetooth</string>
@@ -501,14 +500,14 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_pairing_decline">Anulaţi</string>
     <string name="bluetooth_pairing_device_down_error_message">Nu se poate comunica cu %1$s.</string>
     <string name="bluetooth_pairing_dialog_contants_request">%1$s dorește să acceseze Agenda și istoricul de apelare.</string>
-    <string name="bluetooth_pairing_dialog_paring_request">%1$s dorește să se împerecheze prin Bluetooth. Când se va conecta, va avea acces la Agenda dumenavoastră și la istoricul de apelare.</string>
+    <string name="bluetooth_pairing_dialog_paring_request">%1$s dorește asocierea prin Bluetooth. Când se va conecta, va avea acces la Agenda dumenavoastră și la istoricul de apelare.</string>
     <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Partajați Agenda?</string>
     <string name="bluetooth_pairing_dialog_title">Acceptați asocierea cu acest dispozitiv?</string>
-    <string name="bluetooth_pairing_error_message">Nu s-a putut împerechea cu %1$s.</string>
+    <string name="bluetooth_pairing_error_message">Nu s-a putut asocia cu %1$s.</string>
     <string name="bluetooth_pairing_key_msg">Parolă de asociere</string>
     <string name="bluetooth_pairing_pin_error_message">Nu s-a putut împerechea cu %1$s din cauza unui cod PIN sau al unei chei de acces incorecte.</string>
-    <string name="bluetooth_pairing_rejected_error_message">Împerechere respinsă de %1$s.</string>
-    <string name="bluetooth_pairing_request">Solicitare de împerechere prin Bluetooth</string>
+    <string name="bluetooth_pairing_rejected_error_message">Asociere respinsă de %1$s.</string>
+    <string name="bluetooth_pairing_request">Solicitare de asociere prin Bluetooth</string>
     <string name="bluetooth_pairing_will_share_phonebook">Asocierea permite accesul la Agendă și la istoricul de apelare.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Se perm. disp. acces la internet local</string>
     <string name="bluetooth_pan_profile_summary_use_for">Utilizaţi pentru acces internet</string>
@@ -522,7 +521,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_preference_device_settings">Setările dispozitivului</string>
     <string name="bluetooth_preference_found_devices">Dispozitive disponibile</string>
     <string name="bluetooth_preference_no_found_devices">Nu există dispozitive disponibile</string>
-    <string name="bluetooth_preference_paired_devices">Dispozitive împerecheate</string>
+    <string name="bluetooth_preference_paired_devices">Dispozitive asociate</string>
     <string name="bluetooth_preference_paired_dialog_contacts_option">Agendă și istoric de apelare</string>
     <string name="bluetooth_preference_paired_dialog_internet_option">Conexiune la internet</string>
     <string name="bluetooth_preference_paired_dialog_keyboard_option">Tastatură</string>
@@ -696,7 +695,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="children_mode_tips_off">După activarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal.</string>
     <string name="children_mode_tips_on">După dezactivarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal.</string>
     <string name="children_mode_title">Modul Copil</string>
-    <string name="choose_smartcover_type">Selectaţi tipul husei</string>
     <string name="choose_timezone">Selectaţi fusul orar</string>
     <string name="cleaner">Curăţare</string>
     <string name="clear_activities">Ştergeţi valorile standard</string>
@@ -710,6 +708,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_failed_dlg_title">Ştergeţi datele</string>
     <string name="clear_user_data_text">Ştergeţi datele</string>
     <string name="close_dialog">OK</string>
+    <string name="close_gesture">Închideți utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
     <string name="color_black">Negru</string>
@@ -792,6 +791,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
 Pentru a continua să utilizați telefonul trebuie să-l resetați la valorile din fabrică. Atunci când veți configura telefonul după resetare, veți putea restaura datele pentru care ați creat copii de rezervă în contul Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Decriptare eșuată</string>
     <string name="crypt_keeper_decrypt_methods">După ce veți cripta telefonul, asigurați-vă că ați setat o modalitate de blocare a ecranului(model, PIN sau parolă); vă va fi necesară pentru deblocarea ecranului și decriptarea telefonului ori de câte ori îl veți porni. Singura modalitate alternativă de decriptare este revenirea la setările din fabrică, ceea ce va șterge toate datele.</string>
+    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Dacă v-ați criptat telefonul, va trebui să introduceți parola, PIN-ul sau modelul de deblocare de fiecare dată când reporniți telefonul pentru a-l decripta."</string>
     <string name="crypt_keeper_decrypt_methods_title">Decriptarea telefonului</string>
     <string name="crypt_keeper_desc">"Puteţi să criptaţi conturi, setări, aplicaţii descărcate şi datele acestora, fişiere media şi alte tipuri de fişiere. După criptarea telefonului, trebuie să introduceţi un cod numeric sau o parolă pentru a-l decripta de fiecare dată când îl porniţi. Nu puteţi decripta telefonul decât prin revenirea la configuraţia din fabrică, ceea ce va şterge toate datele de pe acesta.
 
@@ -958,6 +958,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
     <string name="delete_legacy_fingerprint">Ștergeți</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
+    <string name="delete_saved_network">Ștergere rețea salvată</string>
     <string name="deny">Refuzaţi</string>
     <string name="deny_sms_message">Nu permiteți aplicațiilor instalate să trimită SMS-uri</string>
     <string name="deny_sms_title">Blocare SMS</string>
@@ -1346,6 +1347,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="global_locale_change_title">Schimbaţi limba</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="google_wallet">Portofel Google</string>
+    <string name="got_it">Am înțeles</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enter_ask">Se întreabă înainte de a intra în modul Operare cu o mână</string>
@@ -1400,6 +1402,8 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="hidden_ssid_label">SSID ascuns:</string>
+    <string name="hide">Ascundeți</string>
+    <string name="hide_screen_button">Ascundeți butoanele de pe ecran</string>
     <string name="high_performance_notif_summary">Modul Performanță dezactivează controalele de temperatură și limitele de consum ale acumulatorului, ceea ce permite dispozitivului să ruleze la capacitate maximă. Acest lucru poate cauza încălzirea dispozitivului și să reducă durata de viață a acumulatorului.</string>
     <string name="high_performance_notif_title">Utilizare acumulator</string>
     <string name="high_performance_title">Se pare că rulează un test de evaluare. Setaţi gestionarea energiei la \"Performanţă\" pentru rezultate optime.</string>
@@ -1565,7 +1569,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="local_backup_section_title">Copii de rezervă locale</string>
     <string name="locale_default">Prestabilit</string>
     <string name="locale_settings">Localizare</string>
-    <string name="location_access_on">Activat</string>
+    <string name="location_access_summary">Aplicațiile pot obține date despre locația dumneavoastră</string>
     <string name="location_access_title">Acces la locaţia mea</string>
     <string name="location_agps_apn_choose_dialog_title">Tipuri APN</string>
     <string name="location_agps_apn_summary">Selectaţi tipul APN preferat</string>
@@ -1732,8 +1736,8 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="manage_device_admin">Administratori dispozitiv</string>
     <string name="manage_device_admin_summary">Afişaţi sau dezactivaţi administratorii dispozitivului</string>
     <string name="manage_mobile_plan_title">Plan de date mobile</string>
-    <string name="manage_notification_access">Acces la notificări</string>
     <string name="manage_notification_access_summary_zero">Aplicațiile nu pot citi notificările</string>
+    <string name="manage_notification_access_title">Acces la notificări</string>
     <string name="manage_space_text">Gestionaţi spaţiul</string>
     <string name="manage_trust_agents">Agenți de încredere</string>
     <string name="manage_trust_agents_summary">Vizualizați sau dezactivați agenții de încredere</string>
@@ -1904,6 +1908,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, căşti şi alte setări audio</string>
     <string name="music_audio_effect_settings">Setări efecte</string>
     <string name="music_dirac_control">Optimizare calitate audio</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
     <string name="music_dirac_mode_general">General</string>
     <string name="music_dirac_mode_general_earbuds">General</string>
@@ -2000,7 +2005,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="no_updates_warning2">"Relaxați-vă, vă vom comunica dacă există o actualizare :)"</string>
     <string name="noise_suppression">Suprimare zgomot</string>
     <string name="normal_date_format">Regional (%s)</string>
-    <string name="normal_smartcover_title">Carcasă frontală opacă</string>
     <string name="not_installed">Neinstalată</string>
     <string name="notification_app_settings_button">Setările notificărilor</string>
     <string name="notification_breathing_light_color_title">Notificări</string>
@@ -2104,6 +2108,8 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="page_layout_page2_small_title">Foarte mic</string>
     <string name="page_layout_page2_title">Previzualizaţi</string>
     <string name="page_layout_small_title">Foarte mic</string>
+    <string name="paper_mode_end_time_title">Oră sfârșit</string>
+    <string name="paper_mode_start_time_title">Oră de început</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
     <string name="password_entrance_title">Blocare ecran</string>
     <string name="password_guard">Blocare</string>
@@ -2350,6 +2356,8 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, Acasă şi Înapoi</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
     <string name="pref_operational_key">Butoane de navigare</string>
+    <string name="pref_volume_launch_camera_summary">Apăsați de două ori butonul de Volume- pentru a accesa Camera foto</string>
+    <string name="pref_volume_launch_camera_title">Lansare Cameră foto</string>
     <string name="pref_volume_wake_summary">Apăsarea butoanelor de volum va trezi dispozitivul</string>
     <string name="pref_volume_wake_title">Trezire cu butoanele de volum</string>
     <string name="preference_change_password_title">Modificaţi parola</string>
@@ -2628,8 +2636,12 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="runningservicedetails_stop_dlg_title">Opriţi serviciul sistemului?</string>
     <string name="runningservices_settings_summary">Vedeţi şi controlaţi serviciile care funcţionează în prezent</string>
     <string name="runningservices_settings_title">Servicii în curs de funcţionare</string>
+    <string name="saved_wifi">Rețea salvată</string>
+    <string name="saved_wifi_delete">Ștergeți</string>
     <string name="scan_list_label">Rezultate scanare:</string>
     <string name="screen">Ecran</string>
+    <string name="screen_button">Butoane ecran</string>
+    <string name="screen_button_tips">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
     <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Citire"</string>
     <string name="screen_color_temperature">Temperatură</string>
@@ -2658,6 +2670,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_paper_mode_range_title">Setări</string>
     <string name="screen_paper_mode_set_apps_title">Aplicaţiile modului lectură</string>
     <string name="screen_paper_mode_summary">Se reduc reflexiile ecranului</string>
+    <string name="screen_paper_mode_time_title">Programat</string>
     <string name="screen_paper_mode_title">Mod lectură</string>
     <string name="screen_paper_mode_turn_off">Oprit</string>
     <string name="screen_paper_mode_turn_on">Pornit</string>
@@ -3095,8 +3108,7 @@ Codul PIN poate fi incorect."</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="small_font">Mică</string>
-    <string name="smallwindow_smartcover_title">Carcasă frontală transparentă</string>
-    <string name="smartcover_sensitive_title">Mod Smartcover</string>
+    <string name="smartcover_sensitive_title">Carcasă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
@@ -3142,7 +3154,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_app_enable_floating">Notificări plutitoare</string>
     <string name="status_bar_app_enable_keyguard">Blocarea ecranului</string>
     <string name="status_bar_app_enable_message">Insigne pictograme</string>
-    <string name="status_bar_key_position_custom">Poziție personalizată a butoanelor</string>
+    <string name="status_bar_key_position_custom">Modificați poziția butoanelor</string>
     <string name="status_bar_screen_button_key">Butoane virtuale</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>
     <string name="status_bar_screen_key_home">Butonul Acasă</string>
@@ -3396,7 +3408,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="uicc_mount">Montați stocarea UICC</string>
     <string name="uicc_mount_summary"/>
     <string name="uicc_unmount_inform_text">Stocarea UICC va fi demontată.</string>
-    <string name="under_keyguard">În blocarea ecranului</string>
+    <string name="under_keyguard">Ecran blocat</string>
     <string name="uninstall_all_users_text">Dezinstalaţi pentru toţi utilizatorii</string>
     <string name="uninstall_dlg_msg">Dezinstalarea va șterge toate datele aplicației.</string>
     <string name="uninstall_dlg_title">Dezinstalați acum?</string>
@@ -3442,6 +3454,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
     <string name="untitled_apn">Fără titlu</string>
     <string name="update_progress_for_updates">Actualizare (%s)</string>
+    <string name="upload_debug_log_summary">Datele de diagnosticare pot include informații despre utilizarea componentelor hardware, sistemul de operare și aplicații. Datele vor fi utilizate pentru localizarea și analizarea sistemului și nu vor fi folosite niciodată pentru identificarea dumneavoastră.</string>
+    <string name="upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="usage_access_title">Aplicaţii cu acces la utilizare</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>

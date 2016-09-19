@@ -23,6 +23,7 @@
     <string name="action_settings">Setări</string>
     <string name="ad_close">Închideți</string>
     <string name="ad_extension">Promoții</string>
+    <string name="ad_mark">Reclame</string>
     <string name="add_music">Adăugaţi melodii</string>
     <string name="add_to_last_of_playlist">Adaugă la sfârșitul listei de redare</string>
     <string name="alaka_required">"Această melodie nu este disponibilă."</string>
@@ -200,6 +201,7 @@
     <string name="download_done_btn">Descărcată</string>
     <string name="download_error">Eroare</string>
     <string name="download_error_insufficient_space">Spațiu insuficient</string>
+    <string name="download_fail_to_fetch_info">"Nu s-a putut descărca, încercați din nou"</string>
     <string name="download_filesize_unknown">Necunoscută</string>
     <string name="download_in_process">DESCĂRCARE</string>
     <string name="download_info_count_deleted_tasks">%s descărcări eliminate</string>
@@ -362,6 +364,7 @@
     <string name="list_item_play_FM_radio">Atingeți pentru a porni radio FM</string>
     <string name="list_item_play_all_tracks">Redaţi toate melodiile</string>
     <string name="listview_index_of_total">%1$d/%2$d</string>
+    <string name="loadercontainer_loading">Doar o secundă…</string>
     <string name="loading_hint">Doar o secundă…</string>
     <string name="local_music">Muzică locală</string>
     <string name="local_music_empty">Lista de redare locală este goală</string>
@@ -454,6 +457,7 @@
     <string name="nav_online_billboard">Topuri muzicale</string>
     <string name="nav_online_fm">Radio</string>
     <string name="nav_online_playlist">Liste de redare</string>
+    <string name="network_error_and_retry">"Nu s-a putut conecta; atingeți pentru a reîncerca"</string>
     <string name="network_failure">Verificaţi conexiunea şi încercaţi din nou.</string>
     <string name="network_request_error">Nu se poate conecta la rețea</string>
     <string name="network_settings_error">Nu se poate conecta la rețea</string>
@@ -511,7 +515,7 @@
     <string name="online_music_enabled_summary">Ascultaţi și descărcaţi melodiile preferate. Vizualizaţi melodiile de top și listele de redare organizate oriunde aţi merge!</string>
     <string name="online_music_enabled_title">Streaming-ul gratuit este aici</string>
     <string name="online_playlist_is_empty">Listă de redare goală</string>
-    <string name="online_recommend">Recomandate</string>
+    <string name="online_recommend">Listă de redare</string>
     <string name="online_special">Speciale</string>
     <string name="open_download">Deschideți</string>
     <string name="order_pending">Aşteptarea confirmării...</string>
@@ -664,6 +668,7 @@
     <string name="share_chooser_title">Distribuiţi utilizând</string>
     <string name="share_description">Din Muzică Mi</string>
     <string name="share_end_note">Din Muzică Mi</string>
+    <string name="share_image_error">Nu s-a putut partaja imaginea datorită unei erori de descărcare</string>
     <string name="share_text_list">"Listă de redare din Muzică Mi: "</string>
     <string name="share_text_song">"Melodie în Muzică Mi: "</string>
     <string name="show_more">Arătați %s în plus</string>
@@ -714,6 +719,19 @@
     <string name="tab_track">Melodii</string>
     <string name="tab_track_list">Melodii</string>
     <string name="take_effect_afater_restart">Trebuie să reporniţi aplicaţia Muzică pentru ca această setare să intre în vigoare.</string>
+    <string name="talkback_back">Mergeți înapoi</string>
+    <string name="talkback_device">Redați pe alte dispozitive</string>
+    <string name="talkback_download">Descărcați</string>
+    <string name="talkback_favorite">Dați un Like melodiei</string>
+    <string name="talkback_mode">Rulați în buclă</string>
+    <string name="talkback_more">Mai multe meniuri</string>
+    <string name="talkback_next">Melodia următoare</string>
+    <string name="talkback_play">Redare / Pauză</string>
+    <string name="talkback_pre">Melodia anterioară</string>
+    <string name="talkback_progress">Bara de progres</string>
+    <string name="talkback_radar">Recunoaștere melodii</string>
+    <string name="talkback_search">Căutați</string>
+    <string name="talkback_share">Partajați</string>
     <string name="task_already_exist">Sarcina există deja</string>
     <string name="ticket_summary">Cumpărați bilete pentru spectacole, concerte și alte evenimente</string>
     <string name="ticket_title">Arată biletele</string>
@@ -731,6 +749,7 @@
     <string name="toast_cancel_download">Descărcare întreruptă</string>
     <string name="toast_cancel_play">Redarea a fost oprită</string>
     <string name="toast_download_error_by_count_limit">"Ați atins limita de descărcări pentru luna aceasta."</string>
+    <string name="toast_download_error_by_not_login">Conectați-vă la contul Mi și încercați din nou.</string>
     <string name="toast_download_error_by_vip_required">Obțineți un pachet de Melodii Premium pentru a descărca această melodie.</string>
     <string name="toast_download_in_process">Descărcare în curs</string>
     <string name="toast_normal_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Standard</string>

@@ -470,7 +470,7 @@
     <string name="vp_mplayer_error_timed_out">Operațiunea a eșuat</string>
     <string name="vp_newest_ep">Nou</string>
     <string name="vp_next_ci">Următorul</string>
-    <string name="vp_notify_apk_installed">Aplicația %1$s s-a instalat cu succes</string>
+    <string name="vp_notify_apk_installed">Aplicația s-a instalat cu succes</string>
     <string name="vp_offline">Off-line</string>
     <string name="vp_offline_status_done">Finalizat</string>
     <string name="vp_offline_status_dowloading">Descărcare</string>

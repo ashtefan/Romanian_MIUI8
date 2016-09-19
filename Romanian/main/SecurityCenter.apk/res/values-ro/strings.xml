@@ -253,7 +253,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
     <string name="card_main_xspace_title">Aplicații clonate</string>
     <string name="celcius_symbol">℃</string>
-    <string name="charging_text_battery_full_time">Durata ultimei încărcări: </string>
+    <string name="charging_text_battery_full_time">"Ultima încărcare "</string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
     <string name="charging_text_battery_perfect">Încărcat complet</string>
     <string name="charging_text_time_calculating">Se calculează durata de încărcare…</string>
@@ -628,6 +628,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="menu_text_antispam">Listă blocări</string>
     <string name="menu_text_antivirus">Scanare viruşi</string>
     <string name="menu_text_garbage_cleanup">Curăţare</string>
+  <string name="menu_text_garbage_cleanup_danger">mai mult de %s</string>
     <string name="menu_text_license_manager">Permisiuni</string>
     <string name="menu_text_networkassistants">Utilizare date</string>
     <string name="menu_text_networkassistants_danger">Peste: %s</string>
@@ -776,7 +777,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="path_securitycenter">Aplicații de sistem/Securitate</string>
     <string name="path_securitycenter_settings">Aplicații de sistem/Securitate</string>
     <string name="pay_charge">Achiziţionaţi date suplimentare</string>
-    <string name="pc_install_manager">Instalați prin USB</string>
+    <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
     <string name="percent_symbol">%</string>
@@ -812,8 +813,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="power_btn_analyze">Analizare utilizare acumulator</string>
     <string name="power_cell">Semnal mobil</string>
     <string name="power_center_auto_shutdown">Planificare pornire/oprire</string>
-    <string name="power_center_battery_full">Acumulator încărcat complet</string>
-    <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
+    <string name="power_center_battery_full">"Acumulator încărcat complet "</string>
+    <string name="power_center_charge_time">%1$spână la încărcarea completă</string>
     <string name="power_center_consume_rank">Utilizare acumulator</string>
     <string name="power_center_consume_time">Disponibil: %1$s</string>
     <string name="power_center_custom_title">Profil curent acumulator</string>
@@ -1138,6 +1139,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="summary_flow_purchase_beyond">Ați depășit limita de date lunare din planul operatorului dvs. cu %s MB</string>
     <string name="summary_flow_verify">Nu au fost sincronizate statisticile de utilizare a datelor de la operatorul dvs. de %d zile</string>
     <string name="summary_flow_verify_failed">Ajustați în mod automat utilizarea datelor pentru a evita taxarea suplimentară</string>
+    <string name="summary_garbage_clean">Curățați memoria cache pentru a obține mai mult spațiu</string>
     <string name="summary_garbage_lib">Utilizați cele mai recente definiții pentru a elimina programele spyware, adware și alte reziduuri nedorite</string>
     <string name="summary_install_virus">Verificare aplicații pentru viruși înainte de instalare</string>
     <string name="summary_live_talk_purchase">Doar o,o5 RON/minut pentru apelurile locale.</string>
@@ -1264,6 +1266,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="title_flow_rank">Utilizarea datelor mobile</string>
     <string name="title_flow_verify">Comparare contabilizare</string>
     <string name="title_flow_verify_failed">"Nu s-a putut ajusta 5 zile la rând"</string>
+    <string name="title_garbage_clean">Dimensiunea memoriei cache a aplicațiilor a atins %s</string>
     <string name="title_garbage_lib">Actualizați definițiile pentru gunoi</string>
     <string name="title_install_virus_no">Monitorizare instalare dezactivată</string>
     <string name="title_install_virus_yes">Monitorizare instalare activată</string>

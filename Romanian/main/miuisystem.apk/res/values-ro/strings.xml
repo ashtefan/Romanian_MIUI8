@@ -8,6 +8,14 @@
     <string name="cloud_state_disabled">Sincronizarea cu Mi Cloud este dezactivată</string>
     <string name="cloud_state_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizat cu Mi Cloud</string>
+    <string name="cta_button_continue">De acord</string>
+    <string name="cta_button_quit">Ieșire</string>
+    <string name="cta_check_reminder">"Nu arăta din nou"</string>
+    <string name="cta_message_license">Utilizând acest serviciu, acceptați condițiile din Termenii Serviciului și Politica de Confidențialitate.</string>
+    <string name="cta_message_permission">Această aplicație trebuie să %2$s pentru a funcționa în mod normal.</string>
+    <string name="cta_permission_and"> și </string>
+    <string name="cta_permission_delimiter">, </string>
+    <string name="cta_title">Termenii de Utilizare</string>
     <string name="daydream">Daydream</string>
     <string name="delete_frequent_phrases">Ștergeți expresiile frecvente</string>
     <string name="delete_frequent_phrases_confirm">Ștergeți expresiile frecvente selectate?</string>

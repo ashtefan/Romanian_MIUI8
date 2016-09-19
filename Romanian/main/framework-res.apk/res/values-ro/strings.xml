@@ -799,7 +799,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permdesc_bind_connection_service">Permite aplicației să interacționeze cu serviciile de telefonie pentru a iniția/prelua apeluri.</string>
      <string name="permdesc_bind_incall_service">Permite aplicației să controleze când și cum vede utilizatorul ecranul de primire apeluri.</string>
      <string name="permdesc_bind_trust_agent_service">Permite aplicației să acceseze serviciile de încredere.</string>
-     <string name="permdesc_bluetooth">Permite aplicaţiei să vadă configuraţia telefonului Bluetooth, să efectueze şi să accepte conexiuni cu dispozitive împerecheate.</string>
+     <string name="permdesc_bluetooth">Permite aplicaţiei să vadă configuraţia telefonului Bluetooth, să efectueze şi să accepte conexiuni cu dispozitive asociate.</string>
      <string name="permdesc_bluetoothAdmin">Permite aplicaţiei să configureze telefonul Bluetooth local, să descopere şi să se împerecheze cu dispozitive la distanţă.</string>
      <string name="permdesc_bluetoothMap">Permite aplicației să acceseze datele Bluetooth MAP.</string>
      <string name="permdesc_bluetoothPriv">Permite aplicației să se conecteze la dispozitive de la distanță, fără intervenția utilizatorului.</string>

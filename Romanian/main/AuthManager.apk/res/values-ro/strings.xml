@@ -168,7 +168,7 @@
     <string name="HIPS_Perm_Read_MMS_Desc">Citire mesaje multimedia</string>
     <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplicații pot citi mesajele multimedia</string>
     <string name="HIPS_Perm_Read_SMS">Citire mesaje SMS</string>
-    <string name="HIPS_Perm_Read_SMS_Desc">Citire mesaje SMS</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Citirea mesajelor SMS</string>
     <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicații pot citi mesajele SMS</string>
     <string name="HIPS_Perm_Recorder_Audio">Înregistrare audio</string>
     <string name="HIPS_Perm_Recorder_AudioVideo">Înregistrare audio şi video</string>
@@ -231,7 +231,7 @@
     <string name="HIPS_Perm_process_outgoing_calls">Accesare Telefon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizarea și încheierea apelurilor</string>
     <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
-    <string name="HIPS_Perm_read_notification_sms_Desc">Citire SMS-uri</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">Citire date despre serviciul SMS</string>
     <string name="HIPS_Perm_show_when_locked">Afișare în Blocarea ecranului</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Afișare în Blocarea ecranului</string>
     <string name="HIPS_Perm_use_sip">Servicii video</string>

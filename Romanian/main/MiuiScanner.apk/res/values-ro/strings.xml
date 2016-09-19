@@ -320,6 +320,15 @@
     <string name="preparing_sd">Se pregătește mediul intern de stocare…</string>
     <string name="previous">Înapoi</string>
     <string name="qr_code_details">Detalii cod QR:</string>
+    <string name="recognition_error_download_cancel">Mai târziu</string>
+    <string name="recognition_error_download_data_msg">Descărcați motorul de recunoaștere pentru a scana carduri. Dimensiunea acestuia este de circa 15 MB. Utilizați datele mobile pentru a-l descărca?</string>
+    <string name="recognition_error_download_fail">"Nu s-a putut descărca motorul de recunoaștere"</string>
+    <string name="recognition_error_download_msg">Descărcați motorul de recunoaștere pentru a scana carduri. Dimensiunea acestuia este de circa 15 MB.</string>
+    <string name="recognition_error_download_no_network">"Nu s-a putut descărca. Asigurați-vă că sunteți conectat la rețea."</string>
+    <string name="recognition_error_download_ok">Descărcați</string>
+    <string name="recognition_error_download_success">Descărcare finalizată</string>
+    <string name="recognition_error_download_title">Este necesar motorul de recunoaștere</string>
+    <string name="recognition_error_downloading">Se descarcă motorul de recunoaștere…</string>
     <string name="recognize">Scanați</string>
     <string name="recognize_fail">"Nu s-a putut citi codul"</string>
     <string name="scan_fail">"Nu s-a putut scana codul"</string>

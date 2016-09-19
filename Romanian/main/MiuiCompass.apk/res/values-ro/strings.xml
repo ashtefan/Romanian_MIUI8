@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="altitude">%.1f</string>
+    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitudine</string>
     <string name="altitude_uncalibrate_cancel">Anulaţi</string>
     <string name="altitude_uncalibrate_msg">Nu se poate calibra altitudinea cu exactitate fără GPS sau conexiune de date mobile.</string>

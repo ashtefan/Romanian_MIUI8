@@ -57,7 +57,7 @@
     <string name="callAgain">Apelaţi din nou</string>
     <string name="callBack">Apelaţi din nou</string>
     <string name="callDetailTitle">Detaliile apelului</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s m și %s s</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s min și %s sec</string>
     <string name="callShortcutActivityTitle">Selectaţi un număr pentru apelare</string>
     <string name="call_assistant">Apelaţi %s</string>
     <string name="call_callback">Apelaţi un număr cu apelare inversă</string>
@@ -133,7 +133,7 @@
     <string name="callrecordview_menu_show_sim">Apeluri %s</string>
     <string name="callrecordview_menu_show_stranger">Apelurile de la numere necunoscute</string>
     <string name="callrecordview_menu_show_title">Afişare jurnal apeluri</string>
-    <string name="callrecordview_menu_voip">VoIP</string>
+    <string name="callrecordview_menu_voip">Mi Voice</string>
     <string name="calls_voip_prompt">VoIP</string>
     <string name="cancel_confirmation_dialog_message">Renunţaţi la modificări?</string>
     <string name="cancel_confirmation_dialog_title">Anulaţi</string>
@@ -863,7 +863,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="percent_sign">%</string>
     <string name="percentage">%s %%</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_call_type_livetalk">LiveTalk</string>
+    <string name="phone_call_type_livetalk">Pachet de suplinire</string>
     <string name="phone_call_type_voip">Mi Voice</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numărul este prea lung</string>
@@ -1111,8 +1111,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="smart_group_company_label">După companie</string>
     <string name="smart_group_company_unavailable">Fără companie</string>
     <string name="smart_group_frequency_1">În ultima lună</string>
-    <string name="smart_group_frequency_2">În ultimele 3 luni</string>
-    <string name="smart_group_frequency_3">În ultimele 6 luni</string>
+    <string name="smart_group_frequency_2">Între 1 și 3 luni</string>
+    <string name="smart_group_frequency_3">Între 3 și 6 luni</string>
     <string name="smart_group_frequency_4">Cu mai mult de 6 luni în urmă</string>
     <string name="smart_group_frequency_label">După cele contactate recent</string>
     <string name="smart_group_label">Grupuri inteligente</string>

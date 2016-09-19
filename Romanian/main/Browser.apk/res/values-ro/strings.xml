@@ -245,7 +245,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="download_completed">Descărcat</string>
     <string name="download_default_path_txt">Memorează această alegere</string>
     <string name="download_dialog_default_path_invalid">Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…</string>
-    <string name="download_dialog_file_length_hint_txt">"Mărime fişier: "</string>
+    <string name="download_dialog_file_length_hint_txt">"Măr. fişier: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 kb</string>
     <string name="download_dialog_file_length_nolength_error_txt">Descărcare eşuată</string>
     <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
@@ -468,7 +468,7 @@ Părăsiţi această pagină?"</string>
     <string name="no_space_alert_text">Nu există spațiu suficient de stocare</string>
     <string name="no_space_alert_title">Descărcare întreruptă</string>
     <string name="no_space_clean_failed">Nu s-a putut obține spațiu suplimentar de stocare pe dispozitiv​</string>
-    <string name="not_allowed_open">"Nu s-a putut utiliza Browser-ul în boot-strap"</string>
+    <string name="not_allowed_open">"Nu s-a putut utiliza Browser-ul în modul OutOfBand"</string>
     <string name="not_remind_again">Memorează alegerea mea</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
     <string name="ok">OK</string>
@@ -641,7 +641,7 @@ Părăsiţi această pagină?"</string>
     <string name="same_folder_name_warning">Un grup cu același nume există deja</string>
     <string name="save_button_text">Salvaţi</string>
     <string name="save_dialog_title">Salvaţi</string>
-    <string name="save_file">Salvați %s fișiere</string>
+    <string name="save_file">Salvați fișierul %s?</string>
     <string name="save_file_already_exist_alert_message">Un fișier cu același nume există deja, doriţi să-l înlocuiţi?</string>
     <string name="save_file_already_exist_alert_title">Alertă</string>
     <string name="save_form_data_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>

@@ -122,6 +122,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_options_mail_check_frequency_push">Automat (Push)</string>
     <string name="account_setup_options_mail_window_1day">Ieri</string>
     <string name="account_setup_options_mail_window_1month">Luna trecută</string>
+    <string name="account_setup_options_mail_window_1quarter">Ultimul trimestru</string>
     <string name="account_setup_options_mail_window_1week">Săptămâna trecută</string>
     <string name="account_setup_options_mail_window_2weeks">Ultimele 2 săptămâni</string>
     <string name="account_setup_options_mail_window_3days">Ultimele trei zile</string>
@@ -143,7 +144,7 @@ Actualizaţi acum?"</string>
     <string name="actionbar_large_unread_count">%1$d+ necitite</string>
     <string name="activity_folder_selection">Selectaţi dosarul</string>
     <string name="activity_mailbox_selection">Selectaţi contul</string>
-    <string name="ad_merge">Organizare știri și reclame</string>
+    <string name="ad_merge">Reclame și notificări</string>
     <string name="add_account">Adăugaţi un cont</string>
   <string name="add_account_keywords">Adăugarea de conturi de e-mail, adăugarea de conturi de e-mail;add mail account</string>
     <string name="add_attachment">Atașaţi fișiere</string>
@@ -349,6 +350,7 @@ Actualizaţi acum?"</string>
     <string name="download_whole_email">Vizualizați și restul mesajului</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
+    <string name="drawer_contacts">Contacte</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
     <string name="eas_hotmail_email">hotmail.com</string>
     <string name="eas_outlook_email">outlook.com</string>
@@ -436,6 +438,8 @@ Actualizaţi acum?"</string>
     <string name="from_heading">"De la: "</string>
     <string name="general_preference_confirm_delete_label">Confirmaţi înainte de a şterge</string>
     <string name="general_preference_confirm_send_label">Confirmaţi înainte de a trimite</string>
+    <string name="general_preference_str_auto_translation">Traducere rapidă</string>
+    <string name="general_preference_str_auto_translation_prompt">Copiați conținutul corespunzător pentru a vedea traducerea</string>
     <string name="general_preference_text_zoom_dialog_title">Dimensiune text mesaj</string>
     <string name="general_preference_text_zoom_huge">Foarte mare</string>
     <string name="general_preference_text_zoom_label">Dimensiune text mesaj</string>
@@ -666,7 +670,7 @@ Actualizaţi acum?"</string>
     <string name="password_expired_dialog_content_fmt">Datele pentru %s sunt şterse de pe dispozitiv. Le puteţi restabili modificând codul PIN sau parola de blocare a ecranului. Modificaţi acum?</string>
     <string name="password_expired_dialog_title">Parola de blocare ecran este expirată</string>
     <string name="password_expired_ticker">Codul PIN sau parola de blocare a ecranului au expirat.</string>
-  <string name="path_about_account_setting">Mail / Setări</string>
+    <string name="path_about_account_setting">E-mail/Setări/Conturi</string>
     <string name="path_about_add_account">E-mail/Setări/Adăugare cont</string>
     <string name="path_about_battery_saver">E-mail/Setări/Economisire acumulator</string>
     <string name="path_about_confirm_before_delete">E-mail/Setări/Confirmare înainte de a șterge</string>
@@ -918,6 +922,14 @@ Actualizaţi acum?"</string>
     <string name="too_large_to_attach_multiple">Unul sau mai multe fişiere nu au fost ataşate. Limita maximă este de %1$s.</string>
     <string name="too_large_to_attach_single">Nu puteţi ataşa fişiere care depăşesc %1$s.</string>
     <string name="topic_merge">Îmbinați subiectele</string>
+    <string name="translation_loading">Încărcare…</string>
+    <string name="translation_no_result">Niciun rezultat</string>
+    <string name="translation_pronunciation_am">ArE</string>
+    <string name="translation_pronunciation_cn">Pinyin</string>
+    <string name="translation_pronunciation_en">BrE</string>
+    <string name="translation_pronunciation_other">Machine</string>
+    <string name="translation_query_failure">Căutarea a eșuat</string>
+    <string name="translation_technology_support">Suport tehnic oferit de PowerWord</string>
     <string name="trash_folder_selection_title">Dosarul Coş de gunoi pentru %s</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>

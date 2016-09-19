@@ -39,6 +39,7 @@
     <string name="notification_rec_title">Atingeţi pentru a vizualiza înregistrarea</string>
     <string name="pre_station">Staţia anterioară</string>
     <string name="record_completed">Înregistrare finalizată</string>
+    <string name="runtime_permission_ungranted">"Nu s-a putut porni înregistrarea datorită unei permisiuni neacordate"</string>
     <string name="search_dialog_title">Scanare staţii</string>
     <string name="set">Setaţi</string>
     <string name="station_check_favorite">Adăugaţi la presetări</string>

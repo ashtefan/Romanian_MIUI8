@@ -262,7 +262,7 @@
     <string name="login_immediately">Conectare</string>
     <string name="long_click_dialog_summary">Apăsați lung pentru a adăuga în lista de excepții.</string>
     <string name="long_click_dialog_title">Aviz</string>
-    <string name="low_memory_clean_dialog_msg">Trebuie să curățați mai întâi cel puțin %1$s fișiere</string>
+    <string name="low_memory_clean_dialog_msg">Trebuie să curățați mai întâi cel puțin 100 MB</string>
     <string name="low_memory_clean_dialog_ok_button">OK</string>
     <string name="low_memory_clean_dialog_title">NU mai există suficient spațiu de stocare disponibil</string>
     <string name="low_memory_warning_dialog_cancel_button">Renunțați</string>
