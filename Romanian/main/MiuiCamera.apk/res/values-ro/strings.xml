@@ -32,6 +32,7 @@
     <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
     <string name="cannot_connect_camera_once">Nu se poate conecta la camera foto</string>
     <string name="cannot_connect_camera_twice">Încă nu se poate conecta la camera foto. Încercați să reporniți telefonul.</string>
+    <string name="cannot_connect_camera_volte_call">Apelul video este în curs; încercați din nou mai târziu.</string>
     <string name="cannot_move_warning_message">Fotografiere, țineți dispozitivul nemişcat</string>
     <string name="confirm_location_alert">Înregistrare locaţie în fotografii</string>
     <string name="confirm_location_message">Înregistraţi locaţia în fotografiile captate?</string>

@@ -148,8 +148,6 @@
     <string name="edit_phrase">Editaţi răspunsurile rapide</string>
     <string name="edit_slide_activity">Modificaţi diapozitivul</string>
     <string name="edit_slideshow_activity">Modificaţi prezentarea</string>
-    <string name="enable_password_protect">Necesită parolă</string>
-    <string name="enable_visible_pattern_title">Faceţi modelul vizibil</string>
     <string name="english_subject_limit">Limită de 40 de caractere</string>
     <string name="enter_edit_mode">Editaţi mesajele</string>
     <string name="error_code_label">"Cod de eroare: "</string>
@@ -443,6 +441,14 @@
     <string name="priority_low">Redusă</string>
     <string name="priority_normal">Normală</string>
     <string name="privacy_mode_hint">Nu puteţi trimite mesaje în modul Vizitator</string>
+    <string name="privacy_password_message1">Parola de protejare a confidențialității este utilizată pentru aplicații, notițe și dosarele ascunse.</string>
+    <string name="privacy_password_message2">Utilizați parola de protejare a confidențialității. Aceasta este utilizată pentru aplicații, notițe și dosarele ascunse.</string>
+    <string name="privacy_password_message3">"Parola pentru mesajele private va fi înlocuită cu Parola de protejare a confidențialității și este utilizată pentru aplicații, notițe și dosarele ascunse."</string>
+    <string name="privacy_password_set_password">Setați</string>
+    <string name="privacy_password_title1">Setați parola</string>
+    <string name="privacy_password_title2">Utilizați parola de protejare a confidențialității</string>
+    <string name="privacy_password_title3">Actualizați-vă parola</string>
+    <string name="privacy_password_title4">Parolă actualizată</string>
     <string name="private_message">Mesaje private</string>
     <string name="private_new_notification">Notificări mesaj</string>
     <string name="private_protect">Parole</string>

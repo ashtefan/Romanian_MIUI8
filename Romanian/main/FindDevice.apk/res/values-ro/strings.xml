@@ -30,6 +30,7 @@ Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a r
     <string name="find_device_stop_noise">Apăsați OK pentru a opri sunetul</string>
     <string name="find_device_storage_corrupted">Stocarea Localizării dispozitivului este coruptă. Telefonul nu mai este în siguranță.</string>
     <string name="find_device_success_title">Localizare dispozitiv</string>
+    <string name="find_device_telephony_fault">Localizare dispozitiv: Eroare rețea telefonie (%s).</string>
     <string name="i_know">OK</string>
     <string name="lock_msg_phone">Informații de contact: %s</string>
     <string name="login_extra_steps">Verificarea autentificării</string>

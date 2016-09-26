@@ -21,6 +21,7 @@
     <string name="autosetmode">Setări</string>
     <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
     <string name="boot_recovery">Reporniţi în modul Recuperare</string>
+    <string name="button_delay_update_reboot">Reporniți și aplicați actualizarea</string>
     <string name="button_text_check">Căutați actualizări disponibile</string>
     <string name="button_text_later_reboot">Mai târziu</string>
     <string name="button_text_reboot">Reporniți acum</string>
@@ -34,7 +35,7 @@
     <string name="check_local_package_validate_error_button">OK</string>
     <string name="check_local_package_validate_error_msg">"Nu s-a putut verifica pachetul de actualizare."</string>
     <string name="check_local_package_wipe_btn">Ștergeți și actualizați</string>
-    <string name="check_local_package_wipe_msg">"Sunteți pe cale să reveniți la versiunea MIUI %s, care este mai veche decât cea curentă. Datele personale vor fi șterse. Asigurați-vă că ați făcut copii de rezervă pentru elementele importante înainte de a porni procesul."</string>
+    <string name="check_local_package_wipe_msg">"Sunteți pe cale să reveniți la versiunea MIUI %s. Datele personale vor fi șterse. Asigurați-vă că ați făcut copii de rezervă pentru elementele importante înainte de a porni procesul."</string>
     <string name="check_local_package_wipe_title">Ștergeți datele</string>
     <string name="check_new_version">Verificaţi</string>
     <string name="check_update_policy">Setări actualizări</string>
@@ -54,6 +55,11 @@
     <string name="continue_update_negative_btn">Continuați</string>
     <string name="continue_update_positive_btn">Stop</string>
     <string name="daily_build">Zilnic</string>
+    <string name="delay_update_text">Actualizați mai târziu</string>
+    <string name="dialog_delay_update_cancel">Renunțați</string>
+    <string name="dialog_delay_update_msg">"Telefonul va reporni pentru aplicarea actualizării atunci când va fi pornit iar acumulatorul va avea cel puțin 30% energie"</string>
+    <string name="dialog_delay_update_title">Actualizare disponibilă</string>
+    <string name="dialog_delay_update_tonight">Actualizează la noapte</string>
     <string name="dialog_reboot_message">"MIUI se va actualiza. Procesul poate dura între 5 și 20 de minute. Nu opriți telefonul și nu-l reporniți în timpul procesului de actualizare."</string>
     <string name="dialog_reboot_title">Actualizare sistem</string>
     <string name="dialog_reboot_yes">Actualizați</string>
@@ -117,6 +123,12 @@
     <string name="no_wifi_title">Avertisment de utilizare a datelor</string>
     <string name="not_open">Nu</string>
     <string name="notification_auto_reboot_seccess_title">Dispozitiv actualizat automat</string>
+    <string name="notification_delay_update_button">Actualizează peste 2 ore</string>
+    <string name="notification_delay_update_cancel">"Nu actualiza la noapte"</string>
+    <string name="notification_delay_update_low_power">Se pare că acumulatorul era descărcat azi-noapte</string>
+    <string name="notification_delay_update_msg">Telefonul va reporni și se va aplica actualizarea în %ss</string>
+    <string name="notification_delay_update_no_update">"Actualizările nu s-au efectuat"</string>
+    <string name="notification_delay_update_shutdown">Se pare că telefonul era oprit azi-noapte</string>
     <string name="notification_downloading">Descărcare actualizare…</string>
     <string name="notification_fail_msg">Încercați să descărcați întreg ROM-ul</string>
     <string name="notification_load_body_alpha">Obțineți cele mai recente actualizări pentru dispozitivul dvs.</string>
@@ -204,6 +216,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="test">Test</string>
     <string name="timer_title">Dispozitivul va reporni în %d secunde.</string>
     <string name="title_toast_auto">Dispozitivul va reporni în</string>
+    <string name="toast_delay_update_tonight">Telefonul va aplica actualizările între 2:00 AM și 5:00 AM</string>
     <string name="top_secret_build">Top-secret</string>
     <string name="uncrypt_title">Decriptare (%s)</string>
     <string name="unkown_error_title">Nu se poate descărca</string>

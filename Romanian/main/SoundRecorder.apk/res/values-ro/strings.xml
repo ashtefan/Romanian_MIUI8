@@ -39,7 +39,9 @@
     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
     <string name="export_to_note">Exportați în Note</string>
     <string name="invalid_argument">Argument invalid</string>
-    <string name="low_battery_error">Acumulatorul telefonului are mai puțin de 5% disponibil. Pentru ca înregistrarea să nu fie pierdută, ea a fost oprită și salvată. Deconectarea neașteptată poate duce la pierderea înregistrării; se recomandă ca înregistrarea să se efectueze atunci când acumulatorul este complet încărcat.</string>
+    <string name="low_battery_error">Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută.</string>
+    <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_title">Acumulator descărcat</string>
     <string name="mark_point_list_title">Marcaje</string>
     <string name="message_file_size_error">Înregistrarea a atins lungimea maximă susţinută de %s</string>
     <string name="new_record_name">Înregistrare nouă</string>

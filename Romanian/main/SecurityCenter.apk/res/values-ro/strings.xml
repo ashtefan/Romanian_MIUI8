@@ -9,15 +9,15 @@
     <string name="Settings_title_power_center">Setări acumulator</string>
     <string name="ac_enable_title">Activați blocarea aplicațiilor</string>
     <string name="ac_enter_applock">Accesați Blocare Aplicații</string>
-    <string name="ac_firstUseApplock_subTitle">Utilizați Blocarea aplicațiilor pentru a vă proteja confidențialitatea</string>
-    <string name="ac_firstUseApplock_title">Solicită o parolă pentru a utiliza aplicațiile selectate</string>
+    <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
+    <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
     <string name="access_control_need_password">"%s adăugată cu succes
 "</string>
     <string name="access_control_need_to_unlock">"Scanați amprenta
-sau introduceţi parola pentru deblocarea aplicațiilor"</string>
-    <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola de deblocare a aplicațiilor</string>
+sau introduceţi parola pentru protejarea confidențialității"</string>
+    <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru protejarea confidențialității</string>
     <string name="access_control_recording_intro_header">Desenaţi un model propriu pentru blocarea aplicaţiilor</string>
     <string name="access_control_reset_by_account">Conectaţi-vă la contul dvs. Mi pentru a reseta parola de blocare a aplicațiilor</string>
     <string name="action_button_text_100">Optimizați</string>
@@ -162,6 +162,12 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="battery_status_unknown">Eroare necunoscută</string>
     <string name="battery_temperature_title">Temperatură</string>
     <string name="begin_date">Data de resetare a utilizării</string>
+    <string name="bind_xiaomi_account_cancel">Renunțați</string>
+    <string name="bind_xiaomi_account_confirm">Adăugați</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Sunteți pe cale să adăugați contul Mi %s. Dacă uitați parola, puteți utiliza acest cont pentru a o reseta. Contul va fi eliminat în mod automat dacă vă deconectați."</string>
+    <string name="bind_xiaomi_account_success">Contul Mi a fost adăugat cu succes</string>
+    <string name="bind_xiaomi_account_summary">Utilizați contul Mi pentru a vă reseta parola</string>
+    <string name="bind_xiaomi_account_title">Adăugați contul Mi</string>
     <string name="boot_reminder">Porniți dispozitivul la o oră prestabilită</string>
     <string name="boot_time">Pornire: %1$s</string>
     <string name="boot_time_day">Pornire: %2$s %1$d z</string>
@@ -265,6 +271,7 @@ sau introduceţi parola pentru deblocarea aplicațiilor"</string>
     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
     <string name="cmcc_app_check_dialog_title">Sistem reparat</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Se adaugă contul Mi</string>
     <string name="confirm_fingerprint_msg">Puneți degetul pe senzor</string>
     <string name="confirm_reject_all_permission">Împiedicați toate aplicațiile să utilizeze această caracteristică?</string>
     <string name="connect_internet_by_mobiledata">Conexiune de date mobile</string>
@@ -765,6 +772,11 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="package_setted_error_notification_titile">Nu s-a putut seta planul de date</string>
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="passwordIncorrect">Numele de utilizator sau parola sunt incorecte</string>
+    <string name="password_promotion_button_text">Am înțeles</string>
+    <string name="password_promotion_message">Blocarea aplicațiilor este înlocuită de parola pentru protejarea confidențialității. Puteți utiliza contul Mi actual pentru a o reseta.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Blocarea aplicațiilor este înlocuită de parola pentru protejarea confidențialității. Puteți utiliza contul Mi actual pentru a o reseta. Adăugați contul Mi pentru a putea face acest lucru.</string>
+    <string name="password_promotion_postbutton_text">Mergeți la Setări</string>
+    <string name="password_promotion_title">Parola de protejare a confidențialității</string>
     <string name="path_antispam">Aplicații de sistem/Securitate/Listă blocări</string>
     <string name="path_antivirus">Aplicații de sistem/Securitate/Scanare pentru viruși</string>
     <string name="path_cleanmaster">Aplicații de sistem/Securitate/Curățare</string>
@@ -1070,6 +1082,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="security_scan_optimizing">Optimizare…</string>
     <string name="see_detail">Detalii</string>
     <string name="select_pattern">Selectați modelul propriu</string>
+    <string name="set_applock_password">Setați parola</string>
+    <string name="setting_privacy_password">Setați parola de protejare a confidențialității</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
     <string name="settings_battery_consume_abnormal_title">Notificări descărcare acumulator</string>
@@ -1208,6 +1222,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="tc_sms_report_get_sms">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms2">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms_again">Reîmprospătare SMS</string>
+    <string name="tc_sms_report_get_sms_bill">Obțineți SMS-ul</string>
+    <string name="tc_sms_report_get_sms_calltime">Obțineți SMS-ul</string>
     <string name="tc_sms_report_get_sms_failure">Nu s-a putut obține formatul SMS-ului pentru utilizarea datelor</string>
     <string name="tc_sms_report_get_sms_successs">Formatul SMS-ului pentru utilizarea datelor a fost actualizat</string>
     <string name="tc_sms_report_get_sms_timeout">Solicitare expirată</string>
@@ -1229,6 +1245,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="tc_sms_report_tips_dialog_message">Utilizarea datelor foloseşte un format special de SMS pentru a obține cele mai recente date utilizate de la operatorul dvs. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format actualizat va fi încărcat pe serverele noastre.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS de utilizare a datelor</string>
     <string name="tc_sms_report_title">Eroare raport de utilizare a datelor</string>
+    <string name="tc_sms_report_title_bill">Raportați eroarea de contabilizare a utilizării datelor</string>
+    <string name="tc_sms_report_title_calltime">Raportați eroarea de contabilizare a utilizării datelor</string>
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>

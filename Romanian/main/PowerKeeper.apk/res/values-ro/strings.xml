@@ -39,7 +39,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="fragment_tab_title_sys">Aplicații de sistem</string>
     <string name="full_screen_enter">Intrare în modul ecran complet</string>
     <string name="full_screen_exit">Ieşire din modul ecran complet</string>
-    <string name="google_base_app_install_choice">\"%s\" necesită Google Service Framework pentru a rula corespunzător, descărcați și instalați?</string>
+    <string name="google_base_app_install_choice">\"%s\" necesită Google Service Framework pentru a rula corespunzător; descărcați și instalați?</string>
     <string name="hide_mode_desc">Atunci când o aplicație rulează în fundal, activitățile sale vor fi monitorizate pentru a reduce utilizarea acumulatorului</string>
     <string name="hide_mode_ultimate_desc">Modul Extrem este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Extrem.</string>
     <string name="high">Performanţă</string>
@@ -142,9 +142,9 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_optimize_activity_profile_file_error">Eroare economisire acumulator</string>
     <string name="ragment_sys_listempty">Nicio aplicație de sistem</string>
     <string name="reading">Mod Citire</string>
-    <string name="screen_off">Ecran oprit</string>
-    <string name="screen_off_10_min">Oprire ecran peste 10 minute</string>
-    <string name="screen_on">Ecran pornit</string>
+    <string name="screen_off">Ecranul este oprit</string>
+    <string name="screen_off_10_min">Ecranul este oprit de peste 10 minute</string>
+    <string name="screen_on">Ecranul este pornit</string>
     <string name="select_items">%d selectate</string>
     <string name="set_brightness">Luminozitate maximă a ecranului</string>
     <string name="set_cpu_powermode">Utilizare procesor</string>

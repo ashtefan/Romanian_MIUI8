@@ -105,6 +105,7 @@
   <string name="stat_repeat_weekends">În weekend</string>
     <string name="stopwatch_lap_empty_text">Niciun circuit</string>
     <string name="stopwatch_title">Cronometru</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Setări</string>
     <string name="time">Ora</string>
     <string name="timer_alarm_alert_pad">%s</string>

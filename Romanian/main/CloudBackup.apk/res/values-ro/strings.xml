@@ -47,7 +47,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="cloud_back_up_frequence_long">La fiecare 7 zile</string>
     <string name="cloud_back_up_frequence_short">În fiecare zi</string>
     <string name="cloud_back_up_interval_long">7 zile</string>
-    <string name="cloud_back_up_interval_short">În fiecare zi</string>
+    <string name="cloud_back_up_interval_short">zi</string>
     <string name="cloud_back_up_no_network_warn">"Nu se poate conecta la Wi-Fi"</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Doar o secundă…</string>
@@ -61,7 +61,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="cloud_backup_detail_manage_summary">%1$s copii de rezervă, dimensiune: %2$s</string>
     <string name="cloud_backup_detail_state">Copie de rezervă Mi Cloud</string>
     <string name="cloud_backup_detail_state_summary">Aplicații, ecran principal și setările sistemului</string>
-    <string name="cloud_backup_detail_time">; data copiei de rezervă: %1$s</string>
+    <string name="cloud_backup_detail_time">Data ultimei copii de rezervă: %1$s</string>
     <string name="cloud_backup_have_data">A fost găsită o copie de rezervă în Mi Cloud</string>
     <string name="cloud_backup_select_recover">Selectați copia de rezervă din Mi Cloud</string>
     <string name="cloud_restore_from_other_device">Opriţi restabilirea din %s şi ștergeţi această copie de rezervă? Această acţiune este ireversibilă!</string>

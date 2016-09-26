@@ -264,14 +264,14 @@
     <string name="long_click_dialog_title">Aviz</string>
     <string name="low_memory_clean_dialog_msg">Trebuie să curățați mai întâi cel puțin 100 MB</string>
     <string name="low_memory_clean_dialog_ok_button">OK</string>
-    <string name="low_memory_clean_dialog_title">NU mai există suficient spațiu de stocare disponibil</string>
+    <string name="low_memory_clean_dialog_title">Nu mai există suficient spațiu de stocare disponibil</string>
     <string name="low_memory_warning_dialog_cancel_button">Renunțați</string>
     <string name="low_memory_warning_dialog_msg">Ștergeți câteva fișiere pentru a putea continua</string>
     <string name="low_memory_warning_dialog_ok_button">Curățați</string>
     <string name="low_memory_warning_dialog_title">Spațiul de stocare de pe telefon este epuizat</string>
     <string name="mainbtn_text_quick_cleanup">Curăţaţi %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
-    <string name="megabyteShort">MB</string>
+    <string name="megabyteShort"> MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
     <string name="month_day_format">dd MMM</string>
     <string name="msg_cleanup_db_update_checking">Verificare actualizări...</string>

@@ -24,30 +24,6 @@
         <item quantity="few">%d elemente</item>
         <item quantity="many">%d elemente</item>
      </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d fişiere de descărcat</item>
-        <item quantity="zero">%1$d fişiere de descărcat</item>
-        <item quantity="one">1 fişier de descărcat</item>
-        <item quantity="two">%1$d fişiere de descărcat</item>
-        <item quantity="few">%1$d fişiere de descărcat</item>
-        <item quantity="many">%1$d fişiere de descărcat</item>
-     </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d fişiere de încărcat</item>
-        <item quantity="zero">%1$d fişiere de încărcat</item>
-        <item quantity="one">1 fişier de încărcat</item>
-        <item quantity="two">%1$d fişiere de încărcat</item>
-        <item quantity="few">%1$d fişiere de încărcat</item>
-        <item quantity="many">%1$d fişiere de încărcat</item>
-     </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d fișiere rămase de transmis</item>
-        <item quantity="zero">%1$d fișiere rămase de transmis</item>
-        <item quantity="one">%1$d fișier rămas de transmis</item>
-        <item quantity="two">%1$d fișiere rămase de transmis</item>
-        <item quantity="few">%1$d fișiere rămase de transmis</item>
-        <item quantity="many">%1$d fișiere rămase de transmis</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selectate</item>
         <item quantity="zero">%1$d selectate</item>

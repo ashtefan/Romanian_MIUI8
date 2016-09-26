@@ -11,7 +11,7 @@
     <string name="auto_disable_screenbuttons_enable_toast_text">Butoanele de navigare sunt activate</string>
     <string name="auto_disable_screenbuttons_float_text">Apăsați pentru a dezactiva butoanele de navigare</string>
     <string name="auto_disable_screenbuttons_prompts_message">Apăsați de două ori orice buton pentru a părăsi modul Dezactivare butoane.</string>
-    <string name="auto_disable_screenbuttons_prompts_not_show_again">Nu arăta din nou</string>
+    <string name="auto_disable_screenbuttons_prompts_not_show_again">"Nu arăta din nou"</string>
     <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
     <string name="auto_disable_screenbuttons_prompts_title">Dezactivați butoanele de navigare?</string>
     <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Atingeți din nou pentru a ieși</string>
@@ -31,8 +31,8 @@
     <string name="fc_dialog_jump_to_preview">Vizualizare sumar</string>
     <string name="first_back_long_press_message">Pentru a personaliza apăsarea și menținerea apăsată a butoanelor de navigare accesaţi Setări > Setări adiționale > Butoane</string>
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
-    <string name="force_exit_message">%1$s a fost oprit(ă) forțat</string>
-    <string name="force_exit_skip_message">Nu se poate opri %1$s deoarece este necesar(ă) pentru sistem.</string>
+    <string name="force_exit_message">%1$s a fost oprită forțat</string>
+    <string name="force_exit_skip_message">"Nu se poate opri %1$s deoarece este necesară pentru sistem."</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Puteți reveni la ecranul principal apăsând butonul Acasă. Mergeți în Setări &gt; Setări adiționale &gt; Butoane și personalizați acțiunea pentru  butonul Acasă.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nu acum</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Mergeți la Setări</string>
@@ -80,10 +80,11 @@
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan.</string>
-    <string name="screen_on_proximity_sensor_summary">Nu acoperiți zona portocalie a ecranului</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pentru a dezactiva această funcție, apăsați butonul Volum+.</string>
+    <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona portocalie a ecranului"</string>
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar</string>
-    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Puteți activa sau dezactiva această caracteristică oricând în Setări suplimentare > Mod lectură.</string>
-    <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
+    <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Pentru a dezactiva această caracteristică, mergeți la Setări > Afișaj > Mod lectură.</string>
+    <string name="screen_rotation_freeze_message">Rotirea automată este dezactivată.</string>
     <string name="screenshot_gesture_detect_alert_button">Activați din Setări</string>
     <string name="screenshot_gesture_detect_alert_dont_again">"Nu arăta din nou"</string>
     <string name="screenshot_gesture_detect_alert_msg">Glisați în jos cu 3 degete simultan pentru a realiza o captură de ecran?</string>
@@ -105,10 +106,11 @@
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="start_security_permission_verify_text">Verificați permisiunile cu ajutorul contului Mi</string>
-    <string name="status_bar_toggle_auto_brightness">Automat</string>
+    <string name="status_bar_toggle_auto_brightness">Luminozitate</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_cast">Distribuiți</string>
     <string name="status_bar_toggle_data">Date mobile</string>
+    <string name="status_bar_toggle_edit">Editare</string>
     <string name="status_bar_toggle_flight_mode">Avion</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Blocare</string>
@@ -116,7 +118,6 @@
     <string name="status_bar_toggle_mute">Silenţios</string>
     <string name="status_bar_toggle_paper_mode">Mod lectură</string>
     <string name="status_bar_toggle_power_mode">Performanţă</string>
-    <string name="status_bar_toggle_privacy_mode">Vizitator</string>
     <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
     <string name="status_bar_toggle_rotate">Rotire</string>
     <string name="status_bar_toggle_screen_button">Butoane</string>

@@ -22,16 +22,23 @@
     <string name="call_folder_name">Note apel</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
+    <string name="dlg_btn_set_password">Setați parola</string>
     <string name="dlg_check_reminder">"Nu arăta din nou"</string>
     <string name="dlg_delete_message">Ștergere…</string>
     <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul Silenţios este activat</string>
     <string name="dlg_hide_message">Ascundere…</string>
     <string name="dlg_info_creating_message">Creare mesaj…</string>
+    <string name="dlg_message_password_reset">"Parola pentru notițele ascunse va fi înlocuită cu parola pentru protejarea confidențialității care este utilizată pentru aplicații, fotografii și dosare ascunse"</string>
+    <string name="dlg_message_set_password">Parola pentru protejarea confidențialității este utilizată pentru aplicații, fotografii și dosare ascunse</string>
+    <string name="dlg_message_use_privacy_password">Utilizați parola pentru protejarea confidențialității. Aceasta este utilizată pentru aplicații, fotografii și dosare ascunse</string>
     <string name="dlg_move_message">Mutare…</string>
     <string name="dlg_quick_delete_title">Ștergere rapidă</string>
     <string name="dlg_restore_message">Restaurare…</string>
     <string name="dlg_stick_message">Fixare…</string>
     <string name="dlg_title_confirm_alarm_silent">Alarmă silenţioasă</string>
+    <string name="dlg_title_password_reset">Actualizați-vă parola</string>
+    <string name="dlg_title_set_password">Setați parola</string>
+    <string name="dlg_title_use_privacy_password">Utilizați parola de protejare a confidențialității</string>
     <string name="dlg_unhide_message">Se afișează…</string>
     <string name="empty_folder_hint">"Niciun dosar
 Atingeți simbolul + pentru a crea un dosar"</string>
@@ -51,6 +58,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="format_move_notes_out_folder">%1$s mutat</string>
     <string name="format_move_notes_to_folder">Au fost mutate %1$s în %2$s</string>
     <string name="hidden_notes_fragment_title">Notițe ascunse</string>
+    <string name="hint_cannot_view_hidden_note_content">"Nu se poate vedea conținutul notițelor ascunse"</string>
     <string name="hint_foler_name">Nume</string>
     <string name="info_note_enter_desktop">Adăugată pe desktop</string>
     <string name="loading_text">Doar o secundă…</string>
