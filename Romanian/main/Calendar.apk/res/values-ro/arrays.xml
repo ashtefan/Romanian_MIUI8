@@ -193,7 +193,7 @@
         <item>2 zile</item>
         <item>1 săptămână</item>
     </string-array>
-    <integer-array name="online_reminder_minutes_values">
+<!--<integer-array name="online_reminder_minutes_values">
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -203,14 +203,14 @@
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-    </integer-array>
-    <integer-array name="online_reminder_minutes_values_allday">
+    </integer-array>-->
+<!--<integer-array name="online_reminder_minutes_values_allday">
         <item>0</item>
         <item>1440</item>
         <item>2880</item>
         <item>4320</item>
         <item>10080</item>
-    </integer-array>
+    </integer-array>-->
     <string-array name="travel_reminder_minutes_labels">
         <item>3 ore</item>
         <item>4 ore</item>
@@ -218,13 +218,13 @@
         <item>6 ore</item>
         <item>1 zi</item>
     </string-array>
-    <integer-array name="travel_reminder_minutes_values">
+<!--<integer-array name="travel_reminder_minutes_values">
         <item>180</item>
         <item>240</item>
         <item>300</item>
         <item>360</item>
         <item>1440</item>
-    </integer-array>
+    </integer-array>-->
     <string-array name="repeat_frequency_spinner">
         <item>zi</item>
         <item>săptămână</item>

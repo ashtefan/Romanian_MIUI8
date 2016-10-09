@@ -660,7 +660,7 @@ Abonați-vă și începeți să vorbiți"</string>
     <string name="msim_not_set_summary">Nesetat</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_pref_title_voice">Apelare</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
+<!--<string name="msim_select_default_time_left">(%d s)</string>-->
     <string name="msim_set_icc_card_error">Eroare card ICC</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Nu se poate seta în timpul unui apel</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Eroare cartelă SIM</string>
@@ -798,7 +798,7 @@ Se va utiliza rețeaua preferată."</string>
     <string name="operator_mins_first">"Acordați prioritate planului de date al operatorului"</string>
     <string name="operator_mins_first_close">Dezactivați</string>
     <string name="operator_remain_mins">Minute incluse în abonament</string>
-    <string name="operator_remain_mins_value">%1$s minute</string>
+<!--<string name="operator_remain_mins_value">%1$s minute</string>-->
     <string name="optional_summary">&lt;Opţional&gt;</string>
     <string name="order_by_recent">Frecvent utilizate</string>
     <string name="order_id">Identitate comandă: %1$s</string>
@@ -1201,7 +1201,7 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="tty_mode_option_title">Mod TTY</string>
     <string name="turnover_mute_summary">Dacă telefonul este în poziţie orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
     <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
-    <string name="ui_default_package">com.android.dialer</string>
+<!--<string name="ui_default_package">com.android.dialer</string>-->
     <string name="unable_dial_livetalk">"Nu s-a putut realiza apelul"</string>
     <string name="unblock_pin2">Deblocare PIN2</string>
     <string name="undefined">Nimic</string>
@@ -1238,7 +1238,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voicemail_default">Operatorul meu</string>
     <string name="voicemail_notification_ringtone_title">Sunet</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibraţii</string>
-    <string name="voicemail_notification_vibrate_when_default">niciodată</string>
+<!--<string name="voicemail_notification_vibrate_when_default">niciodată</string>-->
     <string name="voicemail_notification_vibrate_when_title">Vibraţii</string>
     <string name="voicemail_number_not_set">&lt;Nesetat&gt;</string>
     <string name="voicemail_provider">Servicii</string>
@@ -1247,8 +1247,8 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voicemail_settings_number_hint">Introduceți numărul mesageriei vocale</string>
     <string name="voicemail_settings_number_label">Număr mesagerie vocală</string>
     <string name="voicemail_settings_number_title">Număr mesagerie vocală</string>
-    <string name="voip_setting">Setări VOIP</string>
-    <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunîtîțirea calității apelurilor video și vocale</string>
+    <string name="voip_setting">Setări VoIP</string>
+    <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunătățirea calității apelurilor video și vocale</string>
     <string name="volte_switch_title">VoLTE activat</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>

@@ -273,7 +273,7 @@ doar în modul ramă"</string>
     <string name="charger_out_test">Încărcător deconectat</string>
     <string name="choose_channel">Selectați canalul</string>
     <string name="cit_nv_flag">"Etichetă CIT NV: "</string>
-    <string name="cit_tp_default_info">nul</string>
+<!--<string name="cit_tp_default_info">nul</string>-->
     <string name="close">nu există partiții OTP</string>
     <string name="combile">Asamblare</string>
     <string name="confirm">Confirmați</string>
@@ -292,7 +292,7 @@ doar în modul ramă"</string>
     <string name="customsn">[SN]:</string>
     <string name="customversion">[Versiune]:</string>
     <string name="customversionandtestinfo">Versiune și informații test</string>
-    <string name="default_station_name">Canal nou</string>
+<!--<string name="default_station_name">Canal nou</string>-->
     <string name="delete_freq_item">Ștergeți lista frecvențelor</string>
     <string name="delete_preset_list">Căutarea automată va șterge lista curentă. Continuați?</string>
     <string name="deviceaddr">Adresă telefon:</string>

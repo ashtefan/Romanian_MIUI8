@@ -10,8 +10,8 @@
     <string name="contact_your_admin_for_more_info">"Contactați administratorul pentru mai multe informații, inclusiv politica de confidențialitate a organizației."</string>
     <string name="continue_provisioning_notify_text">Apăsați pentru a continua configurarea profilului Servici</string>
     <string name="continue_provisioning_notify_title">Criptare completă</string>
-    <string name="default_managed_profile_name">Profil Servici</string>
-    <string name="default_owned_device_username">Utilizator dispozitiv Servici</string>
+<!--<string name="default_managed_profile_name">Profil Servici</string>-->
+<!--<string name="default_owned_device_username">Utilizator dispozitiv Servici</string>-->
     <string name="delete_profile">Eliminați</string>
     <string name="device_owner_cancel_cancel">Renunțare</string>
     <string name="device_owner_cancel_message">"Sunteți sigur că doriți să opriți configurarea și să ștergeți datele de pe dispozitiv?"</string>

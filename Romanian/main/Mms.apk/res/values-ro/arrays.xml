@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="default_smiley_texts">
+<!--<string-array name="default_smiley_texts">
         <item>:-)</item>
         <item>:-(</item>
         <item>;-)</item>
@@ -22,8 +22,8 @@
         <item>x-(</item>
         <item>:-/</item>
         <item>:-I</item>
-    </string-array>   
-    <string-array name="default_smiley_names">
+    </string-array>-->
+<!--<string-array name="default_smiley_names">
         <item>Fericit</item>
         <item>Trist</item>
         <item>Clipeşte</item>
@@ -45,7 +45,7 @@
         <item>Nervos</item>
         <item>Rânjet</item>
         <item>Faţă de joker</item>
-     </string-array>
+     </string-array>-->
     <string-array name="contact_entries">
         <item>Nume</item>
         <item>Pseudonim</item>

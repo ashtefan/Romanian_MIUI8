@@ -128,7 +128,7 @@
     <string name="cn_10000">zece mii</string>
     <string name="cn_100000000">o sută de milioane</string>
     <string name="splash_tip">inserați încet butonul</string>
-    <string name="default_action_title">aceasta este o acțiune de bază</string>
+<!--<string name="default_action_title">aceasta este o acțiune de bază</string>-->
     <string name="action_home">butonul Acasă</string>
     <string name="action_key_direction">taste de navigare</string>
     <string name="action_key_enter">butonul Enter</string>
@@ -189,7 +189,7 @@ but it would be more power, open, as appropriate, according to usage scenarios. 
     <string name="setting_silent_mode">dezactivare meters bond</string>
     <string name="setting_proximity_text">prevenire inadvertențe</string>
     <string name="setting_proximity_desc">utilizați senzorul de proximitate pentru prevenirea apelării în buzunar.</string>
-    <string name="setting_silent_mode_default">mod Căști (scoateți butonul)</string>
+<!--<string name="setting_silent_mode_default">mod Căști (scoateți butonul)</string>-->
     <string name="setting_silent_mode_dust_cap">mod inactiv (doar acoperire mufă)</string>
     <string name="setting_silent_mode_desc">"sure to unplug the meter key, otherwise it will result in no headphone sound mode is selected.
 

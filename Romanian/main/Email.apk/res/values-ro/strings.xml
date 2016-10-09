@@ -301,9 +301,9 @@ Actualizaţi acum?"</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Astăzi, %1$s</string>
     <string name="default_">PRESTABILIT</string>
-    <string name="default_exchange">EXCHANGE</string>
-    <string name="default_imap">IMAP</string>
-    <string name="default_pop3">POP3</string>
+<!--<string name="default_exchange">EXCHANGE</string>-->
+<!--<string name="default_imap">IMAP</string>-->
+<!--<string name="default_pop3">POP3</string>-->
     <string name="default_setup">SETĂRI PRESTABILITE</string>
     <string name="default_signature">Trimis de pe Mi</string>
     <string name="del_account_questionnair_hint">"Ne puteți spune de ce ștergeți acest cont?"</string>
@@ -865,7 +865,7 @@ Actualizaţi acum?"</string>
     <string name="ser_resp_err_map_serclosed">Serverul este oprit</string>
     <string name="ser_resp_err_map_ssl">"Alegeţi 'SSL/TLS (Se acceptă toate certificatele)' în 'Tip securitate'"</string>
     <string name="set_network">Setaţi reţeaua</string>
-    <string name="setting_default_lable" />
+<!--<string name="setting_default_lable" />-->
     <string name="settings_activity_title">Setări</string>
     <string name="share_choose">Selectaţi</string>
     <string name="sharing">Distribuiţi</string>

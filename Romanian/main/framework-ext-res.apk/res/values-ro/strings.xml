@@ -127,7 +127,7 @@
     <string name="status_bar_toggle_vibrate">Vibrare</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-    <string name="subinfo_default_name">SIM %d</string>
+<!--<string name="subinfo_default_name">SIM %d</string>-->
     <string name="translation_query_error">"Nu s-a găsit niciun rezultat"</string>
     <string name="translation_query_error_network">"Nu s-a putut conecta la rețea. Verificați setările ți încercați din nou"</string>
     <string name="turn_off">Opriți</string>

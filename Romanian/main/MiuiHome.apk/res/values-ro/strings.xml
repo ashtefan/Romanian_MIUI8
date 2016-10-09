@@ -57,11 +57,11 @@
     <string name="current_preview">Previzualizare</string>
     <string name="current_wallpaper">Actuală</string>
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
-    <string name="default_folder_title_claro">Claro</string>
+<!--<string name="default_folder_title_claro">Claro</string>-->
     <string name="default_folder_title_game">Jocuri</string>
     <string name="default_folder_title_recommend">Alte aplicaţii</string>
     <string name="default_folder_title_security">Sistem</string>
-    <string name="default_folder_title_telcel">Telcel</string>
+<!--<string name="default_folder_title_telcel">Telcel</string>-->
     <string name="default_folder_title_tools">Utilitare</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_screen">Eliminați ecranul</string>
