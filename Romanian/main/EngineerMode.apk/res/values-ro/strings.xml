@@ -18,7 +18,7 @@
     <string name="Audio_DebugInfo_Button">Setați</string>
     <string name="Audio_DebugInfo_EditText">0</string>
     <string name="Audio_DebugInfo_ParameterText">Selectați parametrul:</string>
-<!--<string name="Audio_DebugInfo_ValueText">Introduceți valoarea:</string>-->
+    <string name="Audio_DebugInfo_ValueText">Introduceți valoarea:</string>
     <string name="Audio_DebugSession">Sesiune depanare Audio</string>
   <string name="Audio_Dump_SpeechDbgInfo">Dump Speech Debug Info</string>
     <string name="Audio_EPLDebug_Enable">Activați AP Speech log</string>
@@ -204,7 +204,7 @@
     <string name="DefSIMText">Setare cartelă SIM implicită</string>
     <string name="Details">Detalii</string>
     <string name="Display">Afișaj</string>
-<!--<string name="Display_Edit_Value">0</string>-->
+    <string name="Display_Edit_Value">0</string>
   <string name="Display_backlight_off_fail">Set LCD backlight OFF Failed.</string>
   <string name="Display_backlight_off_ok">Set LCD backlight OFF success.</string>
   <string name="Display_backlight_on_fail">Set LCD backlight ON Failed.</string>
@@ -272,7 +272,7 @@
   <string name="GPIO_Direction_In">Input</string>
   <string name="GPIO_Direction_Out">Output</string>
     <string name="GPIO_Direction_Text">Setați direcția</string>
-<!--<string name="GPIO_Edit_Value">0</string>-->
+    <string name="GPIO_Edit_Value">0</string>
     <string name="GPIO_Setno_Text">GPIO Nr#</string>
   <string name="GPIO_Setnomax_Text">MaxNumber:</string>
   <string name="GPIO_init_error">IO Driver Init error!</string>
@@ -571,8 +571,8 @@
     <string name="TouchScreen_Settings_TextSet">Setați</string>
     <string name="TouchScreen_Settings_TextSpinner">Categorie</string>
   <string name="TouchScreen_Settings_TextUart">Enable Uart Log</string>
-<!--<string name="TouchScreen_Settings_TextValue">Valoarea</string>-->
-<!--<string name="TouchScreen_Settings_Value">0</string>-->
+    <string name="TouchScreen_Settings_TextValue">Valoarea</string>
+    <string name="TouchScreen_Settings_Value">0</string>
     <string name="TouchScreen_Settings_sdcard">OPRIT</string>
     <string name="TouchScreen_Settings_uart">OPRIT</string>
     <string name="TouchScreen_Verification">Verificare</string>
@@ -848,7 +848,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="cdma_network_select">Selectare rețea CDMA</string>
     <string name="cds_information">Informații CDS</string>
     <string name="cfu">CFU</string>
-<!--<string name="cfu_default">Implicit</string>-->
+    <string name="cfu_default">Implicit</string>
     <string name="cfu_ok">OK</string>
     <string name="cfu_textView">Setare CFU:</string>
   <string name="cfu_turn_off">Always not query</string>
@@ -888,7 +888,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
   <string name="ctia_cam_mode">Keep at CAM mode</string>
   <string name="ctia_checkbox">Enable CTIA Test Mode</string>
   <string name="ctia_counter_checkbox">Enable log for Tx Rx Counter</string>
-<!--<string name="ctia_default_val">0</string>-->
+  <string name="ctia_default_val">0</string>
   <string name="ctia_dump_checkbox">Enable log for Mgmt Frame</string>
   <string name="ctia_fifo_full_no_ack">Disable FIFO Full No Ack</string>
   <string name="ctia_flag">SW Flags</string>
@@ -899,7 +899,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
   <string name="ctia_rate">Rate Selection</string>
     <string name="ctia_roaming">Dezactivare Roaming</string>
     <string name="ctia_title">Mod testare Wi-Fi</string>
-<!--<string name="ctia_value"/>-->
+    <string name="ctia_value"/>
   <string name="cw_test">CW Test</string>
   <string name="cw_test_clock_drift">Clock Drift(ppm)</string>
   <string name="cw_test_cnr">CNR(dB-Hz)</string>
@@ -958,8 +958,8 @@ Start Preview item to open the camera and start camera preview, in the preview p
   <string name="deep_idle_setting">Deep Idle Setting</string>
   <string name="deep_idle_start_timer">Start Timer</string>
   <string name="deep_idle_timer_val_tip">ms (15 - 1,000,000)</string>
-<!--<string name="default_sim1">SIM 1 implicit</string>-->
-<!--<string name="default_sim2">SIM 2 implicit</string>-->
+    <string name="default_sim1">SIM 1 implicit</string>
+    <string name="default_sim2">SIM 2 implicit</string>
   <string name="desense_activity">Desense</string>
   <string name="desense_back_light">DesenseBackLight</string>
   <string name="desense_back_light_duty">PWM Duty</string>
@@ -1016,7 +1016,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="desense_text_set">Set</string>
   <string name="desense_text_thousand_sprt">‰</string>
   <string name="device_ct_sms_auto_reg">Send Auto Register Message</string>
-<!--<string name="device_info_default">Unknown</string>-->
+  <string name="device_info_default">Unknown</string>
     <string name="device_manager">Administrator telefon</string>
     <string name="device_mgr">Administrare telefon</string>
   <string name="device_mgr_dm_conf_switch">DM Configuration Settings</string>
@@ -1104,7 +1104,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="hqa_cpustress_apmcu_imdct">Enable IMDCT test</string>
   <string name="hqa_cpustress_apmcu_l2c">Enable L2C test</string>
   <string name="hqa_cpustress_apmcu_loopcount">Loop Count</string>
-<!--<string name="hqa_cpustress_apmcu_loopcount_value">1000</string>-->
+  <string name="hqa_cpustress_apmcu_loopcount_value">1000</string>
   <string name="hqa_cpustress_apmcu_max_power">Enable Max Power test</string>
   <string name="hqa_cpustress_apmcu_max_power_64">Enable Max Power test(64bit)</string>
   <string name="hqa_cpustress_apmcu_memcpy">Enable L2 MEMCPY test</string>
@@ -1137,9 +1137,9 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="hqa_cpustress_clockswitch_enabledebug">Enable debug message</string>
   <string name="hqa_cpustress_clockswitch_name">Clock Switch</string>
     <string name="hqa_cpustress_clockswitch_ns">ns</string>
-<!--<string name="hqa_cpustress_clockswitch_ns_value">5</string>-->
+    <string name="hqa_cpustress_clockswitch_ns_value">5</string>
     <string name="hqa_cpustress_clockswitch_s">s</string>
-<!--<string name="hqa_cpustress_clockswitch_s_value">5</string>-->
+    <string name="hqa_cpustress_clockswitch_s_value">5</string>
     <string name="hqa_cpustress_clockswitch_set">Setați</string>
   <string name="hqa_cpustress_clockswitch_settimeout">Set Timeout</string>
     <string name="hqa_cpustress_clockswitch_start">Start</string>
@@ -1157,7 +1157,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="hqa_cpustress_dvfs">DVFS</string>
   <string name="hqa_cpustress_dvfs_idx">cpufreq_oppidx =</string>
   <string name="hqa_cpustress_dvfs_interval">Interval(ms):</string>
-<!--<string name="hqa_cpustress_dvfs_interval_value">5000</string>-->
+  <string name="hqa_cpustress_dvfs_interval_value">5000</string>
   <string name="hqa_cpustress_dvfs_op_0">OPP0</string>
   <string name="hqa_cpustress_dvfs_op_1">OPP1</string>
   <string name="hqa_cpustress_dvfs_op_2">OPP2</string>
@@ -1205,7 +1205,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="hqa_cpustress_ok">Ok</string>
     <string name="hqa_cpustress_on">Pornit</string>
     <string name="hqa_cpustress_radiobutton_custom_mode">Mod personalizat</string>
-<!--<string name="hqa_cpustress_radiobutton_default">Implicit</string>-->
+    <string name="hqa_cpustress_radiobutton_default">Implicit</string>
   <string name="hqa_cpustress_radiobutton_dual">Force dual core</string>
   <string name="hqa_cpustress_radiobutton_octa">Force octa core</string>
   <string name="hqa_cpustress_radiobutton_quad">Force quad core</string>
@@ -1218,9 +1218,9 @@ System may behave unpredictably after you set wrong value"</string>
      <string name="hqa_cpustress_result_no_test">---</string>
      <string name="hqa_cpustress_result_pass">TRECUT</string>
   <string name="hqa_cpustress_swvideo_iteration">Iteration</string>
-<!--<string name="hqa_cpustress_swvideo_iteration_value">1000</string>-->
+  <string name="hqa_cpustress_swvideo_iteration_value">1000</string>
   <string name="hqa_cpustress_swvideo_loopcount">Loop Count</string>
-<!--<string name="hqa_cpustress_swvideo_loopcount_value">1000</string>-->
+  <string name="hqa_cpustress_swvideo_loopcount_value">1000</string>
   <string name="hqa_cpustress_swvideo_name">SW Video Codec</string>
      <string name="hqa_cpustress_swvideo_start">Start</string>
      <string name="hqa_cpustress_swvideo_stop">Stop</string>
@@ -1374,11 +1374,11 @@ System may behave unpredictably after you set wrong value"</string>
      <string name="lte_config">Configurare LTE</string>
      <string name="lte_enable">Activat</string>
   <string name="lte_enable_psdm">Enable Background search triggered by PSDM:</string>
-<!--<string name="lte_error_get_invalid_value">Error: Get invalid data</string>-->
+  <string name="lte_error_get_invalid_value">Error: Get invalid data</string>
   <string name="lte_error_rsrp_rsrq">Error: RSRP and RSRQ cannot both be 0</string>
   <string name="lte_error_set_invalid_search_timer">Error: value cannot be 0</string>
   <string name="lte_error_set_invalid_timer">Error: value must &gt;= 100</string>
-<!--<string name="lte_error_set_invalid_value">Error: Invalid value</string>-->
+  <string name="lte_error_set_invalid_value">Error: Invalid value</string>
   <string name="lte_get">Get</string>
      <string name="lte_history">Istoric:</string>
   <string name="lte_instant_search">Instantaneously LTE search:</string>
@@ -1400,7 +1400,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="lte_wait_set">Send AT Command</string>
   <string name="main_flash_lev">Main-Flash Level</string>
   <string name="matv">MATV</string>
-<!--<string name="max_value_check">Max Length is 1024</string>-->
+  <string name="max_value_check">Max Length is 1024</string>
   <string name="mcdi_disable">Disable MCDI</string>
   <string name="mcdi_entry_title">MCDI</string>
   <string name="mcdi_invalid_timer_val">Invalid Timer Value</string>
@@ -1450,7 +1450,7 @@ System may behave unpredictably after you set wrong value"</string>
   <string name="modem_reset_msg">(Suggested delay time: 5s, Max delay time: 9s)</string>
   <string name="modem_reset_time">Delay Time</string>
   <string name="modem_switch_auto">Auto Switch</string>
-<!--<string name="modem_switch_current_value">Current Modem Type:</string>-->
+  <string name="modem_switch_current_value">Current Modem Type:</string>
   <string name="modem_switch_fdd_csfb">FDD CSFB Modem</string>
   <string name="modem_switch_hint">Select Modem Type:</string>
   <string name="modem_switch_is_fdd_csfb">Current Modem Type: FDD CSFB</string>
@@ -1558,8 +1558,8 @@ Are you sure to allow mobile data service preferred?"</string>
     <string name="power">Putere</string>
   <string name="pre_flash_lev">Pre-Flash Level</string>
   <string name="pref_camera_flashmode_no_flash">no_flash</string>
-<!--<string name="pref_camera_scenemode_default">auto</string>-->
-<!--<string name="pref_camera_whitebalance_default">auto</string>-->
+  <string name="pref_camera_scenemode_default">auto</string>
+  <string name="pref_camera_whitebalance_default">auto</string>
     <string name="preparing_sd">Pregătire card SD…</string>
     <string name="psensor_calibration">Calibrare</string>
   <string name="psensor_calibration_select">PS Calibration</string>
@@ -1723,10 +1723,10 @@ Threshold Low: %3$d"</string>
     <string name="sensor_ps_calibration_get_max">Calculează valoarea maximă</string>
     <string name="sensor_ps_calibration_get_min">Calculează valoarea minimă</string>
     <string name="sensor_ps_calibration_max_hint">Acoperiți senzorul de lumină apoi apăsați butonul.</string>
-<!--<string name="sensor_ps_calibration_max_value">Valoarea maximă:</string>-->
+    <string name="sensor_ps_calibration_max_value">Valoarea maximă:</string>
     <string name="sensor_ps_calibration_min_hint">"Așezați telefonul pe o suprafață plană și apoi apăsați butonul.
 NOTĂ: Nu acoperiți senzorul de lumină după ce ați apăsat butonul."</string>
-<!--<string name="sensor_ps_calibration_min_value">Valoarea minimă:</string>-->
+    <string name="sensor_ps_calibration_min_value">Valoarea minimă:</string>
     <string name="sensor_ps_calibration_result">Rezultat:</string>
     <string name="sensor_ps_change_threshold_set">Setați</string>
   <string name="sensor_ps_threshold_high">Threshold High (0~65535):</string>
@@ -1839,9 +1839,9 @@ NOTĂ: Nu acoperiți senzorul de lumină după ce ați apăsat butonul."</string
   <string name="usbacm_open_succeed">Open port succeed</string>
   <string name="user2root">User2Root</string>
   <string name="user2root_hello">User2Root, Write By MTK, Only use for TEST</string>
-<!--<string name="value6575_text">Value[Hex 00-FF]</string>-->
-<!--<string name="value6589_text">Value[Hex 0000-FFFF]</string>-->
-<!--<string name="value_text">Value</string>-->
+  <string name="value6575_text">Value[Hex 00-FF]</string>
+  <string name="value6589_text">Value[Hex 0000-FFFF]</string>
+  <string name="value_text">Value</string>
   <string name="vhdr_ratio_range_tip">VHDR Ratio Range is 1000~9999!</string>
   <string name="vhdr_set_mode">Mode</string>
   <string name="vhdr_set_ratio">Ratio</string>
@@ -1990,7 +1990,7 @@ NOTĂ: Nu acoperiți senzorul de lumină după ce ați apăsat butonul."</string
   <string name="wifi_mcr_addr_text">Addr(h):</string>
   <string name="wifi_mcr_readbtn">Read</string>
   <string name="wifi_mcr_text">MCR:</string>
-<!--<string name="wifi_mcr_value_text">Value(h):</string>-->
+  <string name="wifi_mcr_value_text">Value(h):</string>
   <string name="wifi_mcr_writebtn">Write</string>
   <string name="wifi_misc_clearbtn">Clear</string>
   <string name="wifi_misc_gobtn">Go</string>
@@ -2022,10 +2022,10 @@ NOTĂ: Nu acoperiți senzorul de lumină după ce ați apăsat butonul."</string
   <string name="wifi_tx_gain_edit">22</string>
   <string name="wifi_tx_gain_format">%.1f</string>
   <string name="wifi_tx_text">Tx power (dBm):</string>
-<!--<string name="wifi_value_content"/>-->
-<!--<string name="wifi_value_content_string"/>-->
-<!--<string name="wifi_value_text">value(h):</string>-->
-<!--<string name="wifi_value_text_string">value(h):</string>-->
+  <string name="wifi_value_content"/>
+  <string name="wifi_value_content_string"/>
+  <string name="wifi_value_text">value(h):</string>
+  <string name="wifi_value_text_string">value(h):</string>
   <string name="wifi_wfa_enabler">Enable WFA test UI</string>
   <string name="wifi_wordaccess_text">WORD Access:</string>
   <string name="wifi_wps_test_mode">Enable WPS test mode</string>

@@ -22,7 +22,7 @@
     <string name="label_pages">Pagini (%1$s)</string>
     <string name="label_paper_size">Formatul hârtiei</string>
     <string name="label_paper_size_summary">Dimensiunea hârtiei:</string>
-<!--<string name="mediasize_default">ISO_A4</string>-->
+    <string name="mediasize_default">ISO_A4</string>
     <string name="mediasize_standard_china">3</string>
     <string name="mediasize_standard_iso">0</string>
     <string name="mediasize_standard_japan">2</string>

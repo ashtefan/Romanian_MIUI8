@@ -32,7 +32,7 @@
     <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
     <string name="cannot_connect_camera_once">Nu se poate conecta la camera foto</string>
     <string name="cannot_connect_camera_twice">Încă nu se poate conecta la camera foto. Încercați să reporniți telefonul.</string>
-    <string name="cannot_connect_camera_volte_call">Apel video în curs; încercați din nou mai târziu.</string>
+    <string name="cannot_connect_camera_volte_call">Apelul video este în curs; încercați din nou mai târziu.</string>
     <string name="cannot_move_warning_message">Fotografiere, țineți dispozitivul nemişcat</string>
     <string name="confirm_location_alert">Înregistrare locaţie în fotografii</string>
     <string name="confirm_location_message">Înregistraţi locaţia în fotografiile captate?</string>
@@ -279,9 +279,9 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_snap_entry_take_movie">Când ecranul este oprit, apăsați și mențineți apăsat butonul de Volum- pentru a începe să filmați. Eliberați-l pentru a opri filmarea.</string>
     <string name="pref_camera_snap_entry_take_picture">Atunci când ecranul este oprit, apăsați și țineți apăsat butonul Volum ▼ pentru a intra în modul fotografiere continuă. Eliberați butonul pentru a opri fotografierea în rafală.</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Nu se poate utiliza modul captură instantanee în timp  ce  \"Utilizarea butoanelor de volum pentru trezire\" este activă."</string>
-<!--<string name="pref_camera_snap_value_off">Oprit</string>-->
-<!--<string name="pref_camera_snap_value_take_movie">Film</string>-->
-<!--<string name="pref_camera_snap_value_take_picture">Fotografie</string>-->
+    <string name="pref_camera_snap_value_off">Oprit</string>
+    <string name="pref_camera_snap_value_take_movie">Film</string>
+    <string name="pref_camera_snap_value_take_picture">Fotografie</string>
     <string name="pref_camera_sound_title">Sunete cameră</string>
     <string name="pref_camera_square_mode_title">Pătrat</string>
     <string name="pref_camera_stereo_mode_title">Stereo</string>

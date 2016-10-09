@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cta_permission_names">
-        <item>acceseze rețeaua</item>
-        <item>citească SMS-uri</item>
-        <item>modifice SMS-uri</item>
-        <item>recepționeze SMS-uri</item>
-        <item>trimită SMS-uri</item>
-        <item>ințieze apeluri</item>
-        <item>citească agenda</item>
-        <item>modifice contacte</item>
-        <item>citească registrul de apelare</item>
-        <item>modifice registrul de apelare</item>
-        <item>acceseze camera foto</item>
-        <item>acceseze locația</item>
+        <item>accesare rețea</item>
+        <item>citire SMS-uri</item>
+        <item>modificare SMS-uri</item>
+        <item>recepționare SMS-uri</item>
+        <item>trimitere SMS-uri</item>
+        <item>apelare</item>
+        <item>citire contacte</item>
+        <item>modificare contacte</item>
+        <item>citire registru de apelare</item>
+        <item>modificare registru de apelare</item>
+        <item>accesare cameră foto</item>
+        <item>accesare locație</item>
     </string-array>
 </resources>

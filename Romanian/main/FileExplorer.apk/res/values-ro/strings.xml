@@ -56,7 +56,7 @@
     <string name="category_all">Toate</string>
     <string name="category_apk">APK</string>
     <string name="category_bluetooth">Bluetooth</string>
-<!--<string name="category_default_number_text">(0)</string>-->
+    <string name="category_default_number_text">(0)</string>
     <string name="category_document">Documente</string>
     <string name="category_download">Descărcări</string>
     <string name="category_favorite">Favorite</string>

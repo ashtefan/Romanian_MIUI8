@@ -870,7 +870,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="power_save_mode_ontime_enabled">Programați comutarea modurilor</string>
     <string name="power_save_mode_start_time">Start</string>
     <string name="power_save_mode_summary" formatted="false">Monitorizează procesele în fundal și dezactivează sincronizarea. Economisirea acumulatorului se va dezactiva în mod automat atunci când capacitatea acumulatorului este peste 60%.</string>
-<!--<string name="power_save_on_time_default_time_na">00:00</string>-->
+    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_end_time_summary">Sfârşit</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_summary_text">"Activați Economisirea acumulatorului pentru a reduce activitatea în fundal a aplicațiilor, opriți sincronizarea și ascundeți animațiile de sistem."</string>
@@ -1183,9 +1183,9 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="tc_diagnostic_brand_error_notification_title">Tip rețea incorect</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Nume operator incorect&lt;br/&gt;&lt;br/&gt;Alegeți operatorul: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Nume actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
     <string name="tc_diagnostic_complete">Finalizat</string>
-<!--<string name="tc_diagnostic_fragment_default">"Despre diagnosticare
+    <string name="tc_diagnostic_fragment_default">"Despre diagnosticare
 1. Telefonul se va conecta la rețeaua operatorului, va trimite un mesaj gratuit și va aștepta răspunsul acestuia. Acest lucru poate dura până la 5 minute.
-2. Puteți părăsi această pagină în timpul diagnosticării; aceasta va rula în fundal."</string>-->
+2. Puteți părăsi această pagină în timpul diagnosticării; aceasta va rula în fundal."</string>
     <string name="tc_diagnostic_location_error_notification_summary">Apăsați pentru a modifica locația</string>
     <string name="tc_diagnostic_location_error_notification_title">Locație incorectă</string>
     <string name="tc_diagnostic_notification_sumarry">Apăsați pentru a vedea rezultatele</string>

@@ -35,7 +35,7 @@
     <string name="avl_dialog_policy">Vizualizaţi Politica de confidențialitate</string>
     <string name="avl_dialog_title">Politica de confidențialitate AVL</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-<!--<string name="default_sdcard_volume_path"/>-->
+    <string name="default_sdcard_volume_path"/>
     <string name="menu_settings">Setări</string>
     <string name="tencent_dialog_cloudscan">Se încarcă și se scanează numele și detaliile aplicaţiilor, utilizând definiții de viruși on-line.</string>
     <string name="tencent_dialog_dbupdate">Se actualizează în mod automat definițiile de viruşi</string>

@@ -137,7 +137,7 @@
     <string name="byteShort">B</string>
     <string name="camera_360_description">Oferit de Camera360</string>
     <string name="camera_needs_auto_backup_tip">Albumul fotografiilor captate trebuie să fie salvat</string>
-<!--<string name="camera_path">/DCIM/Camera</string>-->
+    <string name="camera_path">/DCIM/Camera</string>
     <string name="cancel">Renunță</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Restabiliţi imaginea implicită de blocare a ecranului?</string>
     <string name="cancel_hint">Operaţiune anulată</string>
@@ -569,7 +569,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="share">Partajați</string>
     <string name="share_album">Distribuiţi albumul</string>
     <string name="share_album_needs_auto_upload_tip">"Nu se poate dezactiva salvarea automată pentru albumele partajate"</string>
-<!--<string name="share_app_is_launching">{0,choice,0#Lansare aplicație…|1#%s se lansează…}</string>-->
+    <string name="share_app_is_launching">{0,choice,0#Lansare aplicație…|1#%s se lansează…}</string>
     <string name="share_by_email_start">Distribuiţi %1$s în fundal</string>
     <string name="share_by_email_successfully">Distribuit prin %1$s</string>
     <string name="share_public_url_text">Am distribuit albumul %1$s. Îl poţi vedea la %2$s</string>

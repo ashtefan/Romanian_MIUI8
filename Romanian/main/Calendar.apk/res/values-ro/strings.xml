@@ -138,9 +138,9 @@
     <string name="downloaded">Descărcat</string>
     <string name="downloading">Descărcați</string>
     <string name="downloading_wallpaper">Imagine de fundal</string>
-<!--<string name="drop_down_list_footer_default_text">mai multe</string>-->
+  <string name="drop_down_list_footer_default_text">mai multe</string>
   <string name="drop_down_list_footer_no_more_text">Nu mai este</string>
-<!--<string name="drop_down_list_header_default_text">Apăsați aici pentru a reîmprospăta</string>-->
+  <string name="drop_down_list_header_default_text">Apăsați aici pentru a reîmprospăta</string>
   <string name="drop_down_list_header_loading_text">Se încarcă...</string>
   <string name="drop_down_list_header_pull_text">Glisați în jos pentru a actualiza</string>
   <string name="drop_down_list_header_release_text">Eliberați pentru actualizare</string>
@@ -200,7 +200,7 @@
   <string name="fortune_name">apel</string>
   <string name="fortune_name_hint">Vă rugăm să introduceți</string>
   <string name="fortune_no_name">Vă rugăm să completați apelul</string>
-<!--<string name="free_day_default_banner_title">Zi liberă!</string>-->
+    <string name="free_day_default_banner_title">Zi liberă!</string>
     <string name="from_google_group_calendar">Calendar Google</string>
     <string name="gadget_no_events">Niciun eveniment viitor în calendar</string>
     <string name="gadget_title">Calendar</string>
@@ -301,7 +301,7 @@
     <string name="preferences_clear_search_history_summary">Eliminaţi toate căutările efectuate</string>
     <string name="preferences_clear_search_history_title">Ştergeţi istoricul căutărilor</string>
     <string name="preferences_default_reminder_default">10</string>
-<!--<string name="preferences_default_reminder_default_value">10</string>-->
+    <string name="preferences_default_reminder_default_value">10</string>
     <string name="preferences_default_reminder_dialog">Timp predefinit pentru memento</string>
     <string name="preferences_default_reminder_title">Timp predefinit pentru memento</string>
     <string name="preferences_general_title">Setarea afişării calendarului</string>
@@ -392,9 +392,9 @@
   <string name="str_from_mon_to_fri">De luni până vineri</string>
   <string name="str_hour_of_everyday">în fiecare zi %s</string>
   <string name="str_hour_of_next">Data viitoare %s</string>
-<!--<string name="subscribe_card_more_default_text">mai multe</string>-->
-<!--<string name="subscribe_card_recommend_default_text">Recomandări</string>-->
-<!--<string name="subscribe_description_card_default_title">Alimentare profil</string>-->
+  <string name="subscribe_card_more_default_text">mai multe</string>
+  <string name="subscribe_card_recommend_default_text">Recomandări</string>
+  <string name="subscribe_description_card_default_title">Alimentare profil</string>
   <string name="subscribe_description_card_more_cut">Restrângeți</string>
   <string name="subscribe_description_card_more_launch">Extindeți</string>
   <string name="subscribe_detail_title">Detalii abonament</string>
@@ -471,7 +471,7 @@
     <string name="widget_events">Următoarele evenimente</string>
     <string name="widget_no_events">Niciun eveniment</string>
     <string name="widget_select_style">Selectaţi un stil</string>
-<!--<string name="work_day_default_banner_title">Zi de lucru!</string>-->
+    <string name="work_day_default_banner_title">Zi de lucru!</string>
     <string name="work_day_indication"></string>
     <string name="wuxing">Cinci</string>
     <string name="xiaomi_calendar_display_name">Calendar Cont Mi</string>

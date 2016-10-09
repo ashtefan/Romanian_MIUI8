@@ -1449,12 +1449,12 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="input_method">Tastatură</string>
     <string name="input_method_selector">Selector al metodei de intrare</string>
     <string name="input_method_selector_always_hide_title">Ascundeţi întotdeauna</string>
-<!--<string name="input_method_selector_always_hide_value">2</string>-->
+    <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_always_show_title">Afişaţi întotdeauna</string>
-<!--<string name="input_method_selector_always_show_value">1</string>-->
+    <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_show_automatically_title">Automat</string>
-<!--<string name="input_method_selector_show_automatically_value">0</string>-->
-<!--<string name="input_method_selector_visibility_default_value">0</string>-->
+    <string name="input_method_selector_show_automatically_value">0</string>
+    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="input_method_settings">Setări</string>
     <string name="input_method_settings_button">Setări</string>
     <string name="input_methods_and_subtype_enabler_title">Alegeţi metode de intrare active</string>
@@ -2384,7 +2384,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, Acasă şi Înapoi</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
     <string name="pref_operational_key">Butoane de navigare</string>
-    <string name="pref_volume_launch_camera_summary">Apăsați de două ori butonul Volum- pentru a accesa Camera foto</string>
+    <string name="pref_volume_launch_camera_summary">Apăsați de două ori butonul de Volume- pentru a accesa Camera foto</string>
     <string name="pref_volume_launch_camera_title">Lansare Cameră foto</string>
     <string name="pref_volume_wake_summary">Apăsarea butoanelor de volum va trezi dispozitivul</string>
     <string name="pref_volume_wake_title">Trezire cu butoanele de volum</string>
@@ -3795,8 +3795,8 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="wait_for_debugger_summary">Înaintea executării, aplicaţia aşteaptă ataşarea depanatorului</string>
     <string name="wakeup_for_keyguard_notification_title">Trezire ecran pentru notificări</string>
     <string name="wallpaper_attributions">Imagine de fundal</string>
-<!--<string name="wallpaper_attributions_values">"Furnizori imagini din satelit:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>-->
+    <string name="wallpaper_attributions_values">"Furnizori imagini din satelit:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="wallpaper_desktop">Ecranul de pornire</string>
     <string name="wallpaper_live">Imagine de fundal live</string>
     <string name="wallpaper_lockscreen">Blocarea ecranului</string>

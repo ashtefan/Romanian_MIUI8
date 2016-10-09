@@ -286,7 +286,7 @@ Verificați numărul de urmărire."</string>
     <string name="more_express_numbers">Mai multe numere express</string>
     <string name="navigation_search_all_cities">Toate orașele</string>
     <string name="navigation_search_automatically_positioned_city">Orașul actual</string>
-<!--<string name="navigation_search_default_hint">Caută locații</string>-->
+    <string name="navigation_search_default_hint">Caută locații</string>
     <string name="navigation_search_hot_cities">Populare</string>
     <string name="navigation_search_no_city_list">"Nu s-a găsit nimic"</string>
     <string name="navigation_search_positioning">Localizare…</string>
@@ -341,7 +341,7 @@ Verificați numărul de urmărire."</string>
     <string name="quick_yellow_page_tab_phones">Telefon</string>
     <string name="recharge_actual_price">Preț:</string>
     <string name="recharge_charge_range">Preț: %1$s-%2$s RMB</string>
-<!--<string name="recharge_charge_value">Preț: %s RMB</string>-->
+    <string name="recharge_charge_value">Preț: %s RMB</string>
     <string name="recharge_follow_name">Suplimentați</string>
     <string name="recharge_history">Istoricul suplimentărilor</string>
     <string name="recharge_history_empty">Gol</string>

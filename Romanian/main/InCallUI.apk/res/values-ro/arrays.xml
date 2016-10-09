@@ -18,7 +18,7 @@
         <item>3G/2G(mod automat)</item>
         <item>Numai 2G</item>
     </string-array>
-<!--<string-array name="language_list_values">
+    <string-array name="language_list_values">
         <item>Toate limbile</item>
         <item>Germană</item>
         <item>Engleză</item>
@@ -41,7 +41,7 @@
         <item>Arabă</item>
         <item>Rusă</item>
         <item>Islandeză</item>
-    </string-array>-->
+    </string-array>
     <string-array name="plmn_prefer_network_type_choices">
         <item>2G</item>
         <item>3G</item>

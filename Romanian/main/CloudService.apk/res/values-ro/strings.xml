@@ -257,7 +257,7 @@ Apăsați butonul Setări pentru a vizualiza mai multe opțiuni"</string>
     <string name="micloud_main_sync_exception">Eroare de sincronizare</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
     <string name="micloud_main_sync_now">Sincronizaţi acum</string>
-    <string name="micloud_main_sync_on">Activați sincronizarea</string>
+    <string name="micloud_main_sync_on">Sincronizare pornită</string>
     <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>
     <string name="micloud_main_sync_pause">Sincronizare întreruptă</string>
     <string name="micloud_main_sync_pending">Se așteaptã sincronizarea</string>
