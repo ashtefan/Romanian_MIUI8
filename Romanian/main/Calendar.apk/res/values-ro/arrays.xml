@@ -160,11 +160,6 @@
         <item>Începeţi fără mine.</item>
         <item>Îmi pare rău, nu pot să ajung. Va trebui să ne vedem altădată.</item>
      </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Mereu</item>
-        <item>Doar în modul silenţios</item>
-        <item>Niciodată</item>
-     </string-array>
     <string-array name="widget_style_list">
         <item>Negru transparent</item>
         <item>Fundal alb</item>
@@ -309,5 +304,10 @@
         <item>Niciodată</item>
         <item>Timp</item>
         <item>Frecvenţă</item>
+     </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Mereu</item>
+        <item>Doar în modul silenţios</item>
+        <item>Niciodată</item>
      </string-array>
 </resources>

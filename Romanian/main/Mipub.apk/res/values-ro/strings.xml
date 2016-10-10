@@ -50,7 +50,7 @@
     <string name="copy_to_sdcard">Salvează atașamentul</string>
     <string name="copy_to_sdcard_fail">"Nu s-a putut salva atașamentul"</string>
     <string name="copy_to_sdcard_success">Atașament salvat ca %s</string>
-    <string name="current_service_number">număr serviciu curent</string>
+    <string name="current_service_number">Număr serviciu curent</string>
     <string name="delete">Ștergeți</string>
     <string name="delete_message">Ștergeți</string>
     <string name="delete_unlocked">Ștergeți mesajele blocate</string>

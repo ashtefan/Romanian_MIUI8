@@ -25,8 +25,8 @@
     <string name="component_backup_preference_title">Faceți o copie de rezervă a temei</string>
     <string name="component_category_finest_title">Recomandate</string>
     <string name="component_category_more_title">Altele</string>
-    <string name="component_title_ringtone">Sunet de apel</string>
-    <string name="component_title_wallpaper">Imagine de fundal</string>
+    <string name="component_title_ringtone">Sunete de apel</string>
+    <string name="component_title_wallpaper">Imagini de fundal</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
     <string name="deleting">Ştergere…</string>
@@ -39,7 +39,7 @@
     <string name="description_version">Versiune</string>
     <string name="description_version_szie">Versiune: %1$s Dimensiune: %2$s</string>
     <string name="desktop_wallpaper">Ecran principal</string>
-    <string name="dev_options">OPȚIUNI DEZVOLTATOR</string>
+    <string name="dev_options">Opțiuni dezvoltator</string>
     <string name="dev_options_summary">Resurse Web</string>
     <string name="download_failed">Descărcare eşuată</string>
     <string name="download_preview_failed">Încărcarea previzualizării a eşuat</string>
@@ -109,7 +109,8 @@
     <string name="provision_second_title">Selectați una din cele 5 teme implicite</string>
     <string name="provision_title">Selectați o temă</string>
     <string name="purchased_list">Teme achiziționate</string>
-    <string name="purchased_list_format">%1$s achiziționate</string>
+    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_legacy">Teme achiziționate</string>
     <string name="reload">Încercați din nou</string>
     <string name="resource_account_abnormal_state">Eroare de cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>
@@ -240,8 +241,11 @@
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratuit</string>
     <string name="resource_price_unit">Credite Mi</string>
+    <string name="resource_purchase_common_error">Operațiunea a eșuat; reîncercați.</string>
+    <string name="resource_purchase_continue_to_pay">Continuați pentru a plăti %s</string>
     <string name="resource_purchase_getting_order">Preluare informaţii despre comandă…</string>
     <string name="resource_purchase_verifying_payment">Verificare informaţii despre achitare…</string>
+    <string name="resource_purchase_vip_pay_failed">Nu s-a putut finaliza plata prin vip.</string>
     <string name="resource_purchase_waiting_payment">Aşteptare informaţii despre achitare…</string>
     <string name="resource_ranking">Populare</string>
     <string name="resource_ranking_free">Gratuite</string>
@@ -330,7 +334,7 @@
     <string name="theme_component_title_boot_audio">Sunet de Boot</string>
     <string name="theme_component_title_clock">Ceas</string>
     <string name="theme_component_title_contact">Tastatură numerică</string>
-    <string name="theme_component_title_font">Font</string>
+    <string name="theme_component_title_font">Fonturi</string>
     <string name="theme_component_title_framework">Margini</string>
     <string name="theme_component_title_icon">Pictograme</string>
     <string name="theme_component_title_launcher">Lansator</string>

@@ -251,14 +251,14 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="download_filter_all">Toate</string>
-    <string name="download_filter_apk">Apk</string>
+    <string name="download_filter_apk">.apk</string>
     <string name="download_filter_application">Aplicații</string>
     <string name="download_filter_audio">Muzică</string>
     <string name="download_filter_image">Fotografii</string>
     <string name="download_filter_others">Altele</string>
     <string name="download_filter_text">Fișiere</string>
     <string name="download_filter_video">Videoclipuri</string>
-    <string name="download_filter_zip">Zip</string>
+    <string name="download_filter_zip">.zip</string>
     <string name="download_in_process">Descărcare…</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_memory_info_avai">" disponibil %s|"</string>

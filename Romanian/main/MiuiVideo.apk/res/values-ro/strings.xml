@@ -100,8 +100,8 @@
     <string name="debug_mode_desc">Bifat, se afişează ID video în colțul din stânga-sus și se afișează publicitate la pornirea aplicației</string>
     <string name="declaration">Condiţii de utilizare</string>
     <string name="declaration_allow">Sunt de acord</string>
-    <string name="declaration_content">"1. Utilizând această aplicație sunteți de acord cu "&lt;a href="file:///android_asset/terms.html"&gt;Termenii serviciului&lt;/a&gt;" Sohu Video, iQiyi și ai altor furnizori de conținut video'.
-2. Pentru a îmbunătăți experiența de utilizare vom colecta date despre dispozitiv și despre conținutul pe care îl urmăriți. Youku și iQiyi vor colecta de asemenea IMEI-ul dispozitivului.&amp;#8203;
+    <string name="declaration_content">"1. Utilizând această aplicație, incluzând Sohu Video, iQiyi și alți furnizori de conținut video, sunteți de acord cu "&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;Acordul utilizatorului&lt;/a&gt; și &lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;Politica de Confidențialitate&lt;/a&gt;".
+2. Pentru a îmbunătăți experiența de utilizare vom colecta date despre dispozitiv și despre conținutul pe care îl urmăriți. Sohu și iQiyi vor colecta de asemenea IMEI-ul dispozitivului.&amp;#8203;
 3. Extensia HD Vvideo va fi instalată în mod automat.
 4. Această aplicație necesită o conexiune la internet pentru a funcționa în mod normal."</string>
     <string name="declaration_content_td_custom">Această caracteristică necesită conexiune la internet pentru a funcţiona în mod normal.</string>

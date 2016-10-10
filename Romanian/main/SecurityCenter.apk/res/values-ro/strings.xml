@@ -53,7 +53,13 @@ sau introduceţi parola pentru protejarea confidențialității"</string>
     <string name="activity_title_virus">Virus</string>
     <string name="activity_title_virus_detail">Detalii virus</string>
     <string name="activity_title_virus_settings">Setări</string>
-    <string name="add_miservice_dialog_content">%s necesită să adăugați MIUI Service Framework la lista de excepții. Puteți primi notificări de la aplicațiile MIUI și de la alte aplicații.</string>
+    <string name="adb_install_no_network">Conectați-vă la rețea și încercați din nou</string>
+    <string name="adb_install_open">Se acordă permisiunea…</string>
+    <string name="adb_install_open_error">"Nu s-a putut acorda permisiunea; verificați conexiunea la rețea"</string>
+    <string name="adb_install_reject_notiy">"Nu s-a acordat permisiunea de instalare prin USB a %s"</string>
+    <string name="adb_install_reject_notiy_desc">Puteți permite instalarea prin USB din Opțiuni dezvoltator</string>
+    <string name="adb_login_xiaomi_account">Conectați-vă mai întâi la contul Mi</string>
+    <string name="add_miservice_dialog_content">"%s necesită să adăugați MIUI Service Framework la lista de excepții. Puteți primi notificări de la aplicațiile MIUI și de la alte aplicații."</string>
     <string name="add_miservice_dialog_title">MIUI Service Framework</string>
     <string name="add_to_whitelist_button">Gestionare excepţii roaming</string>
     <string name="add_white_list">Adăugaţi</string>
@@ -77,7 +83,7 @@ sau introduceţi parola pentru protejarea confidențialității"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Încărcați numele și detaliile aplicațiilor</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Se încarcă și se scanează numele și detaliile aplicațiilor, utilizând definiții de viruși on-line.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele AVL şi Tencent (%s).</string>
+    <string name="antivirus_privacy_dialog_summary">"Această funcţie criptează și încarcă ID-ul dispozitivului dvs. pe serverele Avast, AVL şi Tencent (%s)."</string>
     <string name="antivirus_privacy_dialog_summary_link">Vizualizaţi Politica de confidențialitate</string>
     <string name="antivirus_privacy_dialog_title">Politica de confidențialitate</string>
     <string name="antivirus_sec_support">Susţinut de %s</string>
@@ -712,6 +718,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_item">Activați blocarea aplicațiilor</string>
     <string name="notification_subtitle">Apăsați pentru a activa</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
+    <string name="notification_sysapp_cracked_text">Versiunea curentă MIUI a fost modificată</string>
+    <string name="notification_sysapp_cracked_title">Este detectat un risc de securitate</string>
     <string name="notification_title_cmcc_app_check">%d zile de la ultima verificare</string>
     <string name="notification_title_firewall_blocked">Blocat</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
@@ -1172,6 +1180,15 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="summary_virus_cloudscan">Încărcaţi numele aplicaţiilor și detaliile și scanaţi utilizând definiții de viruși on-line</string>
     <string name="summary_virus_update">Actualizare automată a definițiilor de viruși atunci când este conectat la Wi-Fi</string>
     <string name="summary_xiaomi_roaming">0.01 RON/MB pentru traficul de date în roaming.</string>
+    <string name="sys_app_prot_cracked_confirm">Am înțeles</string>
+    <string name="sys_app_prot_cracked_login">Conectați-vă utilizând contul Mi</string>
+    <string name="sys_app_prot_cracked_text_login">"Versiunea curentă MIUI a fost modificată, fapt ce supune telefonul unor riscuri privind securitatea.
+
+Asigurați-vă că știți de unde provine acest telefon și contactați centrul de service autorizat Xiaomi din zona dumneavoastră pentru a obține ajutor."</string>
+    <string name="sys_app_prot_cracked_text_unlogin">"Versiunea curentă MIUI a fost modificată, fapt ce supune telefonul unor riscuri privind securitatea. Conectați-vă utilizând contul Mi pentru a dezactiva acest avertisment.
+
+Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-vă că știți de unde provine acest telefon și contactați centrul de service autorizat Xiaomi din zona dumneavoastră."</string>
+    <string name="sys_app_prot_cracked_title">Risc de securitate</string>
     <string name="system_app">Aplicaţii de sistem</string>
     <string name="system_application">Aplicații de sistem</string>
     <string name="system_check_content_none">Sigur</string>
@@ -1409,6 +1426,9 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Menţinut activ</string>
     <string name="usage_type_wifi_running">Funcţionare Wi-Fi</string>
+    <string name="usb_adb_input_apply_step_1">Computerul dumneavoastră va putea modifica setările și acorda permisiuni fără a vă informa despre acest lucru, atunci când veți conecta telefonul prin USB</string>
+    <string name="usb_adb_input_apply_step_2">Acest lucru poate duce la scurgerea de informații personale cum ar fi conturile sau mesajele</string>
+    <string name="usb_adb_input_apply_step_3">Asigurați-vă că înțelegeți riscurile asociate înainte de a acorda permisiunea. Permiteți acum?</string>
     <string name="usb_install_desc">Instalați această aplicație prin USB?</string>
     <string name="usbsharenet_exception_summary">Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea USB a dispozitivului și reporniți Mi PC Suite.</string>
     <string name="usbsharenet_exception_title">Testare internet partajat prin USB</string>

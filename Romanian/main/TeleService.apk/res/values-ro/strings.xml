@@ -1247,8 +1247,8 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voicemail_settings_number_hint">Introduceți numărul mesageriei vocale</string>
     <string name="voicemail_settings_number_label">Număr mesagerie vocală</string>
     <string name="voicemail_settings_number_title">Număr mesagerie vocală</string>
-    <string name="voip_setting">Setări VOIP</string>
-    <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunîtîțirea calității apelurilor video și vocale</string>
+    <string name="voip_setting">Setări VoIP</string>
+    <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunătățirea calității apelurilor video și vocale</string>
     <string name="volte_switch_title">VoLTE activat</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>

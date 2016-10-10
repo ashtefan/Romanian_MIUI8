@@ -56,7 +56,7 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="close">Închideți</string>
     <string name="commercial">Reclamă</string>
-    <string name="common_loading_text">încărcare...</string>
+    <string name="common_loading_text">Doar o secundă…</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
     <string name="daily_forcast_no_stable_direction">Vântul nu adie</string>

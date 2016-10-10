@@ -55,8 +55,8 @@
     <string name="data_error">A apărut o eroare</string>
     <string name="data_error_show">A apărut o eroare</string>
     <string name="delete">Ștergeți</string>
-    <string name="didi_back">înapoi</string>
-    <string name="didi_close">închideți</string>
+    <string name="didi_back">Înapoi</string>
+    <string name="didi_close">Închideți</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="dont_enable">Dezactivați</string>
     <string name="download_completed">Descărcare salvată în %s</string>
@@ -84,7 +84,7 @@
     <string name="express_address_warning_no_phone">Numărul de telefon este necesar</string>
     <string name="express_addressee_info">Informații adresă</string>
     <string name="express_addressee_name">Numele adresei</string>
-    <string name="express_addressee_region">Regiunea pentru adresă</string>
+    <string name="express_addressee_region">"Regiunea pentru adresă"</string>
     <string name="express_banner_header">%1$s / Număr de urmărire</string>
     <string name="express_cancel_order">Renunțați</string>
     <string name="express_company_list_empty">Nicio companie</string>
@@ -183,7 +183,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_send_notice">Articole interzise</string>
     <string name="express_sender_info">Informații despre expeditor</string>
     <string name="express_sender_name">Numele expeditorului</string>
-    <string name="express_sender_region">Regiunea expeditorului</string>
+    <string name="express_sender_region">"Regiunea expeditorului"</string>
     <string name="express_shortcut_name">Solicită sau trimite express</string>
     <string name="express_show_all_inquiry_history">Arată istoricul solicitărilor</string>
     <string name="express_submit_order">Trimite</string>

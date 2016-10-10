@@ -62,6 +62,7 @@
     <string name="call_assistant">Apelaţi %s</string>
     <string name="call_callback">Apelaţi un număr cu apelare inversă</string>
     <string name="call_car">Apelaţi numărul de telefon din maşină</string>
+    <string name="call_charge">Suplimentați</string>
     <string name="call_company_main">Apelaţi numărul principal al companiei</string>
     <string name="call_custom">Apelaţi %s</string>
     <string name="call_disambig_title">Selectaţi numărul</string>
@@ -69,6 +70,7 @@
     <string name="call_fax_work">Apelaţi un număr de fax de la serviciu</string>
     <string name="call_home">Apelaţi numărul de la domiciliu</string>
     <string name="call_isdn">Apelaţi ISDN</string>
+    <string name="call_left">Balanță apeluri</string>
     <string name="call_log_empty_gecode">-</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_new_header">Noi</string>
@@ -76,9 +78,12 @@
     <string name="call_main">Apelaţi numărul principal</string>
     <string name="call_mms">Apelaţi MMS</string>
     <string name="call_mobile">Apelaţi numărul de mobil</string>
+    <string name="call_not_found"> --</string>
+    <string name="call_operator_init">Setați operatorul</string>
     <string name="call_other">Apelaţi</string>
     <string name="call_other_fax">Apelaţi numărul de fax</string>
     <string name="call_pager">Apelaţi un număr de pager</string>
+    <string name="call_problem_report">Raportați o problemă</string>
     <string name="call_radio">Apelaţi un număr radio</string>
     <string name="call_record_setting_miui">Setări înregistrare</string>
     <string name="call_settings">Setări</string>
@@ -87,6 +92,7 @@
     <string name="call_telex">Apelaţi un număr de telex</string>
     <string name="call_tty_tdd">Apelaţi TTY/TDD</string>
     <string name="call_type_and_date">%1$s %2$s</string>
+    <string name="call_unit">USD</string>
     <string name="call_work">Apelaţi numărul de serviciu</string>
     <string name="call_work_mobile">Apelaţi numărul de mobil de la serviciu</string>
     <string name="call_work_pager">Apelaţi pagerul de serviciu</string>
@@ -268,7 +274,8 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="data_already_used">Date utilizate</string>
     <string name="data_charge">Supliniți datele mobile</string>
     <string name="data_left">Disponibil date</string>
-    <string name="data_unit">MB</string>
+    <string name="data_unit_gb">GB</string>
+    <string name="data_unit_mb">MB</string>
     <string name="date_picker_label">Aminteşte-mi cu 3 zile înainte şi din nou în ziua</string>
     <string name="date_time_set">Setaţi</string>
     <string name="date_year_toggle">Indicaţi anul</string>
@@ -499,7 +506,8 @@ Motivul: „%s”"</string>
     <string name="ic_menu_back">Înapoi</string>
     <string name="ic_menu_done">Finalizat</string>
     <string name="imLabelsGroup">IM</string>
-    <string name="imei">IMEI</string>
+    <string name="imei">"IMEI: "</string>
+    <string name="imei_invalid">IMEI invalid</string>
     <string name="import_all_sim_entries_miui">Importul tuturor contactelor</string>
     <string name="import_all_vcard_string">Importaţi toate fişierele vCard</string>
     <string name="import_contact_card_aggregate_suggestion_button">Îmbină cartelele</string>
@@ -585,7 +593,8 @@ Motivul: „%s”"</string>
     <string name="map_home">Vizualizaţi adresa de domiciliu</string>
     <string name="map_other">Vizualizaţi adresa poştală</string>
     <string name="map_work">Vizualizaţi adresa de serviciu</string>
-    <string name="meid">MEID</string>
+    <string name="meid">"MEID: "</string>
+    <string name="meid_invalid">MEID invalid</string>
     <string name="menuMoreDescription">Mai multe</string>
     <string name="menu_accounts">Conturi</string>
     <string name="menu_addStar">Adăugaţi la lista de favorite</string>
@@ -1243,6 +1252,9 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="wipe_data">Ştergeţi datele</string>
     <string name="yellowPageNavigationIconLabel">Registru</string>
     <string name="yellowPageNavigationLabel">Registru</string>
+    <string name="yellowpage_navigation_ad_hint">Reclamă</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">"Nu s-au putut verifica balanța și datele; încercați din nou."</string>
+    <string name="yellowpage_navigation_balance_refresh_succeed">Balanța și datele au fost verificate</string>
     <string name="yellowpage_navigation_clear_search_history">Goliţi istoricul</string>
     <string name="yellowpage_navigation_more_items">Mai multe</string>
     <string name="yellowpage_navigation_more_items_title">Mai multe servicii</string>
@@ -1251,7 +1263,8 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowpage_navigation_search_history">Istoricul căutărilor</string>
     <string name="yellowpage_navigation_search_offline_hint">Sunteţi off-line</string>
     <string name="yellowpage_navigation_search_result_average_price">Medie RMB %d</string>
-    <string name="yellowpage_navigation_search_result_network_error">Imposibil de conectat la reţea</string>
+    <string name="yellowpage_navigation_search_result_network_error">"Nu s-a putut conecta
+          la rețea"</string>
     <string name="yellowpage_navigation_search_result_no_more">Nu mai sunt rezultate</string>
     <string name="yellowpage_navigation_search_result_service_error">Serviciu indisponibil</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Eroare necunoscută</string>

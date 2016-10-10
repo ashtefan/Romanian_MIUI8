@@ -441,9 +441,9 @@
     <string name="priority_low">Redusă</string>
     <string name="priority_normal">Normală</string>
     <string name="privacy_mode_hint">Nu puteţi trimite mesaje în modul Vizitator</string>
-    <string name="privacy_password_message1">Parola de protejare a confidențialității este utilizată pentru aplicații, notițe și dosarele ascunse.</string>
+    <string name="privacy_password_message1">Parola de protejare a confidențialității este utilizată pentru aplicații, fotografii, notițe și dosarele ascunse.</string>
     <string name="privacy_password_message2">Utilizați parola de protejare a confidențialității. Aceasta este utilizată pentru aplicații, notițe și dosarele ascunse.</string>
-    <string name="privacy_password_message3">"Parola pentru mesajele private va fi înlocuită cu Parola de protejare a confidențialității și este utilizată pentru aplicații, notițe și dosarele ascunse."</string>
+    <string name="privacy_password_message3">"Parola pentru mesajele private va fi înlocuită cu Parola de protejare a confidențialității care este utilizată și pentru aplicații, fotografii, notițe și dosarele ascunse."</string>
     <string name="privacy_password_set_password">Setați</string>
     <string name="privacy_password_title1">Setați parola</string>
     <string name="privacy_password_title2">Utilizați parola de protejare a confidențialității</string>

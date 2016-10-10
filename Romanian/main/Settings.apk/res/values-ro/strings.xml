@@ -7,6 +7,7 @@ Identificatorul pentru reclame este un număr unic asociat permanent telefonului
     <string name="about_settings_summary">Afişaţi informaţiile legale, starea şi versiunea software</string>
     <string name="ac_enable_summary">Setați o parolă pentru lansarea aplicațiilor</string>
     <string name="ac_enable_title">Blocare aplicații</string>
+    <string name="ac_enter_applock">Lansați Blocarea aplicațiilor</string>
     <string name="ac_privacy_mode_sum">Introduceţi parola pentru a anula modul Vizitator</string>
     <string name="ac_privacy_mode_title">Activaţi parola</string>
     <string name="ac_set_apps_title">Selectaţi aplicaţiile pentru blocare</string>
@@ -191,6 +192,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_factory_reset_dlg_title">Dezinstalaţi actualizările?</string>
     <string name="app_floating_window_dlg_disable">"Dezactivarea setărilor ferestrei plutitoare pt. %1$s necesită repornirea aplicației"</string>
     <string name="app_floating_window_dlg_enable">"Activarea setărilor ferestrei plutitoare pt. %1$s necesită repornirea aplicaţiei."</string>
+    <string name="app_forget_pattern"><u>Ați uitat modelul de deblocare?</u></string>
     <string name="app_forward_locked">Aplicaţia este protejată la copiere.</string>
     <string name="app_install_location_summary">Schimbaţi locaţia preferată de instalare pentru noile aplicaţii</string>
     <string name="app_install_location_title">Locaţie preferată de instalare</string>
@@ -694,7 +696,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
-    <string name="checking_decryption">Verificare…</string>
     <string name="checking_find_device_status">Se verifică starea serviciului Localizare dispozitiv…</string>
     <string name="checking_for_updates">verificare actualizări…</string>
     <string name="childmod_privacy_password_role_instruction">Activați Modul Copil pentru a preveni acțiunile nedorite atunci când telefonul este utilizat de către un copil</string>
@@ -818,7 +819,6 @@ Criptarea poate dura cel puţin o oră. Asiguraţi-vă că aveţi acumulatorul �
 Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valorile din fabrică. Când configuraţi telefonul după resetare, veţi putea restabili toate datele pentru care aţi creat copii de rezervă în Contul Google."</string>
     <string name="crypt_keeper_failed_title">Criptare nereuşită</string>
     <string name="crypt_keeper_final_desc">Operaţiunea de criptare este ireversibilă şi întreruperea ei va duce la pierderea datelor. Criptarea durează cel puţin o oră, timp în care telefonul va reporni de mai multe ori.</string>
-    <string name="crypt_keeper_force_power_cycle">Pentru a vă debloca telefonul, opriți-l și apoi porniți-l din nou.</string>
     <string name="crypt_keeper_low_charge_text">Încărcaţi bateria şi încercaţi din nou.</string>
     <string name="crypt_keeper_settings_title">Criptare</string>
     <string name="crypt_keeper_setup_description">Aşteptaţi criptarea telefonului. Finalizat ^1%.</string>
@@ -829,9 +829,6 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="crypt_keeper_warn_wipe">Atenție: Conținutul dispozitivului dumneavoastră va fi șters după încă ^1 încercare nereușită de deblocare!</string>
     <string name="cryptkeeper_emergency_call">Apel de urgenţă</string>
     <string name="cryptkeeper_return_to_call">Reveniţi la apel</string>
-    <string name="cryptkeeper_wrong_password">Parolă incorectă</string>
-    <string name="cryptkeeper_wrong_pattern">Model de deblocare incorect</string>
-    <string name="cryptkeeper_wrong_pin">Cod PIN incorect</string>
     <string name="current_backup_pw_prompt">Introduceţi aici parola actuală pentru copia de rezervă completă</string>
     <string name="current_input_method">Prestabilit</string>
     <string name="current_use_ese">Utilizare element de siguranță încorporat</string>
@@ -1460,7 +1457,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="input_methods_and_subtype_enabler_title">Alegeţi metode de intrare active</string>
     <string name="input_methods_settings_label_format">Setări %1$s</string>
     <string name="input_methods_settings_title">Introducere text</string>
-    <string name="input_password_hint_text">Introduceți parola</string>
     <string name="input_settings">Setări intrare</string>
     <string name="install_all_warning">Telefonul şi datele dvs. personale sunt mai vulnerabile la un atac din partea aplicaţiilor ce provin din surse necunoscute. Sunteţi de acord că sunteţi singura persoană responsabilă pentru deteriorarea telefonului sau pierderea datelor ce pot avea loc ca urmare a utilizării acestor aplicaţii.</string>
     <string name="install_applications">Surse necunoscute</string>
@@ -1592,7 +1588,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="local_backup_section_summary">Creaţi o copie de rezervă pentru setările de sistem, cont şi aplicaţii</string>
     <string name="local_backup_section_title">Copii de rezervă locale</string>
     <string name="locale_default">Prestabilit</string>
-    <string name="locale_settings">Localizare</string>
+    <string name="locale_settings">Regiune</string>
     <string name="location_access_summary">Aplicațiile pot obține date despre locația dumneavoastră</string>
     <string name="location_access_title">Acces la locaţia mea</string>
     <string name="location_agps_apn_choose_dialog_title">Tipuri APN</string>
@@ -1706,7 +1702,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpassword_pin_no_sequential_digits">O secvență de cifre crescătoare, descrescătoare sau repetitivă este interzisă</string>
     <string name="lockpassword_pin_recently_used">Administr. dispoz. nu permite deblocarea cu PIN.</string>
     <string name="lockpassword_pin_set_toast">PIN setat</string>
-    <string name="lockpassword_pin_too_long">Parola numerică trebuie să aibă mai puţin de %d cifre.</string>
+    <string name="lockpassword_pin_too_long">Codul PIN poate conține cel mult %d cifre.</string>
     <string name="lockpassword_pin_too_short">Parola numerică trebuie să aibă minimum %d caractere</string>
     <string name="lockpassword_press_continue">Atingeţi Continuaţi la terminare</string>
     <string name="lockpattern_change_lock_pattern_label">Modificaţi modelul pentru deblocare</string>
@@ -1741,7 +1737,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpattern_settings_title">Model pentru deblocare</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts">Prea multe încercări eșuate. Încercați din nou în %d secunde.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Așteptați %d secunde și încercați din nou.</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Prea multe încercări nereușite!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Prea multe încercări nereușite</string>
     <string name="lockpattern_tutorial_cancel_label">Anulaţi</string>
     <string name="lockpattern_tutorial_continue_label">Înainte</string>
     <string name="lockscreen_glogin_checking_password">Verificare…</string>
@@ -2086,6 +2082,8 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_title">Info. proprietar</string>
     <string name="packages_subtitle">Pachete incluse</string>
+    <string name="pad_applock">Blocare aplicație</string>
+    <string name="pad_bind_xiaomi_account_success">Contul Mi a fost adăugat cu succes</string>
     <string name="page_layout_1">Duminică 16 august</string>
     <string name="page_layout_10">Setări</string>
     <string name="page_layout_11">Meteo</string>
@@ -2141,6 +2139,11 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
     <string name="password_entrance_title">Blocare ecran</string>
     <string name="password_guard">Blocare</string>
+    <string name="password_promotion_button_text">Adăugați contul Mi</string>
+    <string name="password_promotion_message">Adăugați contul dvs. Mi (%s) pentru a vă putea reseta parola în cazul în care o veți uita.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Adăugați contul dvs. Mi pentru a vă putea reseta parola în cazul în care o veți uita.</string>
+    <string name="password_promotion_postbutton_text">Adăugați</string>
+    <string name="password_promotion_title">Adăugați contul Mi</string>
     <string name="path_about_about_settings">Setări/Despre telefon</string>
     <string name="path_accelerometer_settings">Setări/Afișaj/Rotire automată a ecranului</string>
     <string name="path_access_control_settings">Setări/Setări adiționale/Confidențialitate/Setări pentru confidențialitate</string>
@@ -2384,7 +2387,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, Acasă şi Înapoi</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
     <string name="pref_operational_key">Butoane de navigare</string>
-    <string name="pref_volume_launch_camera_summary">Apăsați de două ori butonul de Volume- pentru a accesa Camera foto</string>
+    <string name="pref_volume_launch_camera_summary">Apăsați de două ori butonul de Volum- pentru a accesa Camera foto</string>
     <string name="pref_volume_launch_camera_title">Lansare Cameră foto</string>
     <string name="pref_volume_wake_summary">Apăsarea butoanelor de volum va trezi dispozitivul</string>
     <string name="pref_volume_wake_title">Trezire cu butoanele de volum</string>
@@ -3194,7 +3197,6 @@ Pentru mai multe informații, contactați administratorul."</string>
 
 Acest lucru este posibil datorită unui certificat de încredere instalat pe dispozitivul dvs."</string>
     <string name="stable_build">" | Stabil"</string>
-    <string name="starting_android">Lansare Android</string>
     <string name="status_awaiting_tap">Apăsați o etichetă pentru a scrie...</string>
     <string name="status_awake_time">Durată de activitate</string>
     <string name="status_bar_and_notification_bar">Panou notificări şi bară de stare</string>
@@ -3503,7 +3505,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unmount_inform_text">Cardul SD va fi demontat.</string>
     <string name="untitled_apn">Fără titlu</string>
     <string name="update_progress_for_updates">Actualizare (%s)</string>
-    <string name="upload_debug_log_summary">Datele de diagnosticare pot include informații despre utilizarea componentelor hardware, sistemul de operare și aplicații. Datele vor fi utilizate pentru localizarea și analizarea sistemului și nu vor fi folosite niciodată pentru identificarea dumneavoastră.</string>
+    <string name="upload_debug_log_summary">Informațiile pe care le colectăm pot include informații personale. Datele vor fi utilizate pentru localizarea și analizarea sistemului și nu vor fi folosite niciodată pentru identificarea dumneavoastră.</string>
     <string name="upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="usage_access_title">Aplicaţii cu acces la utilizare</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
@@ -3528,6 +3530,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Menţinut activ</string>
     <string name="usage_type_wifi_running">Funcţionare Wi-Fi</string>
+    <string name="usb_adb_input">Depanare USB (Setări de securitate)</string>
+    <string name="usb_adb_input_desc">Permite acordarea de permisiuni și simularea depanării prin USB</string>
     <string name="usb_audio_disable_routing">Dezactivați rutarea audio USB</string>
     <string name="usb_audio_disable_routing_summary">Dezactivați rutarea audio USB automată a dispozitivelor periferice</string>
     <string name="usb_charging_summary">Opriți toate celelalte opţiuni de conexiune USB pentru a accelera încărcarea.</string>
@@ -3540,6 +3544,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="usb_host_mode_subtext">Utilizarea controlerelor de joc şi a altor periferice în portul USB poate reduce durata de viață a acumulatorului</string>
     <string name="usb_host_mode_text">Activaţi modul gazdă USB</string>
     <string name="usb_insert_summary">Introduceți o memorie USB pentru a o monta</string>
+    <string name="usb_install_app">Instalare prin USB</string>
+    <string name="usb_install_app_desc">Permiteți instalarea aplicațiilor prin USB</string>
     <string name="usb_label_installer_cd">Instalaţi instrumentul de transfer al fişierelor</string>
     <string name="usb_media_format_button_text">Ștergeți stocarea USB</string>
     <string name="usb_media_format_desc">Ștergeți stocarea USB? Veți pierde &lt;b&gt;toate&lt;/b&gt; datele stocate!</string>
@@ -4208,7 +4214,6 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="xspace">Aplicații clonate</string>
     <string name="yes">Da</string>
     <string name="yes_all_caps">DA</string>
-    <string name="you_wont_see_this">:)</string>
     <string name="zen_mode_alarm_info">Alarmele sunt întotdeauna întreruperi prioritare</string>
     <string name="zen_mode_alarm_use">Sunete</string>
     <string name="zen_mode_automation_category">Automatizare</string>

@@ -110,7 +110,8 @@
     <string name="confirm_delete_the_download_item_message">Ștergeți aceste descărcări?</string>
     <string name="confirm_download">Descărcare</string>
     <string name="confirm_to_renew">Reînnoire</string>
-    <string name="cp_info_first">Serviciul de streaming este oferit în principal de către Ultimate Inc.</string>
+    <string name="cp_info_first">"Serviciul de streaming
+este oferit în principal de către Ultimate Inc."</string>
     <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">"Nu s-au putut aranja, încercați din nou."</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
@@ -668,7 +669,7 @@
     <string name="share_chooser_title">Distribuiţi utilizând</string>
     <string name="share_description">Din Muzică Mi</string>
     <string name="share_end_note">Din Muzică Mi</string>
-    <string name="share_image_error">Nu s-a putut partaja imaginea datorită unei erori de descărcare</string>
+    <string name="share_image_error">"Nu s-a putut partaja imaginea datorită unei erori de descărcare"</string>
     <string name="share_text_list">"Listă de redare din Muzică Mi: "</string>
     <string name="share_text_song">"Melodie în Muzică Mi: "</string>
     <string name="show_more">Arătați %s în plus</string>
