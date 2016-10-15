@@ -36,8 +36,6 @@
     <string name="notification_download_success_more">Au fost descărcate %1$d fişiere</string>
     <string name="notification_need_wifi_for_size">Dimensiunea fişierului necesită conectarea la Wi-Fi</string>
     <string name="notification_paused_in_background">Întreruptă în fundal</string>
-    <string name="notify_disabled_net_by_app">Conectarea la internet a fost restricționată de către aplicația de Securitate</string>
-    <string name="notify_only_wifi_download">Se așteaptă conectarea la Wi-Fi</string>
     <string name="paused_waiting_for_network">Aşteptare disponibilitate reţea</string>
     <string name="permdesc_accessAllDownloads">Permite aplicaţiei să vizualizeze şi să modifice toate descărcările iniţiate de orice aplicaţie din sistem.</string>
     <string name="permdesc_downloadCacheNonPurgeable">Permite aplic. să descarce fişiere în memoria cache de desc., care nu poate fi ştearsă în mod automat când managerul de desc. are nevoie de mai mult spaţiu.</string>

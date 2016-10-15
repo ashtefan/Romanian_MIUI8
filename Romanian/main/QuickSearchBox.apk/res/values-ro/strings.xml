@@ -31,6 +31,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="device_settings_category_title">Ştergeţi istoricul căutărilor</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="distance_unit_meter">m</string>
+    <string name="entrance_setting">Deschidere căutare</string>
     <string name="google_app_label">Căutare Google</string>
     <string name="google_search_base">http://www.google.ro/m?hl=%1$s</string>
     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -65,6 +66,8 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="settings_description">Numele aplicațiilor instalate</string>
     <string name="show_more">Arată mai multe</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide aplicația"</string>
+    <string name="swipe_up_summary">Glisați în sus pentru a accesa Căutarea globală</string>
+    <string name="swipe_up_title">Glisați în sus</string>
     <string name="system_search_category_title">Telefon</string>
     <string name="voice_search_hint_quotation_end">\"</string>
     <string name="voice_search_hint_quotation_start">\"</string>

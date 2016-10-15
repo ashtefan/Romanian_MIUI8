@@ -17,8 +17,8 @@
     <string name="acct_not_synced">Acest cont nu este sincronizat, prin urmare calendarele dvs. pot să nu fie actualizate.</string>
     <string name="acessibility_selected_marker_description">Eveniment selectat</string>
     <string name="action_label">Revocare</string>
+  <string name="action_text_card_manager">abonamente</string>
     <string name="action_text_new_event">Eveniment nou</string>
-    <string name="action_text_online">Căutați</string>
     <string name="action_text_today">Astăzi</string>
   <string name="ad_card_connecting">conexiune</string>
   <string name="ad_card_download_count">utilizatorii descarcă %1$s</string>
@@ -78,7 +78,8 @@
     <string name="can_not_modify_allday_event">Nu se poate schimba evenimentul de o zi</string>
     <string name="can_not_modify_event">Nu se poate schimba evenimentul</string>
     <string name="can_not_modify_repeating_acrossing_days_event">Nu se poate schimba evenimentul de mai multe zile</string>
-  <string name="card_manager">Administrator cărți</string>
+  <string name="card_manager">Managementul subscripție</string>
+  <string name="card_manager_no_data">Nu există card de abonament :)</string>
   <string name="card_title_change">Pentru o schimbare</string>
     <string name="change_response_title">Modificaţi răspunsul</string>
   <string name="check_reminded_text">Vezi memento-uri</string>
@@ -169,7 +170,7 @@
     <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="event_hide_more">Ascundeţi</string>
     <string name="event_info_descrip">Descriere\u0009\u0009\u0009</string>
-    <string name="event_info_end">Sfârşit\u0009\u0009\u0009 </string>
+    <string name="event_info_end">Sfârşit\u0009\u0009\u0009</string>
     <string name="event_info_from">De la</string>
     <string name="event_info_jump_to_email">Deschideți e-mailul</string>
     <string name="event_info_reminders_label">Mementouri</string>
@@ -276,7 +277,7 @@
     <string name="no_title_label">(Fără titlu)</string>
     <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont pentru a continua.</string>
     <string name="no_visiable_calendar_select_account">Selectare cont</string>
-    <string name="no_visiable_calendar_title">Selectare Cont Calendar</string>
+    <string name="no_visiable_calendar_title">Setare Cont Calendar</string>
     <string name="not_synced">nesincronizat</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>

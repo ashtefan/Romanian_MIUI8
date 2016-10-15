@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="RF_DalvikCacheLeftovers">Reziduuri de sisteme software (Dalvik-Cache)</string>
     <string name="activity_title_ad">Anunțuri</string>
     <string name="activity_title_apk">Pachete</string>
     <string name="activity_title_brightness_image">Sub și supraexpuse</string>
@@ -31,9 +32,10 @@
     <string name="apk_status_install">Instalat</string>
     <string name="apk_status_installed_old">Versiune veche</string>
     <string name="apk_status_uninstalled">Neinstalat</string>
+  <string name="apk_title_alipay_plugin">Alipay plugin</string>
     <string name="app_install_tips_go_to">Lansați</string>
     <string name="app_install_tips_install_success">%1$s instalată cu succes</string>
-    <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+    <string name="app_name">Curățare</string>
     <string name="apps_sort_type_item_size">Dimensiune</string>
     <string name="apps_sort_type_item_time">Utilizate frecvent</string>
     <string name="apps_sort_type_title">Sortare</string>
@@ -79,6 +81,7 @@
     <string name="button_text_unselect_pic">Deselectați</string>
     <string name="button_text_view_detail">Detalii</string>
     <string name="button_text_view_file">Fişier</string>
+    <string name="buy_a_new_phone">Actualizare stocare</string>
     <string name="buy_immediately">Achiziționați</string>
     <string name="buy_traffic_pack">Achiziționați date suplimentare</string>
     <string name="byteShort">B</string>
@@ -310,7 +313,6 @@
     <string name="pref_category_title_garbage_cleanup_check">Notificări</string>
     <string name="pref_category_title_other_clean_settings">Setări adiţionale</string>
     <string name="pref_content_cleanup_white_list_none">Nimic</string>
-    <string name="pref_section_auto_clean_and_alert">Curățare automată</string>
     <string name="pref_summary_auto_clean_and_alert">Setaţi curăţarea automată</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizat %s</string>
     <string name="pref_summary_cleanup_white_list">Se împiedică ca aplicațiile selectate să fie curățate</string>
@@ -321,17 +323,15 @@
     <string name="pref_summary_garbage_process_mode">Setaţi notificări pentru curăţarea în curs</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Se încarcă și se compară denumirile fișierelor necunoscute cu definițiile on-line</string>
     <string name="pref_title_apps_cleanup_size">​Când mărimea cache-ului atinge</string>
-    <string name="pref_title_auto_clean_and_alert">Curăţare automată</string>
     <string name="pref_title_auto_clean_content_choose">Selectaţi elementele pentru curățare</string>
     <string name="pref_title_auto_update_cleanup_db">Actualizare automată</string>
     <string name="pref_title_choose_engine">Definiții</string>
+    <string name="pref_title_clean_alert">Curățare automată</string>
     <string name="pref_title_cleanup_white_list">Excepţii</string>
     <string name="pref_title_expand_cache_group">Afişare elemente din memoria cache</string>
-    <string name="pref_title_garbage_auto_clean_content">Elementele pentru curățare</string>
     <string name="pref_title_garbage_cleanup_check_size">Limita coşului de reciclare</string>
     <string name="pref_title_garbage_cleanup_check_time">Program</string>
     <string name="pref_title_garbage_cleanup_size">Limita coşului de reciclare</string>
-    <string name="pref_title_garbage_process_mode">Notificări</string>
     <string name="pref_title_manual_check_cleanup_db_update">Verificare pentru actualizări</string>
     <string name="pref_title_open_optimizer_cloud_scan">Încărcare</string>
     <string name="pref_title_open_optimizer_memory_scan">Scanează memoria ocupată de aplicații</string>
@@ -353,6 +353,8 @@
     <string name="recommend_news">Surse recomandate</string>
     <string name="recommend_the_following">Efectuați următoarele pentru a obține mai multe de la telefonul dvs.</string>
     <string name="recommended">Recomandate</string>
+    <string name="remain_item_name_n7p"/>
+    <string name="remain_item_name_pamp"/>
     <string name="safety_check_detail">%1$d ori, ați câștigat %2$d puncte</string>
     <string name="safety_rank">Înaintea a %d%% utilizatori MIUI în ceea ce privește securitatea</string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
@@ -375,8 +377,9 @@
     <string name="summary_delete_apk">Ștergeți definitiv fișierele .apk selectate?</string>
     <string name="summary_delete_cache">Goliți memoria cache pentru aplicațiile selectate?</string>
     <string name="summary_delete_large_file">Ștergeți definitiv fișierele selectate?</string>
-    <string name="summary_delete_video">&gt;Ștergeți definitiv videoclipurile selectate?</string>
-    <string name="summary_optimizer">Această caracteristică încarcă numele dosarelor pentru a actualiza baza de date online Cheetah Mobile și necesită ID-ul telefonului dvs.</string>
+    <string name="summary_delete_video">Ștergeți definitiv videoclipurile selectate?</string>
+    <string name="summary_optimizer">"Această caracteristică încarcă numele dosarelor pentru a actualiza baza de date online Cheetah Mobile și necesită ID-ul telefonului dvs."</string>
+  <string name="sys_cache_on_sdcard_item_name">cache-ul</string>
     <string name="terabyteShort">TB</string>
     <string name="text_optimizer">Încărcare nume dosare</string>
     <string name="there_is_no">Totul pare OK, reveniți mai târziu</string>
@@ -433,6 +436,7 @@
     <string name="unlike">Nu, mulțumesc</string>
     <string name="update_date_format">dd-MM-yyyy</string>
     <string name="virus_scan">Scanare pentru viruși</string>
+  <string name="vungle_ad_name">ad-Vungle</string>
     <string name="white_list_ad_header">Anunţuri: %d</string>
     <string name="white_list_apk_header">Pachete de instalare: %d</string>
     <string name="white_list_cache_header">Fişiere cache: %d</string>

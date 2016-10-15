@@ -223,6 +223,7 @@
     <string name="cfnrc_title_cta">Se redirecţionează atunci când este inaccesibil</string>
     <string name="cfnry_title">Se redirecţionează atunci când nu răspunde</string>
     <string name="cfu_title">Se redirecţionează mereu</string>
+    <string name="change_data_preference_4g_only_prompt">Se pare că aveți o cartelă SIM care suportă doar 4G. O setați ca și implicită pentru datele mobile?</string>
     <string name="change_default_data_card">Cartelă SIM implicită pentru date</string>
     <string name="change_default_data_card_summary">Se pare că ați schimbat cartelele SIM. Stabiliți această cartelă SIM ca implicită pentru date mobile?</string>
     <string name="change_num">Actualizaţi</string>
@@ -648,6 +649,7 @@ Abonați-vă și începeți să vorbiți"</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="msim_disable_sim_card_summary_default_card">"Această cartelă este setată ca SIM prestabilit. Dacă încetați să o utilizați, nu veți putea efectua apeluri sau să utilizaţi conexiunea de date mobile. Puteți dezactiva această cartelă SIM după setarea unui alt SIM ca prestabilit."</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Este posibil să nu puteţi efectua apeluri sau să utilizaţi conexiunea de date mobile. Opriţi utilizarea cartelei SIM %s?</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Nu restricționați cartela SIM secundară în modul apelare de urgență emergency callback."</string>
     <string name="msim_disable_sim_card_title">Opriți utilizarea cartelei SIM</string>
     <string name="msim_enable_sim">Activaţi</string>
     <string name="msim_general_setting">Setări</string>

@@ -38,7 +38,10 @@
     <string name="attach_take_photo">Realizaţi o fotografie</string>
     <string name="attach_video">Videoclip</string>
     <string name="audio_download_failed">Nu se poate descărca conţinutul audio</string>
+    <string name="audio_message_expired">Acest mesaj vocal a expirat.</string>
+    <string name="audio_message_mx_offline">"Nu s-a putut descărca mesajul audio. Mesageria Mi este dezactivată sau indisponibilă."</string>
     <string name="audio_playing_seconds">%d\"</string>
+    <string name="audio_sim_card_mismatching">Nu există conexiune la rețea ori este instalată o cartelă SIM incorectă. Instalați cartela SIM de pe care a fost trimis mesajul și conectați-vă la rețea.</string>
     <string name="back_to_message_list">Înapoi la lista de mesaje</string>
     <string name="batch_adding_progress_message">Adăugare…</string>
     <string name="batch_delete_confirm_dialog_message">Ştergeți %1$s mesaje?</string>
@@ -385,7 +388,7 @@
     <string name="pref_other_title">Altele</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
-    <string name="pref_show_sms_template_summary">Se copiază și se completează în mod automat codurile de verificare</string>
+    <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
     <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
     <string name="pref_sms_theme_title">Afişare</string>
     <string name="pref_summary_allow_si_sl_push">Permiteţi încărcarea conținutului din site-urile web</string>
@@ -441,9 +444,9 @@
     <string name="priority_low">Redusă</string>
     <string name="priority_normal">Normală</string>
     <string name="privacy_mode_hint">Nu puteţi trimite mesaje în modul Vizitator</string>
-    <string name="privacy_password_message1">Parola de protejare a confidențialității este utilizată pentru aplicații, fotografii, notițe și dosarele ascunse.</string>
-    <string name="privacy_password_message2">Utilizați parola de protejare a confidențialității. Aceasta este utilizată pentru aplicații, notițe și dosarele ascunse.</string>
-    <string name="privacy_password_message3">"Parola pentru mesajele private va fi înlocuită cu Parola de protejare a confidențialității care este utilizată și pentru aplicații, fotografii, notițe și dosarele ascunse."</string>
+    <string name="privacy_password_message1">Parola de protejare a confidențialității este utilizată pentru fotografii, notițe și dosarele ascunse.</string>
+    <string name="privacy_password_message2">Utilizați parola de protejare a confidențialității. Aceasta este utilizată pentru fotografii, notițe și dosarele ascunse.</string>
+    <string name="privacy_password_message3">Parola pentru mesajele private va fi înlocuită cu Parola de protejare a confidențialității care este utilizată și pentru fotografii, notițe și dosarele ascunse."</string>
     <string name="privacy_password_set_password">Setați</string>
     <string name="privacy_password_title1">Setați parola</string>
     <string name="privacy_password_title2">Utilizați parola de protejare a confidențialității</string>

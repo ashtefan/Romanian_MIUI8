@@ -8,9 +8,11 @@
     <string name="alert_message_delete">Ştergeţi %1$s?</string>
     <string name="alert_message_delete_note">Ştergeţi această notă?</string>
     <string name="alert_message_edit_anyway">Dacă editați această notă, o parte din conținutul său poate fi pierdut.</string>
+    <string name="alert_message_restore">"Nu s-a putut deschide această notiță. Restaurați-o pentru a edita conținutul."</string>
     <string name="alert_title_delete">Ştergeți notă?</string>
     <string name="alert_title_edit_anyway">Această notă include conținut neacceptat</string>
     <string name="alert_title_hidden_note">Ați primit un memento pentru o notiță ascunsă</string>
+    <string name="alert_title_restore">Restaurați notița</string>
     <string name="all_folder_name">Toate notițele</string>
     <string name="all_terms">%1$s şi %2$s</string>
     <string name="app_name">Note</string>
@@ -28,9 +30,9 @@
     <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul Silenţios este activat</string>
     <string name="dlg_hide_message">Ascundere…</string>
     <string name="dlg_info_creating_message">Creare mesaj…</string>
-    <string name="dlg_message_password_reset">"Parola pentru notițele ascunse va fi înlocuită cu parola pentru protejarea confidențialității care este utilizată pentru aplicații, fotografii și dosare ascunse"</string>
-    <string name="dlg_message_set_password">Parola pentru protejarea confidențialității este utilizată pentru aplicații, fotografii și dosare ascunse</string>
-    <string name="dlg_message_use_privacy_password">Utilizați parola pentru protejarea confidențialității. Aceasta este utilizată pentru aplicații, fotografii și dosare ascunse</string>
+    <string name="dlg_message_password_reset">"Parola pentru notițele ascunse va fi înlocuită cu parola pentru protejarea confidențialității care este utilizată pentru mesaje, fotografii și dosare ascunse"</string>
+    <string name="dlg_message_set_password">Parola pentru protejarea confidențialității este utilizată pentru mesaje, fotografii și dosare ascunse</string>
+    <string name="dlg_message_use_privacy_password">Utilizați parola pentru protejarea confidențialității. Aceasta este utilizată pentru mesaje, fotografii și dosare ascunse</string>
     <string name="dlg_move_message">Mutare…</string>
     <string name="dlg_quick_delete_title">Ștergere rapidă</string>
     <string name="dlg_restore_message">Restaurare…</string>
@@ -104,6 +106,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
     <string name="pref_title_recover_help">Recuperați notele</string>
+    <string name="pref_title_show_root_folder_in_homepage">Arată notițele rapide în pagina principală</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Ștergere rapidă</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>

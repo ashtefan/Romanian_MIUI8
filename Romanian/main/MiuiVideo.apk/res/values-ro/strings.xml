@@ -33,6 +33,7 @@
     <string name="all">toate</string>
     <string name="all_ep">Toate ep.</string>
     <string name="all_episode">Toate episoadele</string>
+    <string name="already_buy_vip">deja vip</string>
     <string name="app_charging_wifi_mode">Încărcați pentru a actualiza aplicația</string>
     <string name="app_charging_wifi_mode_summary">Actualizați în mod automat când este conectat la rețea și la sursa de curent</string>
     <string name="app_latest_version">Aplicația este deja actualizată</string>
@@ -122,6 +123,7 @@
     <string name="disk_volume">Stocare amovibilă</string>
     <string name="dlna_list_name">DLNA</string>
     <string name="dlna_name">Dispozitiv partajat</string>
+    <string name="do_not_buy_vip">nu cumpăra vip</string>
     <string name="douban_score">Review-uri</string>
     <string name="download">Descărcați</string>
     <string name="download_add_success">Adăugare reuşită a sarcinii de preîncărcare</string>
@@ -156,6 +158,7 @@
     <string name="error_empty_live_favor">Nu există nicio colecție de canale TV</string>
     <string name="error_empty_title">Ceva a mers prost</string>
     <string name="expire_time">timp expirare</string>
+    <string name="expired_buy_vip">statutul de vip a expirat deja</string>
     <string name="favorite">Favorite</string>
     <string name="fenghuang">iFeng</string>
     <string name="file_error">Eroare fişier</string>
@@ -168,6 +171,7 @@
     <string name="forecasts">Avanpremieră</string>
     <string name="fullscreen">Ecran complet</string>
     <string name="funshion">Funshion</string>
+    <string name="go_to_cinema">mergeți la cinematograf</string>
     <string name="gong_count_dlna">%d DLNA</string>
     <string name="gong_count_ge">%d în total</string>
     <string name="gong_count_ji">%d ep. în total</string>
@@ -233,6 +237,7 @@
     <string name="no_longer_tips">Nu se afișează din nou</string>
     <string name="no_pay_record">nicio înregistrare cu plată</string>
     <string name="no_sdcard_no_download">Nu există spațiu de stocare suficient.</string>
+    <string name="no_vip_product">nu suportă serviciile vip</string>
     <string name="not_buy_vip">nicio piesă vip</string>
     <string name="not_exist_openid">se obțin datele despre cont; vă rog să așteptați...</string>
     <string name="not_login">Nu sunteţi conectat</string>
@@ -342,6 +347,7 @@
     <string name="share_device">Dispozitiv partajat</string>
     <string name="similar">Similar</string>
     <string name="sina">Sina</string>
+    <string name="single_pay">plată unică</string>
     <string name="sniff">Sursă</string>
     <string name="souhu">Souhu</string>
     <string name="source_error">Eroare sursă</string>
@@ -406,7 +412,9 @@
     <string name="video_plugin">Plug-in video</string>
     <string name="video_plugin_downloading">Descărcare…</string>
     <string name="video_plugin_prepare">Pregătire plug-in video, așteptați...</string>
+    <string name="video_vip">vip</string>
     <string name="vip_package">pachet VIP</string>
+    <string name="vip_rights">Drepturi și avantaje Vip</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_network_not_available">Nu s-a putut conecta la reţea</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Dispozitivul dvs. nu acceptă acest tip de fișier</string>

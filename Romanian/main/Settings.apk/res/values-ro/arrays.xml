@@ -104,8 +104,8 @@
      </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Buton WPS</item>
-        <item>Codul PIN de la disp. pereche</item>
-        <item>PIN de la ac. disp.</item>
+        <item>Codul PIN de la dispozitivul asociat</item>
+        <item>Codul PIN de la acest dispozitiv</item>
      </string-array>
     <string-array name="wifi_p2p_status">
         <item>Conectat</item>
@@ -128,12 +128,12 @@
      </string-array>	 
     <string-array name="wifi_sleep_policy_entries">
         <item>Întotdeauna</item>
-        <item>Doar atunci când este conectat</item>
-        <item>Niciodată (creşte traficul de date mobile)</item>
+        <item>Doar atunci când este la încărcat</item>
+        <item>Niciodată</item>
      </string-array>	 
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Întotdeauna</item>
-        <item>Doar atunci când este conectat</item>
+        <item>Doar atunci când este la încărcat</item>
         <item>Niciodată</item>
      </string-array>	 
     <string-array name="data_usage_data_range">
@@ -209,7 +209,7 @@
         <item>GID</item>
      </string-array>
     <string-array name="app_install_location_entries">
-        <item>Spaţiu de sistem intern</item>
+        <item>Spaţiu de stocare internă</item>
         <item>Card SD</item>
         <item>Permiteţi sistemului să decidă</item>
      </string-array>
@@ -640,7 +640,7 @@
      </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Niciuna</item>
-        <item>Fotografie rapidă(trebuie selectat modul din aplicația Cameră)</item>
+        <item>Fotografiere rapidă(trebuie selectat modul din aplicația Cameră)</item>
         <item>Scurtături transport public</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -825,6 +825,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Blocare ecran</item>
+        <item>Parolă de protecție a confidențialității</item>
         <item>Mod Copil</item>
         <item>Explorator fișiere</item>
         <item>Blocare aplicație</item>
@@ -845,7 +846,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Fotografii</item>
         <item>Fișiere</item>
         <item>Notițe</item>
-        <item>Blocarea aplicațiilor</item>
         <item>Modul Copil</item>
     </string-array>
 </resources>

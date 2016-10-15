@@ -16,8 +16,8 @@
     <string name="access_control_need_password">"%s adăugată cu succes
 "</string>
     <string name="access_control_need_to_unlock">"Scanați amprenta
-sau introduceţi parola pentru protejarea confidențialității"</string>
-    <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru protejarea confidențialității</string>
+sau introduceţi parola pentru blocarea aplicațiilor"</string>
+    <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru blocarea aplicațiilor</string>
     <string name="access_control_recording_intro_header">Desenaţi un model propriu pentru blocarea aplicaţiilor</string>
     <string name="access_control_reset_by_account">Conectaţi-vă la contul dvs. Mi pentru a reseta parola de blocare a aplicațiilor</string>
     <string name="action_button_text_100">Optimizați</string>
@@ -123,7 +123,67 @@ sau introduceţi parola pentru protejarea confidențialității"</string>
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">Verificați aplicația de mesagerie</string>
     <string name="apps_list_header_title_sms_access">Restricționați accesul la codurile de verificare</string>
+    <string name="auto_atsk_condition_battery_level_text_down">Când nivelul acumulatorului atinge %s</string>
+    <string name="auto_atsk_condition_battery_level_text_up">Când acumulatorul este încărcat până la %s</string>
     <string name="auto_handle_title">GENERAL</string>
+    <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
+    <string name="auto_task_condition_choose_battery_level_up">Când acumulatorul este încărcat până la un anumit nivel</string>
+    <string name="auto_task_condition_choose_end_time">Ora de sfârșit</string>
+    <string name="auto_task_condition_choose_ontime">Temporizator</string>
+    <string name="auto_task_condition_choose_start_time">Ora de început</string>
+    <string name="auto_task_condition_choose_time_duration">Setați ora</string>
+    <string name="auto_task_condition_number_pick_title">Setați starea acumulatorului</string>
+    <string name="auto_task_condition_restore_task_when_charged">Comută la modul anterior după încărcare</string>
+    <string name="auto_task_condition_time_duration_text">De la %1$s până la %2$s</string>
+    <string name="auto_task_condition_time_pick_title">Setați temporizatorul</string>
+    <string name="auto_task_condition_time_text">La ora %s</string>
+    <string name="auto_task_dialog_button_close">Terminat</string>
+    <string name="auto_task_edit_abandon_change">Renunțați la modificări?</string>
+    <string name="auto_task_edit_activity_title">Automatizările mele</string>
+    <string name="auto_task_edit_adandon_button_text">Renunțați</string>
+    <string name="auto_task_edit_choose_condition_title">Selectați condițiile</string>
+    <string name="auto_task_edit_choose_new_operation">Adăugați o acțiune</string>
+    <string name="auto_task_edit_choose_operation_title">Selectați acțiunile</string>
+    <string name="auto_task_edit_condition_summary">De exemplu, \"La ora 23:00\"</string>
+    <string name="auto_task_edit_condition_title">Adăugați o condiție</string>
+    <string name="auto_task_edit_my_custom_task">Nume</string>
+    <string name="auto_task_edit_operation_summary">De exemplu, \"Activare mod Avion\"</string>
+    <string name="auto_task_edit_task_name">Nume</string>
+    <string name="auto_task_main_summary">Modificați setările de sistem pentru anumite perioade de timp sau în funcție de nivelul acumulatorului</string>
+    <string name="auto_task_main_title">Sarcini automate</string>
+    <string name="auto_task_mamange_activity_title">Setări</string>
+    <string name="auto_task_manage_delete_prompt">Ștergeți sarcinile selectate?</string>
+    <string name="auto_task_manager_group_title">Automatizările mele</string>
+    <string name="auto_task_notify_do_task_title">Sarcina automată a început</string>
+    <string name="auto_task_notify_exit_task_title">Sarcina automată s-a încheiat</string>
+    <string name="auto_task_notify_task_cancel_count_down">Acțiunea automată va fi anulată în 5 secunde</string>
+    <string name="auto_task_notify_task_cancel_do">Opriți sarcina</string>
+    <string name="auto_task_notify_task_canceled_summary">Veți putea efectua și primi apeluri</string>
+    <string name="auto_task_notify_task_canceled_title">Acțiunea este anulată</string>
+    <string name="auto_task_notify_task_continue_do">Lansați acțiunea</string>
+    <string name="auto_task_notify_task_count_down">Acțiunea automată va porni în 5 secunde</string>
+    <string name="auto_task_operation_airplane_mode">Modul Avion</string>
+    <string name="auto_task_operation_auto_brightness">Luminozitate automată</string>
+    <string name="auto_task_operation_bluetooth">Bluetooth</string>
+    <string name="auto_task_operation_brightness">Luminozitate ecran</string>
+    <string name="auto_task_operation_close">Dezactivat</string>
+    <string name="auto_task_operation_close_string">Opriți %s</string>
+    <string name="auto_task_operation_gps">GPS</string>
+    <string name="auto_task_operation_lockscreen_time">Blocarea ecranului</string>
+    <string name="auto_task_operation_memory_clean_lockscreen">Golire memorie</string>
+    <string name="auto_task_operation_mobile_data">Accesul la date mobile</string>
+    <string name="auto_task_operation_modify_string">Editați %s</string>
+    <string name="auto_task_operation_mute">Modul Silențios</string>
+    <string name="auto_task_operation_no_op">"Nu selecta această acțiune"</string>
+    <string name="auto_task_operation_open">Activ</string>
+    <string name="auto_task_operation_open_string">Activează %s</string>
+    <string name="auto_task_operation_string_comma">, </string>
+    <string name="auto_task_operation_string_etc">, etc.</string>
+    <string name="auto_task_operation_string_modify">Modificare </string>
+    <string name="auto_task_operation_string_split">; </string>
+    <string name="auto_task_operation_sync">Sincronizare</string>
+    <string name="auto_task_operation_vibration">Vibrații</string>
+    <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="back">Înapoi</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="battery_capacity_title">Capacitatea acumulatorului</string>
@@ -246,6 +306,8 @@ sau introduceţi parola pentru protejarea confidențialității"</string>
     <string name="card_main_deepclean_action">Goliți</string>
     <string name="card_main_deepclean_summary">Ștergeți fișierele inutile</string>
     <string name="card_main_deepclean_title">Curățare profundă</string>
+    <string name="card_main_gamebooster_summary">Creșteți viteza și îmbunătățiți experiența de gaming</string>
+    <string name="card_main_gamebooster_title">Creștere viteză de gaming</string>
     <string name="card_main_monthreport_action">Vizualizați</string>
     <string name="card_main_monthreport_summary">Vedeți rapoartele lunare</string>
     <string name="card_main_monthreport_title">Stare securitate</string>
@@ -277,6 +339,7 @@ sau introduceţi parola pentru protejarea confidențialității"</string>
     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
     <string name="cmcc_app_check_dialog_title">Sistem reparat</string>
+    <string name="confirmSecondSpacePassword">Confirmați parola pentru Spațiul Secundar</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Se adaugă contul Mi</string>
     <string name="confirm_fingerprint_msg">Puneți degetul pe senzor</string>
     <string name="confirm_reject_all_permission">Împiedicați toate aplicațiile să utilizeze această caracteristică?</string>
@@ -755,6 +818,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="optimize_result_button_operators_diagnose">Testare operator</string>
     <string name="optimize_result_button_purchase">Achiziționați</string>
     <string name="optimize_result_button_purchase_flow">Vedeți tot</string>
+    <string name="optimize_result_button_realname_now">Verificați</string>
     <string name="optimize_result_button_see_detaills">Detalii</string>
     <string name="optimize_result_button_to_open">Activați</string>
     <string name="optimize_result_button_to_set">Setați</string>
@@ -1079,7 +1143,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="scanning_bar_system_title">Scanare sistem…</string>
     <string name="score_pts">%</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-    <string name="section_clear_acc_item_title">"Eliberați %s. Dacă tot nu există spațiu de stocare suficient, încercați să folosiți aplicația de Curățare."</string>
+    <string name="section_clear_acc_item_title">"%s. Dacă tot nu există spațiu de stocare suficient, încercați să folosiți aplicația de Curățare."</string>
     <string name="section_security_defend_item_title">Protejați-vă datele cu Blocarea aplicațiilor</string>
     <string name="section_system_item_fixed">Reparat</string>
     <string name="section_title_clear_acc">Goliți cache-ul</string>
@@ -1091,7 +1155,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="see_detail">Detalii</string>
     <string name="select_pattern">Selectați modelul propriu</string>
     <string name="set_applock_password">Setați parola</string>
-    <string name="setting_privacy_password">Setați parola de protejare a confidențialității</string>
+    <string name="setting_privacy_password">Setați parola de blocare a aplicațiilor</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
     <string name="settings_battery_consume_abnormal_title">Notificări descărcare acumulator</string>
@@ -1123,6 +1187,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sp_back_title_text_zero">Sigur</string>
     <string name="sp_monitored_apps_count_zero">Nicio aplicație de plăți nu este protejată</string>
     <string name="sp_monitored_apps_list_title">Setări monitorizare</string>
+    <string name="sp_network_privacy_dialog_message">"Aplicația de Securitate nu poate verifica plățile deoarece i-ați restricționat accesul la internet. Permiteți accesul la internet pentru aplicația de Securitate?"</string>
+    <string name="sp_network_privacy_dialog_title">"Nu s-au putut verifica plățile"</string>
     <string name="sp_safe_score_text">Plată sigură</string>
     <string name="sp_scan_item_monitor">Monitorizare plăți</string>
     <string name="sp_scan_item_url_antispam">Protecție împotriva URL-urilor frauduloase</string>
@@ -1145,6 +1211,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="suffix_virus_count_top">riscuri</string>
     <string name="suggest_app_tolock">Sugestii</string>
     <string name="summary_app_lock_disable">Protejați-vă datele cu Blocarea aplicațiilor</string>
+    <string name="summary_auto_update">MIUI va selecta ora cea mai potrivită pentru descărcarea și instalarea actualizărilor.</string>
     <string name="summary_cleaner_cloudscan">Încărcați și comparați numele de dosare cu definițiile on-line</string>
     <string name="summary_cloud_account">Obțineți mai mult de la dispozitivul dvs. Mi</string>
     <string name="summary_cloud_service">Sincronizaţi fotografiile, contactele și altele între toate dispozitivele dvs.</string>
@@ -1173,6 +1240,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="summary_permission">Protejează-mi confidențialitatea faţă de aplicații terțe potențial periculoase</string>
     <string name="summary_permission_root">Se pare că aveți activat accesul la root. Acest lucru poate duce la scăderea gradului de siguranță.</string>
     <string name="summary_power_optimizer">Se reduce performanța dispozitivului atunci când acumulatorul este descărcat</string>
+    <string name="summary_realname_verify">Verificați-vă identitatea pentru a spori gradul de securitate a plăților.</string>
     <string name="summary_show_notification">Goliți cache-ul, vedeți starea acumulatorului și blocați elemente în Panoul de notificări</string>
     <string name="summary_telecom_operator">Obțineți statisticile lunare de utilizare a datelor de la operatorul dvs.</string>
     <string name="summary_usb">Evitați raspândirea viruşilor de la alte dispozitive</string>
@@ -1283,6 +1351,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tips_message">Pentru a vizualiza detalii ale planului de date, apelaţi %2$s (%1$s).</string>
     <string name="title_app_lock_disable">Blocați aplicații</string>
     <string name="title_app_update">Actualizări disponibile</string>
+    <string name="title_auto_update">Actualizare automată</string>
     <string name="title_cleaner_cloudscan">Scanare coș de gunoi din Cloud</string>
     <string name="title_cloud_account">Cont Mi</string>
     <string name="title_cloud_service">Mi Cloud</string>
@@ -1316,6 +1385,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="title_permission_root">Acces root</string>
     <string name="title_permission_yes">Gestionare permisiuni activată</string>
     <string name="title_power_optimizer">Economisire acumulator</string>
+    <string name="title_realname_verify">Verificare ID</string>
     <string name="title_show_notification">Widget panou notificări</string>
     <string name="title_telecom_operator">Ajustare automată</string>
     <string name="title_usb_no">Depanare USB activată</string>

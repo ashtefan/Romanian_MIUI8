@@ -93,7 +93,6 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server</string>
     <string name="find_device_error_unknown">Eroare necunoscută.</string>
-    <string name="find_device_noise_title">Sunet localizare dispozitiv</string>
     <string name="find_device_notice_p1">Accesaţi</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
@@ -101,8 +100,8 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_reading_status">Actualizare stare…</string>
     <string name="find_device_reading_status_failure">"Nu s-a putut actualiza starea."</string>
     <string name="find_device_send_sms_alert">Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
-    <string name="find_device_service_summary">"Localizați și blocați de la distanță telefonul în cazul în care îl pierdeți."</string>
-    <string name="find_device_service_summary_international">"Localizați și blocați de la distanță telefonul în cazul în care îl pierdeți."</string>
+    <string name="find_device_service_summary">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
+    <string name="find_device_service_summary_international">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
     <string name="find_device_service_title">Localizare telefon</string>
     <string name="find_device_status_ok">Găsiți dispozitivul de oriunde accesând i.mi.com</string>
     <string name="find_device_status_ok_international">Localizați dispozitivul dvs. accesând www.mi.com/micloud</string>

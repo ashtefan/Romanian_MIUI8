@@ -56,7 +56,6 @@
     <string name="category_all">Toate</string>
     <string name="category_apk">APK</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_default_number_text">(0)</string>
     <string name="category_document">Documente</string>
     <string name="category_download">Descărcări</string>
     <string name="category_favorite">Favorite</string>
@@ -182,10 +181,9 @@
     <string name="flow_setting">Setări</string>
     <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
-    <string name="folder_name_invalid">"Numele dosarului nu poate conține următoarele caractere: /\\:*?&lt;&gt;"</string>
     <string name="found_router">Router conectat</string>
     <string name="found_usb">Stocare USB conectată</string>
-    <string name="ftp_account_req_notice">4~16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
+    <string name="ftp_account_req_notice">4-16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
     <string name="ftp_invalid_username_or_password">Nume de utilizator sau parolă greşite</string>
     <string name="ftp_open_port_error">Nu s-a putut deschide portul. Verificați conexiunea la rețea sau resetaţi numărul portului.</string>
@@ -407,12 +405,13 @@
     <string name="phone_valid_code_tip">Codul de verificare a fost introdus de prea multe ori. Obțineți un nou cod</string>
     <string name="pick_file">Selectați fișierele</string>
     <string name="pick_folder">Alegeți dosarul</string>
+    <string name="popup_msg_qq">Partajați acest videoclip prietenilor din QQ.</string>
+    <string name="popup_msg_wx">Partajați acest videoclip prietenilor din WeChat.</string>
     <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
     <string name="private_files">Ascunse</string>
     <string name="private_folder">Dosare ascunse</string>
     <string name="private_folder_no_file_hints">Apăsați și țineți apăsat un fișier sau un dosar pentru a-l ascunde.</string>
     <string name="private_folder_update">Actualizare dosare ascunse</string>
-    <string name="private_toast_hint1">Apăsați pentru a adăuga fișiere în dosarele ascunse</string>
     <string name="private_toast_hint2">Pentru a ascunde un fișier, apăsați și mențineți-l apăsat, apoi adăugați-l într-un dosar ascuns.</string>
     <string name="private_toast_hint3">Glisați în jos pentru a vedea dosarele ascunse</string>
     <string name="promot_enctypt_password">Introduceți parola utilizată pentru deblocarea telefonului sau pentru oprirea Modului Copil</string>
@@ -486,6 +485,10 @@
     <string name="setting_message_notify">Notificări</string>
     <string name="share_title_1">Am găsit o colecție faină de stickere!</string>
     <string name="share_to">Partajați la…</string>
+    <string name="share_youliao1">Actualizați pentru a urmări mai multe episoade.</string>
+    <string name="share_youliao2">Actualizați pentru a urmări mai multe episoade.</string>
+    <string name="share_youliao3">Actualizați pentru a urmări mai multe episoade.</string>
+    <string name="share_youliao4">Actualizați pentru a urmări mai multe episoade.</string>
     <string name="shared_sticker_network_permission_tip">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="shared_sticker_page_no_file">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="shared_sticker_str">Recente</string>
@@ -546,6 +549,7 @@
     <string name="unlogin">Conectați-vă mai întâi</string>
     <string name="unmount_inform_text">Demontaţi stocarea USB?</string>
     <string name="unreviewed_video_cannot_share">Videoclipurile trebuie revizuite înainte de a fi partajate</string>
+    <string name="update">Actualizare</string>
     <string name="update_failed">"Nu s-a putut salva, încercați din nou"</string>
     <string name="update_loading">Salvare…</string>
     <string name="upload_avatar_camera">Cameră</string>
@@ -565,7 +569,12 @@
     <string name="upload_notification_success_content">"Videoclipul trebuie revizuit înainte de a fi partajat altor persoane"</string>
     <string name="upload_notification_title">Se încarcă videoclipul</string>
     <string name="upload_user_photo">Încărcați</string>
+    <string name="upload_video_failed">"Nu s-a putut încărca"</string>
+    <string name="upload_video_failed_external_progress">"Nu s-a putut încărca, înceracți cu un alt videoclip"</string>
+    <string name="upload_video_failed_progress">"Nu s-a putut încărca, încercați din nou"</string>
     <string name="upload_video_forbidden">Nu încărcați același videoclip</string>
+    <string name="upload_video_success">Încărcat cu succes</string>
+    <string name="upload_video_success_progress">Încărcat cu succes</string>
     <string name="uploading_video">Se încarcă videoclipul…</string>
     <string name="usb_label">USB</string>
     <string name="used">Utilizat</string>
@@ -616,12 +625,12 @@
     <string name="video_comment_hint">Selectați conținutul</string>
     <string name="video_comment_limit">%1$s caractere rămase</string>
     <string name="video_comment_publish">Trimiteți</string>
-    <string name="video_comment_title">Descriere</string>
     <string name="video_comment_topic">\#Adăugați conținutul#</string>
     <string name="video_data_consumption_cancel">Renunțați</string>
     <string name="video_data_consumption_confirm">OK</string>
     <string name="video_data_consumption_dialog_message">Pentru încărcare se vor folosi %1$s date mobile</string>
     <string name="video_data_consumption_dialog_title">Avertisment utilizare date mobile</string>
+    <string name="video_description">Descriere videoclip</string>
     <string name="video_parse_btn">Start</string>
     <string name="video_parse_error_unknown">"Acest link nu este suportat; încercați cu un altul"</string>
     <string name="video_parse_hint">Servicii suportate: WeChat, Weibo, Youku.</string>
@@ -630,6 +639,8 @@
     <string name="video_parsing_btn">Se analizează</string>
     <string name="video_play_failed">Eroare necunoscută</string>
     <string name="video_publish_hint">O descriere corespunzătoare va ajuta alte persoane să vă găsească videoclipul</string>
+    <string name="video_publish_hint2">Descriere</string>
+    <string name="video_recommend_upload">Recomandat</string>
     <string name="video_status_reject">Respins</string>
     <string name="video_status_review">În curs de revizuire</string>
     <string name="video_tag">\#%s#</string>
@@ -639,12 +650,16 @@
     <string name="video_topic_hint">Căutare</string>
     <string name="video_upload_btn">Următorul</string>
     <string name="video_upload_btn_hint">Videoclipurile în format mp4 trebuie să aibă între 3 sec. și 10 min. lungime</string>
+    <string name="video_upload_hint">Încărcați videoclipuri promovate pentru a obține mai multe puncte.</string>
     <string name="video_upload_item_more">Mai multe (%1$s)</string>
     <string name="video_upload_item_title">%1$s (%2$s)</string>
+    <string name="video_upload_kuaishou_hint">Încărcați videoclipuri KuaiShou pentru a cîștiga mai mulți fani.</string>
     <string name="video_upload_retry_confirm">Încercați din nou</string>
     <string name="video_upload_retry_message">"Nu s-a putut încărca. Încercați din nou?"</string>
     <string name="video_upload_retry_title">Încearcă din nou</string>
     <string name="video_upload_title">Selectați videoclipul</string>
+    <string name="video_upload_wechat_hint">Încărcați videoclipuri WeChat pentru a cîștiga mai mulți fani.</string>
+    <string name="video_uploaded">Încărcat</string>
     <string name="view_more_sticker">Vedeți mai multe stickere</string>
     <string name="wechat_btn_bind">WeChat</string>
     <string name="wechat_btn_str">WeChat</string>
@@ -662,6 +677,13 @@
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
+    <string name="youliao_ad_msg">"Aveți acum versiunea completă a aplicației, mai multă distracție!
+Urmăriți împreună cu 170 de milioane de fani Mi."</string>
+    <string name="youliao_ad_title">Actualizat la versiunea completă!</string>
+    <string name="youliao_ad_update">Actualizați</string>
+    <string name="youliao_dialog_msg">"Actualizat la \"Youliao\", 
+actualizat acum la aplicația completă, watching more."</string>
+    <string name="youliao_dialog_title">Nu vă interesează videoclipurile?</string>
     <string name="zero">0</string>
     <string name="zero_comment">Niciun comentariu</string>
 </resources>

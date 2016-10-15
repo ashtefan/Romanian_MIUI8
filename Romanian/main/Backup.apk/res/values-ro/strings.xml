@@ -156,7 +156,9 @@
     <string name="notif_restore_content">Restabilire date de utilizator</string>
     <string name="notif_restore_title">Restabilire date</string>
     <string name="notif_trans_receiving_completed">Date recepționate cu succes</string>
+    <string name="notif_trans_receiving_failed">Nu s-au primit datele</string>
     <string name="notif_trans_sending_completed">Date trimise cu succes</string>
+    <string name="notif_trans_sending_failed">Trimiterea datelor a eșuat</string>
     <string name="page_loading">Doar o secundă…</string>
     <string name="progress_backup_hint">Creare copie de rezervă…</string>
     <string name="progress_restore_hint">Restabilire…</string>

@@ -90,5 +90,5 @@
     <string name="sender_wait_queue">Aşteptare</string>
     <string name="transfer_interrupt">Transfer întrerupt</string>
     <string name="transmission_click_send">trimiteţi</string>
-    <string name="transmission_connect">Nu s-a putut găsi destinatarul</string>
+    <string name="transmission_connect">Nu ați putut găsi destinatarul?</string>
 </resources>

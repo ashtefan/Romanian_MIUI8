@@ -57,7 +57,7 @@
     <string name="dialog_cannot_resume">Descărcarea a fost întreruptă şi nu poate fi reluată.</string>
     <string name="dialog_confirm_delete_checkbox_message">Ștergeți, de asemenea, fișierele locale</string>
     <string name="dialog_confirm_delete_downloads_message">Ştergeţi %d sarcini?</string>
-    <string name="dialog_confirm_delete_the_download_item_message">Ştergeţi aceste sarcini</string>
+    <string name="dialog_confirm_delete_the_download_item_message">Ştergeţi aceste sarcini?</string>
     <string name="dialog_failed_body">Doriţi să reîncercaţi descărcarea fişierului mai târziu sau să îl ştergeţi din lista de aşteptare?</string>
     <string name="dialog_file_already_exists">Nu se poate descărca. Fişierul de destinaţie există deja.</string>
     <string name="dialog_file_missing_body">Nu se poate găsi fişierul descărcat.</string>
