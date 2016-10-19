@@ -116,12 +116,4 @@
         <item> %s</item>
         <item> %s</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Bun</item>
-        <item>Satisfăcător</item>
-        <item>Poluare moderată</item>
-        <item>Rău</item>
-        <item>Foarte rău</item>
-        <item>Sever</item>
-    </string-array>
 </resources>

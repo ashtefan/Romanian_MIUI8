@@ -158,7 +158,6 @@
     <string name="color_picker_dialog_title">Selectaţi culoarea</string>
     <string name="color_picker_hue">Nuanță</string>
     <string name="color_picker_saturation">Saturaţie</string>
-    <string name="color_picker_value">Valoare</string>
     <string name="comment_app_menu">Comentariu</string>
     <string name="comment_menu">Comentariu</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
@@ -351,7 +350,6 @@ Părăsiţi această pagină?"</string>
     <string name="js_dialog_before_unload_positive_button">Părăsiţi pagina</string>
     <string name="js_dialog_before_unload_title">Confirmaţi navigarea</string>
     <string name="js_dialog_title">Pagina de la \" %s \" zice:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_disable_confirm_message">Dezactivarea JavaScript poate cauza afișarea incorectă a unor site-uri.</string>
     <string name="js_disable_confirm_title">Dezactivaţi JavaScript?</string>
     <string name="keep_queued_download">Păstrează</string>

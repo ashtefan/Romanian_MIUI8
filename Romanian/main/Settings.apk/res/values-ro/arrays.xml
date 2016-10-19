@@ -13,12 +13,6 @@
         <item>Pacific</item>
         <item>Toate</item>
      </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 secunde</item>
         <item>30 de secunde</item>
@@ -191,11 +185,6 @@
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-     </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
      </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>

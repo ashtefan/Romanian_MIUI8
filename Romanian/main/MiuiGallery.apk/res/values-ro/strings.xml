@@ -137,7 +137,6 @@
     <string name="byteShort">B</string>
     <string name="camera_360_description">Oferit de Camera360</string>
     <string name="camera_needs_auto_backup_tip">Albumul fotografiilor captate trebuie să fie salvat</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="cancel">Renunță</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Restabiliţi imaginea implicită de blocare a ecranului?</string>
     <string name="cancel_hint">Operaţiune anulată</string>

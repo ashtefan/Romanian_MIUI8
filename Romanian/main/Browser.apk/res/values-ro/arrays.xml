@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pref_text_zoom_values">
-        <item>50</item>
-        <item>75</item>
-        <item>100</item>
-        <item>125</item>
-        <item>200</item>
-    </string-array>
-    <string-array name="pref_nav_mode_summary_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="search_engines_rCN">
         <item>Baidu</item>
         <item>Sogou</item>
         <item>sm</item>
         <item>Google</item>
-    </string-array>
-    <string-array name="search_engines_default">
-        <item>Google</item>
-        <item>Yahoo</item>
-        <item>Bing</item>
     </string-array>
     <string-array name="search_engines_cmcc">
         <item>s139</item>
@@ -87,10 +71,6 @@
         <item>sogou</item>
         <item>google</item>
         <item>bing_zh_CN</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>bing</item>
     </string-array>
     <string-array name="search_bar_search_engines_rCN">
         <item>baidu</item>

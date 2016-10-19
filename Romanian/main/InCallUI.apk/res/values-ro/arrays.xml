@@ -18,30 +18,6 @@
         <item>3G/2G(mod automat)</item>
         <item>Numai 2G</item>
     </string-array>
-    <string-array name="language_list_values">
-        <item>Toate limbile</item>
-        <item>Germană</item>
-        <item>Engleză</item>
-        <item>Italiană</item>
-        <item>Franceză</item>
-        <item>Spaniolă</item>
-        <item>Olandeză</item>
-        <item>Suedeză</item>
-        <item>Daneză</item>
-        <item>Portugheză</item>
-        <item>Finlandeză</item>
-        <item>Norvegiană</item>
-        <item>Greacă</item>
-        <item>Turcă</item>
-        <item>Maghiară</item>
-        <item>Poloneză</item>
-        <item>Altele</item>
-        <item>Cehă</item>
-        <item>Ebraică</item>
-        <item>Arabă</item>
-        <item>Rusă</item>
-        <item>Islandeză</item>
-    </string-array>
     <string-array name="plmn_prefer_network_type_choices">
         <item>2G</item>
         <item>3G</item>

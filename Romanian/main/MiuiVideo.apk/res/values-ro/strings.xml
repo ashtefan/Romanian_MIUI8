@@ -241,7 +241,6 @@
     <string name="not_buy_vip">nicio piesă vip</string>
     <string name="not_exist_openid">se obțin datele despre cont; vă rog să așteptați...</string>
     <string name="not_login">Nu sunteţi conectat</string>
-    <string name="notification_default_title">Videoclip Offline</string>
     <string name="notification_sub_title">În total %d sarcini de descărcare încheiate</string>
     <string name="notification_ticker_text">S-a descărcat videoclipul offline</string>
     <string name="notification_title">\"%1$s\" descărcat</string>

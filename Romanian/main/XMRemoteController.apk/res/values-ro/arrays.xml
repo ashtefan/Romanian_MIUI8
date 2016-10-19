@@ -46,17 +46,6 @@
         <item>Canale HD</item>
         <item>Recent vizionat</item>
     </string-array>
-    <string-array name="epg_default_hot_channels">
-        <item>TV Hunan</item>
-        <item>CCTV-6</item>
-        <item>TV prin satelit Zhejiang</item>
-        <item>CCTV-5</item>
-        <item>CCTV-3</item>
-        <item>Dragon TV</item>
-        <item>Anhui TV</item>
-        <item>Beijing TV</item>
-        <item>Guangdong TV</item>
-    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>

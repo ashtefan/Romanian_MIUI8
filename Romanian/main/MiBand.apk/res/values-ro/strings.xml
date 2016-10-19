@@ -316,7 +316,6 @@ Xiaomi"</string>
     <string name="edit">Editați</string>
     <string name="edit_app">Selectați aplicațiile</string>
     <string name="email_alert">E-mail</string>
-    <string name="empty_value">--</string>
     <string name="enable_app_alert">Activați notificările aplicațiilor</string>
     <string name="enable_broadcast">Activați modul descoperire</string>
     <string name="enable_id_broadcast_comments">Activați pentru a fi vizibil pentru dispozitivele din apropiere și a vă conecta la acestea</string>
@@ -814,7 +813,6 @@ measurement range (%s)"</string>
     <string name="please_set_sport_goal">Setați activitatea țintă</string>
   <string name="please_stand_weight">Step on the scale</string>
     <string name="pm">PM</string>
-    <string name="pre_hr_value">Rezultatul anterior</string>
     <string name="pre_measure">Rezultatul anterior</string>
     <string name="prev_step">Următorul</string>
     <string name="pull_label_sync_data">Glisați în jos pentru a sincroniza</string>
@@ -1152,7 +1150,6 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="share_uninstall_client">Această aplicaţie nu a fost instalată.</string>
     <string name="share_weibo_label">Weibo</string>
     <string name="share_weight_bmi">IMC</string>
-    <string name="share_weight_current_value">Greutatea curentă</string>
     <string name="share_weight_figure">Conformație corporală</string>
     <string name="share_weight_hidden_tip">Apăsați pentru a ascunde</string>
   <string name="share_weight_last_title">Compared to last weigh-in</string>
