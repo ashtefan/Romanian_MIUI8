@@ -145,9 +145,7 @@
   <string name="downloaded">Descărcat</string>
   <string name="downloading">Descărcați</string>
   <string name="downloading_wallpaper">Imagine de fundal</string>
-  <string name="drop_down_list_footer_default_text">mai mult</string>
   <string name="drop_down_list_footer_no_more_text">Nu mai este</string>
-  <string name="drop_down_list_header_default_text">Click aici pentru a reîmprospăta</string>
   <string name="drop_down_list_header_loading_text">Se încarcă...</string>
   <string name="drop_down_list_header_pull_text">Glisați în jos pentru a actualiza</string>
   <string name="drop_down_list_header_release_text">Eliberați pentru actualizare</string>
@@ -207,7 +205,6 @@
   <string name="fortune_name">apel</string>
   <string name="fortune_name_hint">Vă rugăm să introduceți</string>
   <string name="fortune_no_name">Vă rugăm să completați apelul</string>
-  <string name="free_day_default_banner_title">Bucurați-vă de o vacanță de mare ea!</string>
     <string name="from_google_group_calendar">Calendar Google</string>
     <string name="gadget_no_events">Niciun eveniment viitor în calendar</string>
     <string name="gadget_title">Calendar</string>
@@ -407,8 +404,6 @@
   <string name="str_hour_of_everyday">în fiecare zi %s</string>
   <string name="str_hour_of_next">Data viitoare %s</string>
   <string name="subscribe_card">Aboneaza-te acum</string>
-  <string name="subscribe_card_more_default_text">mai mult</string>
-  <string name="subscribe_card_recommend_default_text">Recomandat Inscrieti</string>
   <string name="subscribe_card_success">Aboneaza-te la succes, pot fi vizionate la domiciliu</string>
   <string name="subscribe_card_success_for_homepage">Abonare la "%1$s" cu succes</string>
   <string name="subscribe_channel_click_hint">Aboneaza-te pentru a citi</string>
@@ -421,7 +416,6 @@ Puteți adăuga, de asemenea, memento-uri de abonament, ți-e dor de fiecare min
   <string name="subscribe_channel_subscribe">abonament</string>
   <string name="subscribe_channel_subscribing">abonamentele</string>
   <string name="subscribe_channel_title">abonamentele</string>
-  <string name="subscribe_description_card_default_title">alimentare profil</string>
   <string name="subscribe_description_card_more_cut">Restrângeți</string>
   <string name="subscribe_description_card_more_launch">Extindeți</string>
   <string name="subscribe_detail_title">Detalii abonament</string>
@@ -503,7 +497,6 @@ Puteți adăuga, de asemenea, memento-uri de abonament, ți-e dor de fiecare min
     <string name="widget_get_weather_info">Obțineți informații despre starea vremii &gt;</string>
     <string name="widget_no_events">Niciun eveniment</string>
     <string name="widget_select_style">Selectaţi un stil</string>
-  <string name="work_day_default_banner_title">Banii nu se oprește, ore suplimentare este calea de ieșire!</string>
     <string name="work_day_indication">: (</string>
   <string name="wuxing">Cinci</string>
     <string name="xiaomi_calendar_display_name">Calendar Cont Mi</string>
