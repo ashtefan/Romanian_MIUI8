@@ -5,14 +5,14 @@
     <string name="app_already_exist">Aplicaţia există deja</string>
     <string name="app_being_backup_message">Aplicația este în curs de rezervare</string>
     <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
-    <string name="app_category_books">Cărți</string>
+    <string name="app_category_books">Lectură</string>
     <string name="app_category_education">Educație</string>
     <string name="app_category_entertainment">Divertisment</string>
     <string name="app_category_finance">Finanțe</string>
     <string name="app_category_games">Jocuri</string>
     <string name="app_category_health">Sănătate</string>
     <string name="app_category_lifestyle">Stil de viață</string>
-    <string name="app_category_music_movie">Muzică şi Videoclipuri</string>
+    <string name="app_category_music_movie">TV și muzică</string>
     <string name="app_category_news">Noutăţi</string>
     <string name="app_category_photos">Fotografii</string>
     <string name="app_category_productivity">Productivitate</string>
@@ -21,6 +21,7 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_tools">Instrumente</string>
     <string name="app_category_travel">Călătorie</string>
+    <string name="app_category_vr">VR</string>
     <string name="application_name">Lansator de sistem</string>
     <string name="apply">Aplicați</string>
     <string name="apply_action">Aplicaţi</string>

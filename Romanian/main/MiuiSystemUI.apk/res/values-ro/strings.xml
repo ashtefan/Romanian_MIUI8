@@ -125,6 +125,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
 Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
+    <string name="list_delimeter">", "</string>
     <string name="lockscreen_carrier_default">Niciun serviciu</string>
     <string name="long_screenshot_not_support_msg">"Aplicația curentă nu suportă captura de ecran extinsă"</string>
     <string name="long_screenshot_out_of_memory_error">Dimensiunea imaginii este prea mare</string>
@@ -144,6 +145,10 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="media_projection_remember_text">Nu se afişează din nou</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="mount_storage">Da</string>
+    <string name="nav_guide_cancel">Ignorați</string>
+    <string name="nav_guide_message">Puteți utiliza gesturi pentru a ascunde/afișa butoanele de pe ecran după setare.</string>
+    <string name="nav_guide_ok">Setări</string>
+    <string name="nav_guide_title">Ascundeți butoanele de pe ecran</string>
     <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_notification_tips">Nicio notificare</string>
     <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>

@@ -130,6 +130,10 @@
         <item>Doar acest eveniment</item>
         <item>Toate evenimentele din serie</item>
      </string-array>
+    <string-array name="fortune_gender">
+        <item>masculin</item>
+        <item>feminin</item>
+    </string-array>
     <string-array name="quick_response_defaults">
         <item>Întârzii numai câteva minute.</item>
         <item>Ajung în aproximativ 10 minute.</item>
@@ -137,39 +141,39 @@
         <item>Îmi pare rău, nu pot să ajung. Va trebui să ne vedem altădată.</item>
      </string-array>
     <string-array name="widget_style_list">
-        <item>Negru transparent</item>
+        <item>Transparent</item>
         <item>Fundal alb</item>
      </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>Niciun memento</item>
-        <item>0 minute</item>
-        <item>5 minute</item>
-        <item>10 minute</item>
-        <item>15 minute</item>
-        <item>30 de minute</item>
-        <item>1 oră</item>
-        <item>1 zi</item>
-        <item>2 zile</item>
-        <item>1 săptămână</item>
+        <item>La momentul evenimentului</item>
+        <item>cu 5 minute înainte</item>
+        <item>cu 10 minute înainte</item>
+        <item>cu 15 minute înainte</item>
+        <item>cu 30 de minute înainte</item>
+        <item>cu o oră înainte</item>
+        <item>cu o zi înainte</item>
+        <item>cu 2 zile înainte</item>
+        <item>cu o săptămână înainte</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
-        <item>Niciunul</item>
-        <item>0 minute</item>
-        <item>5 minute</item>
-        <item>10 minute</item>
-        <item>15 minute</item>
-        <item>30 de minute</item>
-        <item>1 oră</item>
-        <item>1 zi</item>
-        <item>2 zile</item>
-        <item>1 săptămână</item>
+        <item>Niciun memento</item>
+        <item>La momentul evenimentului</item>
+        <item>cu 5 minute înainte</item>
+        <item>cu 10 minute înainte</item>
+        <item>cu 15 minute înainte</item>
+        <item>cu 30 de minute înainte</item>
+        <item>cu o oră înainte</item>
+        <item>cu o zi înainte</item>
+        <item>cu 2 zile înainte</item>
+        <item>cu o săptămână înainte</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 ore</item>
-        <item>4 ore</item>
-        <item>5 ore</item>
-        <item>6 ore</item>
-        <item>1 zi</item>
+        <item>cu 3 ore înainte</item>
+        <item>cu 4 ore înainte</item>
+        <item>cu 5 ore înainte</item>
+        <item>cu 6 ore înainte</item>
+        <item>cu o zi înainte</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>zi</item>

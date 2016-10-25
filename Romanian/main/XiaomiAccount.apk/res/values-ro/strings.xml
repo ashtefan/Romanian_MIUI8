@@ -138,6 +138,7 @@
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="ignore">Nu acum</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru verificarea contului"</string>
+    <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="loading_micloud_sync_data">Doar o secundă…</string>
     <string name="local_device">(acest telefon)</string>

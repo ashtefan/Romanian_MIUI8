@@ -280,8 +280,8 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_show_gender_age_title">Vârstă și sex</string>
     <string name="pref_camera_snap_enable_title">Mod captură instantanee</string>
     <string name="pref_camera_snap_entry_off">Oprit</string>
-    <string name="pref_camera_snap_entry_take_movie">Când ecranul este oprit, apăsați și mențineți apăsat butonul de Volum- pentru a începe să filmați. Eliberați-l pentru a opri filmarea.</string>
-    <string name="pref_camera_snap_entry_take_picture">Atunci când ecranul este oprit, apăsați și țineți apăsat butonul Volum ▼ pentru a intra în modul fotografiere continuă. Eliberați butonul pentru a opri fotografierea în rafală.</string>
+    <string name="pref_camera_snap_entry_take_movie">Apăsați și mențineți apăsat butonul de Volum ▼ pentru a începe să filmați. Eliberați-l pentru a opri filmarea.</string>
+    <string name="pref_camera_snap_entry_take_picture">Apăsați și mențineți apăsat butonul Volum ▼ pentru a intra în modul fotografiere continuă. Eliberați butonul pentru a opri fotografierea în rafală.</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Nu se poate utiliza modul captură instantanee în timp  ce  \"Utilizarea butoanelor de volum pentru trezire\" este activă."</string>
     <string name="pref_camera_sound_title">Sunete cameră</string>
     <string name="pref_camera_square_mode_title">Pătrat</string>

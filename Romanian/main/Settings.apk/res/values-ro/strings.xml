@@ -2691,7 +2691,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="runningservicedetails_stop_dlg_title">Opriţi serviciul sistemului?</string>
     <string name="runningservices_settings_summary">Vedeţi şi controlaţi serviciile care funcţionează în prezent</string>
     <string name="runningservices_settings_title">Servicii în curs de funcţionare</string>
-    <string name="saved_wifi">Rețea salvată</string>
+    <string name="saved_wifi">Rețele Wi-Fi salvate</string>
     <string name="saved_wifi_delete">Ștergeți</string>
     <string name="scan_list_label">Rezultate scanare:</string>
     <string name="screen">Ecran</string>

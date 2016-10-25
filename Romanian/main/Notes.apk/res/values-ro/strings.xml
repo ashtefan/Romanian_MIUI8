@@ -106,7 +106,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
     <string name="pref_title_recover_help">Recuperați notele</string>
-    <string name="pref_title_show_root_folder_in_homepage">Arată notițele rapide în pagina principală</string>
+    <string name="pref_title_show_root_folder_in_homepage">Arată doar notițele rapide în pagina principală</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Ștergere rapidă</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>

@@ -429,6 +429,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="monthly_price">Credite Mi</string>
     <string name="more">Mai multe</string>
     <string name="more_about_artist">Mai multe despre %s</string>
+    <string name="more_add_song_list">Adăugați în lista de redare</string>
     <string name="more_online_artist">Mai multe</string>
     <string name="more_online_billboard">Mai multe</string>
     <string name="more_online_fm">Mai multe</string>
@@ -438,6 +439,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="more_online_suggest">Mai multe</string>
     <string name="more_settings">Setări avansate</string>
     <string name="more_settings_summary">Setări pentru descărcări, temporizator, utilizare date mobile, filtrare fișiere, etc.</string>
+    <string name="more_share">Partajați</string>
     <string name="multichoice">Selectaţi</string>
     <string name="music_browser_label">Muzică</string>
     <string name="music_filter">Filtrare fişiere</string>
