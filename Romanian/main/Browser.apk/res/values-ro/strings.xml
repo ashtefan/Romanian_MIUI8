@@ -57,6 +57,7 @@
     <string name="adblock_websites_settings_title">Site-uri blocate</string>
     <string name="add_bookmark_group">Adăugaţi un grup</string>
     <string name="add_bookshelf_popup_text">Adăugată în raft</string>
+    <string name="add_favorites_to">Adăugați la Favorite</string>
     <string name="add_new_bookmark">Adăugaţi un marcaj</string>
     <string name="add_new_quicklink">Adăugaţi la pagina de pornire</string>
     <string name="add_ql_bm_title">Adăugaţi</string>
@@ -336,13 +337,13 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="homepage_top_card_menu">Top</string>
     <string name="in_incognito">"Sunteţi incognito! Paginile web pe care le deschideţi în această filă nu vor apărea în istoricul browserului."</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
+    <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
     <string name="is_first_history_item">Acesta este primul element din istoric</string>
     <string name="is_first_tab">Aceasta este prima filă</string>
     <string name="is_last_history_item">Acesta este ultimul element din istoric</string>
     <string name="is_last_tab">Aceasta este ultima filă</string>
     <string name="is_page_bottom">Sunteţi în partea de jos a paginii</string>
     <string name="is_page_top">Sunteţi în partea de sus a paginii</string>
-    <string name="isreplace">Fișierul există deja, îl înlocuiți?</string>
     <string name="js_dialog_before_unload">"%s
     
 Părăsiţi această pagină?"</string>
@@ -652,7 +653,6 @@ Părăsiţi această pagină?"</string>
     <string name="save_password_never">Niciodată</string>
     <string name="save_password_notnow">Nu acum</string>
     <string name="save_password_remember">Memorare</string>
-    <string name="save_to">Salvați în</string>
     <string name="save_to_camera">Salvaţi la cameră</string>
     <string name="save_to_camera_failed">Nu se poate salva imaginea</string>
     <string name="save_to_camera_success">Salvat la cameră</string>

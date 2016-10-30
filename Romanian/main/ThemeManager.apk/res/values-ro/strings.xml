@@ -96,6 +96,10 @@
     <string name="lockscreen_wallpaper">Blocare ecran</string>
     <string name="lockstyle_personal_settings">Personalizare</string>
     <string name="mi_wallpaper">Imagini de fundal MIUI</string>
+    <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru cartela SIM 1 și pentru cartela SIM 2 în același timp.</string>
+    <string name="multi_sim_ringtone_settings_dialog_ok">Am înțeles</string>
+    <string name="multi_sim_ringtone_settings_dialog_remind_never">"Nu arăta din nou"</string>
+    <string name="multi_sim_ringtone_settings_dialog_title">Probleme de compatibilitate</string>
     <string name="my_gifts">Cadouri</string>
     <string name="my_gifts_purchased">Achiziționată</string>
     <string name="my_gifts_received">Primit</string>
@@ -241,11 +245,11 @@
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratuit</string>
     <string name="resource_price_unit">Credite Mi</string>
-    <string name="resource_purchase_common_error">Operațiunea a eșuat; reîncercați.</string>
+    <string name="resource_purchase_common_error">A apărut o eroare; reîncercați.</string>
     <string name="resource_purchase_continue_to_pay">Continuați pentru a plăti %s</string>
     <string name="resource_purchase_getting_order">Preluare informaţii despre comandă…</string>
     <string name="resource_purchase_verifying_payment">Verificare informaţii despre achitare…</string>
-    <string name="resource_purchase_vip_pay_failed">Nu s-a putut finaliza plata prin vip.</string>
+    <string name="resource_purchase_vip_pay_failed">"Nu s-a putut finaliza plata pentru contul VIP"</string>
     <string name="resource_purchase_waiting_payment">Aşteptare informaţii despre achitare…</string>
     <string name="resource_ranking">Populare</string>
     <string name="resource_ranking_free">Gratuite</string>

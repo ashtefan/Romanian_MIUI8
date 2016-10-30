@@ -92,6 +92,7 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="note_link_select">Selectaţi text</string>
     <string name="note_link_tel">Apelaţi</string>
     <string name="note_link_web">Deschideți în browser</string>
+    <string name="note_sort_way">Selectați modul de sortare a notițelor</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
     <string name="notelist_menu_new">Adăugaţi o notă</string>

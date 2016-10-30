@@ -515,8 +515,8 @@
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="storage_warning">Imposibil de utilizat stocarea externă</string>
-  <string name="swap_tip_1">Glisați spre stânga sau spre dreapta</string>
-  <string name="swap_tip_2">pentru a vedea alte videoclipuri</string>
+    <string name="swap_tip_1">Glisați spre stânga sau spre dreapta</string>
+    <string name="swap_tip_2">pentru a vedea alte videoclipuri</string>
     <string name="sys_size_enable">" disponibil"</string>
     <string name="tab_category">Categorii</string>
     <string name="tab_common_app">Aplicații și dosare</string>
@@ -613,22 +613,22 @@
     <string name="user_not_video_btn_text">Încărcați primul dvs. videoclip</string>
     <string name="user_recommend_follow">Profiluri recomandate</string>
     <string name="user_setting_follow_new_msg">Notificări de la persoanele pe care le urmăriți</string>
-    <string name="user_setting_follow_new_msg_tip">Primiți notificări pentru videoclipurile noi</string>
+    <string name="user_setting_follow_new_msg_tip">"Veți primi notificări pentru videoclipurile noi"</string>
     <string name="user_setting_followed_msg">Notificări despre urmăritori</string>
     <string name="user_setting_followed_msg_tip">"Veți primi notificări atunci când persoanele încep să vă urmărească postările"</string>
     <string name="user_setting_hot_comment">Notificări despre comentariile recomandate</string>
-    <string name="user_setting_hot_comment_tip">Primiți notificări atunci când comentariile dumneavoastră sunt recomandate</string>
+    <string name="user_setting_hot_comment_tip">"Veți primi notificări atunci când comentariile dumneavoastră sunt recomandate"</string>
     <string name="user_setting_logout">Deconectare</string>
     <string name="user_setting_new_comment">Notificări despre comentariile noi</string>
     <string name="user_setting_new_comment_tip">"Veți primi notificări despre postările la comentariile și videoclipurile dvs."</string>
     <string name="user_setting_new_liked">Notificări pentru aprecieri</string>
     <string name="user_setting_new_liked_tip">"Veți primi notificări atunci când alte persoane vă apreciază videoclipurile și comentariile"</string>
     <string name="user_setting_play_num">Notificări despre vizualizări</string>
-    <string name="user_setting_play_num_tip">Primiți notificări despre numărul de vizualizări al videoclipurilor dumneavoastră</string>
+    <string name="user_setting_play_num_tip">"Veți primi notificări despre numărul de vizualizări al videoclipurilor dumneavoastră"</string>
     <string name="user_setting_topic_new_msg">Notificări despre subiecte</string>
     <string name="user_setting_topic_new_msg_tip">"Veți primi notificări despre videoclipurile noi din subiectele pe care le urmăriți"</string>
     <string name="user_setting_video_has_hot_comment">Notificări despre comentariile populare</string>
-    <string name="user_setting_video_has_hot_comment_tip">Primiți notificări atunci când videoclipurile dumneavoastră primesc comentarii populare</string>
+    <string name="user_setting_video_has_hot_comment_tip">"Veți primi notificări atunci când videoclipurile dumneavoastră primesc comentarii populare"</string>
     <string name="user_sex">Sex</string>
     <string name="user_sign">Semnătură</string>
     <string name="user_topic_text">Subiectele mele</string>
@@ -695,12 +695,12 @@
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
-    <string name="youliao_ad_msg">"Aveți acum versiunea completă a aplicației, mai multă distracție!
+    <string name="youliao_ad_msg">"Bucurați-vă de \"Youliao\"!
 Urmăriți împreună cu 170 de milioane de fani Mi."</string>
     <string name="youliao_ad_title">Actualizat la versiunea completă!</string>
     <string name="youliao_ad_update">Actualizați</string>
-    <string name="youliao_dialog_msg">"Actualizat la \"Youliao\", 
-actualizat acum la aplicația completă, watching more."</string>
+    <string name="youliao_dialog_msg">"Videoclipuri Populare a fost înlocuită cu \"Youliao\" 
+aplicație menită să vă aducă mai multă distracție!"</string>
     <string name="youliao_dialog_title">Nu vă interesează videoclipurile?</string>
     <string name="zero">0</string>
     <string name="zero_comment">Niciun comentariu</string>

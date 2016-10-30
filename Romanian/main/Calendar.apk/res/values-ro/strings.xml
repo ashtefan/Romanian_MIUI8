@@ -129,7 +129,6 @@
     <string name="day_view_new_event_hint">Eveniment nou</string>
     <string name="default_reminder_mode">Mod memento prestabilit</string>
   <string name="delete_calendar">Dezabonare</string>
-    <string name="delete_label">Ştergeţi</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
   <string name="delete_topic_dialog_title">Doriţi să vă dezabonaţi de la \"%s\"?</string>
@@ -406,6 +405,7 @@
   <string name="subscribe_card">Aboneaza-te acum</string>
   <string name="subscribe_card_success">Aboneaza-te la succes, pot fi vizionate la domiciliu</string>
   <string name="subscribe_card_success_for_homepage">Abonare la "%1$s" cu succes</string>
+  <string name="subscribe_channel_bottom_hint">—— Calendarul mei ——</string>
   <string name="subscribe_channel_click_hint">Aboneaza-te pentru a citi</string>
   <string name="subscribe_channel_footer_button">Managementul subscripției</string>
   <string name="subscribe_channel_footer_desc">Pentru a vizualiza abonamentele sau dezabonați de a intra în gestionare</string>

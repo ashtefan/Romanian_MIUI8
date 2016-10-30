@@ -319,7 +319,7 @@
     <string name="dialpad_6_number">6</string>
     <string name="dialpad_7_letters">PQRS</string>
     <string name="dialpad_7_number">7</string>
-    <string name="dialpad_8_letters">TUV</string>
+    <string name="dialpad_8_letters">TȚUV</string>
     <string name="dialpad_8_number">8</string>
     <string name="dialpad_9_letters">WXYZ</string>
     <string name="dialpad_9_number">9</string>
@@ -709,6 +709,7 @@ Abonați-vă și începeți să vorbiți"</string>
     <string name="network_id">ID reţea</string>
     <string name="network_lte">LTE (recomandat)</string>
     <string name="network_message">Mesaj de reţea</string>
+    <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
     <string name="network_query_error">Eroare la căutarea reţelelor.</string>
     <string name="network_setting_all_forbidden_dialog">Nicio rețea disponibilă. Încercați trecerea la serviciul 3G, sau faceți click pe o rețea interzisă pentru a vă înregistra manual.</string>
     <string name="network_settings_auto_select_title">Selectați manual rețeaua?</string>

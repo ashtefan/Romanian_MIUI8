@@ -54,6 +54,7 @@
     <string name="button_exit">Ieşire</string>
     <string name="button_not_allow">Renunţaţi</string>
     <string name="button_sure_abandon">Renunțați la modificări?</string>
+    <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
     <string name="close">Închideți</string>
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>

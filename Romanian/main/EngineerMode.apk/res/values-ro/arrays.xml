@@ -103,8 +103,8 @@
         <item>Activat</item>
     </string-array>
     <string-array name="device_mgr_dm_conf_switch_entries">
-        <item>Test Environment</item>
-        <item>Productive Environment</item>
+        <item>Mediu testare</item>
+        <item>Mediu producție</item>
     </string-array>
     <string-array name="audio_functions">
         <item>Mod normal</item>
@@ -296,16 +296,16 @@
     </string-array>
     <string-array name="hopping_bit">
         <item>Niciunul</item>
-        <item>2.26 Mhz</item>
-        <item>4.52 Mhz</item>
-        <item>9.04 Mhz</item>
+        <item>2,26 Mhz</item>
+        <item>4,52 Mhz</item>
+        <item>9,04 Mhz</item>
     </string-array>
     <string-array name="hopping_time">
-        <item>30.5 us</item>
-        <item>61.0 us</item>
-        <item>122.1 us</item>
-        <item>244.1 us</item>
-        <item>488.3 us</item>
+        <item>30,5 us</item>
+        <item>61,0 us</item>
+        <item>122,1 us</item>
+        <item>244,1 us</item>
+        <item>488,3 us</item>
     </string-array>
     <string-array name="msdc_select">
         <item>Driving SET</item>
@@ -533,7 +533,7 @@
         <item>Banda 22</item>
     </string-array>
     <string-array name="rf_desense_tx_test_lte_bandwidth">
-        <item>1.4 M</item>
+        <item>1,4 M</item>
         <item>3 M</item>
         <item>5 M</item>
         <item>10 M</item>

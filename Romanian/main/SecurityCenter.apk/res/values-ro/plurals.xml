@@ -60,6 +60,23 @@
         <item quantity="other">%d elemente pot fi optimizate</item>
         <item quantity="one">%d element poate fi optimizat</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">Descărcat de %1$d persoane</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Descărcat de %1$d persoane</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Descărcat de %1$d persoane</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d vizualizări</item>
+        <item quantity="zero">%1$d vizualizări</item>
+        <item quantity="one">%1$d vizualizare</item>
+        <item quantity="two">%1$d vizualizări</item>
+        <item quantity="few">%1$d vizualizări</item>
+        <item quantity="many">%1$d vizualizări</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elemente sigure</item>
         <item quantity="one">%1$d element sigur</item>
@@ -96,6 +113,22 @@
         <item quantity="other">Actualizări disponibile pentru %d aplicaţii.</item>
         <item quantity="one">Actualizare disponibilă pentru %d aplicaţie.</item>
      </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d riscuri,</item>
+        <item quantity="one">%d risc,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojani,</item>
+        <item quantity="one">%d trojan,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d riscuri</item>
+        <item quantity="one">%d risc</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d​ riscuri găsite, reparați acum</item>
+        <item quantity="one">%d risc găsit, reparați acum</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicații cu risc de încălcare a confidențialității</item>
         <item quantity="one">%d aplicație cu risc de încălcare a confidențialității</item>
@@ -140,6 +173,10 @@
         <item quantity="other">%d aplicații găsite</item>
         <item quantity="zero">nicio aplicație găsită</item>
         <item quantity="one">o aplicație găsită</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">Un element</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s riscuri legate de plată</item>

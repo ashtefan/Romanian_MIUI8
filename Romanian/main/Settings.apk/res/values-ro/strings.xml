@@ -295,7 +295,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="band_mode_succeeded">Reuşit</string>
     <string name="band_mode_title">Setaţi banda GSM/UMTS</string>
     <string name="baseband_version">Versiunea benzii de bază</string>
-    <string name="batch_delete_saved_network">Ștergeți rețeaua salvată: %s?</string>
+    <string name="batch_delete_saved_network">Ștergeți rețeaua selectată: %s?</string>
+    <string name="batch_delete_saved_networks">Șterge toate rețelele selectate</string>
     <string name="battery_action_app_details">Informaţii despre aplicaţie</string>
     <string name="battery_action_app_settings">Setări aplicaţii</string>
     <string name="battery_action_bluetooth">Setări Bluetooth</string>
@@ -1188,7 +1189,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="enable_service_password_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați parola.</string>
     <string name="enable_service_pattern_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați modelul de deblocare.</string>
     <string name="enable_service_pin_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați codul PIN.</string>
-    <string name="enable_service_title">Utilizați %1$s?</string>
+    <string name="enable_service_title">Serviciul va realiza următoarele acțiuni:</string>
     <string name="enable_snapshot_screenlock">Apăsați lung butonul Înapoi pentru a realiza o fotografie</string>
     <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la shell local</string>
     <string name="enable_terminal_title">Aplicație terminal locală</string>
@@ -1940,6 +1941,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="multi_touch_points_preference">Reporniţi pentru a activa</string>
     <string name="music_audio_effect_optimize">Setări audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, căşti şi alte setări audio</string>
+    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Sunet HD, căști și alte setări audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, căşti şi alte setări audio</string>
     <string name="music_audio_effect_settings">Setări efecte</string>
     <string name="music_dirac_control">Optimizare calitate audio</string>
@@ -1964,6 +1966,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dolby_mode_off">Dezactivat</string>
     <string name="music_equalizer">Egalizator</string>
     <string name="music_equalizer_summary">Setați niveluri individuale pentru diferite tipuri de muzică</string>
+    <string name="music_hd_title">Sunet audio HD</string>
     <string name="music_headphone_settings">Selectaţi tipul de căști</string>
     <string name="music_headset_button_settings">Atribuire butoane</string>
     <string name="music_headset_calibrate">Atribuire butoane</string>
@@ -1983,7 +1986,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_headset_settings">Căști și efecte audio</string>
     <string name="music_hifi_summary">Reducerea zgomotului și a distorsiunilor și creșterea calităţii audio</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
-    <string name="music_hifi_volume">Volum Hi-Fi</string>
     <string name="music_mi_effect_summary">Se utilizează Amplificatorul Mi Sound, atunci când se utilizează difuzorul</string>
     <string name="music_mi_effect_title">Amplificatorul Mi Sound</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
@@ -2279,7 +2281,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="path_status_bar_settings_toggle_collapse_after_clicked">Setări/Panoul notificărilor și bara de stare/Se restrânge după atingere</string>
   <string name="path_status_sim">Setări/Informații telefon/SIM status</string>
   <string name="path_storage_settings">Setări/Stocare/Cleaner</string>
-    <string name="path_sync_settings">Setări/SSincronizare</string>
+    <string name="path_sync_settings">Setări/Sincronizare</string>
     <string name="path_system_app_settings">Setări/Aplicații de sistem</string>
   <string name="path_tether_restriction_nfc_enable_title">Setări/More/NFC</string>
     <string name="path_tether_settings_title_bluetooth">Setări/Mai multe/Tethering prin Bluetooth</string>
@@ -2712,7 +2714,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_locking_sounds_title">Sunete de blocare a ecranului</string>
     <string name="screen_never_timeout_title">Activ mereu</string>
     <string name="screen_on_proximity_sensor_summary">Blocarea automată a telefonului atunci când este plasat în buzunar</string>
-    <string name="screen_on_proximity_sensor_title">Prevenirea apelării în buzunar</string>
+    <string name="screen_on_proximity_sensor_title">Mod În Buzunarr</string>
     <string name="screen_optimize">Contrast</string>
     <string name="screen_paper_mode_adjust_level">Intensitate</string>
     <string name="screen_paper_mode_apps_loading">Încărcare…</string>
@@ -3391,7 +3393,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="touch_sensitive_title">Mod \"cu mănuşi\"</string>
     <string name="touch_sensitive_turn_off_cancel">Anulaţi</string>
     <string name="touch_sensitive_turn_off_confirm">Confirmaţi</string>
-    <string name="touch_sensitive_turn_off_summary">Doriţi să dezactivaţi Prevenirea operaţiunilor nedorite?</string>
+    <string name="touch_sensitive_turn_off_summary">Doriţi să dezactivaţi și modul În Buzunar?</string>
     <string name="touch_sensitive_turn_off_title">Modul \"cu mănuşi\" dezactivat</string>
     <string name="touch_sounds_title">Sunete atingeri ecran</string>
     <string name="touch_title">Atingeri</string>

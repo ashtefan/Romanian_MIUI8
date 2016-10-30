@@ -9,7 +9,7 @@
     <string name="Audio_AecRec_Text">Activați înregistrare cu procesare AEC</string>
     <string name="Audio_AncLogger_Enable">Activați ANC Logger</string>
     <string name="Audio_AncLogger_FileText">Fișier:/sdcard/mtklog/audio_dump/ANC_log</string>
-    <string name="Audio_AudioLogger">Audio Logger</string>
+    <string name="Audio_AudioLogger">Jurnal Audio</string>
     <string name="Audio_AudioLogger_Text">Fișier:/sdcard/mtklog/audio_dump/*.pcm</string>
     <string name="Audio_AudioLogger_Text1">Locația fișierului: /sdcard/StreamIn_*.vm</string>
     <string name="Audio_CTM4WAYLogger_Enable">Activați</string>
@@ -29,7 +29,7 @@
   <string name="Audio_Fir_Title">Current FIR Type</string>
     <string name="Audio_Headset_Detect_Button">Detectare</string>
     <string name="Audio_Headset_Detect_Hint">Detectare set cu cască:</string>
-  <string name="Audio_Headset_Jak_Headphone">Headphone</string>
+  <string name="Audio_Headset_Jak_Headphone">Difuzor</string>
     <string name="Audio_Headset_Jak_Headset">Set cu cască</string>
     <string name="Audio_Headset_None">Nimic</string>
   <string name="Audio_IdleModeRecdVM_Dump">Audio Idle Mode Record VM Dump</string>
@@ -40,7 +40,7 @@
     <string name="Audio_Level_Text">Nivel</string>
   <string name="Audio_LogPlayer">Audio_LogPlayer</string>
   <string name="Audio_MagiAsr">MagiASR Verify Mode Enable</string>
-  <string name="Audio_MagiAsr_Text">Enable using Sound Recorder to verify MagiASR feature</string>
+  <string name="Audio_MagiAsr_Text">Activați utilizând aplicația Înregistrare pentru a verifica funcția MagiASR</string>
     <string name="Audio_MagiConference_Enable">Activați</string>
   <string name="Audio_MagiConference_EnableText">Enable MagiConference</string>
     <string name="Audio_MaxVol_Set">Setați</string>

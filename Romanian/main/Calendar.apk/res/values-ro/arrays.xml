@@ -134,6 +134,12 @@
         <item>masculin</item>
         <item>feminin</item>
     </string-array>
+    <string-array name="summary_card_text_chain">
+        <item>[Abonare] Aboneaza-te pentru a se potrivi funcțiile calendar sau servicii</item>
+        <item>[Abonare] pentru a personaliza propriul dvs. calendar de mei exclusive</item>
+        <item>[Abonare] pentru funcțiile calendar personalizate și servicii</item>
+        <item>[Abonare] a găsit o diferite caracteristici și servicii calendar</item>
+    </string-array>
     <string-array name="quick_response_defaults">
         <item>Întârzii numai câteva minute.</item>
         <item>Ajung în aproximativ 10 minute.</item>
@@ -147,14 +153,14 @@
     <string-array name="miui_reminder_minutes_labels">
         <item>Niciun memento</item>
         <item>La momentul evenimentului</item>
-        <item>cu 5 minute înainte</item>
-        <item>cu 10 minute înainte</item>
-        <item>cu 15 minute înainte</item>
-        <item>cu 30 de minute înainte</item>
-        <item>cu o oră înainte</item>
-        <item>cu o zi înainte</item>
-        <item>cu 2 zile înainte</item>
-        <item>cu o săptămână înainte</item>
+        <item>Cu 5 minute înainte de eveniment</item>
+        <item>Cu 10 minute înainte de eveniment</item>
+        <item>Cu 15 minute înainte de eveniment</item>
+        <item>Cu 30 de minute înainte de eveniment</item>
+        <item>Cu o oră înainte de eveniment</item>
+        <item>Cu o zi înainte de eveniment</item>
+        <item>Cu 2 zile înainte de eveniment</item>
+        <item>Cu o săptămână înainte de eveniment</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>Niciun memento</item>
