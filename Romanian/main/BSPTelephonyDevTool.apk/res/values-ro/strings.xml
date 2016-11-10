@@ -2,11 +2,6 @@
 <resources>
     <string name="app_name">BSPTelephonyDevTool</string>
     <string name="data_connection">Conexiune de date</string>
-  <string name="default_common_phone">Default Common Phone</string>
-  <string name="default_data_phone">Default Data Phone</string>
-  <string name="default_phone">Default Phone</string>
-  <string name="default_sms_phone">Default SMS Phone</string>
-  <string name="default_voice_phone">Default Voice Phone</string>
     <string name="network_status_and_signal_strength">Stare rețea și Nivel semnal</string>
     <string name="no">Nu</string>
     <string name="no_sim_inserted">Nicio cartelă SIM introdusă</string>
