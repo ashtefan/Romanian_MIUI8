@@ -189,7 +189,9 @@
     <string name="notification_action_answer_video">Video</string>
     <string name="notification_action_answer_voice">Voce</string>
     <string name="notification_action_dismiss">Refuzaţi</string>
+    <string name="notification_action_earpiece">Cască</string>
     <string name="notification_action_end_call">Încheiaţi apelul</string>
+    <string name="notification_action_speaker">Difuzor</string>
     <string name="notification_dialing">Apelare</string>
     <string name="notification_incoming_call">Apel</string>
     <string name="notification_incoming_video_call">Apel video primit</string>

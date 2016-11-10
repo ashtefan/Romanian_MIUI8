@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Au fost adăugate %d jocuri</item>
+        <item quantity="one">A fost adăugat %d joc</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Nu au fost adăugate %d jocuri"</item>
+        <item quantity="one">"Nu a fost adăugat %d joc"</item>
+    </plurals>
+</resources>

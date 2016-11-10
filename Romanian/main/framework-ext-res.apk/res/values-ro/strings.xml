@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_package_delete_confirm_title">Avertizare importantă</string>
     <string name="add_frequent_phrases">Adăugare expresii frecvente</string>
     <string name="all_call_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale și internaționale</string>
     <string name="all_call_livetalk_remain_mins">Minute rămase: (%1$s naţionale) | (%2$s %3$s)</string>
@@ -18,6 +19,11 @@
     <string name="auto_start_warning_allow">Permiteţi</string>
     <string name="auto_start_warning_deny">Refuzaţi</string>
     <string name="auto_start_warning_title">Permiteţi %s să pornească în mod automat?</string>
+    <string name="button_text_cancel">Renunțați</string>
+    <string name="button_text_delete">Ștergeți</string>
+    <string name="button_text_delete_timer">Ștergeți (%d)</string>
+    <string name="button_text_next_step">Mai departe</string>
+    <string name="button_text_next_step_timer">Mai departe (%d)</string>
     <string name="call_record_or">" sau "</string>
     <string name="call_record_sample_prefix_miui">Apel</string>
     <string name="caller_info_name_delimiter">" sau "</string>
@@ -66,6 +72,9 @@
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="memory_clear_result">%1$sB goliţi | %2$sB disponibili</string>
     <string name="miui">MIUI</string>
+    <string name="package_delete_confirm_step_1">Ștergeți %s?</string>
+    <string name="package_delete_confirm_step_2">Eliminarea aceastei aplicații poate face sistemul instabil.</string>
+    <string name="package_delete_confirm_step_3">"Nu veți mai putea deschide această aplicație după ce o veți elimina."</string>
     <string name="paste">Lipire</string>
     <string name="perm_send_push_dspt">Se permit mesaje Mi de tip push</string>
     <string name="perm_send_push_lab">Trimitere mesaj de tip push</string>
@@ -82,7 +91,7 @@
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pentru a dezactiva această funcție, apăsați butonul Volum▲.</string>
     <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona difuzorului"</string>
-    <string name="screen_on_proximity_sensor_title">Modul În Buzunar</string>
+    <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar/poșetă</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Pentru a dezactiva această caracteristică, mergeți la Setări > Afișaj > Mod lectură.</string>
     <string name="screen_rotation_freeze_message">Rotirea automată este dezactivată.</string>
     <string name="screenshot_gesture_detect_alert_button">Activați din Setări</string>

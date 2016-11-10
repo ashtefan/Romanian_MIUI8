@@ -319,7 +319,7 @@
     <string name="dialpad_6_number">6</string>
     <string name="dialpad_7_letters">PQRS</string>
     <string name="dialpad_7_number">7</string>
-    <string name="dialpad_8_letters">TȚUV</string>
+    <string name="dialpad_8_letters">TUV</string>
     <string name="dialpad_8_number">8</string>
     <string name="dialpad_9_letters">WXYZ</string>
     <string name="dialpad_9_number">9</string>
@@ -341,7 +341,7 @@
     <string name="dialpad_star_letters"/>
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_three">3</string>
-    <string name="dialpad_tuv">TUV</string>
+    <string name="dialpad_tuv">TȚUV</string>
     <string name="dialpad_two">2</string>
     <string name="dialpad_wxyz">WXYZ</string>
     <string name="dialpad_zero">0</string>
@@ -489,6 +489,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="handon_ringer_summary">Reducerea volumului tonului pentru apel atunci când telefonul este ridicat. Această caracteristică nu funcționează dacă vibrarea pentru apelurile primite este activată.</string>
     <string name="handon_ringer_title">Oprire sonerie la ridicare</string>
     <string name="help_view">Ajutor</string>
+    <string name="home_screen_shortcut">Iconiță pe ecranul principal</string>
     <string name="importAllSimEntries">Importaţi-le pe toate</string>
     <string name="importSimEntry">Importaţi</string>
     <string name="importToFDNfromContacts">Importaţi din Agendă</string>
@@ -609,6 +610,7 @@ Abonați-vă și începeți să vorbiți"</string>
     <string name="livetalk_provision_title">Aprovizionare</string>
     <string name="livetalk_remain_minutes_title">Minute disponibile</string>
     <string name="livetalk_setting">Setări suplinire</string>
+    <string name="livetalk_shortcut_title">Pachet de suplinire</string>
     <string name="livetalk_terms_conditions">Termenii și condițiile</string>
     <string name="livetalk_unavaiable_info">Serviciul este indisponibil temporar</string>
     <string name="livetalk_user_config_title">Verificați cartela SIM</string>

@@ -120,6 +120,14 @@
         <item quantity="other">Nu există suficient spațiu pe telefon. %1$d elemente așteaptă să fie rezervate</item>
         <item quantity="one">Nu există suficient spațiu pe telefon. %1$d element așteaptă să fie rezervat</item>
     </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d fotografii</item>
+        <item quantity="one">1 fotografie</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videoclipuri</item>
+        <item quantity="one">1 videoclip</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d imagini aşteaptă sincronizarea</item>
         <item quantity="one">O imagine aşteaptă sincronizarea</item>

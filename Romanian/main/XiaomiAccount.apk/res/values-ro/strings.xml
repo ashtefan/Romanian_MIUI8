@@ -121,6 +121,7 @@
     <string name="find_device_account_error">"Nu s-a putut obține starea datorită unei erori de cont"</string>
     <string name="find_device_activate_account">Activați contul</string>
     <string name="find_device_bad_response_error">"Nu s-a putut obține starea datorită unei erori de server; încercați din nou mai târziu"</string>
+    <string name="find_device_display_id">Cod de deblocare: %s</string>
     <string name="find_device_error_password_not_confirmed">"Nu s-a putut dezactiva Localizarea dispozitivului. Introduceți parola contului Mi din nou."</string>
     <string name="find_device_error_password_recently_changed">"Ați modificat parola în ultimele 3 zile. Nu se poate dezactiva acum Localizarea dispozitivului din motive de siguranță."</string>
     <string name="find_device_interrupted">Acțiunea a fost întreruptă; încercați din nou mai târziu</string>
@@ -145,8 +146,8 @@
     <string name="locating_current_location">Se determină localizarea</string>
     <string name="location_service_not_working">Serviciul de localizare nu funcționează</string>
     <string name="login_check_find_device">Se obțin informațiile despre securitatea dispozitivului…</string>
-    <string name="login_check_find_device_failed_title">"Nu s-a putut verifica starea serviciului Localizare dispozitiv"</string>
-    <string name="login_find_device_bind">Acest telefon este asociat unui cont Mi existent (%s); introduceți parola contului pentru a verifica telefonul.</string>
+    <string name="login_check_find_device_failed_title">"Nu s-au putut verifica informațiile despre securitatea telefonului"</string>
+    <string name="login_find_device_bind">Acest telefon este asociat unui cont Mi existent (%s).</string>
     <string name="login_guard_prompt">Solicitare verificare număr de telefon la prima conectare la contul Mi de pe un dispozitiv necunoscut sau dintr-o aplicație necunoscută.</string>
     <string name="logout_failed">Nu se poate deconecta</string>
     <string name="mi_account_identity_title">Verificaţi identitatea dvs.</string>
@@ -156,6 +157,8 @@
     <string name="micloud_space_info">Disponibil: %s</string>
     <string name="mili_center">Credite Mi</string>
     <string name="mipay_center">Portofel Mi</string>
+    <string name="miui_provision_find_status_text">"Acest telefon este asociat unui cont Mi existent (%1$s). Introduceți parola pentru a verifica acest telefon.
+(Cod de deblocare: %2$s)"</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Se pare că utilizați contul Mi din spațiul principal."</string>
     <string name="multi_user_not_show_sync_activity_message_2">"În acest caz, toate datele vor fi sincronizate cu cele din spațiul secundar. Pentru a evita acest lucru, nu activați sincronizarea cu Mi Cloud"</string>
     <string name="multi_user_not_show_sync_activity_title">"Nu activați sincronizarea cu Mi Cloud"</string>

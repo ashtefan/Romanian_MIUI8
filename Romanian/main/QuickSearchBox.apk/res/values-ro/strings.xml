@@ -82,7 +82,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="switch_prompt_ignore">Ignorați</string>
     <string name="switch_prompt_set">Vizualizați opțiunile</string>
     <string name="switch_prompt_title">"Nu ați găsit %s?"</string>
-    <string name="switch_prompt_title_default">"Nu ați găsit ce ați căutat?"</string>
+    <string name="switch_prompt_title_default">"Nu ați găsit ceea ce ați căutat?"</string>
     <string name="switch_setting">Setări</string>
     <string name="system_search_category_title">Telefon</string>
     <string name="top_clicked">Elemente frecvente</string>

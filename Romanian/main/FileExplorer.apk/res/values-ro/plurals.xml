@@ -240,14 +240,6 @@
         <item quantity="few">videoclipuri</item>
         <item quantity="many">videoclipuri</item>
     </plurals>
-    <plurals name="number_of_comment">
-        <item quantity="other">%1$s comentarii</item>
-        <item quantity="zero">%1$s comentarii</item>
-        <item quantity="one">%1$s comentariu</item>
-        <item quantity="two">%1$s comentarii</item>
-        <item quantity="few">%1$s comentarii</item>
-        <item quantity="many">%1$s comentarii</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">%1$s videoclipuri</item>
         <item quantity="zero">%1$s videoclipuri</item>
@@ -271,5 +263,21 @@
         <item quantity="two"> %1$d elemente</item>
         <item quantity="few"> %1$d elemente</item>
         <item quantity="many"> %1$d elemente</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> zile</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> zi</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">• Ați încărcat &lt;font color=#fc7050>%1$s&lt;/font> videoclipuri,</item>
+        <item quantity="one">• Ați încărcat &lt;font color=#fc7050>%1$s&lt;/font> videoclip,</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">Ați făcut &lt;font color=#fc7050>%1$s&lt;/font> persoane fericite!</item>
+        <item quantity="one">Ați făcut &lt;font color=#fc7050>%1$s&lt;/font> persoană fericită!</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">• Ați atras &lt;font color=#fc7050>%1$s&lt;/font> urmăritori!</item>
+        <item quantity="one">• Ați atras &lt;font color=#fc7050>%1$s&lt;/font> urmăritor!</item>
     </plurals>
 </resources>

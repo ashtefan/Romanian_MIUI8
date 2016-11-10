@@ -3,6 +3,7 @@
     <string name="Accounts_settings_title">Conturi</string>
     <string name="aaid_info">"    
 Identificatorul pentru reclame este un număr unic asociat permanent telefonului dumneavoastră. Acesta este utilizat de către vânzători pentru a selecta conținutul reclamelor astfel încât să vă fie cât mai utile."</string>
+    <string name="about_phone_enter_xiaomi_net">Vizualizați mai multe detalii</string>
     <string name="about_settings">Informaţii telefon</string>
     <string name="about_settings_summary">Afişaţi informaţiile legale, starea şi versiunea software</string>
     <string name="ac_enable_summary">Setați o parolă pentru lansarea aplicațiilor</string>
@@ -256,6 +257,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_disable_screenbuttons_auto">Dezactivează întotdeauna</string>
     <string name="auto_disable_screenbuttons_cancel">Renunțare</string>
     <string name="auto_disable_screenbuttons_no">Nu dezactiva niciodată</string>
+    <string name="auto_disable_screenbuttons_rotation_summary">Când telefonul este în orientarea Peisaj, butoanele de navigare vor fi blocate</string>
+    <string name="auto_disable_screenbuttons_rotation_title">Blochează butoanele de navigare în orientarea Peisaj</string>
     <string name="auto_disable_screenbuttons_summary">Dezactivează în mod automat butoanele de navigare atunci când se utilizează aplicațiile selectate. Apăsați de două ori orice buton de navigare pentru a reactiva.</string>
     <string name="auto_disable_screenbuttons_title">Dezactivare automată a butoanelor de navigare</string>
     <string name="auto_launch_disable_text">Nu este setată nicio valoare standard.</string>
@@ -737,6 +740,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="close_gesture">Închideți utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
+    <string name="cmcc_hardware_version">Versiune hardware</string>
     <string name="color_black">Negru</string>
     <string name="color_blue">Albastru</string>
     <string name="color_calibration_none">Nativă</string>
@@ -754,6 +758,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="color_white">Alb</string>
     <string name="color_yellow">Galben</string>
     <string name="common_settings">Setări rapide</string>
+    <string name="complete_parameters">Specificații complete</string>
     <string name="complete_settings">Toate setările</string>
     <string name="computing_size">În curs de calculare…</string>
     <string name="condition_provider_security_warning_summary">%1$s va putea adăuga condiții de părăsire a modului Nu deranjați.</string>
@@ -1001,6 +1006,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="development_settings_not_available">Opțiunile dezvoltator nu sunt disponibile pentru acest utilizator</string>
     <string name="development_settings_summary">Setaţi opţiuni pentru dezvoltarea aplicaţiei</string>
     <string name="development_settings_title">Opţiuni dezvoltator</string>
+    <string name="device_actionbar_title">Specificații complete</string>
     <string name="device_additional_status">Informații suplimentare despre stare</string>
     <string name="device_additional_status_summary">Număr de telfon, semnal, IMEI, etc.</string>
     <string name="device_admin_add_title">Administrator de dispozitive</string>
@@ -1008,12 +1014,14 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_admin_status">Acest administrator este activ şi permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
     <string name="device_admin_title">Administrarea dispozitivelor</string>
     <string name="device_admin_warning">Activarea acestui administrator va permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
+    <string name="device_complete_parameters">Specificații complete</string>
     <string name="device_cpu">Procesor</string>
     <string name="device_cpu10_info">"Deca-core"</string>
     <string name="device_cpu2_info">"Dual-core "</string>
     <string name="device_cpu4_info">"Quad-core "</string>
     <string name="device_cpu6_info">"Hexa-core "</string>
     <string name="device_cpu8_info">"Octa-core "</string>
+    <string name="device_display_layout_title">Caracteristici</string>
     <string name="device_edit_title">Editaţi numele dispozitivului</string>
     <string name="device_feedback">Trimiteți feedback despre acest dispozitiv</string>
     <string name="device_info_default">Necunoscut</string>
@@ -1022,7 +1030,9 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_info_settings">Stare telefon</string>
     <string name="device_internal_memory">Memorie internă</string>
     <string name="device_memory">Memorie RAM</string>
+    <string name="device_miui_more">Vedeți mai multe</string>
     <string name="device_miui_version">Versiune MIUI</string>
+    <string name="device_miui_version_update">Este disponibilă o actualizare MIUI</string>
     <string name="device_name">Nume dispozitiv</string>
     <string name="device_name_input_error">Nu s-a putut salva numele dispozitivului</string>
     <string name="device_name_input_hint">Introduceţi numele dispozitivului dvs.</string>
@@ -1030,6 +1040,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_picker">Selector de dispozitive Bluetooth</string>
     <string name="device_reset_title">Resetare telefon</string>
     <string name="device_sd_memory">Card SD</string>
+    <string name="device_share_loading">Creare imagine…</string>
     <string name="device_status">Stare</string>
     <string name="device_status_activity_title">Stare</string>
     <string name="device_status_summary">Număr de telefon, semnal etc.</string>
@@ -1863,6 +1874,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="memory_size">Spaţiu total</string>
     <string name="memory_title">Disponibil %1$s\t\tTotal %2$s</string>
     <string name="menu_cancel">Renunţaţi</string>
+    <string name="menu_check">Verificați</string>
     <string name="menu_delete">Ştergeţi APN</string>
     <string name="menu_duration_12h">12 ore</string>
     <string name="menu_duration_1d">1 zi</string>
@@ -1878,6 +1890,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="menu_proc_stats_type_foreground">În prim-plan</string>
     <string name="menu_restore">Resetaţi la valorile prestabilite</string>
     <string name="menu_save">Salvaţi</string>
+    <string name="menu_share">Partajați</string>
     <string name="menu_show_system">Afișați sistemul</string>
     <string name="menu_stats_last_unplugged">De la ultima deconectare pentru %1$s</string>
     <string name="menu_stats_refresh">Actualizaţi</string>
@@ -1992,6 +2005,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="musicfx_title">Efecte muzicale</string>
     <string name="mvno_match_data">Valoare MVNO</string>
     <string name="mvno_type">Tip MVNO</string>
+    <string name="my_device">Telefonul meu</string>
     <string name="nearby_wifi">Reţele disponibile</string>
     <string name="need_reboot_now">Reporniţi pentru a instala actualizarea.</string>
     <string name="network_assistant">Utilizare date</string>
@@ -2088,6 +2102,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="optimization_close">Dezactivați și reporniți</string>
     <string name="optimization_open">Activați</string>
     <string name="other_advanced_settings">Setări adiţionale</string>
+    <string name="other_device_info">Altele</string>
     <string name="other_personal_settings">Setări personale</string>
     <string name="other_relative">Alte permisiuni</string>
     <string name="other_sound_settings">Alte sunete</string>
@@ -2606,12 +2621,14 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="radio_info_smsc_refresh_label">Actualizaţi</string>
     <string name="radio_info_smsc_update_label">Actualizaţi</string>
     <string name="radio_info_toggle_dns_check_label">Activaţi verificarea DNS-ului</string>
+    <string name="rank_title">Clasificări</string>
     <string name="really_remove_account_message">Eliminarea acestui cont va şterge toate mesajele şi persoanele din agendă pe care le cuprinde, precum şi alte date de pe telefon!</string>
     <string name="really_remove_account_title">Eliminaţi contul?</string>
     <string name="rebootiing_for_updates">Repornire…</string>
     <string name="receiver_clean">Eliberați spațiu</string>
     <string name="recent_location_requests_summary">Vizualizaţi aplicaţiile care solicită accesul la informaţiile despre locația dvs.</string>
     <string name="recent_location_requests_title">Acces locaţie</string>
+    <string name="recommend_item_title">Recomandări</string>
     <string name="recompute_size">Se recalculează dimensiunea…</string>
     <string name="regulatory_info_text" />
     <string name="regulatory_information">Informaţii reglementare</string>
@@ -2714,7 +2731,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_locking_sounds_title">Sunete de blocare a ecranului</string>
     <string name="screen_never_timeout_title">Activ mereu</string>
     <string name="screen_on_proximity_sensor_summary">Blocarea automată a telefonului atunci când este plasat în buzunar</string>
-    <string name="screen_on_proximity_sensor_title">Mod În Buzunarr</string>
+    <string name="screen_on_proximity_sensor_title">Prevenirea apelării în buzunar/poșetă</string>
     <string name="screen_optimize">Contrast</string>
     <string name="screen_paper_mode_adjust_level">Intensitate</string>
     <string name="screen_paper_mode_apps_loading">Încărcare…</string>
@@ -3174,7 +3191,7 @@ Codul PIN poate fi incorect."</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="small_font">Mică</string>
-    <string name="smartcover_sensitive_title">Carcasă inteligentă</string>
+    <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
@@ -3393,7 +3410,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="touch_sensitive_title">Mod \"cu mănuşi\"</string>
     <string name="touch_sensitive_turn_off_cancel">Anulaţi</string>
     <string name="touch_sensitive_turn_off_confirm">Confirmaţi</string>
-    <string name="touch_sensitive_turn_off_summary">Doriţi să dezactivaţi și modul În Buzunar?</string>
+    <string name="touch_sensitive_turn_off_summary">Doriţi să dezactivaţi Prevenirea operaţiunilor nedorite?</string>
     <string name="touch_sensitive_turn_off_title">Modul \"cu mănuşi\" dezactivat</string>
     <string name="touch_sounds_title">Sunete atingeri ecran</string>
     <string name="touch_title">Atingeri</string>

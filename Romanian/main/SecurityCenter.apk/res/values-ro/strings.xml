@@ -78,6 +78,11 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="antivirus_choose_engine_disable_toast">Nu se pot schimba definițiile în timp ce scanarea este în curs</string>
     <string name="antivirus_choose_engine_settings">Setări definiţii viruşi</string>
     <string name="antivirus_choose_engine_title">Definiţii</string>
+    <string name="antivirus_monitor_btn_text_clean_risk">Eliminați aplicațiile care prezintă riscuri</string>
+    <string name="antivirus_monitor_btn_text_clean_virus">Eliminați viruși</string>
+    <string name="antivirus_monitor_clean_tips">Au fost eliminate %s elemente</string>
+    <string name="antivirus_monitor_risk_advice">"Această aplicație nu este sigură; eliminați-o"</string>
+    <string name="antivirus_monitor_virus_advice">Această aplicație poate conține un virus; eliminați-o</string>
     <string name="antivirus_more_engine_dialog_summary">Utilizând mai multe seturi de definiții, scanarea poate dura mai mult timp.</string>
     <string name="antivirus_more_engine_dialog_title">Atenţie</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
@@ -152,6 +157,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="auto_task_edit_condition_title">Adăugați o condiție</string>
     <string name="auto_task_edit_my_custom_task">Nume</string>
     <string name="auto_task_edit_operation_summary">De exemplu, \"Activare mod Avion\"</string>
+    <string name="auto_task_edit_step1">1.</string>
+    <string name="auto_task_edit_step2">2.</string>
     <string name="auto_task_edit_task_name">Nume</string>
     <string name="auto_task_main_summary">Modificați setările de sistem pentru anumite perioade de timp sau în funcție de nivelul acumulatorului</string>
     <string name="auto_task_main_title">Sarcini automate</string>
@@ -662,6 +669,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
     <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
+    <string name="main_alert_message_open_traffic_ctrl">Recomandăm restricționarea utilizării datelor</string>
     <string name="main_button_idel_traffic">În afara orelor de vârf</string>
     <string name="main_button_normal_traffic">Maxim</string>
     <string name="main_button_usage_adjust">Sincronizaţi utilizarea datelor mobile</string>
@@ -669,6 +677,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="main_button_usage_adjusting">Modificare…</string>
     <string name="main_button_usage_package_setting">Setaţi limita utilizării datelor</string>
     <string name="main_message_no_package_by_dual">Setaţi limita datelor pentru %s</string>
+    <string name="main_open_traffic_ctrl_button">Restricționați utilizarea datelor</string>
     <string name="main_primary_message_traffic_cur_leisure">Utilizare date în afara orelor de vârf</string>
     <string name="main_primary_message_traffic_cur_normal">Sub limita de date</string>
     <string name="main_primary_message_traffic_cur_normal_overlimit">Limita de date depășită</string>
@@ -1059,6 +1068,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei</string>
     <string name="pref_title_update_notification">Afişaţi utilizarea datelor în panoul notificărilor</string>
     <string name="pref_title_virus_white_list">Excepții</string>
+    <string name="pref_traffic_manage_title">Utilizarea datelor</string>
     <string name="pref_version">Versiune %s</string>
     <string name="pref_warning_values">Nivelul de avertizare</string>
     <string name="pref_whitelist_setting">Excepții utilizare date în roaming</string>
@@ -1256,7 +1266,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sp_settings_title_input_method">IME sigur</string>
     <string name="sp_toast_removed_from_sign_white_list">Eliminat din lista excepțiilor. Va fi scanat data viitoare.</string>
     <string name="spinner_title">%1$s - Date mobile: %2$s</string>
-  <string name="sponsored">Sponsored</string>
+    <string name="sponsored">Sponsorizat</string>
     <string name="st_title_mode_choose_group">Selectați un profil</string>
     <string name="start_diagnostic_botton">Start</string>
     <string name="start_downloading_app">A început descărcarea: %1$s</string>

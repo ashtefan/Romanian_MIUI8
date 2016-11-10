@@ -12,12 +12,6 @@
         <item quantity="other">%d melodii găsite</item>
         <item quantity="one">%d melodie găsită</item>
      </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">Puteți descărca doar %d Melodii Premium luna aceasta. Actualizați pachetul de Melodii Premium pentru a descărca mai multe.</item>
-     </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">Puteți descărca doar %d Melodii Premium luna aceasta. Descărcați totuși melodiile selectate?</item>
-     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d zile rămase</item>
         <item quantity="one">%d zi rămasă</item>
@@ -65,10 +59,6 @@
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d melodii au fost eliminate din lista de redare</item>
         <item quantity="one">O melodie a fost eliminată din lista de redare</item>
-     </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d melodii</item>
-        <item quantity="one">o melodie</item>
      </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Redarea se va opri peste %d minute</item>

@@ -9,6 +9,7 @@
     <string name="close_panel">Inchideți meniul de asistentului</string>
     <string name="customize_entries">Personalizați funcțiile</string>
     <string name="enable_touch_assistant">Activați Asistentul ecran</string>
+    <string name="enabled_for_pad_hint">Funcționează atunci când \"Blochează butoanele de navigare în orientarea Peisaj\" este activat</string>
     <string name="function_settings">Setări funcții</string>
     <string name="hide_touch_assistant">Ascundere automată Asistent ecran</string>
     <string name="hide_touch_assistant_intro">Asistentul ecran nu va fi afișat în unele aplicații.</string>
@@ -32,6 +33,7 @@
     <string name="name_screenshot">Captură ecran</string>
     <string name="name_wechat_payment_code">Plată Wechat</string>
     <string name="name_wechat_scan">Scanner Wechat</string>
+    <string name="not_working">%s (Nu funcționează)</string>
     <string name="open_panel">Activați Asistentul Ecran</string>
     <string name="pay_entry_dialog_title_select">Selectați aplicația</string>
     <string name="pay_entry_dialog_title_setting">Setați aplicația</string>

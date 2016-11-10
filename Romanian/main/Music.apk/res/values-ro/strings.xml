@@ -29,15 +29,6 @@
     <string name="alaka_required">"Această melodie nu este disponibilă."</string>
     <string name="album_name">Album</string>
     <string name="album_search_title">Album</string>
-    <string name="alert_msg_vip_song_for_download">Obțineți pachetul de Melodii Premium pentru a descărca această melodie.</string>
-    <string name="alert_msg_vip_song_for_download_upgrade">"Limita de descărcări pentru luna aceasta a fost atinsă. Actualizați pachetul de Melodii Premium pentru a descărca mai multe."</string>
-    <string name="alert_msg_vip_song_for_stream">Obțineți un pachet de Melodii Premium pentru a asculta online această melodie.</string>
-    <string name="alert_msg_vip_songs_for_download">Obțineți un pachet de Melodii Premium pentru a descărca toate melodiile.</string>
-    <string name="alert_msg_vip_songs_for_download_upgrade">"Limita de descărcări pentru luna aceasta a fost atinsă. Actualizați pachetul de Melodii Premium pentru a descărca mai multe."</string>
-    <string name="alert_msg_vip_songs_for_stream">Unele melodii pot fi ascultate online doar dacă dispuneți de un pachet de Melodii Premium.</string>
-    <string name="alert_title_vip_song">Melodii Premium</string>
-    <string name="alert_title_vip_songs">Pachet de Melodii Premium</string>
-    <string name="alert_title_vip_songs_upgrade">Actualizați pachetul de Melodii Premium</string>
     <string name="all_artist">Toţi artiştii</string>
     <string name="all_downloads">Toate descărcările</string>
     <string name="all_fileter">Toate</string>
@@ -87,7 +78,6 @@
     <string name="button_wait_for_wifi">Așteptați</string>
     <string name="buy_other_flow">Date obișnuite</string>
     <string name="buy_traffic">China Unicom</string>
-    <string name="buy_vip">Obțineți un pachet de Melodii Premium</string>
     <string name="can_not_find_resource">Nu se pot găsi resurse</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_running_download">Renunță</string>
@@ -378,7 +368,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="local_page_song_download">Melodii din telefon</string>
     <string name="local_page_song_favorite">Melodii favorite</string>
     <string name="local_tracks_short">Muzică locală</string>
-    <string name="login_first">Este necesar să vă conectați la contul Mi mai întâi</string>
     <string name="lrc_search_failed">Versurile nu au fost găsite</string>
     <string name="lrc_searching">Căutare versuri…</string>
     <string name="lyric">Versuri</string>
@@ -465,6 +454,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="network_request_error">Nu se poate conecta la rețea</string>
     <string name="network_settings_error">Nu se poate conecta la rețea</string>
     <string name="network_traffic">Utilizare date</string>
+    <string name="news_mark">NOUTĂȚI</string>
     <string name="next_time">Nu acum</string>
     <string name="no_album_info">Nu există informaţii despre album</string>
     <string name="no_artist_info">Nu există informaţii despre artist</string>
@@ -524,7 +514,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="order_pending">Aşteptarea confirmării...</string>
     <string name="order_process_fail">Nu s-a putut autoriza contul dvs. Așteptați câteva minute și încercați din nou.</string>
     <string name="other_filter">Altele</string>
-    <string name="othor_song_in_album">Alte melodii din acest album</string>
+    <string name="other_song_in_album">Alte melodii din acest album</string>
     <string name="package_filter">Pachete</string>
     <string name="pause_download">Oprește</string>
     <string name="paused_by_app">Oprită</string>
@@ -700,7 +690,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
-    <string name="stream_normal">Redați la calitate Standard</string>
     <string name="stream_quality">Calitate redare</string>
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="sub_explanation">Plan de date pentru Muzică Mi</string>
@@ -749,8 +738,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="title_search_history">Istoric căutare</string>
     <string name="title_search_hot">Populare</string>
     <string name="to_mi_pay">Credite Mi</string>
-    <string name="toast_cancel_download">Descărcare întreruptă</string>
-    <string name="toast_cancel_play">Redarea a fost oprită</string>
     <string name="toast_download_error_by_count_limit">"Ați atins limita de descărcări pentru luna aceasta."</string>
     <string name="toast_download_error_by_not_login">Conectați-vă la contul Mi și încercați din nou.</string>
     <string name="toast_download_error_by_vip_required">Obțineți un pachet de Melodii Premium pentru a descărca această melodie.</string>
@@ -760,8 +747,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="toast_stream_normal">În prezent se redau melodiile la calitate standard. Obțineți un pachet de Melodii Premium pentru a asculta la calitate înaltă.</string>
     <string name="toast_uhd_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Ridicată</string>
     <string name="toast_uhd_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Ridicată</string>
-    <string name="toast_vip_download_one_limit">"Ați atins limita de descărcări pentru luna aceasta. Veți putea descărca mai multe melodii luna viitoare, când veți obține un pachet de Melodii Premium."</string>
-    <string name="toast_vip_download_some_limit">"Ați atins limita de descărcări pentru luna aceasta. Veți putea descărca mai multe melodii luna viitoare, când veți obține un pachet de Melodii Premium."</string>
     <string name="too_freq">Prea multe solicitări trimise de pe acest dispozitiv.</string>
     <string name="tos">Condiţii de utilizare</string>
     <string name="track_list_control_download">Descărcaţi</string>
@@ -795,7 +780,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="upgrade_services">Actualizări</string>
     <string name="upgrade_suggest">Am întrerupt serviciul nostru actual de streaming din cauza unor probleme de drepturi de autor. Actualizaţi la cea mai nouă versiune a aplicației Muzică pentru a asculta muzică de înaltă calitate.</string>
     <string name="upgrade_to">Actualizaţi la</string>
-    <string name="upgrade_vip">Actualizați pachetul de Melodii Premium</string>
     <string name="upgrade_waringing">Veţi avea posibilitatea să ascultaţi doar muzică stocată off-line.</string>
     <string name="valid_period">Valid : %s</string>
     <string name="version_info">Versiune</string>

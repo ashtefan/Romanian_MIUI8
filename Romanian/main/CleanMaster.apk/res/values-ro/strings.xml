@@ -153,7 +153,7 @@
     <string name="dialog_msg_load_cleanup_engine_error">Motorul de curăţare a fost deteriorat.</string>
     <string name="dialog_msg_stop_scan">"Opriți scanarea înainte de finalizare?"</string>
     <string name="dialog_msg_uninstall_apps">Dezinstalaţi aceste aplicaţii?</string>
-    <string name="dialog_msg_uninstall_apps_xspace">Dezinstalați aceste aplicații?（inclusiv aplicațiile clonate）?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Dezinstalați aceste aplicații（inclusiv aplicațiile clonate）?</string>
     <string name="dialog_ok_add_white_list_error">Am înțeles</string>
     <string name="dialog_title_add_white_list_error">Atenționare</string>
     <string name="dialog_title_backup_and_uninstall_apps">Creare copie de rezervă şi apoi dezinstalare</string>
