@@ -900,7 +900,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="hardware_parameters_title">
         <item>"CPU、
-memorie
+memorie</item>
         <item>dimensiuni</item>
         <item>baterie</item>
         <item>"fotografie
