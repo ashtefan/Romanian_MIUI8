@@ -901,7 +901,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="hardware_parameters_title">
         <item>"CPU、
 memorie
-cu baterie"</item>
         <item>dimensiuni</item>
         <item>baterie</item>
         <item>"fotografie
@@ -930,7 +929,6 @@ Capacitate tipică 3060mAh, capacitatea de 3020mAh nominală"</item>
         <item>"Înălțime: 152mm
 Lățime: 76mm
 Grosime: 8.25mm"</item>
-        <item>Capacitate tipică de 3060 mAh, capacitatea nominală de 3020 mAh</item>
         <item>"Samsung camera de 13 megapixeli
 0.1 secunde de focalizare de fază
 5 Lens

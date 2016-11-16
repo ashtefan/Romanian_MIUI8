@@ -360,6 +360,7 @@ Părăsiţi această pagină?"</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">Conectarea a eșuat; vă rugăm reîncărcați pagina și reîncercați.</string>
     <string name="low_memory_error">Imposibil de finalizat operaţiunea anterioară din cauza memoriei insuficiente</string>
+    <string name="low_memory_toast">"Nu se poate utiliza browser-ul din cauza memoriei insuficiente"</string>
     <string name="max_tabs_warning">Limită de file atinsă</string>
     <string name="maximum_input_alert">Nu se pot introduce mai mult de 2048 de caractere</string>
     <string name="media_error_action_refresh">Reîmprospătaţi</string>

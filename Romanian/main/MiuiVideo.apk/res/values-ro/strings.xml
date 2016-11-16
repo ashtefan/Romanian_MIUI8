@@ -411,6 +411,7 @@
     <string name="video_plugin">Plug-in video</string>
     <string name="video_plugin_downloading">Descărcare…</string>
     <string name="video_plugin_prepare">Pregătire plug-in video, așteptați...</string>
+    <string name="video_pre_play_tip">Puteți vedea gratuit doar %1$d minute;plătiți pentru a putea vedea în întregime &lt;Date&gt;&amp;lt;font color=#04b4fd&amp;gt;achiziționați imediat &amp;gt;&amp;lt;/font&amp;gt;&lt;/Date&gt;</string>
     <string name="video_vip">vip</string>
     <string name="vip_package">pachet VIP</string>
     <string name="vip_rights">Drepturi și avantaje Vip</string>

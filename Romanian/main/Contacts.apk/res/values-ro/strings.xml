@@ -575,6 +575,11 @@ Motivul: „%s”"</string>
     <string name="list_filter_customize">Personalizaţi</string>
     <string name="list_filter_phones">Toate contactele din agendă cu numere de telefon</string>
     <string name="list_filter_single">Contact din agendă</string>
+    <string name="live_talk_switch_on_toast">Live talk a fost activat</string>
+  <string name="livetalk_charge">Preț</string>
+    <string name="livetalk_left">Minute disponibile</string>
+    <string name="livetalk_switch_on">Activați</string>
+    <string name="livetalk_title">Live talk</string>
     <string name="loading_accounts">Doar o secundă...</string>
     <string name="loading_group_members">Doar o secundă…</string>
     <string name="loading_groups">Doar o secundă…</string>

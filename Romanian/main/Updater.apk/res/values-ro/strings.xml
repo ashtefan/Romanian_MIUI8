@@ -60,9 +60,6 @@
     <string name="dialog_delay_update_msg">"Telefonul va reporni pentru aplicarea actualizării atunci când va fi pornit iar acumulatorul va avea cel puțin 30% energie"</string>
     <string name="dialog_delay_update_title">Actualizare disponibilă</string>
     <string name="dialog_delay_update_tonight">Actualizează la noapte</string>
-    <string name="dialog_reboot_message">"MIUI se va actualiza. Procesul poate dura între 5 și 20 de minute. Nu opriți telefonul și nu-l reporniți în timpul procesului de actualizare."</string>
-    <string name="dialog_reboot_title">Actualizare sistem</string>
-    <string name="dialog_reboot_yes">Actualizați</string>
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>

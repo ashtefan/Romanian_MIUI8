@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="dirty_contacts_count">
-        <item quantity="other">%d contacte</item>
-        <item quantity="one">%d contact</item>
-    </plurals>
-    <plurals name="dirty_mms_count">
-        <item quantity="other">%d mesaje</item>
-        <item quantity="one">%d mesaj</item>
-    </plurals>
-    <plurals name="dirty_note_count">
-        <item quantity="other">%d note</item>
-        <item quantity="one">%d notă</item>
-    </plurals>
     <plurals name="updated_contacts">
         <item quantity="other">Au fost actualizate %s contacte</item>
         <item quantity="one">A fost actualizat %s contact</item>

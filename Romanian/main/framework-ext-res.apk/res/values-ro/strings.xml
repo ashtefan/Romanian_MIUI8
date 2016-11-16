@@ -28,6 +28,7 @@
     <string name="call_record_sample_prefix_miui">Apel</string>
     <string name="caller_info_name_delimiter">" sau "</string>
     <string name="cancel_action">Revocare</string>
+    <string name="configure_input_methods">Selectați tastatura</string>
     <string name="copy">Copiere</string>
     <string name="cut">Decupare</string>
     <string name="default_name">Implicit</string>
@@ -136,6 +137,7 @@
     <string name="status_bar_toggle_vibrate">Vibrare</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="translation_more">Mai multe</string>
     <string name="translation_query_error">"Nu s-a găsit niciun rezultat"</string>
     <string name="translation_query_error_network">"Nu s-a putut conecta la rețea. Verificați setările ți încercați din nou"</string>
     <string name="turn_off">Opriți</string>

@@ -54,7 +54,6 @@
     <string name="activate_email_notice">Activați contul în cel mult 24 de ore!</string>
     <string name="activity_not_found_notice">"Nu s-a putut găsi aplicația"</string>
     <string name="add_account">Adăugaţi un cont</string>
-    <string name="alert_title_remove_account">Eliminaţi contul?</string>
     <string name="app_name">Cont Mi</string>
     <string name="auth_fail_warning">Sesiunea a expirat, conectați-vă din nou mai târziu</string>
     <string name="authorize_title">Autorizare</string>
@@ -85,12 +84,9 @@
     <string name="continue_action">Continuaţi</string>
     <string name="cta_declaration_agree_and_continue">De acord</string>
     <string name="cta_declaration_exit">Ieșire</string>
-    <string name="cta_declaration_ignore">"Nu arăta din nou"</string>
     <string name="cta_declaration_message">"Pentru a vă conecta la contul Mi, trebuie să vă conectați la internet.Serviciile de localizare și sincronizarea cu Mi Cloud vor fi pornite. Pentru a realiza o copie de siguranță a datelor personale, această aplicație trebuie să aibă acces la agenda, SMS-urile și MMS-urile, istoricul apelurilor și la înregistrările dvs. Nu vom folosi aceste date în scop comercial și nici nu le vom partaja nimănui. După logarea în contul Mi, Mi VIP și serviciile Mi se vor conecta la internet."</string>
     <string name="cta_declaration_title">Termeni și Condiții</string>
     <string name="current_location_title">Locația curentă</string>
-    <string name="data_keep_in_device">Păstrați pe acest dispozitiv</string>
-    <string name="data_wipe_from_device">Ștergeți de pe dispozitiv</string>
     <string name="delete_action">Ştergeţi</string>
     <string name="delete_app">Ștergeți aplicația</string>
     <string name="delete_bank_card_message">Din motive de securitate, vom șterge datele cardului bancar după ce vă veți deconecta</string>
@@ -329,7 +325,6 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="phone_activated">%s activat</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="qq">QQ</string>
-    <string name="remove_account_notice">Ce aţi dori să faceţi cu mesajele, contactele și alte date care au fost sincronizate din contul Mi?</string>
     <string name="remove_device_success_notice">Dacă eliminați acest dispozitiv din lista dispozitivelor de încredere, ar putea fi necesar să parcurgeţi din nou procesul de verificare atunci când vă conectați.​</string>
     <string name="remove_trust_btn">Eliminați din lista dispozitivelor de încredere</string>
     <string name="remove_trust_notice">Eliminați din lista dispozitivelor de încredere și deconectaţi-vă</string>
@@ -364,7 +359,6 @@ Asigurați-vă că știți răspunsurile la aceste întrebări."</string>
     <string name="trusted_browsers">Browsere de încredere</string>
     <string name="trusted_browsers_prompt">Acest browser nu va mai fi considerat de încredere dacă veți șterge cookie-urile.</string>
     <string name="turn_off_find_device_failed_title">"Nu se poate dezactiva Localizarea dispozitivului"</string>
-    <string name="turning_off_find_device">Dezactivare Localizare dispozitiv…</string>
     <string name="unbind_sns_description">"După ce vă veți deconecta de la acest cont, nu veți putea utiliza %s pentru a vă accesa contul dvs. Mi."</string>
     <string name="unlock_help_notice">"Ajutor:
 · Dacă v-ați uitat parola, accesați id.mi.com pentru a o reseta.
@@ -381,7 +375,4 @@ Asigurați-vă că știți răspunsurile la aceste întrebări."</string>
     <string name="verified_devices">Dispozitive verificate</string>
     <string name="verify_phone_prompt">Selectați numărul de telefon pentru verificare</string>
     <string name="verify_phone_title">Verificați numărul de telefon</string>
-    <string name="wipe_data_dialog_msg">%s vor fi șterse dacă veți continua.</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="wipe_data_dialog_title">Unele elemente nu au fost sincronizate</string>
 </resources>

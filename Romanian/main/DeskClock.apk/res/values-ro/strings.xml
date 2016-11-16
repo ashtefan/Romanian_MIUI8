@@ -84,6 +84,8 @@
     <string name="reset">Resetaţi</string>
     <string name="revert">Reveniţi</string>
     <string name="set_alarm">Setaţi alarma</string>
+    <string name="setting_alarm_arriving_summary">Afișează o notificare înainte de a suna alarma</string>
+    <string name="setting_alarm_arriving_title">Notificare înainte de alarmă</string>
     <string name="settings">Setări</string>
     <string name="shutdown_alarm_disable_summary">Alarma nu va mai suna dacă închideți telefonul</string>
     <string name="shutdown_alarm_enable_summary">Alarma va suna chiar dacă închideți telefonul</string>

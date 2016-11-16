@@ -169,12 +169,13 @@
     <string name="empty_content_no_ignore_image">Gol</string>
     <string name="empty_content_no_privacy">Gol</string>
     <string name="empty_content_no_similar_image">Nu există imagini dublate</string>
-    <string name="empty_title_ad">Niciun fișier de anunțuri</string>
+    <string name="empty_title_ad">Nu s-a găsit nciun fișier inutil</string>
     <string name="empty_title_apk">Niciun pachet de instalare</string>
     <string name="empty_title_garbage_cache">Nimic de curăţat</string>
     <string name="empty_title_garbage_white_list">Apăsați și mențineți apăsat elementele pe care doriți să le adăugați la excepții</string>
     <string name="empty_title_installed_apps">Gol</string>
     <string name="empty_title_large_files">Gol</string>
+    <string name="empty_title_photos">Nicio fotografie găsită</string>
     <string name="empty_title_residual">Niciun reziduu</string>
     <string name="empty_title_video">Nu există videoclipuri ce trebuie șterse​</string>
     <string name="flow_rank_title">Utilizare date</string>
@@ -189,7 +190,7 @@
     <string name="harass_detail">Au fost blocate %1$d SMS-uri și %2$d apeluri</string>
     <string name="header_optimizer">Prin utilizarea acestei funcții, sunteți de acord cu %s.</string>
     <string name="hint_clean_select_items">Ştergere duplicate…</string>
-    <string name="hints_ad_header_left">Anunțuri</string>
+    <string name="hints_ad_header_left">Fișiere inutile</string>
     <string name="hints_apk_header_left">Pachete</string>
     <string name="hints_apk_version">Versiune %s</string>
     <string name="hints_app_uninstall_residual">Curățați fișierele de dezinstalare reziduale?</string>
@@ -437,7 +438,7 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="virus_scan">Scanare pentru viruși</string>
   <string name="vungle_ad_name">ad-Vungle</string>
-    <string name="white_list_ad_header">Anunţuri: %d</string>
+    <string name="white_list_ad_header">Fișiere inutile: %d</string>
     <string name="white_list_apk_header">Pachete de instalare: %d</string>
     <string name="white_list_cache_header">Fişiere cache: %d</string>
     <string name="white_list_large_file_header">Fișiere și videoclipuri mari: %d</string>

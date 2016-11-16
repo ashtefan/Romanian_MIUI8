@@ -369,6 +369,10 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_web_discription_02">pentru a stoca și accesa fișierele de oriunde</string>
     <string name="micloud_web_discription_international">Vizitaţi www.mi.com/micloud</string>
     <string name="micloud_website">Elemente în Mi Cloud</string>
+    <string name="micloud_wipe_data_confirm_label">Ștergeți datele din Mi Cloud</string>
+    <string name="micloud_wipe_data_confirm_title">Eliminați de pe telefon elementele sincronizate din Mi Cloud după ce vă deconectați?</string>
+    <string name="micloud_wipe_data_remove">Ștergeți</string>
+    <string name="micloud_wipe_data_retain">Păstrați</string>
     <string name="microsoft_cloud">Servicii Microsoft Cloud</string>
     <string name="microsoft_cloud_eng">One Drive</string>
     <string name="microsoft_cloud_price">Aproximativ 11 euro pe an</string>
@@ -504,7 +508,11 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="view_storage_title">Spaţiul de stocare</string>
     <string name="virtual_sim_desc">Activați Mi SIM pentru a vă localiza telefonul fără a utiliza o cartelă SIM</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
+    <string name="wipe_data_dialog_button_check_sync">Verificați dacă s-au sincronizat</string>
+    <string name="wipe_data_dialog_msg">"%s nu s-au sincronizat și vor rămâne în telefon."</string>
+    <string name="wipe_data_dialog_msg_and_on">, și alte elemente</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmpp_server_addr"/>

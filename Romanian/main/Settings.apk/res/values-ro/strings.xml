@@ -75,7 +75,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="accessibility_toggle_screen_magnification_preference_title">Mărirea ecranului</string>
     <string name="accessibility_toggle_speak_password_preference_title">Rostiţi parolele</string>
     <string name="account_add">Adăugaţi</string>
-    <string name="account_autostar_label">Autostart</string>
+    <string name="account_autostar_label">Pornire automată</string>
     <string name="account_list">Alte conturi</string>
     <string name="account_settings">Conturi</string>
     <string name="account_settings_menu_auto_sync">Auto sincronizare date</string>
@@ -713,6 +713,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="cellular_data_title">Date mobile</string>
     <string name="change_password">Modificaţi parola</string>
     <string name="change_security_lock">Încercați alte modalități de deblocare</string>
+<string name="charging_sounds_title">Sunet încărcare acumulator</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
@@ -2196,6 +2197,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="path_brightness_settings">Setări/Afișaj/Luminozitate</string>
     <string name="path_button_light_timeout">Setări/Setări adiționale/Butoane/Durată iluminare taste</string>
     <string name="path_calendar_sound_title">Setări/Sunet și vibrații/Sunet calendar</string>
+    <string name="path_camera_key_action_shortcut_screenshot">Setări/Setări adiționale/Captură de ecran</string>
     <string name="path_children_mode_settings">Setări/Setări adiționale/Mod Copil</string>
     <string name="path_choose_timezone">Setări/Setări adiționale/Data și ora/Selectați fusul orar</string>
     <string name="path_cloud_backup_settings_section_title">Setări/Setări adiționale/Creare copie de rezervă și resetare/Setări backup</string>
@@ -2218,6 +2220,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="path_do_not_disturb_settings">Setări/Nu deranjați</string>
     <string name="path_dtmf_tone_enable_title">Setări/Sunet și vibrații/Tonuri la atingerea tastelor numerice</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
+    <string name="path_enable_adb">Setări/Setări adiționale/Opțiuni dezvoltator/Depanare USB</string>
     <string name="path_equalizer">Setări/Sunet și vibrații/Setări audio/Egalizator</string>
   <string name="path_fluency_mode">Setări/Acumulator și performanță/Animații de sistem</string>
     <string name="path_font_settings">Setări/Afișaj/Fontul sistemului</string>
@@ -2257,6 +2260,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="path_other_advanced_settings">Setări/Setări adiționale</string>
     <string name="path_owner_info_settings">Setări/Blocare ecran și parolă/Info. proprietar</string>
     <string name="path_page_layout_settings">Setări/Afișaj/Dimensiunea textului</string>
+    <string name="path_permission_settings_title">Setări/Permisiuni/Permisiunile aplicațiilor</string>
     <string name="path_pointer_speed">Setări/Setări adiționale/Limbă și metodă de introducere/Viteza indicatorului</string>
   <string name="path_power_checker">Setări/Setări adiționale/Beta features/Power Checker</string>
     <string name="path_power_hide_mode_title">Setări/Acumulator și performanță/Gestionare utilizare acumulator de către aplicații</string>
@@ -2845,6 +2849,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_brightness">luminozitate</string>
     <string name="search_button_light_timeout">Durată iluminare taste</string>
     <string name="search_calendar_sound_title">Sunet calendar</string>
+    <string name="search_camera_key_action_shortcut_screenshot">Captură de ecran</string>
     <string name="search_children_mode_settings">Modul Copil;Blocare SMS</string>
     <string name="search_children_mode_title">Modul Copil</string>
     <string name="search_choose_timezone">Selectați fusul orar</string>
@@ -2854,7 +2859,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_credentials_install">Instalați din stocare</string>
     <string name="search_date_time">Data și ora</string>
     <string name="search_description">Setări căutare</string>
-    <string name="search_development_settings">Opțiuni dezvoltator</string>
+    <string name="search_development_settings">Opțiuni dezvoltator,Asistență</string>
     <string name="search_device_name">Nume dispozitiv</string>
     <string name="search_device_status">Stare</string>
     <string name="search_display">Afișaj;Ecran;Lumină ambientală;Buzunar;Apelare în buzunar</string>
@@ -2869,6 +2874,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_dtmf_tone_enable_title">Tonuri la atingerea tastelor numerice</string>
   <string name="search_edge_handgrip">Edge controls</string>
     <string name="search_empty">Niciun rezultat</string>
+    <string name="search_enable_adb">Depanare USB</string>
     <string name="search_equalizer">Egalizator</string>
     <string name="search_fluency_mode">Animații de sistem</string>
     <string name="search_font">Fontul sistemului</string>
@@ -2910,6 +2916,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_other_advanced_settings">Setări adiționale;Mai multe</string>
     <string name="search_owner_info_settings">Informații proprietar</string>
     <string name="search_page_layout_settings">Mărimea textului</string>
+    <string name="search_permission_settings_title">Permisiunile aplicațiilor</string>
   <string name="search_pointer_speed">Viteza indicatorului</string>
     <string name="search_power_checker">Verificare energie</string>
     <string name="search_power_hide_mode_title">Gestionare utilizare acumulator de către aplicații</string>

@@ -285,7 +285,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="button_text_cleanup">Curăţaţi</string>
     <string name="button_text_clear">Curăţare</string>
     <string name="button_text_create_shortcut">Creaţi o comandă rapidă</string>
-    <string name="button_text_delete_from_virus_white_list">eliminați</string>
+    <string name="button_text_delete_from_virus_white_list">Eliminați</string>
     <string name="button_text_deny">Refuzați</string>
     <string name="button_text_disconnect_now">Deconectați</string>
     <string name="button_text_fix">Reparaţi</string>
@@ -345,7 +345,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
     <string name="card_main_xspace_title">Aplicații clonate</string>
     <string name="celcius_symbol">℃</string>
-    <string name="charging_text_battery_full_time">"Ultima încărcare "</string>
+    <string name="charging_text_battery_full_time">"Ultima încărcare a durat "</string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
     <string name="charging_text_battery_perfect">Încărcat complet</string>
     <string name="charging_text_time_calculating">Se calculează durata de încărcare…</string>
@@ -606,6 +606,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="keywords_networkassistant_4">Conecxiune;Internet;Test</string>
     <string name="keywords_permcenter">Autostart;Permisiuni;ROOT;Locație;Acces contacte</string>
     <string name="keywords_powercenter">Economisire acumulator;Încălzire;Activare;Dezactivare;Acumulator;Descărcare</string>
+    <string name="keywords_powercenter_powerrank">Utilizare acumulator</string>
     <string name="keywords_securitycenter">Securitate;Verificare;Scanare</string>
     <string name="keywords_securitycenter_settings">Economisire acumulator;Permisiuni;Listă blocări;Utilizare date;Setare plan de date;Testare rețea;Blocare aplicații;Economisire acumulator;Încălzire;Activare;Dezactivare;Acumulator;Descărcare;Pornire automată;ROOT;Locație;Acces contacte;Blocare;Black list;Smart blocklist;Fraudă;Vânzări;Telemarketing;Agenți;Date;Trafic;Calibrare;Conexiune;Internet;Test;Parolă;Confidențialitate;Acces;Protecție</string>
     <string name="kilobyteShort">KB</string>
@@ -817,7 +818,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
     <string name="notification_battery_over_heat_summary">Descoperiți ce anume cauzează încălzirea și scădeți temperatura telefonului.</string>
     <string name="notification_battery_over_heat_title">Temperatura actuală este %d℃</string>
-    <string name="notification_charging_title">Se încarcă</string>
+    <string name="notification_charging_title">"Se încarcă "</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_item">Activați blocarea aplicațiilor</string>
@@ -839,6 +840,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s a utilizat %2$s în această săptămână</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
+    <string name="old_sdk_deny_warning">"Această aplicație nu este compatibilă cu cele mai recente cerințe Android privind permisiunile. Permisiunile neacordate pot afecta modul în care funcționează aplicația."</string>
     <string name="open">Deschideți</string>
     <string name="open_app">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
@@ -902,6 +904,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="path_networkassistant_4">Aplicații de sistem/Securitate/Utilizare date/Verificare rețea</string>
     <string name="path_permcenter">Aplicații de sistem/Securitate/Permisiuni</string>
     <string name="path_powercenter">Aplicații de sistem/Securitate/Utilizare acumulator</string>
+    <string name="path_powercenter_powerrank">Acumulator și performanță/Utilizare acumulator</string>
     <string name="path_securitycenter">Aplicații de sistem/Securitate</string>
     <string name="path_securitycenter_settings">Aplicații de sistem/Securitate</string>
     <string name="pay_charge">Achiziţionaţi date suplimentare</string>
@@ -1126,6 +1129,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="resource_networkassistant_4">Testare rețea</string>
     <string name="resource_permcenter">Permisiuni</string>
     <string name="resource_powercenter">Utilizare acumulator</string>
+    <string name="resource_powercenter_powerrank">Acumulator și performanță</string>
     <string name="resource_securitycenter">Securitate</string>
     <string name="resource_securitycenter_settings">Securitate</string>
     <string name="result_autoscan_header">Monitorizare plăți</string>
@@ -1238,7 +1242,14 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sorted_button">Sortaţi după</string>
     <string name="sorted_dialog_title">Sortaţi după</string>
     <string name="sp_back_title_text_zero">Sigur</string>
-    <string name="sp_button_text_ignore_alert_title">Ignorați elementul selectat?</string>
+    <string name="sp_background_risk_dialog_summary">, vă rugăm să analizați atent și să remediați riscurile referitoare la plăți</string>
+    <string name="sp_background_risk_dialog_title">Periculos</string>
+    <string name="sp_background_risk_type_messaging">Aplicația de mesagerie a sistemului a fost înlocuită</string>
+    <string name="sp_background_risk_type_root">Sistemul a fost rootat</string>
+    <string name="sp_background_risk_type_sign">Aplicația neoficială rulează</string>
+    <string name="sp_background_risk_type_virus">Aplicația virusată rulează</string>
+    <string name="sp_background_risk_type_wifi">Rețeaua Wi-Fi la care sunteți conectat nu este sigură</string>
+    <string name="sp_button_text_ignore_alert_title">Ignorați acest element?</string>
     <string name="sp_empty_title_sign_exception">Apăsați lung pe numele aplicației din pagina rezultatelor pentru a o adăuga în lista de excepții</string>
     <string name="sp_monitored_apps_count_zero">Nicio aplicație de plăți nu este protejată</string>
     <string name="sp_monitored_apps_list_title">Setări monitorizare</string>
@@ -1247,15 +1258,15 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sp_safe_score_text">Plată sigură</string>
     <string name="sp_scan_item_monitor">Monitorizare plăți</string>
     <string name="sp_scan_item_url_antispam">Protecție împotriva URL-urilor frauduloase</string>
-    <string name="sp_settings_check_item_summary_sign_exception">Gestionați excepțiile sign?</string>
+    <string name="sp_settings_check_item_summary_sign_exception">Gestionați excepțiile de semnătură</string>
     <string name="sp_settings_check_item_summary_virus_exception">Gestionați excepțiile pentru viruși</string>
     <string name="sp_settings_check_item_title_root">ROOT</string>
-    <string name="sp_settings_check_item_title_sign_exception">Excepții Sign?</string>
-    <string name="sp_settings_check_item_title_update">Actualizare sistem</string>
-    <string name="sp_settings_check_item_title_virus_exception">Excepții viruși</string>
+    <string name="sp_settings_check_item_title_sign_exception">Excepții de semnătură</string>
+    <string name="sp_settings_check_item_title_update">Actualizări de sistem</string>
+    <string name="sp_settings_check_item_title_virus_exception">Excepții pentru viruși</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">Niciun element</string>
-    <string name="sp_settings_group_title_check_item">Verificați setările elementelor</string>
+    <string name="sp_settings_group_title_check_item">Verificați multiplele setări</string>
     <string name="sp_settings_group_title_ime">Setări IME sigur</string>
     <string name="sp_settings_group_title_omit">Elemente omise</string>
     <string name="sp_settings_info_input_method">Utilizați metodele de sistem de introducere în aplicațiile de plăți</string>
@@ -1472,7 +1483,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="title_virus_update_yes">Actualizare automată definiții viruși activată</string>
     <string name="title_virus_yes">Niciun virus găsit</string>
     <string name="title_xiaomi_roaming">Mi Roaming</string>
-    <string name="toast_add_virus_white_list_no_need_repeat">Excepția pentru viruși există deja!</string>
+    <string name="toast_add_virus_white_list_no_need_repeat">Excepția pentru viruși există deja</string>
     <string name="toast_add_virus_white_list_success">Adăugat în lista excepțiilor. Vizualizați elementele în setări.</string>
     <string name="toast_auto_traffic_correct">Utilizarea datelor este ajustată în mod automat</string>
     <string name="toast_cleaner_cloudscan">Curăţarea va utiliza definiții on-line</string>
@@ -1579,9 +1590,9 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Menţinut activ</string>
     <string name="usage_type_wifi_running">Funcţionare Wi-Fi</string>
-    <string name="usb_adb_input_apply_step_1">Computerul dumneavoastră va putea modifica setările și acorda permisiuni fără a vă informa despre acest lucru, atunci când veți conecta telefonul prin USB</string>
-    <string name="usb_adb_input_apply_step_2">Acest lucru poate duce la scurgerea de informații personale cum ar fi conturile sau mesajele</string>
-    <string name="usb_adb_input_apply_step_3">Asigurați-vă că înțelegeți riscurile asociate înainte de a acorda permisiunea. Permiteți acum?</string>
+    <string name="usb_adb_input_apply_step_1">"Acest lucru poate duce la scurgerea de informații private sau chiar pierderea acestora. Nu recomandăm să faceți acest lucru decât în cazul în care sunteți dezvoltator"</string>
+    <string name="usb_adb_input_apply_step_2">Dezvoltatorii pot folosi soluții software speciale pentru a imita gesturile, modifica setările și pentru a acorda diverse permisiuni prin USB.</string>
+    <string name="usb_adb_input_apply_step_3">Permiteți acum?</string>
     <string name="usb_install_desc">Instalați această aplicație prin USB?</string>
     <string name="usbsharenet_exception_summary">Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea USB a dispozitivului și reporniți Mi PC Suite.</string>
     <string name="usbsharenet_exception_title">Testare internet partajat prin USB</string>

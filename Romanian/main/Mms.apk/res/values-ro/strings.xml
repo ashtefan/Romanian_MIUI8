@@ -196,6 +196,7 @@
     <string name="found_wild_messages_guide_sync_not_started">Sincronizarea nu a pornit</string>
     <string name="found_wild_messages_title">Sincronizare mesaje SMS din Mi Cloud</string>
     <string name="from_label">"De la: "</string>
+    <string name="from_pkg_name">De la aplicația:</string>
     <string name="group_message">Mesaje de grup</string>
     <string name="group_message_failed_title">Trimiterea la %d contacte a eşuat</string>
     <string name="group_resend_message">Retrimiteţi (%d)</string>

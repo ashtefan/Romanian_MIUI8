@@ -19,6 +19,7 @@
     <string name="activity_main_one_alert"/>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Actualizat %1$s</string>
+    <string name="activity_main_update_time_expire">Date expirate</string>
     <string name="activity_main_update_time_right_now">acum</string>
     <string name="activity_weathermain_locationg">Localizare…</string>
     <string name="activity_weathermain_locationg_error">"Nu se poate localiza"</string>
@@ -55,7 +56,6 @@
     <string name="button_not_allow">Renunţaţi</string>
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
-    <string name="close">Închideți</string>
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
@@ -77,7 +77,6 @@
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
     <string name="global_aqi">ICA: %1$s %2$s</string>
     <string name="gps_hint">Locaţie actuală</string>
-    <string name="hide_topic">Ascundeți</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_title">Prognoză orară</string>
