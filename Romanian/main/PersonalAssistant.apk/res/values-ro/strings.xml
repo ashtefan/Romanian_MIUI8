@@ -106,7 +106,6 @@
   <string name="navigation_network_location_not_enabled_title">Vă rugăm să activați poziționarea rețelei</string>
   <string name="navigation_search_automatically_positioned_city">Locație City automată</string>
   <string name="navigation_search_current_city">Oraș curentă:</string>
-  <string name="navigation_search_default_hint">Căutarea dvs. în căutarea de conținut, cum ar fi rețeaua de mei</string>
   <string name="navigation_search_no_city_list">Nici o listă a orașelor</string>
   <string name="navigation_search_positioning">Localizarea ...</string>
   <string name="navigation_search_positioning_failed">Imposibilitatea de a localiza, puteți selecta direct oraș</string>
