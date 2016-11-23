@@ -18,6 +18,8 @@
     <string name="motion_behavior">Mod funcționare</string>
     <string name="name_alipay_payment_code">Plată Alipay</string>
     <string name="name_alipay_scan">Scaner Alipay</string>
+    <string name="name_all_mipay_cards">Plăți Mi</string>
+  <string name="name_handy_mode">Mod manual</string>
     <string name="name_long_press_power_key">Apăsare lungă a butonului de pornire</string>
     <string name="name_memory_clean">Golire memorie cache</string>
     <string name="name_music_next_song">Melodia următoare</string>
@@ -31,12 +33,16 @@
     <string name="name_quick_search">Căutare</string>
     <string name="name_scan_to_pay">Scanare pentru plată</string>
     <string name="name_screenshot">Captură ecran</string>
+    <string name="name_trans_cards">Card transport</string>
     <string name="name_wechat_payment_code">Plată Wechat</string>
     <string name="name_wechat_scan">Scanner Wechat</string>
+    <string name="nfc_all_mipay_card_not_in_use">"Plăți Mi nu este activată"</string>
+    <string name="nfc_trans_card_not_in_use">"Carduri de transport nu este activată"</string>
     <string name="not_working">%s (Nu funcționează)</string>
     <string name="open_panel">Activați Asistentul Ecran</string>
     <string name="pay_entry_dialog_title_select">Selectați aplicația</string>
     <string name="pay_entry_dialog_title_setting">Setați aplicația</string>
+    <string name="pref_category_mipay">Scurtături NFC</string>
     <string name="pref_category_others">Altele</string>
     <string name="pref_category_quick_pay">Plată rapidă</string>
     <string name="pref_category_quick_settings">Setări rapide</string>

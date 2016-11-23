@@ -78,12 +78,12 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="face_beauty_intelligent_level_2">Mediu</string>
     <string name="face_beauty_intelligent_level_3">Ridicat</string>
     <string name="face_beauty_smart">Inteligent</string>
-    <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
-    <string name="message_snap_double_confirm">Acțiunea curentă pentru apăsarea lungă a butonului de volum este activarea modului NFC, confirmați modificarea?</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="message_snap_double_confirm">Actualmente apăsarea lungă a butonului de volum activează modul NFC. Modificați această acțiune?</string>
     <string name="no_storage">Introduceţi un card SD.</string>
     <string name="not_enough_space">Cardul SD este plin</string>
     <string name="object_track_enable_toast">Pentru a selcta un obiect, apăsați simultan două puncte de pe diagonala conturului.</string>
-    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Aliniați săgeata cu linia de referință</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continuaţi…</string>
     <string name="pano_how_to_use_prompt_slow_down">Mutați telefonul mai încet</string>
@@ -130,7 +130,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_coloreffect_entry_light_tunnel">Tunel</string>
     <string name="pref_camera_coloreffect_entry_long_face">Dilatare</string>
     <string name="pref_camera_coloreffect_entry_mirror">Oglindă</string>
-    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mono">Alb-negru</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Mozaic</string>
     <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
     <string name="pref_camera_coloreffect_entry_none">Normal</string>
@@ -180,7 +180,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_focusmode_entry_normal">Standard</string>
     <string name="pref_camera_focusmode_title">Mod focus</string>
     <string name="pref_camera_gradienter_title">Îndreptare</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+  <string name="pref_camera_groupshot_mode_title">Selfie-uri de grup</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="pref_camera_hdr_entry_auto">Automat</string>
     <string name="pref_camera_hdr_entry_live">Live</string>
@@ -211,7 +211,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_camera_long_pressing_shutter_title">Apăsați și țineți apăsat butonul de declanșare pentru a bloca AE/AF/AWB</string>
     <string name="pref_camera_magic_mirror_title">Oglindă magică</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
-  <string name="pref_camera_mono_mode_title">Mono</string>
+  <string name="pref_camera_mono_mode_title">Alb-negru</string>
     <string name="pref_camera_movie_solid_title">Film solid</string>
     <string name="pref_camera_multilevel_entry_high">Ridicat</string>
     <string name="pref_camera_multilevel_entry_higher">Superior</string>
@@ -322,7 +322,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="pref_front_mirror_entry_off">Oprit</string>
     <string name="pref_front_mirror_entry_on">Pornit</string>
     <string name="pref_front_mirror_title">Oglindă cameră frontală</string>
-  <string name="pref_groupshot_with_primitive_title">Salvați fotografia primară în modul Groupshot</string>
+  <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>
     <string name="pref_qc_focus_position_title">Focus</string>
@@ -381,11 +381,11 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="simple_mode_button_text_fast_video">Dezactivaţi mişcarea lentă</string>
     <string name="simple_mode_button_text_fisheye">Dezactivaţi Ochi de peşte</string>
     <string name="simple_mode_button_text_gradienter">Dezactivare Îndreptare</string>
-  <string name="simple_mode_button_text_groupshot">Dezactivare GroupShot</string>
+  <string name="simple_mode_button_text_groupshot">Dezactivare Selfie-uri de grup</string>
     <string name="simple_mode_button_text_hand_night">Dezactivaţi modul nocturn</string>
     <string name="simple_mode_button_text_magic_mirror">Activați Oglinda Magică</string>
     <string name="simple_mode_button_text_manual">Dezactivaţi modul manual</string>
-  <string name="simple_mode_button_text_mono">Dezactivare mod Mono</string>
+  <string name="simple_mode_button_text_mono">Dezactivare mod Alb-negru</string>
     <string name="simple_mode_button_text_panorama">Dezactivaţi panorama</string>
   <string name="simple_mode_button_text_raw">Dezactivare mod RAW</string>
     <string name="simple_mode_button_text_scene">Dezactivaţi modul scenă</string>
@@ -395,7 +395,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="simple_mode_button_text_tilt_shift">Dezactivaţi înclinarea</string>
     <string name="simple_mode_button_text_ubifocus">Dezactivaţi modul refocusare</string>
     <string name="snap_cancel">Renunțați</string>
-    <string name="snap_confirmed">Confirmați</string>
+    <string name="snap_confirmed">Înlocuiți</string>
     <string name="spaceIsLow_content_external_storage_priority">Nu mai există spațiu de stocare pe cardul SD</string>
     <string name="spaceIsLow_content_primary_storage_priority">Nu mai există spațiu liber pe stocarea USB</string>
     <string name="start_capture">OK</string>
@@ -411,7 +411,7 @@ Distanța dintre cameră și obiect trebuie să fie mai mică de 2 metri"</strin
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
     <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) cât și din depărtare</string>
     <string name="video_camera_label">Cameră video</string>
-    <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="wait">O secundă…</string>
 </resources>

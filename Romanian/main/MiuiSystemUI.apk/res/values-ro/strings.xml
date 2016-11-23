@@ -146,8 +146,8 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="mount_storage">Da</string>
     <string name="nav_guide_cancel">Ignorați</string>
-    <string name="nav_guide_message">Puteți utiliza gesturi pentru a ascunde/afișa butoanele de pe ecran după setare.</string>
-    <string name="nav_guide_ok">Setări</string>
+    <string name="nav_guide_message">Utilizați gesturi pentru a ascunde/afișa butoanele de pe ecran.</string>
+    <string name="nav_guide_ok">Setați</string>
     <string name="nav_guide_title">Ascundeți butoanele de pe ecran</string>
     <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_notification_tips">Nicio notificare</string>

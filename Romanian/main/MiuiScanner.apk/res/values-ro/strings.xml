@@ -250,9 +250,9 @@
     <string name="feedback_description_camera_access">"Aplicația Scaner nu se poate conecta la Cameră"</string>
     <string name="feedback_description_save_photo">"Nu s-a putut salva fotografia sau videoclipul"</string>
     <string name="flash_lable">Bliț</string>
-    <string name="image_file_name_format">"'scan'_ddMMyyyy_HHmmss"</string>
+    <string name="image_file_name_format">"'scan'_yyyyMMdd_HHmmss"</string>
     <string name="import_contact">Importați contactul</string>
-    <string name="impunity_declaration_content">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal.</string>
+    <string name="impunity_declaration_content">Această aplicație trebuie să se conecteze la internet și să acceseze serviciul de localizare pentru a funcționa în mod normal.</string>
     <string name="impunity_declaration_negative_text">Ieșire</string>
     <string name="impunity_declaration_positive_text">Permite</string>
     <string name="impunity_declaration_title">Termenii serviciului</string>

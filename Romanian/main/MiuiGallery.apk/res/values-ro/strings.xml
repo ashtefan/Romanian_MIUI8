@@ -161,7 +161,7 @@
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
     <string name="cloud_screenshots_display_name">Capturi de ecran</string>
     <string name="cloud_settings">Copii de rezervă pentru Galerie</string>
-    <string name="cloud_space_full_button_text">Obțineți mai mult spațiu de stocare în Mi Cloud</string>
+    <string name="cloud_space_full_button_text">Obțineți mai mult spațiu de stocare</string>
     <string name="cloudfolder_cannot_start_with">"Numele dosarului nu poate începe cu '%s'"</string>
     <string name="cloudfolder_contain_invalidate_char">"Numele dosarului nu poate conţine '%s'"</string>
     <string name="cloudfolder_name_cannot_empty">Introduceţi numele albumului</string>

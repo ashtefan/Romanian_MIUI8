@@ -60,7 +60,7 @@
     <string name="month_day_format">dd MMM</string>
     <string name="move_failed">"Nu s-a putut decupa"</string>
     <string name="move_failed_retry">"Nu s-a putut decupa; așteptați %1$s și încercați din nou"</string>
-    <string name="need_get_accounts_permission">Mi Drive necesită permisiunea de accesare a contului pentru a funcționa în mod normal.</string>
+    <string name="need_get_accounts_permission">Mi Drive trebuie să vă acceseze contul pentru a funcționa în mod normal.</string>
     <string name="never_notify">"Nu arăta din nou"</string>
     <string name="no_app_found_to_open_file">Nu există nicio aplicație care să realizeze această acțiune.</string>
     <string name="no_more_space">Spațiul de stocare este insuficient.</string>
@@ -118,7 +118,7 @@
     <string name="terabyteShort">TB</string>
     <string name="tools">Unelte</string>
     <string name="trans_mobile_network_message">Utilizarea datelor mobile pentru transferul fișierelor poate genera taxare suplimentară din partea operatorului. Continuați transferul oricum?</string>
-    <string name="trans_task">Transfer în rețea</string>
+    <string name="trans_task">Transferuri în rețea</string>
     <string name="transing">Trimitere</string>
     <string name="upload_failed">"Nu s-a putut încărca"</string>
     <string name="upload_file_to_midrive">Încărcați fișierul în Mi Drive</string>

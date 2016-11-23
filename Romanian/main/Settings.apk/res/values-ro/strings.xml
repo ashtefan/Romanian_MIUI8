@@ -298,7 +298,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="band_mode_succeeded">Reuşit</string>
     <string name="band_mode_title">Setaţi banda GSM/UMTS</string>
     <string name="baseband_version">Versiunea benzii de bază</string>
-    <string name="batch_delete_saved_network">Ștergeți rețeaua selectată: %s?</string>
+    <string name="batch_delete_saved_network">Ștergeți rețelele selectate: %s?</string>
     <string name="batch_delete_saved_networks">Șterge toate rețelele selectate</string>
     <string name="battery_action_app_details">Informaţii despre aplicaţie</string>
     <string name="battery_action_app_settings">Setări aplicaţii</string>
@@ -578,6 +578,8 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Vechiul dispozitiv va fi înlocuit cu dispozitivul actual.</string>
     <string name="bluetooth_unlock_change_matched_device">Selectaţi alt dispozitiv</string>
     <string name="bluetooth_unlock_confirm_device_text">Atingeți dispozitivul Bluetooth pentru a confirma.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Atingeți butonul de pe ceasul inteligent pentru a debloca.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_miband2">Atingeți butonul de pe dispozitiv pentru a debloca.</string>
     <string name="bluetooth_unlock_delete_device">Ştergeţi acest dispozitiv</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Ştergeţi acest dispozitiv?</string>
     <string name="bluetooth_unlock_device_matched_text">Utilizați acest dispozitiv pentru a debloca.</string>
@@ -725,6 +727,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="children_mode_tips_off">După activarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal.</string>
     <string name="children_mode_tips_on">După dezactivarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal.</string>
     <string name="children_mode_title">Modul Copil</string>
+    <string name="choose_smartcover_type">Selectați tipul husei</string>
     <string name="choose_timezone">Selectaţi fusul orar</string>
     <string name="cleaner">Curăţare</string>
     <string name="clear_activities">Ştergeţi valorile standard</string>
@@ -994,7 +997,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
     <string name="delete_legacy_fingerprint">Ștergeți</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
-    <string name="delete_saved_network">Ștergere rețea salvată</string>
+    <string name="delete_saved_network">Ștergeți rețelele salvate</string>
     <string name="deny">Refuzaţi</string>
     <string name="deny_sms_message">Nu permiteți aplicațiilor instalate să trimită SMS-uri</string>
     <string name="deny_sms_title">Blocare SMS</string>
@@ -1367,6 +1370,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="free_xiaomi_wifi_connect_summary">Apăsați pentru a vă conecta la %1$s.</string>
     <string name="frequently_fragment_delete">Eliminaţi</string>
     <string name="frequently_fragment_tempty">Aplicaţiile utilizate frecvent vor fi enumerate aici</string>
+    <string name="full_transparent_smarrcover_title">Husă transparentă pentru ecran</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_brightness_state_auto">automată</string>
     <string name="gadget_brightness_state_full">completă</string>
@@ -1571,6 +1575,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="large_font">Mare</string>
     <string name="last_synced">Ultima sincronizare %1$s</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
+    <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
     <string name="launching_cit">Lansare CIT</string>
     <string name="launching_pho">Lansare info telefon, aşteptaţi.</string>
     <string name="launching_rep">Raportare…</string>
@@ -1955,7 +1960,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="multi_touch_points_preference">Reporniţi pentru a activa</string>
     <string name="music_audio_effect_optimize">Setări audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, căşti şi alte setări audio</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Sunet HD, căști și alte setări audio</string>
+    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, căști și alte setări audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, căşti şi alte setări audio</string>
     <string name="music_audio_effect_settings">Setări efecte</string>
     <string name="music_dirac_control">Optimizare calitate audio</string>
@@ -2057,6 +2062,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="no_updates_warning2">"Relaxați-vă, vă vom comunica dacă există o actualizare :)"</string>
     <string name="noise_suppression">Suprimare zgomot</string>
     <string name="normal_date_format">Regional (%s)</string>
+    <string name="normal_smartcover_title">Husă opacă pentru ecran</string>
     <string name="not_installed">Neinstalată</string>
     <string name="notes_privacy_password_role_instruction">Notițele private vor fi stocate aici.</string>
     <string name="notification_app_settings_button">Setările notificărilor</string>
@@ -3198,9 +3204,12 @@ Codul PIN poate fi incorect."</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="small_font">Mică</string>
+    <string name="smallwindow_smartcover_title">Husă frontală transparentă</string>
+    <string name="smartcover_lock_or_unlock_screen_tittle">blocare/deblocare ecran cu husă inteligentă</string>
+    <string name="smartcover_sensitive_summary">blocați/deblocați telefonul cu ușurință utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
-    <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie SMS?</string>
+    <string name="sms_change_default_dialog_text">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie SMS?</string>
     <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pt. SMS livrat</string>

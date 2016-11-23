@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d sunt dezactivate</item>
+        <item quantity="one">%d este dezactivat</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Elemente ce așteaptă sincronizarea: %d</item>
+        <item quantity="one">Elementul care așteaptă sincronizarea: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d elemente așteaptă sincronizarea</item>
+        <item quantity="one">%d element așteaptă sincronizarea</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d contacte</item>
         <item quantity="one">%d contact</item>

@@ -781,6 +781,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="repeat_diagnosis">Testați din nou</string>
     <string name="report_problem">Raportați probleme</string>
     <string name="require_login">Autentificați-vă mai întâi</string>
+  <string name="rescan">Căutați din nou</string>
     <string name="reset">Restabilire</string>
     <string name="respond">Funcționează</string>
     <string name="retry_for_more">Apăsați pentru a vedea detalii</string>

@@ -113,8 +113,8 @@
         <item quantity="one">Sincronizarea este oprită. %1$d element așteaptă să fie rezervat</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud este plin. %1$d elemente așteaptă să fie rezervate</item>
-        <item quantity="one">Mi Cloud este plin. %1$d element așteaptă să fie rezervat</item>
+        <item quantity="other">"Nu s-au putut sincroniza %1$d elemente"</item>
+        <item quantity="one">"Nu s-a putut sincroniza %1$d element"</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Nu există suficient spațiu pe telefon. %1$d elemente așteaptă să fie rezervate</item>

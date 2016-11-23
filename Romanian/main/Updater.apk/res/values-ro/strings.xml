@@ -17,7 +17,7 @@
     <string name="auto_dialog_msg_check_again">"Trebuie să acceptați Politica de confidențialitate actualizată înainte de a putea actualiza sistemul dvs. "</string>
     <string name="auto_dialog_title_check_again">Anulaţi actualizarea?</string>
     <string name="auto_update">Actualizare automată</string>
-    <string name="auto_update_sum">Se descarcă automat actualizările când este conectat la Wi-Fi și se instalează peste noapte</string>
+    <string name="auto_update_sum">Se descarcă actualizările când este conectat la Wi-Fi și se instalează peste noapte</string>
     <string name="autosetmode">Setări</string>
     <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
     <string name="boot_recovery">Reporniţi în modul Recuperare</string>

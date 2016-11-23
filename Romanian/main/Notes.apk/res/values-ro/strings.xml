@@ -3,8 +3,6 @@
     <string name="add_account_desc">Sincronizaţi notele cu contul dvs. Xiaomi?</string>
     <string name="alarm_bar_title">Memento</string>
     <string name="alert_action_edit_anyway">Editați oricum</string>
-    <string name="alert_edit_action_delete">Eliminaţi</string>
-    <string name="alert_edit_action_update">Modificaţi</string>
     <string name="alert_message_delete">Ştergeţi %1$s?</string>
     <string name="alert_message_delete_note">Ştergeţi această notă?</string>
     <string name="alert_message_edit_anyway">Dacă editați această notă, o parte din conținutul său poate fi pierdut.</string>
@@ -17,17 +15,12 @@
     <string name="all_terms">%1$s şi %2$s</string>
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
-    <string name="attachment_camera">Realizați o fotografie</string>
-    <string name="attachment_contact">Contacte</string>
-    <string name="attachment_gallery">Selectați din Galerie</string>
-    <string name="button_new_note">Notă nouă</string>
     <string name="call_folder_name">Note apel</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
     <string name="dlg_btn_set_password">Setați parola</string>
     <string name="dlg_check_reminder">"Nu arăta din nou"</string>
     <string name="dlg_delete_message">Ștergere…</string>
-    <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul Silenţios este activat</string>
     <string name="dlg_hide_message">Ascundere…</string>
     <string name="dlg_info_creating_message">Creare mesaj…</string>
     <string name="dlg_message_password_reset">"Parola pentru notițele ascunse va fi înlocuită cu parola pentru protejarea confidențialității care este utilizată pentru mesaje, fotografii și dosare ascunse"</string>
@@ -37,13 +30,10 @@
     <string name="dlg_quick_delete_title">Ștergere rapidă</string>
     <string name="dlg_restore_message">Restaurare…</string>
     <string name="dlg_stick_message">Fixare…</string>
-    <string name="dlg_title_confirm_alarm_silent">Alarmă silenţioasă</string>
     <string name="dlg_title_password_reset">Actualizați-vă parola</string>
     <string name="dlg_title_set_password">Setați parola</string>
     <string name="dlg_title_use_privacy_password">Utilizați parola de protejare a confidențialității</string>
     <string name="dlg_unhide_message">Se afișează…</string>
-    <string name="empty_folder_hint">"Niciun dosar
-Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="enable_sync">Sincronizaţi</string>
     <string name="enable_sync_desc">Sincronizaţi notele cu contul dvs. Mi (%1$s)?</string>
     <string name="error_contact_not_exist">Contact inexistent</string>
@@ -77,7 +67,6 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="menu_send_as_image">Trimiteți ca imagine</string>
     <string name="menu_send_as_text">Trimiteți ca text</string>
     <string name="menu_send_to_desktop">Plasaţi pe desktop</string>
-    <string name="menu_send_wechat">Trimiteţi la WeChat</string>
     <string name="menu_send_weibo">Trimiteţi la Weibo</string>
     <string name="menu_source">Din %1$s</string>
     <string name="menu_stick">Fixaţi</string>
@@ -95,14 +84,11 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="note_sort_way">Selectați modul de sortare a notițelor</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
-    <string name="notelist_menu_new">Adăugaţi o notă</string>
     <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Memento notă</string>
     <string name="permdesc_accessNote">Aplicațiile rău intenționate pot utiliza aceasta pentru a accesa informaţiile personale.</string>
     <string name="permlab_accessNote">Accesare note</string>
-    <string name="pref_desc_alarm_when_silent">Alarmele pentru memento vor suna în continuare atunci când modul Silenţios este activat</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">"Nu arăta fereastra de dialog când se elimină o notiță printr-un gest"</string>
-    <string name="pref_title_alarm_when_silent">Alarmă în modul Silenţios</string>
     <string name="pref_title_common">Setări adiţionale</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
@@ -134,7 +120,6 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="sns_choose_quality_title">Selectaţi calitatea imaginii</string>
     <string name="sns_content_default">Distribuire fotografie</string>
     <string name="sns_desc_image_preview">Previzualizare mesaj</string>
-    <string name="sns_desc_preview_wechat">Previzualizare mesaj WeChat</string>
     <string name="sns_desc_preview_weibo">Previzualizare mesaj Weibo</string>
     <string name="sns_footer_text">Creat cu Note Mi</string>
     <string name="sns_hint_content">Introduceți mesajul</string>
@@ -157,7 +142,6 @@ Atingeți simbolul + pentru a crea un dosar"</string>
     <string name="theme_title_star">Steluțe</string>
     <string name="theme_title_yellow">Galben</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
-    <string name="toast_message_add_text_warn">Acest tip de fișier nu este acceptat</string>
     <string name="toast_notes_delete_success">Eliminată cu succces</string>
     <string name="toast_notes_hidden">Ascunsă cu succes</string>
     <string name="toast_notes_hidden_count">%1$s ascunse su succes</string>

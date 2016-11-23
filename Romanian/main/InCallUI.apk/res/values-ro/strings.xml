@@ -119,7 +119,7 @@
     <string name="dialpad_seven">7</string>
     <string name="dialpad_six">6</string>
     <string name="dialpad_three">3</string>
-    <string name="dialpad_tuv">TȚUV</string>
+    <string name="dialpad_tuv">TUV</string>
     <string name="dialpad_two">2</string>
     <string name="dialpad_wxyz">WXYZ</string>
     <string name="dialpad_zero">0</string>
@@ -129,7 +129,7 @@
     <string name="fraud_call_answer">Răspundeţi</string>
     <string name="fraud_call_decline">Refuzaţi</string>
     <string name="fraud_call_waring">Atenţie: Ar trebui să verificaţi întotdeauna identitatea contactului prin telefon sau apel video înainte de a răspunde la orice mesaje care implică informațiile dvs. personale.</string>
-    <string name="inCallLabel">InCallUI</string>
+    <string name="inCallLabel">UI apelare</string>
     <string name="incall_call_type_label_sip">Apel prin internet</string>
     <string name="incall_error_supp_service_conference">Teleconferinţa nu se poate efectua.</string>
     <string name="incall_error_supp_service_hangup">Apelul nu poate fi încheiat.</string>

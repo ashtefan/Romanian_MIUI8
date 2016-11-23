@@ -404,7 +404,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="editContactNameExpandOpenDescription">Restrângeți numele</string>
     <string name="editGroupDescription">Editaţi grupul</string>
     <string name="edit_contact">Editaţi informaţiile despre contactul din agendă</string>
-    <string name="edit_contact_card_title">Editaţi cartela contactului</string>
+    <string name="edit_contact_card_title">Selectați elementele de partajat</string>
     <string name="edit_contact_photo">Editaţi fotografia contactului</string>
     <string name="email">Trimiteţi un e-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
@@ -1258,8 +1258,8 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowPageNavigationIconLabel">Registru</string>
     <string name="yellowPageNavigationLabel">Registru</string>
     <string name="yellowpage_navigation_ad_hint">Reclamă</string>
-    <string name="yellowpage_navigation_balance_refresh_failed">"Nu s-au putut verifica balanța și datele; încercați din nou."</string>
-    <string name="yellowpage_navigation_balance_refresh_succeed">Balanța și datele au fost verificate</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">"Nu s-au putut verifica balanța și datele mobile; încercați din nou."</string>
+    <string name="yellowpage_navigation_balance_refresh_succeed">Balanța și datele mobile au fost verificate</string>
     <string name="yellowpage_navigation_clear_search_history">Goliţi istoricul</string>
     <string name="yellowpage_navigation_more_items">Mai multe</string>
     <string name="yellowpage_navigation_more_items_title">Mai multe servicii</string>

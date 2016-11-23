@@ -29,6 +29,8 @@
     <string name="auto_play">Rulează în mod automat atunci când sunteți conectat la Wi-Fi</string>
     <string name="auto_play_later">Mai târziu</string>
     <string name="auto_play_now">Activați</string>
+    <string name="auto_play_recommend">Redați în mod automat</string>
+    <string name="auto_play_recommend_tips">Redați videoclipurile în mod automat</string>
     <string name="auto_play_toast">Videoclipurile vor rula în mod automat. Puteți modifica acest lucru din setări.</string>
     <string name="backup_cancel">Nu, mulţumesc</string>
     <string name="backup_checkbox_msg">Crează copie de rezervă în mod automat</string>
@@ -65,6 +67,7 @@
     <string name="category_favorite">Favorite</string>
     <string name="category_file">Fișiere</string>
     <string name="category_files">Fișiere</string>
+    <string name="category_installed_app">Aplicații instalate</string>
     <string name="category_midrive">Mi Drive</string>
     <string name="category_music">Muzică</string>
     <string name="category_other">Altele</string>
@@ -114,6 +117,7 @@
     <string name="copy_failed">"Nu s-a putut copia"</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
+    <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="data_consumption_cancel">Ieşire</string>
     <string name="data_consumption_checkbox_hint">Nu se afişează din nou</string>
     <string name="data_consumption_confirm">OK</string>
@@ -146,6 +150,7 @@
     <string name="delete_video_dialog_tip">"Nu veți putea restaura videoclipul după ce îl veți șterge."</string>
     <string name="delete_video_dialog_title">Șterge videoclipul</string>
     <string name="delete_video_success">Șters cu succes</string>
+    <string name="deleted_video_msg">"Cam târziu... Acest videoclip a fost eliminat."</string>
     <string name="dialog_logout_message">Vă deconectați acum?</string>
     <string name="dialog_logout_title">Deconectare</string>
     <string name="dialog_select_type">Selectaţi tipul fişierului</string>
@@ -202,6 +207,8 @@
     <string name="follow_fail">"Nu s-a putut urmări, încercați din nou mai târziu"</string>
     <string name="follow_tip_1">Urmăriți-mă pentru a vedea mai multe videoclipuri</string>
     <string name="follow_tip_2">Urmăriți-mă pentru a vedea mai multe videoclipuri</string>
+    <string name="force_touch_clean">Curățați</string>
+    <string name="force_touch_search">Căutați fișierele</string>
     <string name="found_router">Router conectat</string>
     <string name="found_usb">Stocare USB conectată</string>
     <string name="ftp_account_req_notice">4-16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
@@ -240,6 +247,7 @@
     <string name="instruction">Introduceți următoarea adresă într-un client FTP: </string>
     <string name="instruction_pre">Atingeţi pentru a porni serverul FTP</string>
     <string name="interest_recommend">Videoclipuri recomandate</string>
+    <string name="is_playing">Rulează…</string>
     <string name="just_now">acum</string>
     <string name="kilobyteShort">KB</string>
     <string name="kuaipan_label">Kuaipan</string>
@@ -253,9 +261,11 @@
     <string name="local_music">Muzică</string>
     <string name="local_video">Videoclipuri</string>
     <string name="login">Conectați-vă</string>
+    <string name="login_account_bind_qq">Contul QQ</string>
     <string name="login_account_bind_skip">Omiteți</string>
     <string name="login_account_bind_tip">Un pseudonim și un avatar bine alese vă vor face videoclipurile mai atractive</string>
     <string name="login_account_bind_title">Adăugați un alt cont</string>
+    <string name="login_account_bind_wb">Contul Weibo</string>
     <string name="login_account_bind_wx">Utilizați contul WeChat</string>
     <string name="login_account_bind_xm">Utilizați contul Mi</string>
     <string name="login_expired">Sesiunea a expirat; conectați-vă din nou</string>
@@ -281,6 +291,7 @@
     <string name="menu_item_sort_type">Tip</string>
     <string name="menu_item_usb">USB</string>
     <string name="message_comment_prefix">"Comentariu: "</string>
+    <string name="message_my_received_notification">Mesaj nou</string>
     <string name="message_my_received_praise">Like-uri primite</string>
     <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_praise_comment">" au apreciat acest comentariu"</string>
@@ -408,6 +419,7 @@
     <string name="phone_code_et_hint">Introduceți codul de verificare</string>
     <string name="phone_get_code_tip">Prea multe încercări de obținere a codului astăzi</string>
     <string name="phone_has_used_tip">Acest număr de telefon este asociat unui cont existent; încercați cu alt număr de telefon.</string>
+    <string name="phone_login_btn_str">Număr de telefon</string>
     <string name="phone_login_title">Telefon</string>
     <string name="phone_num">Număr de telefon</string>
     <string name="phone_num_et_hint">Introduceți numărul de telefon</string>
@@ -432,6 +444,7 @@
     <string name="pick_file">Selectați fișierele</string>
     <string name="pick_folder">Alegeți dosarul</string>
     <string name="popup_msg_qq">Partajați acest videoclip prietenilor din QQ.</string>
+    <string name="popup_msg_wb">Vă place videoclipul? Partajați-l prietenilor de pe Weibo!</string>
     <string name="popup_msg_wx">Partajați acest videoclip prietenilor din WeChat.</string>
     <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
     <string name="private_files">Ascunse</string>
@@ -441,6 +454,8 @@
     <string name="private_toast_hint2">Pentru a ascunde un fișier, apăsați și mențineți-l apăsat, apoi adăugați-l într-un dosar ascuns.</string>
     <string name="private_toast_hint3">Glisați în jos pentru a vedea dosarele ascunse</string>
     <string name="promot_enctypt_password">Introduceți parola utilizată pentru deblocarea telefonului sau pentru oprirea Modului Copil</string>
+    <string name="qq_btn_bind">QQ</string>
+    <string name="qq_login_btn_str">QQ</string>
     <string name="qq_not_installed">"QQ nu este instalată"</string>
     <string name="qq_platform">QQ</string>
     <string name="qzone_platform">Qzone</string>
@@ -511,9 +526,20 @@
     <string name="setting">Setări</string>
     <string name="setting_account_bind">Adăugați un cont</string>
     <string name="setting_message_notify">Notificări</string>
+    <string name="setting_shortcut">Adăugați o scurtătură pe ecranul principal</string>
+  <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
     <string name="share_success">Partajat cu succes</string>
     <string name="share_tip_1">Mulțumesc pentru partajare; urmăriți-mă pentru a vedea mai multe videoclipuri</string>
     <string name="share_tip_2">Mulțumesc pentru partajare; urmăriți-mă pentru a vedea mai multe videoclipuri</string>
+    <string name="share_title_01">"%1$s Iată un videoclip fain! %2$s"</string>
+    <string name="share_title_02">"%1$s Iată un videoclip fain!"</string>
+    <string name="share_title_03">"%1$s Iată un videoclip fain! %2$s"</string>
+    <string name="share_title_04">%1$s Am distribuit un videoclip, aruncă o privire! %2$s</string>
+    <string name="share_title_05">%1$s Am distribuit un videoclip, aruncă o privire! %2$s</string>
+    <string name="share_title_06">%1$s Am distribuit un videoclip, aruncă o privire! %2$s</string>
+    <string name="share_title_07">%s Am distribuit un videoclip, aruncă o privire!</string>
+    <string name="share_title_08">%s Am distribuit un videoclip, aruncă o privire!</string>
+    <string name="share_title_09">%s Am distribuit un videoclip, aruncă o privire!</string>
     <string name="share_title_1">Am găsit o colecție faină de stickere!</string>
     <string name="share_to">Partajați la…</string>
     <string name="share_youliao1">Actualizați pentru a urmări mai multe episoade.</string>
@@ -528,6 +554,9 @@
 (Imaginile GIF pot fi adăugate la Personalizate)."</string>
     <string name="shared_sticker_use_tip_title">Cum se folosesc stickerele</string>
     <string name="shared_str">Partajate de %s</string>
+    <string name="shortcut_exists">Scurtătura există deja</string>
+    <string name="shortcut_hotvideos">Videoclipuri populare</string>
+    <string name="shortcut_msg">Adăugați o scurtătură pe ecranul principal pentru videoclipurile populare</string>
     <string name="smb_loading">Doar o secundă…</string>
     <string name="sort_size_asc">De la mic la mare</string>
     <string name="sort_size_desc">De la mare la mic</string>
@@ -621,6 +650,7 @@
     <string name="user_follow_me_title">Urmăritorii mei</string>
     <string name="user_follow_title">Persoanele pe care le urmăresc</string>
     <string name="user_guide_continue_use">OK</string>
+    <string name="user_guide_more_login">Alte modalități de conectare</string>
     <string name="user_icon">Fotografie de profil</string>
     <string name="user_info_setting">Editați informațiile</string>
     <string name="user_like_text">Îi place</string>
@@ -692,6 +722,8 @@
     <string name="video_play_failed">Eroare necunoscută</string>
     <string name="video_publish_hint">O descriere corespunzătoare va ajuta alte persoane să vă găsească videoclipul</string>
     <string name="video_publish_hint2">Descriere</string>
+    <string name="video_publish_origin_tag">Eticheta originală</string>
+    <string name="video_publish_watchable_tag">Urmăriți-mă pentru a putea vedea acest videoclip</string>
     <string name="video_recommend_upload">Recomandat</string>
     <string name="video_status_reject">Respins</string>
     <string name="video_status_review">În curs de revizuire</string>
@@ -712,22 +744,25 @@
     <string name="video_upload_wechat_hint">Încărcați videoclipuri WeChat pentru a câștiga mai mulți fani.</string>
     <string name="video_uploaded">Încărcat</string>
     <string name="view_more_sticker">Vedeți mai multe stickere</string>
+    <string name="wb_btn_bind">Weibo</string>
     <string name="wechat_btn_bind">WeChat</string>
     <string name="wechat_btn_str">WeChat</string>
+    <string name="wechat_login_btn_str">WeChat</string>
     <string name="wechat_platform">WeChat</string>
     <string name="wechat_video">Video la %s</string>
+    <string name="weibo_login_btn_str">Weibo</string>
+    <string name="weibo_share_success">Partajat cu succes</string>
+    <string name="weibo_str">Weibo</string>
     <string name="weixin_not_installed">"WeChat nu este instalată"</string>
     <string name="weixin_sticker_tag_str">Stickere</string>
     <string name="welcome_to_my_page">Bine ați venit pe pagina mea</string>
     <string name="welcome_to_my_page_1">Urmăriți-mă!</string>
     <string name="welcome_to_my_page_2">Urmăriți-mă!</string>
     <string name="wifi_state">Reţea Wi-Fi</string>
-    <string name="wx_title1">"Uite un videoclip mișto!"</string>
-    <string name="wx_title2">Am distribuit un videoclip, aruncă o privire!</string>
-    <string name="wx_title3">Vedeși videoclipuri virale din toată lumea!</string>
     <string name="wxcircle_platform">Momente</string>
     <string name="xiaomi_btn_bind">Cont Mi</string>
     <string name="xiaomi_btn_str">Mi</string>
+    <string name="xiaomi_login_btn_str">Cont Mi</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>

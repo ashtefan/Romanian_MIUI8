@@ -280,4 +280,8 @@
         <item quantity="other">• Ați atras &lt;font color=#fc7050>%1$s&lt;/font> urmăritori!</item>
         <item quantity="one">• Ați atras &lt;font color=#fc7050>%1$s&lt;/font> urmăritor!</item>
     </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Atrageți încă %1$d urmăritori pentru a vă crește statutul​</item>
+        <item quantity="one">Atrageți încă %1$d urmăritor pentru a vă crește statutul​</item>
+    </plurals>
 </resources>
