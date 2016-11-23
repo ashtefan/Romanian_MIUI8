@@ -51,13 +51,4 @@
         <item>Praf</item>
         <item>Ceaţă</item>
      </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Mutare aplicaţii</item>
-        <item>Obiecte widget</item>
-        <item>Imagini de fundal</item>
-        <item>Efecte</item>
-     </string-array>
-    <string-array name="quality_business_devices">
-        <item>Litiu</item>
-    </string-array>
 </resources>
