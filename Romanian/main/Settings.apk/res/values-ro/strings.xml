@@ -3209,7 +3209,7 @@ Codul PIN poate fi incorect."</string>
     <string name="smartcover_sensitive_summary">blocați/deblocați telefonul cu ușurință utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
-    <string name="sms_change_default_dialog_text">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
+    <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
     <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie SMS?</string>
     <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pt. SMS livrat</string>
