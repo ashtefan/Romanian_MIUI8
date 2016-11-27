@@ -490,7 +490,7 @@ Părăsiţi această pagină?"</string>
     <string name="paused_waiting_to_retry">Se așteaptă reluarea…</string>
     <string name="pay_failed_toast">"Nu s-a putut finaliza plata</string>
     <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
-    <string name="permission_alert_window">Pentru a utiliza această caracteristică, trebuie să activați opțiunea <Afișare ferestre pop-up>.</string>
+    <string name="permission_alert_window">Pentru a utiliza această caracteristică, trebuie să activați opțiunea Afișare ferestre pop-up.</string>
     <string name="permission_unknown">Opțiune necunoscută</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
