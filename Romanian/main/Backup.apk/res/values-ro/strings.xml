@@ -339,8 +339,8 @@ Se așteaptă transferul…"</string>
     <string name="wifi_title">Setări Wi-Fi</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_connect_download_manager_fail">"Nu s-a putut conecta la Managerul de Descărcări; verificați starea acestuia în Managerul de aplicații."</string>
-    <string name="xiaomi_external_storage_unavailable">Mediu de stocare indisponibil; verificați cardul SD.</string>
+    <string name="xiaomi_connect_download_manager_fail">"Nu s-a putut porni descărcarea. Asigurați-vă că Managerul de Descărcare funcționează corespunzător."</string>
+    <string name="xiaomi_external_storage_unavailable">"Mediu de stocare indisponibil; verificați cardul SD."</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>

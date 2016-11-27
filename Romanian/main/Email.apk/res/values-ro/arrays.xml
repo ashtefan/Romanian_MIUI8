@@ -27,17 +27,17 @@
         <item>Expeditor</item>
         <item>Data recepţionării</item>
      </string-array>
-     <string-array name="moveto_folder_sections">
+    <string-array name="moveto_folder_sections">
         <item>Sistem</item>
         <item>Utilizate frecvent</item>
         <item>Toate dosarele</item>
      </string-array>
-     <string-array name="prefEntries_autoAdvance">
+    <string-array name="prefEntries_autoAdvance">
         <item>Mesaje noi</item>
         <item>Mesaje vechi</item>
         <item>Inbox</item>
      </string-array>
-     <string-array name="signature_normal_string_array">
+    <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
         <item>E-mail:</item>
@@ -54,7 +54,7 @@
         <item>QQ:</item>
         <item>MSN:</item>
      </string-array>
-     <string-array name="signature_normal_string_array_next">
+    <string-array name="signature_normal_string_array_next">
         <item>Adresă:</item>
         <item>Tel:</item>
         <item>Nume:</item>
@@ -64,7 +64,7 @@
         <item>Fax:</item>
         <item>Cod poştal:</item>
      </string-array>
-     <string-array name="signature_special_string_array">
+    <string-array name="signature_special_string_array">
         <item>Act de renunțare:</item>
         <item>Act de renunțare e-mail</item>
         <item>Trimis prin WPSMail</item>
@@ -73,7 +73,7 @@
         <item>Mulţumesc,</item>
         <item>Salutări</item>
      </string-array>
-     <string-array name="signature_special_string_array_next">
+    <string-array name="signature_special_string_array_next">
         <item>Mulţumesc,</item>
         <item>Salutări</item>
         <item>Trimis de la</item>
@@ -84,13 +84,5 @@
         <item>Acest e-mail</item>
         <item>Act de renunțare</item>
         <item>Act de renunțare e-mail</item>
-     </string-array>
-     <string-array name="sync_status">
-        <item>Reuşită</item>
-        <item>Nicio conexiune</item>
-        <item>Imposibil de conectat</item>
-        <item>Eroare de securitate</item>
-        <item>Imposibil de sincronizat</item>
-        <item>Eroare internă</item>
      </string-array>
 </resources>

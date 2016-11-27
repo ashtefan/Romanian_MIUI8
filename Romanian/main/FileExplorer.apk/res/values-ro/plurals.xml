@@ -269,8 +269,8 @@
         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> zi</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• Ați încărcat &lt;font color=#fc7050>%1$s&lt;/font> videoclipuri,</item>
-        <item quantity="one">• Ați încărcat &lt;font color=#fc7050>%1$s&lt;/font> videoclip,</item>
+        <item quantity="other">• Ați încărcat &lt;font color=#fc7050>%1$s&lt;/font> videoclipuri.</item>
+        <item quantity="one">• Ați încărcat &lt;font color=#fc7050>%1$s&lt;/font> videoclip.</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">Ați făcut &lt;font color=#fc7050>%1$s&lt;/font> persoane fericite!</item>

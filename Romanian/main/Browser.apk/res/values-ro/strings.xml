@@ -47,6 +47,7 @@
     <string name="action_menu_useful_page">Adaugă la Utile</string>
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
     <string name="actionbar_share">Partajaţi</string>
+    <string name="actionbar_textselection_title">Selectați textul</string>
     <string name="actionbar_web_search">Căutare Web</string>
     <string name="adblock_force_updating_rules_toast">Se actualizează filtrul pentru reclame</string>
     <string name="adblock_notification">%d anunţuri blocate</string>
@@ -84,6 +85,7 @@
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_pure">Excelent</string>
     <string name="aqi_quality_index_unhealthy">Rău</string>
+    <string name="autofill_keyboard_accessory_content_description">Sugestii disponibile</string>
     <string name="autofill_popup_content_description">Arată sugestii de completare automată</string>
     <string name="autologin_bar_error">Imposibil de conectat</string>
     <string name="autologin_bar_hide_text">Ascundeţi</string>
@@ -200,9 +202,9 @@
 trebuie să se întâmple"</string>
     <string name="custom_head_card_text_incognito">"Navigați incognito!
 Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</string>
-    <string name="data_traffic_prompt_change">"Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare."</string>
-    <string name="data_traffic_prompt_message">"Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare."</string>
-    <string name="data_traffic_prompt_message_short">"Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus."</string>
+    <string name="data_traffic_prompt_change">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="data_traffic_prompt_message">Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="data_traffic_prompt_message_short">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus.</string>
     <string name="data_traffic_prompt_title">Avertisment de utilizare a datelor</string>
     <string name="date_picker_dialog_clear">Curăţaţi</string>
     <string name="date_picker_dialog_other_button_label">Altele</string>
@@ -373,9 +375,9 @@ Părăsiţi această pagină?"</string>
     <string name="media_error_timeout">Conexiune la rețea expirată</string>
     <string name="media_error_video_not_exist">Videoclipul nu există</string>
     <string name="media_player_error_button">OK</string>
-    <string name="media_player_error_text_invalid_progressive_playback">"Videoclipul nu poate fi vizionat online pe acest dispozitiv."</string>
-    <string name="media_player_error_text_unknown">"Acest videoclip nu poate fi redat"</string>
-    <string name="media_player_error_title">"Nu se poate reda videoclipul"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">Ne pare rău însă acest videoclip nu poate fi vizionat online pe acest dispozitiv.</string>
+    <string name="media_player_error_text_unknown">Ne pare rău însă acest videoclip nu poate fi redat</string>
+    <string name="media_player_error_title">Nu se poate reda videoclipul</string>
     <string name="media_player_loading_video">Încărcare video</string>
     <string name="menu_addtodesk">Plasaţi pe ecranul principal</string>
     <string name="menu_exit_nightmode">Ieşire</string>
@@ -488,6 +490,8 @@ Părăsiţi această pagină?"</string>
     <string name="paused_waiting_to_retry">Se așteaptă reluarea…</string>
     <string name="pay_failed_toast">"Nu s-a putut finaliza plata</string>
     <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
+    <string name="permission_alert_window">Pentru a utiliza această caracteristică, trebuie să activați opțiunea <Afișare ferestre pop-up>.</string>
+    <string name="permission_unknown">Opțiune necunoscută</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
     <string name="pref_accessibility">Accesibilitate</string>
@@ -751,6 +755,7 @@ Părăsiţi această pagină?"</string>
     <string name="unsecurity_url_toast">"Acest site nu este sigur"</string>
     <string name="up_to_loading_tips">Eliberați pentru a actualiza</string>
     <string name="update_no_network_toast">Nu se poate conecta la reţea</string>
+    <string name="updating_chrome">Actualizare Chrome...</string>
     <string name="uploads_disabled">Încărcarea fişierelor este dezactivată</string>
     <string name="url_copy_done">URL copiat în clipboard</string>
     <string name="url_find_on_page_result">Vizualizaţi în Browser</string>

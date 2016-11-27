@@ -146,6 +146,7 @@
     <string name="login_guard_prompt">Solicitare verificare număr de telefon la prima conectare la contul Mi de pe un dispozitiv necunoscut sau dintr-o aplicație necunoscută.</string>
     <string name="logout_failed">Nu se poate deconecta</string>
     <string name="mi_account_identity_title">Verificaţi identitatea dvs.</string>
+    <string name="mi_family">Familia de servicii Mi</string>
     <string name="mi_insurance">Asigurare Mi</string>
     <string name="mi_pass">Pașaport Mi</string>
     <string name="mi_pay_identity">Identitate</string>

@@ -96,7 +96,7 @@
     <string name="lockscreen_wallpaper">Blocare ecran</string>
     <string name="lockstyle_personal_settings">Personalizare</string>
     <string name="mi_wallpaper">Imagini de fundal MIUI</string>
-    <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru cartela SIM 1 și pentru cartela SIM 2 în același timp.</string>
+    <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Am înțeles</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Nu arăta din nou"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Probleme de compatibilitate</string>

@@ -14,9 +14,9 @@
     <string name="close">Închideți</string>
     <string name="dont_bore">"Evitați ca butoanele și notificările să vă distragă atenția"</string>
     <string name="empty">" "</string>
-    <string name="game_booster">Creștere a vitezei în jocuri</string>
+    <string name="game_booster">Creșterea vitezei în jocuri</string>
     <string name="game_booster_intro">Despre crșterea vitezei în jocuri</string>
-  <string name="game_booster_total">Boosted speed %1$s time, added %2$s of gaming time</string>
+    <string name="game_booster_total">Viteza a crescut de %1$s ori, s-a prelungit durata de joc cu %2$s</string>
     <string name="game_more_improve">Restricționați activitățile din fundal și viteza de descărcare pentru a economisi acumulatorul și lățimea de bandă pentru jocuri</string>
     <string name="game_setting">Setări jocuri</string>
     <string name="gs_app_back_self_start">Economisire acumulator</string>

@@ -108,6 +108,9 @@
     <string name="download_share_dialog">Distribuiţi prin</string>
     <string name="download_speed">Viteza de descărcare:</string>
     <string name="download_spend_time">Timp scurs</string>
+    <string name="download_status_continue">Reluați</string>
+    <string name="download_status_fail">Încercați din nou</string>
+    <string name="download_status_paused">Opriți</string>
     <string name="download_success">Finalizat</string>
     <string name="download_title">Descărcări</string>
     <string name="download_title_sorted_by_date">Descărcări – sortate după dată</string>

@@ -31,7 +31,7 @@
     <string name="call">Apel</string>
     <string name="callNoAnswerTimeFormat">A sunat de %s ori</string>
     <string name="callrecordview_item_newcontact">Contact nou</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min și %2$d sec</string>
     <string name="callrecordview_item_op_time_missed">Neconectat</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sec</string>

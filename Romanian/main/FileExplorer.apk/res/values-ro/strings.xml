@@ -527,7 +527,7 @@
     <string name="setting_account_bind">Adăugați un cont</string>
     <string name="setting_message_notify">Notificări</string>
     <string name="setting_shortcut">Adăugați o scurtătură pe ecranul principal</string>
-  <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
+  <string name="share_from_youliao">(De la #有料# @有料Videoclip)丨</string>
     <string name="share_success">Partajat cu succes</string>
     <string name="share_tip_1">Mulțumesc pentru partajare; urmăriți-mă pentru a vedea mai multe videoclipuri</string>
     <string name="share_tip_2">Mulțumesc pentru partajare; urmăriți-mă pentru a vedea mai multe videoclipuri</string>
@@ -766,7 +766,7 @@
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
-    <string name="youliao_ad_msg">"Bucurați-vă de \"Youliao\"!
+    <string name="youliao_ad_msg">"Bucurați-vă cu \"Youliao\"!
 Urmăriți împreună cu 170 de milioane de fani Mi."</string>
     <string name="youliao_ad_title">Actualizat la versiunea completă!</string>
     <string name="youliao_ad_update">Actualizați</string>

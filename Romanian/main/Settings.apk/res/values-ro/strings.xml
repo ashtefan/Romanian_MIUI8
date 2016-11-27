@@ -102,10 +102,12 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_fingerprint_finished_button_text">Realizat</string>
     <string name="add_fingerprint_instruction_msg">Deblocați dispozitivul sau realizați plăți securizate utilizând amprenta digitală.</string>
     <string name="add_fingerprint_instruction_title">Adăugați o amprentă digitală</string>
+    <string name="add_fingerprint_name_suggest_text">Denumirea amprentei</string>
     <string name="add_fingerprint_put_finger_edge_msg">Atingeți senzorul, ridicați degetul și repetați mișcarea până când amprenta este înregistrată cu succes.</string>
     <string name="add_fingerprint_put_finger_msg">Puneți degetul pe senzorul de amprentă și ridicați-l abia după ce simțiți o vibrație a telefonului.</string>
     <string name="add_fingerprint_put_finger_title">Adăugați amprenta</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mișcați încet degetul și apăsați din nou senzorul de amprentă pentru a înregistra toate particularitățile amprentei</string>
+    <string name="add_fingerprint_success_msg">Adăugată cu succes</string>
     <string name="add_fingerprint_text">Adăugați o amprentă</string>
     <string name="add_fingerprint_toast_text">Plasați degetul pe scanerul de amprente</string>
     <string name="adding_profile_owner_warning">"Continuând, contul dumneavoastră de utilizator va fi administrat de către administratorul dumneavoastră, care va putea stoca de asemenea datele personale asociate.
@@ -647,9 +649,12 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="button_light_timeout">Durată iluminare taste</string>
     <string name="button_text_accept">Accept</string>
     <string name="button_text_accept_timer">Acceptați (%d)</string>
+    <string name="button_text_cancel">Renunțați</string>
     <string name="button_text_login">Conectaţi-vă</string>
     <string name="button_text_next_step">Mai departe</string>
     <string name="button_text_next_step_timer">Pasul următor (%d)</string>
+    <string name="button_text_ok">OK</string>
+    <string name="button_text_ok_timer">OK(%d)</string>
     <string name="button_text_reboot_now">Repornire</string>
     <string name="button_text_reject">Renunț</string>
     <string name="cache_header_label">Memorie cache</string>
@@ -797,7 +802,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="credential_storage_type">Tip de stocare</string>
     <string name="credential_storage_type_hardware">Stocare hardware</string>
     <string name="credential_storage_type_software">Stocare software</string>
-    <string name="credentials_configure_lock_screen_hint">Trebuie să setaţi o parolă numerică sau una complexă pentru blocarea ecranului înainte de a putea utiliza spaţiul de stocare a certificatelor.</string>
+    <string name="credentials_configure_lock_screen_hint">Trebuie să setaţi o parolă numerică sau una complexă pentru Blocarea ecranului înainte de a putea utiliza spaţiul de stocare a certificatelor.</string>
     <string name="credentials_enabled">Stocarea acreditărilor este activată.</string>
     <string name="credentials_erased">Stocarea acreditărilor este ştearsă.</string>
     <string name="credentials_install">Instalaţi de pe stocare</string>
@@ -988,6 +993,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="debug_layout_summary">Afişaţi limitele clipului, marginile, etc.</string>
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="debug_view_attributes">Activați vizualizarea atributelor</string>
+    <string name="defalut_launcher_title">Lansator implicit</string>
     <string name="default_date_format">dd/MM/yyyy</string>
     <string name="default_input_method">Selectaţi tastatura prestabilită</string>
     <string name="default_sound">Sunet prestabilit</string>
@@ -1299,6 +1305,9 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="filter_apps_third_party">Descărcate</string>
     <string name="filter_dlg_title">Alegeţi opţiunile de filtrare</string>
     <string name="fingerprint_and_password_entrance_title">Blocare ecran &amp; amprentă</string>
+    <string name="fingerprint_apply_to_privacy_password">Parola de protejare a confidențialității</string>
+    <string name="fingerprint_apply_to_privacy_password_scenarios">Parola de protejare a confidențialității vă protejează mesajele, fotografiile, fișierele, notițele și aplicațiile.</string>
+    <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului înainte de a o utiliza)</string>
     <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>
     <string name="fingerprint_identify_msg">Scanare amprentă…</string>
@@ -1306,6 +1315,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="fingerprint_list_title">Amprentă</string>
     <string name="fingerprint_lock_first">Deblocați Spațiul principal</string>
     <string name="fingerprint_lock_second">Deblocați Spațiul secundar</string>
+    <string name="fingerprint_manage">Gestionați amprentele</string>
     <string name="fingerprint_not_identified_msg">"Nu s-a putut citi amprenta. Introduceți parola"</string>
     <string name="finish_application">Opriţi</string>
     <string name="finish_button_label">Finalizaţi</string>
@@ -1533,6 +1543,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="keyboard_layout_picker_title">Aspecte tastatură</string>
     <string name="keyboard_settings_category">Tastatură şi metode de introducere</string>
     <string name="keyboard_settings_title">Tastatură Android</string>
+    <string name="keyguard_advance_setting_title">Setări avansate</string>
     <string name="keyguard_left_function_chooser_hint_text">Widget-ul din stânga s-a modificat în %s</string>
     <string name="keyguard_left_function_chooser_title">Aplicație</string>
     <string name="keyguard_left_function_title">Stânga</string>
@@ -1576,6 +1587,8 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="last_synced">Ultima sincronizare %1$s</string>
     <string name="last_time_used_label">Utilizat ultima dată</string>
     <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
+    <string name="launcher_auto_fill_empty_title">Completare automată a celulelor goale</string>
+    <string name="launcher_title">Lansator de sistem</string>
     <string name="launching_cit">Lansare CIT</string>
     <string name="launching_pho">Lansare info telefon, aşteptaţi.</string>
     <string name="launching_rep">Raportare…</string>
@@ -1672,6 +1685,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lock_after_timeout">Blocare automată</string>
     <string name="lock_after_timeout_summary">%1$s după inactivitate</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s după inactivitate, exceptând cazul când este menținut activ de %2$s</string>
+    <string name="lock_screen_cells_title">Blocare Celule Ecran</string>
     <string name="lock_screen_notifications_interstitial_message">Cum doriți să fie afișate notificările atunci când dispozitivul este blocat?</string>
     <string name="lock_screen_notifications_summary_disable">"Nu afișa notificările"</string>
     <string name="lock_screen_notifications_summary_hide">Ascunde notificările cu conținut sensibil</string>
@@ -1680,6 +1694,8 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lock_screen_secure_after_timeout_immediately_summary">Se solicită parola imediat</string>
     <string name="lock_screen_secure_after_timeout_summary">Se solicită parola peste %1$s</string>
     <string name="lock_screen_secure_after_timeout_title">Solicitare parolă</string>
+    <string name="lock_screen_signature_summary">Semnătura va fi afișată în Blocarea ecranului</string>
+    <string name="lock_screen_signature_title">Semnătură Blocare ecran</string>
     <string name="lock_screen_unlock_show">Salt peste glisare</string>
     <string name="lock_screen_unlock_show_summary">Accesaţi direct ecranul de pornire sau interfaţa introducerii parolei</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Apăsați pentru a modifica</string>
@@ -1785,6 +1801,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="manage_condition_providers_summary_zero">Nicio aplicație nu este furnizor de condiții</string>
     <string name="manage_device_admin">Administratori dispozitiv</string>
     <string name="manage_device_admin_summary">Afişaţi sau dezactivaţi administratorii dispozitivului</string>
+    <string name="manage_fingerprint_text">Gestionați amprentele</string>
     <string name="manage_mobile_plan_title">Plan de date mobile</string>
     <string name="manage_notification_access_summary_zero">Aplicațiile nu pot citi notificările</string>
     <string name="manage_notification_access_title">Acces la notificări</string>
@@ -1807,6 +1824,9 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
 În prezent sunteţi conectat la următoarele conturi:
 "</string>
     <string name="master_clear_all">"Sunteţi sigur că doriţi să ştergeţi toate datele şi să restabiliţi setările din fabrică? Atenţie: această operație nu poate fi anulată."</string>
+    <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Resetarea la configurarea din fabrică&amp;#8221; va șterge toate datele de pe telefon&lt;/b&gt;, inclusiv fotografiile, melodiile, notițele și alte date personale. Faceți o copie de rezervă pe computer pentru toate datele importante.</string>
+    <string name="master_clear_apply_step_2">Asigurați-vă că toate elementele importante sunt salvate pe computer. Toate datele de pe telefon vor fi șterse în timpul resetării. &lt;b&gt;Nu veți putea recupera elementele pentru care nu aveți o copie de rezervă.&lt;/b&gt;</string>
+    <string name="master_clear_apply_title">Atenție</string>
     <string name="master_clear_button_text">Resetaţi telefonul</string>
     <string name="master_clear_confirm_title">Resetaţi?</string>
     <string name="master_clear_desc">"Această acţiune va şterge toate datele din <b>stocarea internă</b>" a telefonului dvs., inclusiv:
@@ -1913,6 +1933,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="miui_disturb_title">Nu deranjați</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
+    <string name="miui_screen_config_title">Configurare ecran Lansator MIUI</string>
     <string name="miui_silent_title">Mod Silențios</string>
     <string name="mms_breathing_light_color_title">Mesaje</string>
     <string name="mms_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pentru mesaje</string>
@@ -2028,6 +2049,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="networks_title">Rețele mobile</string>
     <string name="never">Niciodată</string>
     <string name="new_backup_pw_prompt">Introduceţi aici o parolă nouă pentru copiile de rezervă complete</string>
+    <string name="new_password_to_new_fingerprint_dialog_msg">Adăugați o amprentă pentru a o utiliza la deblocarea telefonului.</string>
+    <string name="new_password_to_new_fingerprint_dialog_negative_msg">Renunțați</string>
+    <string name="new_password_to_new_fingerprint_dialog_positive_msg">Adăugați</string>
+    <string name="new_password_to_new_fingerprint_dialog_tittle">Adăugați amprenta</string>
     <string name="next_button_label">Următorul</string>
     <string name="next_label">Înainte</string>
     <string name="nfc_category_title">NFC</string>
@@ -2116,7 +2141,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="overlay_display_devices_title">Simulaţi afişaje secundare</string>
     <string name="owner_info_settings_edit_text_hint">Introduceţi textul de afişat pe ecranul de blocare</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_title">Info. proprietar</string>
+    <string name="owner_info_settings_title">Semnătură în Blocarea ecranului</string>
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="page_layout_1">Duminică 16 august</string>
     <string name="page_layout_10">Setări</string>
@@ -2173,6 +2198,8 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
     <string name="password_entrance_title">Blocare ecran</string>
     <string name="password_guard">Blocare</string>
+    <string name="password_turned_off_text">Parola a fost dezactivată</string>
+    <string name="password_turned_on_text">Parola a fost activată</string>
     <string name="path_about_about_settings">Setări/Despre telefon</string>
     <string name="path_accelerometer_settings">Setări/Afișaj/Rotire automată a ecranului</string>
     <string name="path_access_control_settings">Setări/Setări adiționale/Confidențialitate/Setări pentru confidențialitate</string>
@@ -2726,6 +2753,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen">Ecran</string>
     <string name="screen_button">Butoane ecran</string>
     <string name="screen_button_tips">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
+    <string name="screen_cells_config_title">Configurare Celule Ecran</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
     <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Citire"</string>
     <string name="screen_color_temperature">Temperatură</string>
@@ -3014,12 +3042,12 @@ Pentru a utiliza fixarea ecranului:
   <string name="search_xspace">XSpace</string>
     <string name="search_zen_mode_option_miui_silent">Modul Silențios</string>
     <string name="second_space">Spațiul secundar</string>
-    <string name="secure_keyguard_business_title">&gt;Setați metoda de blocare a ecranului</string>
+    <string name="secure_keyguard_business_title">Setați metoda de blocare a ecranului</string>
     <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, dispozitivul nu va utiliza parola de blocare a ecranului pentru criptarea datelor."</string>
     <string name="security_enable_widgets_disabled_summary">Setare dezactivată de administrator</string>
     <string name="security_enable_widgets_title">Activați widgeturi</string>
     <string name="security_encryption_progress_dialog_open">Criptare…</string>
-    <string name="security_encryption_title">Criptați telefonul utilizând parola de blocare a ecranului</string>
+    <string name="security_encryption_title">Criptați telefonul utilizând parola de Blocare a ecranului</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
     <string name="security_password_category_name">Blocare ecran</string>
     <string name="security_passwords_title">Parole</string>
@@ -3095,7 +3123,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="show_hw_screen_updates_summary">Iluminare ecrane din ferestre la desenarea cu GPU</string>
     <string name="show_magnifier_when_input">Afişaţi lupa</string>
     <string name="show_non_rect_clip">Remediați decupări nerectangulare</string>
-    <string name="show_owner_info_on_lockscreen_label">Afişaţi info. proprietar la blocarea ecranului</string>
+    <string name="show_owner_info_on_lockscreen_label">Afişaţi semnătura în Blocarea ecranului</string>
     <string name="show_password">Faceţi parolele vizibile</string>
     <string name="show_profile_info_on_lockscreen_label">Afișați informații profil la blocarea ecranului</string>
     <string name="show_rounded_corners">Afişarea colţurilor rotunjite</string>
@@ -3205,8 +3233,8 @@ Codul PIN poate fi incorect."</string>
     <string name="slot_status_title">Informaţie IMEI</string>
     <string name="small_font">Mică</string>
     <string name="smallwindow_smartcover_title">Husă frontală transparentă</string>
-    <string name="smartcover_lock_or_unlock_screen_tittle">blocare/deblocare ecran cu husă inteligentă</string>
-    <string name="smartcover_sensitive_summary">blocați/deblocați telefonul cu ușurință utilizând o husă inteligentă</string>
+    <string name="smartcover_lock_or_unlock_screen_tittle">Mod husă inteligentă</string>
+    <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
@@ -3489,8 +3517,12 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_status_requires_network">%1$s necesită conexiune la rețea</string>
     <string name="tts_status_title">Starea limbii prestabilite</string>
     <string name="turn_off_common_password_confirm_msg">Modelul de deblocare va fi de asemenea dezactivat.</string>
+    <string name="turn_off_keyguard_password_alert_title">Dezactivați</string>
+    <string name="turn_off_keyguard_password_confirm_msg">Dezactivați parola pentru Blocarea ecranului?</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"Nu veți mai putea debloca telefonul utiizând amprenta după ce veți dezactiva parola pentru Blocarea ecranului"</string>
     <string name="turn_off_radio">Opriţi radioul</string>
     <string name="turn_off_security_lock">Dezactivaţi blocarea</string>
+    <string name="turn_on_keyguard_password">Activați parola pentru Blocarea ecranului</string>
     <string name="turn_on_radio">Porniţi radioul</string>
     <string name="turn_on_security_lock">Selectați metoda de deblocare a ecranului</string>
     <string name="uicc_eject">Demontați stocarea UICC</string>

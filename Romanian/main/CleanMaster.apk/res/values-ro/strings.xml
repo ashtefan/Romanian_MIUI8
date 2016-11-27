@@ -288,7 +288,7 @@
     <string name="msg_update_error_code_unknown_error">Eroare necunoscută</string>
     <string name="name_debuglog_dir">Bsp Debug Log</string>
     <string name="name_optimizer">Politica de confidențialitate</string>
-    <string name="nb_clear_set">Curățați sistemul, vizualizați informații despre acumulator și lista blocărilor în ecranul de notificări</string>
+    <string name="nb_clear_set">Goliți memoria cache, vizualizați informații despre acumulator și lista blocărilor în ecranul de notificări</string>
     <string name="net_assistant_detail">Utilizați %1$s, salvați %2$s</string>
     <string name="net_assistant_title">Utilizați %s în această lună</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>

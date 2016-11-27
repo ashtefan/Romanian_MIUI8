@@ -1192,6 +1192,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="toast_making_personal_copy">Se creează o copie personală…</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
+    <string name="tomorrow">Mâine</string>
     <string name="transfer_accounts">Transferare conturi</string>
     <string name="type_incoming">Apel</string>
     <string name="type_missed">Apel nepreluat</string>
@@ -1279,5 +1280,6 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adăugat la ecranul de pornire</string>
     <string name="yellowpage_search_the_yellowpage">Căutare în Pagini Aurii</string>
     <string name="yellowpage_user_profile">Profil</string>
+    <string name="yesterday">Ieri</string>
     <string name="zero_items_selected">Selectaţi elementele</string>
 </resources>

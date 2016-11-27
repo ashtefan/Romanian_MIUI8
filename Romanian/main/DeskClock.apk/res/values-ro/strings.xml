@@ -83,6 +83,10 @@
     <string name="remind_ringtone">Ton de apel</string>
     <string name="reset">Resetaţi</string>
     <string name="revert">Reveniţi</string>
+    <string name="search_alarm_clock_keywords">Alarmă;Ceas cu alarmă;</string>
+    <string name="search_stopwatch_keywords">Cronometru</string>
+    <string name="search_timer_keywords">Temporizator</string>
+    <string name="search_worldclock_keywords">Timp;Ora pe glob;Ceas</string>
     <string name="set_alarm">Setaţi alarma</string>
     <string name="setting_alarm_arriving_summary">Afișează o notificare înainte de a suna alarma</string>
     <string name="setting_alarm_arriving_title">Notificare înainte de alarmă</string>
