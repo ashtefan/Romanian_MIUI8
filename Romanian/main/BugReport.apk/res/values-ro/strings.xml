@@ -92,6 +92,7 @@
     <string name="feedback_submit_failed_notification_desc">Vedeți detaliile</string>
     <string name="feedback_submit_failed_notification_retry">Trimiteți din nou</string>
     <string name="feedback_submit_failed_notification_title">"Nu s-a putut trimite raportul"</string>
+    <string name="feedback_submit_hint">Raportați orice bug de fiecare dată când intalniți așa ceva, pentru a ne ajuta să le rezolvăm cât mai repede.</string>
     <string name="feedback_submit_hint1">"Vă vom înștiința despre progresul raportului"</string>
     <string name="feedback_submit_hint2">Mergeți la \"Rapoartele mele\" pentru a vedea detaliile</string>
     <string name="feedback_submit_succ">Trimis cu succes</string>
@@ -271,6 +272,7 @@
     <string name="toast_module_required">Selectați elementul</string>
     <string name="toast_network_unavailable">Nu s-a putut trimite raportul. Nu se poate conecta la rețea.</string>
     <string name="toast_pending_log_collection">Colectare jurnale…</string>
+    <string name="toast_post_deleted">"Acest subiect nu există, a fost șters sau editat."</string>
     <string name="toast_problem_class_required">Selectați categoria</string>
     <string name="toast_report_copied_to_clipboard">Raportul a fost copiat în clipboard</string>
     <string name="toast_report_sent_failed">Imposibil de trimis raportul</string>

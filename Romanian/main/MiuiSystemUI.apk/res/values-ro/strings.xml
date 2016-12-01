@@ -132,6 +132,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="long_screenshot_processing">Procesare…</string>
     <string name="long_screenshot_stop">Finalizat</string>
     <string name="long_screenshot_top_msg">Extindere captură de ecran…</string>
+    <string name="long_screenshot_top_msg_manual">Decupați captura de ecran și atingeți butonul pentru a termina</string>
     <string name="managed_profile_foreground_toast">"Utilizați în prezent profilul Serviciu"</string>
     <string name="mdb_entering">Pornire…</string>
     <string name="mdb_restore_cancel">Anulaţi</string>
@@ -194,8 +195,8 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="save_mode_btn_ok">OK</string>
     <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
-    <string name="screen_pinning_description">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsat Înapoi și Privire de ansamblu, simultan, pentru a anula fixarea.</string>
-    <string name="screen_pinning_description_accessible">Se ține la vedere până când anulaţi fixarea. Atingeți Privire de ansamblu pentru a anula fixarea.</string>
+    <string name="screen_pinning_description">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsat Acasă și Pornire, simultan, pentru a anula fixarea.</string>
+    <string name="screen_pinning_description_accessible">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsat Acasă și Pornire, simultan, pentru a anula fixarea.</string>
     <string name="screen_pinning_negative">Nu, mulţumesc</string>
     <string name="screen_pinning_positive">Am înţeles</string>
     <string name="screen_pinning_title">Ecran fixat</string>

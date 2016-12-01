@@ -77,6 +77,7 @@
     <string name="alert_secret_album_enter">Am înțeles</string>
     <string name="alert_secret_album_message">Glisați în jos din partea superioară a paginii Albume pentru a vedea albumul secret.</string>
     <string name="alert_secret_album_title">Vizualizare album secret</string>
+    <string name="all_faces">Toate fotografiile ce conțin persoane</string>
     <string name="all_items_synced">Toate albumele au fost sincronizate în Mi Cloud</string>
     <string name="all_video_album_display_name">Toate videoclipurile</string>
     <string name="already_create_baby_album">Albumul copilului există deja în Mi Cloud.</string>
@@ -171,6 +172,9 @@
     <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
     <string name="confirm_download_video_title">Descărcaţi videoclipul</string>
     <string name="confirm_face">Potrivire</string>
+    <string name="confirm_hidden_recommend_group">OK</string>
+    <string name="confirm_hidden_recommend_group_message">Atunci când recomandările sunt dezactivate, puteți utiliza în continuare opțiunea \"Mai multe persoane care se aseamănă\"</string>
+    <string name="confirm_hidden_recommend_group_title">"Nu arăta recomandări"</string>
     <string name="confirm_merge_face_albums">Îmbinaţi acest album cu %s?</string>
     <string name="confirm_merge_many_face_albums">Îmbinaţi aceste albume cu %s?</string>
     <string name="confirm_not_face">Nicio potrivire</string>
@@ -246,6 +250,8 @@
     <string name="download_without_wifi_title">Avertizare utilizare date</string>
     <string name="edit_baby_info">Vizualizaţi informaţia despre copil</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
+    <string name="empty_recommend_button_view">Înapoi</string>
+    <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
     <string name="enable_auto_upload_tip">Acest album va fi eliminat din  \"Alte albume\" după activare.</string>
     <string name="enable_auto_upload_title">Activați sincronizarea cu Mi Cloud</string>
     <string name="enable_cloud_for_sharing">Activați albumele Mi Cloud pentru a vedea fotografiile partajate.</string>
@@ -284,10 +290,16 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_album_not_named">Fără nume</string>
     <string name="face_album_pending_enable_tip">Fotografiile se vor sorta atunci când există conexiune Wi-Fi</string>
     <string name="face_album_rename_hint">Introduceţi numele</string>
+    <string name="face_album_title">%s</string>
     <string name="face_album_use_tip">Sortați în mod automat fotografiile în funcție de persoanele pe care le conțin.</string>
     <string name="face_albumset_loading_data">Încărcare date…</string>
     <string name="face_choose_tip">Selectaţi dintr-un album existent</string>
+    <string name="face_confirm">Este aceeași persoană</string>
     <string name="face_move_dialog_title">Selectaţi un album</string>
+    <string name="face_name_edit">Editați</string>
+    <string name="face_name_input">Introduceți numele</string>
+    <string name="face_recommend">Recomandări</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operaţiune eşuată"</string>
     <string name="fail_to_pick_email">Adresă de e-mail incorectă</string>
     <string name="fail_to_sync_album">Sincronizarea albumului a eşuat. Verificați conexiunea la rețea şi încercaţi din nou.</string>
@@ -400,6 +412,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="messagelist_sender_self">Eu</string>
     <string name="micloud_introduce">Salvați în mod automat fotografiile și videoclipurile(este necesar un cont Mi)</string>
     <string name="more_album_hint">, etc.</string>
+    <string name="more_face">Mai multe persoane care seamănă</string>
     <string name="more_face_album_name">Mai multe persoane</string>
     <string name="move_to_other_albums_tip">Sincronizarea cu Mi Cloud va fi oprită dacă veți muta acest album în lista Alte albume. Îl mutați acum?</string>
     <string name="must_pick_file">Selectaţi o fotografie</string>
@@ -516,6 +529,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="relation_text_mother">Mamă</string>
     <string name="relation_with_you">Alegeți gradul de rudenie</string>
     <string name="release_space_finish_format">A fost eliberat %s spațiu de stocare intern</string>
+    <string name="remind_face_recommend_confirm">Confirmați</string>
     <string name="remove_from_other_albums_tip">Porniți sincronizarea cu Mi Cloud pentru a muta elemente din Alte albume. Mutați acum?</string>
     <string name="remove_from_secret_fail">"Nu s-a putut elimina din albumul secret"</string>
     <string name="remove_from_secret_failed_with_reason">"Nu se poate elimina din albumul secret. %1$s."</string>
@@ -701,7 +715,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>
     <string name="video_not_exist">"Videoclip inexistent"</string>
-    <string name="view_baby_album">Vizualizaţi Albumul Copilului</string>
     <string name="view_by_gallery_tip">Galerie MIUI</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
     <string name="view_queuing_status">Verificați starea</string>

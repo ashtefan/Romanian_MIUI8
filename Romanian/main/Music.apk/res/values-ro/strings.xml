@@ -497,7 +497,8 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="notification_recommend_title">Notificări importante</string>
     <string name="notification_setting">Setări notificări</string>
     <string name="notification_title_no_song">"Verificați ce se ascultă acum!"</string>
-    <string name="nowplaying_menu_item_delete">Ştergeţi</string>
+    <string name="nowplaying_dialog_title_delete_tracks">Eliminați din lista de redare?</string>
+    <string name="nowplaying_menu_item_delete">Eliminați</string>
     <string name="ok">OK</string>
     <string name="one_month">O lună</string>
     <string name="online_bill">Topuri</string>

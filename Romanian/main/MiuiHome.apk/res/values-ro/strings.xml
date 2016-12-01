@@ -239,7 +239,7 @@
     <string name="status_pending">în aşteptare</string>
     <string name="title_select_live_folder">Selectaţi dosarul</string>
     <string name="title_select_shortcut">Selectaţi comanda rapidă</string>
-    <string name="toast_screen_icons_misplaced">Restaurate dintr-o altă bază de date; unele pictograme pot fi dispuse necorespunzător</string>
+    <string name="toast_screen_icons_misplaced">Restaurate dintr-o altă sursă; unele pictograme pot fi dispuse necorespunzător</string>
     <string name="toggle_select_title">Selectaţi un comutator</string>
     <string name="toggle_title">Comutatoare</string>
     <string name="transformation_type_classic">Glisare cu salt</string>

@@ -3,6 +3,7 @@
     <string name="account_info">Contul meu</string>
     <string name="account_name_not_login">Conectaţi-vă</string>
     <string name="account_unactivated">Contul nu este activat</string>
+    <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="all_resources">Toate</string>
     <string name="app_name">Teme</string>
     <string name="apply_default_font_tip">Păstraţi fontul actual?</string>

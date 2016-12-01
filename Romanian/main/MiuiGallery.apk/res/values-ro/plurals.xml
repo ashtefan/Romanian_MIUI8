@@ -4,9 +4,13 @@
         <item quantity="other">Nu se afişează aceste persoane?</item>
         <item quantity="one">Nu se afişează această persoană?</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s fotografii ale %2$s >></item>
-        <item quantity="one">%1$s fotografie a %2$s >></item>
+    <plurals name="face_count">
+        <item quantity="other">%d fotografii în total</item>
+        <item quantity="one">%d fotografie în total</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d fotografii în total</item>
+        <item quantity="one">%d fotografie în total</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d ani</item>

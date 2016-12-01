@@ -85,6 +85,7 @@
     <string name="autoip_exception_summary">În total %d</string>
     <string name="autoip_exception_summary_more">, %d în total</string>
     <string name="autoip_no_exceptions">Adăugați numere care nu necesită un prefix IP</string>
+    <string name="autoip_phone">Apelare IP automată</string>
     <string name="autoip_prefix">Prefix IP</string>
     <string name="autoip_prefix_summary">Prefixul IP al operatorului este %s</string>
     <string name="autoip_setting">Setările IP automat</string>
@@ -862,6 +863,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
   <string name="path_antispam_setting">Aplicații de sistem/Telefon/Blocklist</string>
     <string name="path_app_name">Aplicații de sistem/Telefon</string>
     <string name="path_auto_answer_pref_title">Aplicații de sistem/Telefon/Răspuns automat</string>
+    <string name="path_auto_retry_mode_title">Aplicații de sistem/Telefon/Setări avansate/Reapelare automată</string>
   <string name="path_autoip">Aplicații de sistem/Telefon/Setări avansate/Auto IP dialing</string>
   <string name="path_call_background_setting_name">Aplicații de sistem/Telefon/Setări avansate/Imagine de fundal apeluri primite</string>
     <string name="path_call_forwarding_settings">Aplicații de sistem/Telefon/Setările pentru redirecționarea apelurilor</string>

@@ -132,6 +132,7 @@
     <string name="forward_to_bind">Adăugați</string>
     <string name="get_device_list_failed">Nu se poate obține lista dispozitivelor</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="guest_account_label">Cont gazdă Mi</string>
     <string name="ignore">Nu acum</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru verificarea contului"</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>

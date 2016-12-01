@@ -49,10 +49,24 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="permission_prompt_started_info">"Ați acordat permisiunea de căutare globală"</string>
     <string name="permission_prompt_title">Doriți mai mult?</string>
     <string name="recent_apps">Aplicații recente</string>
+    <string name="recent_apps_filter">"Ascundeți aplicațiile pe care nu le utilizați"</string>
+    <string name="recent_close_content">"Dezactivați acum această caracteristică?
+Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"</string>
+    <string name="recent_close_title">Dezactivați</string>
+    <string name="recent_delete_content">"Ascundeți acum aceste aplicații?
+Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"</string>
+    <string name="recent_delete_negative">Renunțați</string>
+    <string name="recent_delete_positive">OK</string>
+    <string name="recent_delete_title">Ascundeți aplicații</string>
+    <string name="recent_edit">Editați</string>
+    <string name="recent_edit_done">Terminat</string>
+    <string name="recent_filter_functions">Caracteristici dezactivate</string>
+    <string name="recent_function">Caracteristici</string>
     <string name="recently_shortcut_label">Comenzi rapide recente</string>
     <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutărilor?</string>
     <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
     <string name="search_apps">Căutați aplicații</string>
+    <string name="search_button">Căutați</string>
     <string name="search_group_fold">Ascundeți</string>
     <string name="search_group_unfold">Mai multe</string>
     <string name="search_history">Istoric</string>
@@ -86,6 +100,13 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="switch_setting">Setări</string>
     <string name="system_search_category_title">Telefon</string>
     <string name="top_clicked">Elemente frecvente</string>
+    <string name="update_check">Căutați actualizări</string>
+    <string name="update_right_now">Actualizați</string>
+    <string name="update_title">Actualizare disponibilă</string>
+    <string name="update_version_alpha">Alfa</string>
+    <string name="update_version_dev">Beta</string>
+    <string name="update_version_stable">Stabil</string>
+    <string name="updated_title">MIUI este actualizat</string>
     <string name="voice_search_hint_quotation_end">\"</string>
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_title">Încercaţi să spuneţi:</string>

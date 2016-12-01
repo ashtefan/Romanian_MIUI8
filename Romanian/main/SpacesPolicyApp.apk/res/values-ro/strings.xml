@@ -4,9 +4,14 @@
   <string name="app_name">Secure Spaces Agent</string>
     <string name="choice_no">Nu</string>
     <string name="choice_yes">Da</string>
+    <string name="dialog_download_space_cancel">Renunțați</string>
+    <string name="dialog_download_space_create">OK</string>
+    <string name="dialog_download_space_title">Descărcați Spațiu?</string>
     <string name="dialog_password_expired_button">Actualizați parola</string>
     <string name="dialog_password_expired_message">Parola dumneavoastră fie a expirat fie nu mai este valabilă pentru politica actuală. Vă rugăm să vă actualizați parola.</string>
     <string name="dialog_password_expired_title">Parola a expirat</string>
+    <string name="dialog_space_creating_text">Așteptați, vă rog</string>
+    <string name="dialog_space_creating_title">Se crează Noul Spațiu</string>
     <string name="expiration_status_future">Parola va expira în %1$s</string>
     <string name="expiration_status_past">Parola a expirat acum %1$s</string>
     <string name="label_activity_debug">Politică depanare</string>
@@ -49,5 +54,9 @@
     <string name="sscm_registration_disclaimer">Secure Spaces asigură integritatea și actualizarea Spațiului dumneavoastră. Secure Spaces generează un trafic redus de date. Consultați furnizorul de date pentru a vă informa asupra costurilor generate. Dacă sunteți de acord cu aceste condiții apăsați \"Da\" pentru a subscrie la Secure Space.</string>
     <string name="sscm_registration_summary">Glisați în jos notificările pentru a vedea detaliile</string>
     <string name="title_sscm_registration">Memento serviciu Secure Spaces</string>
+    <string name="toast_space_creation_failed">Nu s-a putut crea spațiul</string>
+    <string name="uri_invalid">URL-ul sau codul QR nu descrie un Spațiu sigur</string>
+  <string name="uri_invalid_server_url">Invalid server URL in registration URI</string>
+  <string name="uri_missing_registration_token">Empty or missing registration token in registration URI</string>
     <string name="wifi">wi-fi</string>
 </resources>

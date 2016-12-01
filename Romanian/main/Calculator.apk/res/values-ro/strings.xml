@@ -138,6 +138,21 @@
     <string name="plusDesc">plus</string>
     <string name="power">^</string>
     <string name="powerDesc">putere</string>
+    <string name="preference_about_calculator">Despre Calculator</string>
+    <string name="preference_alert_follow_wechat">Copiați și lipiți în WeChat pentru a urmări</string>
+    <string name="preference_alert_follow_wechat_button">Copiați</string>
+    <string name="preference_check_update_title">Căutați actualizări</string>
+    <string name="preference_feedback_title">Întrebări frecvente</string>
+    <string name="preference_follow_us">Urmăriți-ne</string>
+    <string name="preference_follow_web_summary">www.miui.com</string>
+    <string name="preference_follow_web_title">Site-ul oficial</string>
+    <string name="preference_follow_wechat_summary">MIUI</string>
+    <string name="preference_follow_wechat_title">WeChat</string>
+    <string name="preference_follow_weibo_summary">\@MIUI</string>
+    <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_settings">Setări</string>
+    <string name="preference_use_degress_summary">Înlocuiți radianii cu unghiuri în funcțiile trigonometrice</string>
+    <string name="preference_use_degress_title">Utilizați unghiuri</string>
     <string name="rate_data_provider">Ratele dobânzilor sunt furnizate de către hexun.com</string>
     <string name="rightParen">)</string>
     <string name="rightParenDesc">paranteză dreapta</string>
@@ -389,5 +404,15 @@
   <string name="word_figure_unit_shi">ridica</string>
   <string name="word_figure_yuan">yuan</string>
   <string name="word_figure_zheng">întreg</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
+    <string name="xiaomi_connect_download_manager_fail">Conectarea la Managerul de Descărcare a eșuat; vă rugăm să verificați starea Managerului de Descărcări în Managerul de Aplicații.</string>
+    <string name="xiaomi_external_storage_unavailable">Mediul de stocare nu este disponibil; verificați cardul SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
+    <string name="xiaomi_update_dialog_message">"Vă prezentăm versiunea %1$s
+Mărime: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Vă prezentăm versiunea %1$s
+Mărimea actualizării Delta: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s actualizare?!</string>
     <string name="year"/>
 </resources>

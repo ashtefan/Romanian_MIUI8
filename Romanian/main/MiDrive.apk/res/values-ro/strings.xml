@@ -118,7 +118,7 @@
     <string name="terabyteShort">TB</string>
     <string name="tools">Unelte</string>
     <string name="trans_mobile_network_message">Utilizarea datelor mobile pentru transferul fișierelor poate genera taxare suplimentară din partea operatorului. Continuați transferul oricum?</string>
-    <string name="trans_task">Transferuri în rețea</string>
+    <string name="trans_task">Sarcini de transfer</string>
     <string name="transing">Trimitere</string>
     <string name="upload_failed">"Nu s-a putut încărca"</string>
     <string name="upload_file_to_midrive">Încărcați fișierul în Mi Drive</string>

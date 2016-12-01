@@ -56,6 +56,10 @@
         <item quantity="other">%d probleme ale acumulatorului</item>
         <item quantity="one">%d problemă la acumulator</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Au fost găsite %d probleme ale acumulatorului; reparați-le</item>
+        <item quantity="one">A fost găsită %d problemă a acumulatorului; reparați-o</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d elemente pot fi optimizate</item>
         <item quantity="one">%d element poate fi optimizat</item>
