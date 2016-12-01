@@ -108,7 +108,6 @@
     <string name="navigation_network_location_not_enabled_title">Vă rugăm să activați serviciile de localizare</string>
     <string name="navigation_search_automatically_positioned_city">Obțineți informații despre oraș utilizând locația curentă</string>
     <string name="navigation_search_current_city">Orașul actual:</string>
-    <string name="navigation_search_default_hint">Căutați elementele aici</string>
     <string name="navigation_search_no_city_list">Niciun oraș aici</string>
     <string name="navigation_search_positioning">Obținere localizare…</string>
     <string name="navigation_search_positioning_failed">"Nu s-a putut obține locația, puteți selecta manual orașul"</string>
