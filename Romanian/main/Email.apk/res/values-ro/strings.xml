@@ -763,7 +763,6 @@ Actualizaţi acum?"</string>
     <string name="quick_reply_hint_bcc">(În BCC)</string>
     <string name="quick_reply_hint_cc">(În CC)</string>
     <string name="quick_reply_hint_reply_only_from">Răspuns rapid (doar către expeditor)</string>
-  <string name="quick_reply_pattern">* Aprobarea * |. * Aprobarea * |. * Aplicație * |. * * Declarație |. .. * * Recomandări |. * * Cerere..</string>
     <string name="quick_responses_empty_view">Niciun răspuns rapid</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- Mesaj original --------</string>
