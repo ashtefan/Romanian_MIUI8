@@ -217,6 +217,9 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_ops_running">Rulează</string>
     <string name="app_ops_settings">Operații ale aplicației</string>
     <string name="app_ops_settings_summary">Vizualizați sau modificați permisiunile aplicației</string>
+    <string name="app_permissions">Permisiuni aplicație</string>
+    <string name="app_permissions_group_summary" formatted="false">%d din %d aplicații au această permisiune</string>
+    <string name="app_permissions_summary" formatted="false">%d din %d aplicații cu acces suplimentar</string>
     <string name="app_process_limit_title">Limita proces. de fundal</string>
     <string name="app_restrictions_custom_label">Setați restricțiile aplicației</string>
     <string name="app_sees_restricted_accounts">Această aplicație poate accesa conturile dvs.</string>
@@ -2311,20 +2314,23 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="path_wifi_tether_settings">Setări/Hotspot personal</string>
     <string name="path_wifi_wapi_cert_install">Setări/Wi-Fi/Setări avansate/Instalați certificat WAPI</string>
     <string name="path_wifi_wapi_cert_uninstall">Setări/Wi-Fi/Setări avansate/Dezinstalați certificat WAPI</string>
-  <string name="path_wps_connect_title">Setări/Wi-Fi/Setări avansate/Conectare WPS</string>
+    <string name="path_wps_connect_title">Setări/Wi-Fi/Setări avansate/Conectare WPS</string>
     <string name="path_xiaomi_account">Setări/Contul Mi</string>
-  <string name="path_xiaomi_cloud_service">Aplicații</string>
-  <string name="path_xiaomi_money_service">Aplicații</string>
-  <string name="path_xspace">Setări/Aplicații clonate</string>
+    <string name="path_xiaomi_cloud_service">Aplicații</string>
+    <string name="path_xiaomi_money_service">Aplicații</string>
+    <string name="path_xspace">Setări/Aplicații clonate</string>
     <string name="path_zen_mode_option_miui_silent">Setări/Sunet și vibrare/Modul Silențios</string>
     <string name="performance_category">Performanţă</string>
     <string name="permission_detail_info">Detalii permisiuni</string>
     <string name="permission_detail_info_summary">Securitate: %1$d | Confidenţialitate: %2$d | Altele: %3$d</string>
     <string name="permission_manage">Gestionare permisiuni</string>
+    <string name="permission_manage_global_build_title">Alte permisiuni</string>
     <string name="permission_manage_summary">Gestionați opțiunile de securitate și permisiunile</string>
     <string name="permission_manage_title">Permisiuni pentru %s</string>
     <string name="permission_manager">Permisiuni</string>
     <string name="permission_mgr">Permisiuni</string>
+    <string name="permission_settings_summary">Gestionați permisiunile legate de localizare, stocare, telefon, mesaje și contacte.</string>
+    <string name="permission_settings_title">Permisiuni aplicaţie</string>
     <string name="permissions_label">Permisiuni</string>
     <string name="personal_data_section_title">Date personale</string>
     <string name="personal_device_admin_title">Personal</string>
