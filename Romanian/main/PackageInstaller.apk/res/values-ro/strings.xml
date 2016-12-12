@@ -2,6 +2,24 @@
 <resources>
     <string name="Parse_error_dlg_text">A apărut o problemă la analizarea pachetului</string>
     <string name="Parse_error_dlg_title">Erori de analizare</string>
+    <string name="abc_action_bar_home_description">Navigare acasă</string>
+    <string name="abc_action_bar_up_description">Navigare în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opţiuni</string>
+    <string name="abc_action_mode_done">Finalizat</string>
+    <string name="abc_activity_chooser_view_see_all">Vizualizaţi tot</string>
+    <string name="abc_activitychooserview_choose_application">Selectaţi o aplicaţie</string>
+    <string name="abc_search_hint">Căutare…</string>
+    <string name="abc_searchview_description_clear">Ştergere interogare</string>
+    <string name="abc_searchview_description_query">Interogare căutare</string>
+    <string name="abc_searchview_description_search">Căutare</string>
+    <string name="abc_searchview_description_submit">Trimitere interogare</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Partajaţi cu</string>
+    <string name="abc_shareactionprovider_share_with_application">Partajaţi cu %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângere</string>
+    <string name="additional_permissions">Permisiuni adiţionale</string>
+    <string name="allPerms">Toate</string>
+    <string name="all_permissions">Toate permisiunile</string>
     <string name="activity_package_delete_confirm_title">Avertizare importantă</string>
     <string name="allow_source_dlg_text">"%1$s doreşte să instaleze alte aplicaţii.
 
@@ -10,6 +28,9 @@ Permiteţi întotdeauna această acțiune?"</string>
     <string name="app_name">Program de instalare a pachetelor</string>
     <string name="app_not_found_dlg_text">Aplicaţia nu a fost găsită în lista de aplicaţii instalate</string>
     <string name="app_not_found_dlg_title">Aplicaţia nu a fost găsită</string>
+    <string name="app_permissions">Permisiuni aplicaţii</string>
+    <string name="app_permissions_breadcrumb">Aplicaţii</string>
+    <string name="app_permissions_group_summary">%1$d din %2$d aplicaţii permise</string>
     <string name="app_store_install_hint">Instalaţi acum</string>
     <string name="app_store_installing_message">Instalare…</string>
     <string name="app_store_missing_message">Se pare că nu ați instalat Magazinul nostru oficial al aplicaţiilor. Instalați acum?</string>
@@ -28,6 +49,9 @@ Permiteţi întotdeauna această acțiune?"</string>
     <string name="button_text_next_step_timer">Înainte (%d)</string>
     <string name="caller_app">Solicitare de la: %1$s</string>
     <string name="cancel">Anulaţi</string>
+    <string name="current_permission_template">%1$s din %2$s</string>
+    <string name="default_permission_description">efectuează o acțiune necunoscută</string>
+    <string name="devicePerms">Acces la dispozitiv</string>
     <string name="dlg_app_replacement_statement">"Aplicaţia pe care o instalaţi va înlocui o aplicaţie existentă.
  Toate datele de utilizator vor fi păstrate."</string>
     <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) va înlocui versiunea instalată (%3$s). Datele de utilizator vor fi păstrate.</string>
@@ -38,6 +62,9 @@ Permiteţi întotdeauna această acțiune?"</string>
 
 Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="done">Finalizaţi</string>
+    <string name="grant_confirm_question">Doriți să acordați următoarele permisiuni? Utilizatorul va avea acces la:</string>
+    <string name="grant_dialog_button_allow">Permiteţi</string>
+    <string name="grant_dialog_button_deny">Refuzaţi</string>
     <string name="high_risk_perms">Permisiuni cu risc sporit</string>
     <string name="install">Instalaţi</string>
     <string name="install_confirm_question">Instalaţi această aplicaţie?</string>
@@ -57,16 +84,30 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="launch">Deschideţi</string>
     <string name="lift_ban">Dezactivaţi interdicţia</string>
     <string name="lift_ban_once">Permiteți o dată</string>
+    <string name="loading">Încărcare…</string>
+    <string name="location_settings">Setări privind locația</string>
+    <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la locație poate fi modificat din setările privind locația.</string>
     <string name="low_risk_perms">Permisiuni cu risc scăzut</string>
     <string name="manage_applications">Gestionaţi aplicaţiile</string>
     <string name="manage_device_administrators">Gestionaţi administratorii de dispozitive</string>
+    <string name="menu_hide_system">Ascundere sistem</string>
+    <string name="menu_show_system">Afişare sistem</string>
     <string name="message_appstore_verify_has_new_version">O nouă versiune a aplicației este disponibilă în Magazinul de Aplicații. Doriți să o instalați?</string>
     <string name="message_appstore_verify_inconsistent">"Semnătura aplicației este diferită de cea din Magazinul de Aplicații; este mai sigur să instalați aplicația din Magazinul de Aplicații."</string>
     <string name="message_appstore_verify_ok">Versiunea aplicației în Magazinul de Aplicații a trecut testele de securitate; vă recomandăm să instalați aplicația de acolo.</string>
     <string name="message_full_scanning">Scanare completă…</string>
     <string name="message_install_in_market">Vă recomandăm să instalați aplicația din Magazinul de Aplicații</string>
     <string name="message_quick_scanning">Scanare rapidă…</string>
+    <string name="never_ask_again">Nu mai întreba</string>
+    <string name="newPerms">Noi</string>
+    <string name="next">Înainte</string>
+    <string name="no_apps">Nicio aplicaţie</string>
+    <string name="no_new_perms">Această actualizare nu necesită permisiuni noi.</string>
+    <string name="no_permissions">Fără permisiuni</string>
     <string name="ok">OK</string>
+    <string name="old_sdk_deny_warning">Această aplicație a fost creată pentru o versiune Android mai veche. Dacă nu acordați permisiunea, este posibil ca aceasta să nu mai funcționeze corespunzător.</string>
+    <string name="orb_search_action">Acţiune căutare</string>
+    <string name="other_permissions">Alte funcții ale aplicației</string>
     <string name="other_relative">Alte permisiuni</string>
     <string name="out_of_space_dlg_text">Imposibil de instalat %1$s: spaţiu insuficient.</string>
     <string name="out_of_space_dlg_title">Spaţiu insuficient</string>
@@ -84,6 +125,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="perm_privacy_app_trust_summary">MIUI va monitoriza această aplicaţie</string>
     <string name="perm_sysopt_boost_auto_start">Permisiune pornire automată</string>
     <string name="perm_sysopt_boost_auto_start_summary">Această aplicaţie va porni automat</string>
+    <string name="permdesc_togglePermissions">Permite proprietarului să lanseze interfața pentru comutarea permisiunilor aplicațiilor. Nu ar trebui să fie necesară pentru aplicațiile obișnuite.</string>
     <string name="permission_action_accept">Acceptaţi</string>
     <string name="permission_action_prompt">Întreabă</string>
     <string name="permission_action_reject">Refuzaţi</string>
@@ -92,13 +134,24 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="permission_group_title_others">Altele</string>
     <string name="permission_group_title_privacy_related">Confidenţialitate</string>
     <string name="permission_group_title_settings_related">Setări</string>
+    <string name="permission_request_title">Solicitare de permisiune</string>
+    <string name="permission_summary_enforced_by_policy">Aplicată conform politicii</string>
+    <string name="permission_title">Permisiuni pentru %1$s</string>
+    <string name="permission_warning_template">Permiteți  %1$s să %2$s?</string>
     <string name="permission_send_sms_descx">Aplicaţia poate trimite SMS-uri şi MMS-uri</string>
+    <string name="permlab_togglePermissions">comutare permisiuni</string>
+    <string name="privacyPerms">Confidențialitate</string>
     <string name="privacy_relative">Permisiuni relativ periculoase</string>
     <string name="reboot_time">Pregătire pentru repornire… (%1$s)</string>
     <string name="safe_guard_support">Suport tehnic oferit de %1$s</string>
     <string name="safe_relative">Permisiuni relativ sigure</string>
     <string name="security_settings_desc">Permiteţi acestei aplicaţii să:</string>
+    <string name="screen_overlay_button">Deschideți setările</string>
+    <string name="screen_overlay_message">Ca să schimbați această setare pentru permisiuni, mai întâi trebuie să dezactivați suprapunerea pe ecran din Setări &gt; Aplicații</string>
+    <string name="screen_overlay_title">S-a detectat suprapunerea pe ecran</string>
+    <string name="security_settings_desc">Permiteți acestei aplicații să:</string>
     <string name="settings">Setări</string>
+    <string name="system_warning">Dacă refuzați această permisiune, este posibil ca funcțiile de bază ale dispozitivului să nu mai funcționeze corespunzător.</string>
     <string name="trust_switch_dialog_msg">MIUI nu va cere confirmarea dvs. pt. operaţiunile legate de securitate şi confidențialitate efectuate de către această aplicaţie.</string>
     <string name="uninstall_activity_text">" %1$s face parte din următoarea aplicaţie: "</string>
     <string name="uninstall_application_text">Această aplicaţie va fi dezinstalată</string>
@@ -113,7 +166,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_update_title">Dezinstalaţi actualizarea</string>
     <string name="uninstalling">Se dezinstalează…</string>
     <string name="unknown">Necunoscut</string>
-    <string name="unknown_apps_dlg_text">Telefonul dvs. și datele cu caracter personal sunt mai vulnerabile la atacuri de la aplicații provenite din surse necunoscute. Sunteți singurul responsabil pentru orice daune aduse dispozitivului sau pentru pierderea de date ca rezultat al utilizării acestor aplicații. Puteți dezactiva această notificare în Setări.</string>
+    <string name="unknown_apps_admin_dlg_text">Administratorul nu permite instalarea aplicațiilor obținute din surse necunoscute.</string>
+    <string name="unknown_apps_dlg_text">Pentru securitate, telefonul blochează instalarea aplicațiilor obținute din surse necunoscute.</string>
     <string name="unknown_apps_dlg_text1">"Telefonul dumneavoastră este setat să blocheze instalarea aplicațiilor provenite din surse necunoscute. Puteți dezactiva această caracteristică în "</string>
     <string name="unknown_apps_dlg_text2">\"Setări\"</string>
     <string name="unknown_apps_dlg_text3">.</string>
@@ -124,5 +178,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="virus_scan_install"><u>Instalaţi oricum</u></string>
     <string name="virus_scan_is_risk">Această aplicație reprezintă un risc pentru securitatea dispozitivului.</string>
     <string name="virus_scan_is_virus">Această aplicație conține un virus.</string>
+    <string name="v7_preference_off">OPRIT</string>
+    <string name="v7_preference_on">PORNIT</string>
     <string name="waiting_tip">Acest lucru poate dura, dar merită</string>
 </resources>
