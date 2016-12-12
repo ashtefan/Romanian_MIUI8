@@ -1555,6 +1555,8 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="upload_file">Alegeţi un fişier</string>
      <string name="usb_accessory_notification_title">Conectat la un accesoriu USB</string>
      <string name="usb_cd_installer_notification_title">Conectat ca program de instalare</string>
+     <string name="usb_midi_peripheral_manufacturer_name">Android</string>
+     <string name="usb_midi_peripheral_product_name">Port USB periferic</string>
      <string name="usb_mtp_notification_title">Conectat ca dispozitiv media</string>
      <string name="usb_notification_message">Atingeţi pentru alte opţiuni USB.</string>
      <string name="usb_ptp_notification_title">Conectat ca aparat foto</string>
