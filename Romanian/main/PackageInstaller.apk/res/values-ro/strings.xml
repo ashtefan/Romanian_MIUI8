@@ -149,7 +149,6 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="screen_overlay_button">Deschideți setările</string>
     <string name="screen_overlay_message">Ca să schimbați această setare pentru permisiuni, mai întâi trebuie să dezactivați suprapunerea pe ecran din Setări &gt; Aplicații</string>
     <string name="screen_overlay_title">S-a detectat suprapunerea pe ecran</string>
-    <string name="security_settings_desc">Permiteți acestei aplicații să:</string>
     <string name="settings">Setări</string>
     <string name="system_warning">Dacă refuzați această permisiune, este posibil ca funcțiile de bază ale dispozitivului să nu mai funcționeze corespunzător.</string>
     <string name="trust_switch_dialog_msg">MIUI nu va cere confirmarea dvs. pt. operaţiunile legate de securitate şi confidențialitate efectuate de către această aplicaţie.</string>
