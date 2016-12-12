@@ -90,8 +90,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="low_risk_perms">Permisiuni cu risc scăzut</string>
     <string name="manage_applications">Gestionaţi aplicaţiile</string>
     <string name="manage_device_administrators">Gestionaţi administratorii de dispozitive</string>
-    <string name="menu_hide_system">Ascundere sistem</string>
-    <string name="menu_show_system">Afişare sistem</string>
+    <string name="menu_hide_system">Ascundeți aplicațiile de sistem</string>
+    <string name="menu_show_system">Afișați aplicațiile de sistem</string>
     <string name="message_appstore_verify_has_new_version">O nouă versiune a aplicației este disponibilă în Magazinul de Aplicații. Doriți să o instalați?</string>
     <string name="message_appstore_verify_inconsistent">"Semnătura aplicației este diferită de cea din Magazinul de Aplicații; este mai sigur să instalați aplicația din Magazinul de Aplicații."</string>
     <string name="message_appstore_verify_ok">Versiunea aplicației în Magazinul de Aplicații a trecut testele de securitate; vă recomandăm să instalați aplicația de acolo.</string>
