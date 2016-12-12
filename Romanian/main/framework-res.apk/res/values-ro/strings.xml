@@ -1030,11 +1030,14 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permgrouplab_accounts">Conturile dvs.</string>
      <string name="permgrouplab_affectsBattery">Capacitatea de a afecta bateria</string>
      <string name="permgrouplab_appInfo">Informaţiile despre aplicaţiile dvs.</string>
-     <string name="permgrouplab_audioSettings">Setările audio</string>
+     <string name="permgrouplab_audioSettings">Setări audio</string>
      <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
-     <string name="permgrouplab_bookmarks">Marcajele şi Istoricul</string>
-     <string name="permgrouplab_calendar">Calendarul</string>
-     <string name="permgrouplab_camera">Camera foto</string>
+     <string name="permgrouplab_bookmarks">Marcaje şi istoric</string>
+     <string name="permgrouplab_calendar">Calendar</string>
+     <string name="permgrouplab_camera">Cameră foto</string>
+     <string name="permgrouplab_contacts">Contacte</string>
+     <string name="permgrouplab_phone">Telefon</string>
+     <string name="permgrouplab_sensors">Senzori corporali</string>
      <string name="permgrouplab_costMoney">Servicii cu plată</string>
      <string name="permgrouplab_developmentTools">Instrumente de dezvoltare</string>
      <string name="permgrouplab_deviceAlarms">Alarmă</string>
@@ -1043,7 +1046,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permgrouplab_hardwareControls">Controale hardware</string>
      <string name="permgrouplab_location">Locaţia dvs.</string>
      <string name="permgrouplab_messages">Mesajele dvs.</string>
-     <string name="permgrouplab_microphone">Microfonul</string>
+     <string name="permgrouplab_microphone">Microfon</string>
      <string name="permgrouplab_network">Comunicare în reţea</string>
      <string name="permgrouplab_personalInfo">Informaţiile dvs. personale</string>
      <string name="permgrouplab_phoneCalls">Apeluri telefonice</string>
@@ -1052,7 +1055,7 @@ Contactaţi furnizorul de servicii pentru a obţine o altă cartelă SIM."</stri
      <string name="permgrouplab_statusBar">Bara de stare</string>
      <string name="permgrouplab_storage">Stocare</string>
      <string name="permgrouplab_syncSettings">Setările de sincronizare</string>
-     <string name="permgrouplab_systemClock">Ceasul</string>
+     <string name="permgrouplab_systemClock">Ceas</string>
      <string name="permgrouplab_systemTools">Instrumente de sistem</string>
      <string name="permgrouplab_voicemail">Mesageria vocală</string>
      <string name="permgrouplab_wallpaper">Imaginea de fundal</string>
