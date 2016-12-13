@@ -3683,6 +3683,11 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="usb_tethering_turnon_subtext">Conectați-vă pentru activare</string>
     <string name="usb_tethering_unavailable_subtext">USB neconectat</string>
     <string name="usb_title">USB</string>
+    <string name="usb_use">Folosiți conexiunea USB ca să</string>
+    <string name="usb_use_MIDI">Folosiți dispozitivul ca MIDI</string>
+    <string name="usb_use_charging_only">Încărcați acest dispozitiv</string>
+    <string name="usb_use_file_transfers">Transferați fișiere</string>
+    <string name="usb_use_photo_transfers">Transferați fotografii (PTP)</string>
     <string name="usb_unmount_inform_text">Stocarea USB va fi demontată.</string>
     <string name="use_default_tts_settings_summary">Setările prestabilite de mai jos înlocuiesc setările aplicaţiei</string>
     <string name="use_default_tts_settings_title">Doresc să se utilizeze întotdeauna setările mele</string>
