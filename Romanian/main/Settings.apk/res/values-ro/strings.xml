@@ -403,6 +403,16 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="biometric_weak_improve_matching_title">Îmbunătăţiţi potrivirea feţei</string>
     <string name="biometric_weak_liveliness_summary">Se solicită clipirea la deblocare</string>
     <string name="biometric_weak_liveliness_title">Verificare mișcare</string>
+    <string name="block_list_connected_devices">Dispozitive conectate</string>
+    <string name="block_list_diaglog_cancle">Renunțați</string>
+    <string name="block_list_diaglog_ok">OK</string>
+    <string name="block_list_dialog_content">Această acțiune va deconecta “%s” de la acest telefon și îl va adăuga în lista blocărilor</string>
+    <string name="block_list_dialog_title">Îl deconectați acum?</string>
+    <string name="block_list_no_device">Niciun dispozitiv conectat în lista blocărilor</string>
+    <string name="block_list_remove_dialog_content">Acest dispozitiv “%s” se va putea conecta la acest hotspot</string>
+    <string name="block_list_remove_dialog_title">Eliminați “%s” din lista blocărilor</string>
+    <string name="block_list_summary">Vizualizați dispozitivele care nu se au permisiunea de a se conecta la acest hotspot</string>
+    <string name="block_list_title">Lista blocărilor</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectat la profilul pentru conţinut media audio</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Utilizaţi pentru profilul pentru conţinut media audio</string>
@@ -3440,6 +3450,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="testing_wifi_info">Informaţii Wi-Fi</string>
     <string name="tether_and_hotspot_title">Tethering și hotspot</string>
     <string name="tether_devices_management_title">Gestionați dispozitivele</string>
+    <string name="tether_devices_max_number">Limita dispozitivelor conectate</string>
     <string name="tether_settings_disabled">Hotspot-ul personal este oprit</string>
     <string name="tether_settings_title_all">Tethering şi hotspot portabil</string>
     <string name="tether_settings_title_bluetooth">Tethering prin Bluetooth</string>

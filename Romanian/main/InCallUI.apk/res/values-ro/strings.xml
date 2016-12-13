@@ -133,6 +133,7 @@
     <string name="incall_call_type_label_sip">Apel prin internet</string>
     <string name="incall_error_supp_service_conference">Teleconferinţa nu se poate efectua.</string>
     <string name="incall_error_supp_service_hangup">Apelul nu poate fi încheiat.</string>
+    <string name="incall_error_supp_service_hold">"Apelul nu a putut fi pus în așteptare."</string>
     <string name="incall_error_supp_service_reject">Apelul nu poate fi respins.</string>
     <string name="incall_error_supp_service_separate">Apelul nu poate fi separat.</string>
     <string name="incall_error_supp_service_switch">Apelurile nu pot fi comutate.</string>

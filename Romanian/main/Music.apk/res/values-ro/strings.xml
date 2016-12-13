@@ -26,7 +26,7 @@
     <string name="ad_mark">Reclame</string>
     <string name="add_music">Adăugaţi melodii</string>
     <string name="add_to_last_of_playlist">Adaugă la sfârșitul listei de redare</string>
-    <string name="alaka_required">"Această melodie nu este disponibilă."</string>
+    <string name="alaka_required">Ar trebui să plătiți pentru a asculta această melodie</string>
     <string name="album_name">Album</string>
     <string name="album_search_title">Album</string>
     <string name="all_artist">Toţi artiştii</string>

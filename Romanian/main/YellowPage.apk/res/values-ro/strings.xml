@@ -114,6 +114,7 @@
     <string name="express_inquiry_delete_warning_multiple">Ștergeți %d intrări?</string>
     <string name="express_inquiry_delete_warning_single">Ștergeți această înregistrare?</string>
     <string name="express_inquiry_delivered">Expediat</string>
+    <string name="express_inquiry_detail">Detalii livrare express</string>
     <string name="express_inquiry_edit_logistics">Curier</string>
     <string name="express_inquiry_history">Istoric</string>
     <string name="express_inquiry_history_remark">Comentarii</string>
@@ -187,6 +188,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_shortcut_name">Solicită sau trimite express</string>
     <string name="express_show_all_inquiry_history">Arată istoricul solicitărilor</string>
     <string name="express_submit_order">Trimite</string>
+  <string name="express_tail_number">număr de ordine</string>
     <string name="express_track_order">Urmărește</string>
     <string name="express_tracking_number">Număr de urmărire</string>
   <string name="express_urge_order">Ping</string>

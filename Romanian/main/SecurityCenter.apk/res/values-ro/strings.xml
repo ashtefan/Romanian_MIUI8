@@ -912,6 +912,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="path_securitycenter">Aplicații de sistem/Securitate</string>
     <string name="path_securitycenter_settings">Aplicații de sistem/Securitate</string>
     <string name="pay_charge">Achiziţionaţi date suplimentare</string>
+    <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>

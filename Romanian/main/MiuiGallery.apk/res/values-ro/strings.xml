@@ -250,7 +250,7 @@
     <string name="download_without_wifi_title">Avertizare utilizare date</string>
     <string name="edit_baby_info">Vizualizaţi informaţia despre copil</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
-    <string name="empty_recommend_button_view">Înapoi</string>
+    <string name="empty_recommend_back">Înapoi</string>
     <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
     <string name="enable_auto_upload_tip">Acest album va fi eliminat din  \"Alte albume\" după activare.</string>
     <string name="enable_auto_upload_title">Activați sincronizarea cu Mi Cloud</string>

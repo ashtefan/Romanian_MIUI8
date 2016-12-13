@@ -149,6 +149,7 @@
     <string name="invalid_contact_shortcut">Contact greşit</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
+    <string name="launcher_not_exist">Launcherul s-a oprit; reveniți Acasă și încercați din nou.</string>
     <string name="like">Îmi place</string>
     <string name="liked">Favorită</string>
     <string name="loading_desktop">Doar o secundă…</string>

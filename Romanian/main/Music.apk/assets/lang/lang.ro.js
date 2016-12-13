@@ -25,7 +25,7 @@
     "ad_mark":"Reclame",
     "add_music":"Adăugaţi melodii",
     "add_to_last_of_playlist":"Adaugă la sfârșitul listei de redare",
-    "alaka_required":"Această melodie nu este disponibilă.",
+    "alaka_required":"Ar trebui să plătiți pentru a asculta această melodie" ,
     "album_name":"Album",
     "album_search_title":"Album",
     "all_artist":"Toţi artiştii",
