@@ -589,7 +589,7 @@ Motivul: „%s”"</string>
     <string name="local_search_label">Toată Agenda</string>
     <string name="locale_change_in_progress">Se actualizează lista contactelor din agendă pentru a reflecta schimbarea limbii.</string>
     <string name="login_ok">Conectare</string>
-    <string name="low_memory_toast">"Nu se mai poate continua utilizarea întrucât nu mai există spațiu de stocare."</string>
+    <string name="low_memory_toast">"Nu se poate utiliza această caracteristică datorită memoriei insuficiente."</string>
     <string name="lunarBirthdayLabelsGroup">Zi de naştere lunară</string>
     <string name="lunar_calendar">Calendar lunar</string>
     <string name="lunar_leap">Salt la lună</string>
@@ -1259,7 +1259,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="wipe_data">Ştergeţi datele</string>
     <string name="yellowPageNavigationIconLabel">Registru</string>
     <string name="yellowPageNavigationLabel">Registru</string>
-    <string name="yellowpage_fc_toast">"Nu se poate continua întrucât aplicația Pagini Aurii nu mai funcționează."</string>
+    <string name="yellowpage_fc_toast">"Nu se poate utiliza această caracteristică deoarece aplicația Pagini Aurii nu mai funcționează."</string>
     <string name="yellowpage_navigation_ad_hint">Reclamă</string>
     <string name="yellowpage_navigation_balance_refresh_failed">"Nu s-au putut verifica balanța și datele mobile; încercați din nou."</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">Balanța și datele mobile au fost verificate</string>

@@ -629,7 +629,8 @@
      </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Niciuna</item>
-        <item>Fotografiere rapidă(trebuie selectat modul din aplicația Cameră)</item>
+        <item>Mod captură rapidă(fotografie)</item>
+        <item>Mod captură rapidă(videoclip)</item>
         <item>Scurtături transport public</item>
     </string-array>
     <string-array name="button_light_timeout_entries">

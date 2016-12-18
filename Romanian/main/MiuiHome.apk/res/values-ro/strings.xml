@@ -43,10 +43,10 @@
     <string name="cant_remove_retained_app">"Nu a putut fi eliminată această aplicație"</string>
     <string name="cant_remove_system_app">"Nu se poate elimina o aplicație de sistem"</string>
     <string name="change_wallpaper">Modificați</string>
-    <string name="children_folder_title">Copii</string>
+    <string name="children_folder_title">Mod Copii</string>
     <string name="children_mode_exit">Ieşire</string>
-    <string name="children_mode_tips_message">Nu există nicio aplicație în Modul Copil. Selectați aplicația, vă rog.</string>
-    <string name="children_mode_tips_title">Selectați aplicația</string>
+    <string name="children_mode_tips_message">Nu există nicio aplicație în Modul Copii. Selectați aplicațiile pe care doriți să le adăugați.</string>
+    <string name="children_mode_tips_title">Selectați aplicațiile</string>
     <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
     <string name="cloud_app_restore_title">În așteptare</string>
@@ -149,7 +149,7 @@
     <string name="invalid_contact_shortcut">Contact greşit</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
-    <string name="launcher_not_exist">Launcherul s-a oprit; reveniți Acasă și încercați din nou.</string>
+    <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
     <string name="like">Îmi place</string>
     <string name="liked">Favorită</string>
     <string name="loading_desktop">Doar o secundă…</string>
@@ -217,6 +217,7 @@
     <string name="recommend_apps_switch_title">Aplicaţii promovate</string>
     <string name="recommend_apps_tips">"Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar."</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>
+    <string name="screen_locked_toast">Dispunerea ecranului principal este blocată</string>
     <string name="screen_number">Ecranul %d</string>
     <string name="scroll_tip_format_when_announce_accessibility">pagina %1$d, %2$d aplicaţii</string>
     <string name="select_all">Selectaţi tot</string>

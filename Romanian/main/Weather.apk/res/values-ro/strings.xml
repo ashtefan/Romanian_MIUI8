@@ -28,8 +28,8 @@
     <string name="ads_install_num"/>
     <string name="ads_score_title"/>
     <string name="alert_warning">Avertizări meteo</string>
-    <string name="already_voted">A fost votat</string>
-    <string name="already_voted_toast">Ați selectat deja astăzi</string>
+    <string name="already_voted">Votat</string>
+    <string name="already_voted_toast">"Ați votat deja astăzi"</string>
     <string name="app_name">Meteo</string>
     <string name="aqi_data_source">Oferit de Caiyun Weather</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
@@ -130,8 +130,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
     <string name="no_data">--</string>
     <string name="no_network_btn">Reîncercați</string>
-    <string name="no_vote_num">%1$spersoane | </string>
-  <string name="no_vote_ratio">contra %1$s%%</string>
+    <string name="no_vote_num">%1$s persoane | </string>
+    <string name="no_vote_ratio">Contra %1$s%%</string>
     <string name="open">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
     <string name="pressure_connect">%1$s mb</string>
@@ -193,6 +193,6 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="weather_alert">Atenționări meteo</string>
     <string name="wind_miles_unit">%1$s mph</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="yes_vote_num"> | %1$spersoane</string>
-    <string name="yes_vote_ratio">pro %1$s%%</string>
+    <string name="yes_vote_num"> | %1$s persoane</string>
+    <string name="yes_vote_ratio">Pro %1$s%%</string>
 </resources>

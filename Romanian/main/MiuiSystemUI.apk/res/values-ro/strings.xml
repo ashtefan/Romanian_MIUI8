@@ -93,6 +93,9 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="disable_notification_summary">Se ascund notificările aplicaţiilor selectate</string>
     <string name="disable_notification_title">Ascundere notificări</string>
     <string name="dismount_storage">Nu</string>
+    <string name="divider_menu_close">Închideți</string>
+    <string name="divider_menu_select_apps">Selectați</string>
+    <string name="divider_menu_swap_task">Comutați</string>
     <string name="dlg_confirm_kill_storage_users_text">Dacă activaţi stocarea USB, unele aplicaţii pe care le utilizaţi se vor opri şi pot fi inaccesibile până când nu veţi dezactiva stocarea USB.</string>
     <string name="dlg_confirm_kill_storage_users_title">Activaţi stocarea USB</string>
     <string name="dlg_error_title">Operaţiune USB nereuşită</string>
@@ -151,8 +154,10 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="nav_guide_ok">Setați</string>
     <string name="nav_guide_title">Ascundeți butoanele de pe ecran</string>
     <string name="network_speed_suffix">%1$s%2$s</string>
+    <string name="no_multi_window_app">Nu există nicio aplicație care să poată lucra în modul Ecran scindat</string>
     <string name="no_notification_tips">Nicio notificare</string>
     <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>
+    <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
     <string name="notification_header_title">Notificări</string>
     <string name="notification_hidden_text">Conținut ascuns</string>
     <string name="notification_manager">Gestionați notificările</string>

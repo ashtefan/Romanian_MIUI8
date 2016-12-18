@@ -15,11 +15,11 @@
     <string name="activate_feature_register_xiaomi_account">Configurare cont Mi</string>
     <string name="activate_feature_remote_assist">Asistență de la distanță</string>
     <string name="activate_feature_verify_mx_token">Verificare cont Mi</string>
-    <string name="activate_history_cancelled">Anulată</string>
-    <string name="activate_history_multisim_overview">Activare pentru cartela SIM %3$d %1$s. Este declanșată de \"%2$s\".</string>
-    <string name="activate_history_overview">Activare pentru cartela SIM %1$s. Este declanșată de \"%2$s\".</string>
+    <string name="activate_history_canceled_overview">Activarea cartelei SIM a fost anulată. Activarea este declanșată de către \"%1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">Activarea cartelei SIM %2$d a fost anulată. Activarea este declanșată de către \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">Cartela SIM %2$d a fost activată cu succes. Activarea este declanșată de către \"%1$s\".</string>
     <string name="activate_history_sms">Un mesaj SMS a fost trimis în timpul activării.</string>
-    <string name="activate_history_success">Reușită</string>
+    <string name="activate_history_success_overview">Cartela SIM a fost activată cu succes. Activarea este declanșată de către \"%1$s\".</string>
     <string name="activate_history_title">Activare cartelă SIM</string>
     <string name="activate_phone_cancel_notif_title">Activarea cartelei SIM a fost oprită</string>
     <string name="activate_phone_cancel_notif_title_msim">Activarea cartelei SIM %s a fost oprită</string>

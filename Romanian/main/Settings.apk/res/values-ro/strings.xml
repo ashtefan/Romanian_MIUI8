@@ -159,8 +159,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="apn_auth_type_none">Niciunul</string>
     <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_pap_chap">PAP sau CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">APN Internet 3G China Unicom</string>
-  <string name="apn_chinaunicom_3gwap_general">APN WAP 3G China Unicom</string>
     <string name="apn_edit">Modificaţi punctul de acces</string>
     <string name="apn_general">General</string>
     <string name="apn_http_port">Port</string>
@@ -406,12 +404,13 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="block_list_connected_devices">Dispozitive conectate</string>
     <string name="block_list_diaglog_cancle">Renunțați</string>
     <string name="block_list_diaglog_ok">OK</string>
-    <string name="block_list_dialog_content">Această acțiune va deconecta “%s” de la acest telefon și îl va adăuga în lista blocărilor</string>
     <string name="block_list_dialog_title">Îl deconectați acum?</string>
+    <string name="block_list_mtk_dialog_content">Această acțiune va deconecta “%s” de la acest dispozitiv</string>
     <string name="block_list_no_device">Niciun dispozitiv conectat în lista blocărilor</string>
+    <string name="block_list_qcom_dialog_content">Această acțiune va deconecta “%s” de la acest dispozitiv și îl va adăuga în Lista blocărilor</string>
     <string name="block_list_remove_dialog_content">Acest dispozitiv “%s” se va putea conecta la acest hotspot</string>
     <string name="block_list_remove_dialog_title">Eliminați “%s” din lista blocărilor</string>
-    <string name="block_list_summary">Vizualizați dispozitivele care nu se au permisiunea de a se conecta la acest hotspot</string>
+    <string name="block_list_summary">Vizualizați dispozitivele care nu au permisiunea de a se conecta la acest hotspot</string>
     <string name="block_list_title">Lista blocărilor</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectat la profilul pentru conţinut media audio</string>
@@ -2142,6 +2141,11 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="onscreen_keyboard_settings_summary">Setări pentru tastatura de pe ecran</string>
     <string name="open_miui_optimization_title">Activați optimizarea MIUI</string>
     <string name="open_miui_optimization_warning_message">Telefonul va reporni pentru a se aplica modificarea</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">Renunțați</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">Închideți</string>
+    <string name="open_personal_assistant_dialog_desc">"Nu veți mai putea utiliza Asistentul inteligent și nici primi actualizări pentru acesta. Îl dezactivați acum?"</string>
+    <string name="open_personal_assistant_dialog_title">Dezactivați Asistentul inteligent</string>
+    <string name="open_personal_assistant_title">Activați Asistentul inteligent</string>
     <string name="open_wifi_connect_summary">Atingeţi pentru a vizualiza detalii</string>
     <string name="open_wifi_connect_title">Conectaţi-vă la %1$s</string>
     <string name="optimization_cancel">Renunțați</string>
@@ -3319,6 +3323,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings">Panoul notificărilor și bara de stare</string>
     <string name="status_bar_settings_advanced">Setări adiţionale</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
+    <string name="status_bar_settings_app_notification_preferences">Setări aplicație</string>
     <string name="status_bar_settings_basic_settings">Setări de bază</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Editați numele operatorului</string>

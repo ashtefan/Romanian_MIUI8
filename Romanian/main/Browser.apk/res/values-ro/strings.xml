@@ -369,7 +369,7 @@ Părăsiţi această pagină?"</string>
     <string name="media_error_action_replace_video_source">Nu s-a putut schimba sursa</string>
     <string name="media_error_failure">Nu se poate reda videoclipul</string>
     <string name="media_error_format">Formatul videoclipului nu este recunoscut</string>
-    <string name="media_error_network_unreachable">Rețea inaccesibilă</string>
+    <string name="media_error_network_unreachable">"Nu s-a putut conecta la rețea"</string>
     <string name="media_error_nomemory">Memorie insuficientă</string>
     <string name="media_error_source">Nu s-a putut găsi sursa</string>
     <string name="media_error_timeout">Conexiune la rețea expirată</string>

@@ -1247,6 +1247,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sim_location_error_notify_message">Apăsați pentru a schimba locația cartelei SIM.</string>
     <string name="sim_location_error_notify_title">Eroare de cartelă SIM</string>
     <string name="sim_state_exception_summary">Starea cartelei SIM indică că ceva poate fi în neregulă cu aceasta.</string>
+    <string name="skin_change_close_btn_text">Setați ca imagine de fundal implicită</string>
+    <string name="skin_change_close_toast">Modificările vor intra în vigoare la următoarea accesare a aplicației Securitate</string>
     <string name="sorted_button">Sortaţi după</string>
     <string name="sorted_dialog_title">Sortaţi după</string>
     <string name="sp_back_title_text_zero">Sigur</string>
@@ -1274,7 +1276,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sp_settings_check_item_title_virus_exception">Excepții pentru viruși</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_exception_count_zero">Niciun element</string>
-    <string name="sp_settings_group_title_check_item">Verificați multiplele setări</string>
+    <string name="sp_settings_group_title_check_item">Elemente multiple</string>
     <string name="sp_settings_group_title_ime">Setări IME sigur</string>
     <string name="sp_settings_group_title_omit">Elemente omise</string>
     <string name="sp_settings_info_input_method">Utilizați metodele de sistem de introducere în aplicațiile de plăți</string>
@@ -1492,8 +1494,8 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="title_virus_update_yes">Actualizare automată definiții viruși activată</string>
     <string name="title_virus_yes">Niciun virus găsit</string>
     <string name="title_xiaomi_roaming">Mi Roaming</string>
-    <string name="toast_add_virus_white_list_no_need_repeat">Excepția pentru viruși există deja</string>
-    <string name="toast_add_virus_white_list_success">Adăugat în lista excepțiilor. Vizualizați elementele în setări.</string>
+    <string name="toast_add_virus_white_list_no_need_repeat">Această excepție există deja</string>
+    <string name="toast_add_virus_white_list_success">Adăugat în lista excepțiilor. Vizualizați elementele în setările de Securitate.</string>
     <string name="toast_auto_traffic_correct">Utilizarea datelor este ajustată în mod automat</string>
     <string name="toast_cleaner_cloudscan">Curăţarea va utiliza definiții on-line</string>
     <string name="toast_default_app">%1$s este setată ca %2$s prestabilită de sistem</string>
@@ -1614,7 +1616,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="virus_update_fail">"Nu s-a putut actualiza"</string>
     <string name="virus_update_success">Actualizat cu succes</string>
     <string name="virus_update_tips_title">Conectați-vă la Wi-Fi</string>
-    <string name="virus_wait_network_dialog_message">Pachetele de actualizare sunt mari. Conectați-vă la Wi-Fi pentru a le descărca</string>
+    <string name="virus_wait_network_dialog_message">Pachetele de actualizare sunt mari. Conectați-vă la Wi-Fi pentru a le descărca.</string>
     <string name="voltage_symbol">V</string>
     <string name="wakepath_confirm_start_activity">Permiteți %1$s să deschidă %2$s?</string>
     <string name="warning_open_mi_sim">Activați Mi SIM</string>

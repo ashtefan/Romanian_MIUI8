@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Nu se afişează aceste persoane?</item>
-        <item quantity="one">Nu se afişează această persoană?</item>
-    </plurals>
     <plurals name="face_count">
         <item quantity="other">%d fotografii în total</item>
         <item quantity="one">%d fotografie în total</item>
@@ -109,12 +105,12 @@
         <item quantity="one">%1$d element așteaptă să fie rezervat</item>
     </plurals>
     <plurals name="network_unsatisfied">
-       <item quantity="other">Eroare de rețea. %1$d elemente așteaptă să fie rezervate</item>
-        <item quantity="one">Eroare de rețea. %1$d element așteaptă să fie rezervat</item>
+       <item quantity="other">Eroare de rețea. %1$d elemente așteaptă să fie rezervate.</item>
+        <item quantity="one">Eroare de rețea. %1$d element așteaptă să fie rezervat.</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sincronizarea este oprită. %1$d elemente așteaptă să fie rezervate</item>
-        <item quantity="one">Sincronizarea este oprită. %1$d element așteaptă să fie rezervat</item>
+        <item quantity="other">Sincronizarea este oprită. %1$d elemente așteaptă să fie rezervate.</item>
+        <item quantity="one">Sincronizarea este oprită. %1$d element așteaptă să fie rezervat.</item>
     </plurals>
     <plurals name="cloud_space_full">
         <item quantity="other">"Nu s-au putut sincroniza %1$d elemente"</item>
@@ -141,8 +137,8 @@
         <item quantity="one">Un videoclip aşteaptă sincronizarea</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d videoclipuri şi imagini aşteaptă sincronizarea</item>
-        <item quantity="one">Un videoclip şi o imagine aşteaptă sincronizarea</item>
+        <item quantity="other">%1$d elemente aşteaptă sincronizarea</item>
+        <item quantity="one">Un element aşteaptă sincronizarea</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Se sincronizează %1$d imagini…</item>

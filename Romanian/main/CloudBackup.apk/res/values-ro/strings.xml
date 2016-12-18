@@ -22,7 +22,7 @@
     <string name="button_cancel">Anulaţi</string>
     <string name="button_delete">Ștergeţi</string>
     <string name="button_next">Înainte</string>
-    <string name="can_not_backup_in_lite_mode">"Nu se poate crea copia de rezerva în modul Lite"</string>
+    <string name="can_not_backup_in_lite_mode">"Nu se poate crea copia de rezervă în modul Lite"</string>
     <string name="can_not_restore_in_lite_mode">"Nu se poate restaura în modul Lite"</string>
     <string name="cancel_recover_settings"><u>Anulaţi</u></string>
     <string name="click_try_to_restore_again">Apăsaţi pentru a încerca din nou</string>

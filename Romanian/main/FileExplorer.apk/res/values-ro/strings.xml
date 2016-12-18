@@ -118,6 +118,7 @@
     <string name="copy_failed">"Nu s-a putut copia"</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
+    <string name="count_down">Numărătoare inversă: %1$s</string>
     <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="data_consumption_cancel">Ieşire</string>
     <string name="data_consumption_checkbox_hint">Nu se afişează din nou</string>
@@ -140,6 +141,7 @@
     <string name="decrypt_error">"Nu s-a putut decripta"</string>
     <string name="decrypt_to">Decriptați și salvați în…</string>
     <string name="decrypting">Decriptare…</string>
+    <string name="default_prize_text">Asta intră direct în visteria mea!</string>
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_error">"Nu s-au putut șterge fișierele; reîncercați, vă rog"</string>
     <string name="delete_file">Ştergeţi acest fişier?</string>
@@ -220,6 +222,7 @@
     <string name="ftp_transfer_secure">Securitate</string>
     <string name="ftp_username_and_passworld">Conectare</string>
     <string name="ftp_username_hint">Nume utilizator</string>
+    <string name="full_gems">Valorificați bijuteriile</string>
     <string name="gbk_summary">Codare prestabilită în Chineză Simplificată Windows</string>
     <string name="gbk_title">GBK</string>
     <string name="get_user_info_err">"Nu s-au putut obține informații despre această persoană"</string>
@@ -361,6 +364,8 @@
     <string name="one_account_bind_needed">Adăugați cel puțin un cont</string>
     <string name="online_not_support">Nu se poate vizualiza acest fișier în acest moment.</string>
     <string name="open_app">Deschideți</string>
+    <string name="open_chest">Deschideți pentru a primi un cadou</string>
+    <string name="open_chest_failed">"Nu s-a putut deschide; verificați setările de rețea și reîncercați"</string>
     <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse</string>
     <string name="operation_add_fav">Adăugare la favorite…</string>
     <string name="operation_cancel">Anulaţi</string>
@@ -452,6 +457,8 @@
     <string name="private_folder_update">Actualizare dosare ascunse</string>
     <string name="private_toast_hint2">Pentru a ascunde un fișier, apăsați și mențineți-l apăsat, apoi adăugați-l într-un dosar ascuns.</string>
     <string name="private_toast_hint3">Glisați în jos pentru a vedea dosarele ascunse</string>
+    <string name="prize_result_tip">Valorificați</string>
+    <string name="prize_result_tip2">Bijuteriile merg în visteria dumneavoastră</string>
     <string name="promot_enctypt_password">Introduceți parola utilizată pentru deblocarea telefonului sau pentru oprirea Modului Copil</string>
     <string name="qq_btn_bind">QQ</string>
     <string name="qq_login_btn_str">QQ</string>
@@ -464,6 +471,7 @@
     <string name="recommend_user">Profiluri recomandate</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
     <string name="rename_alert">Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi.</string>
+    <string name="rename_alert2">Fișierul nu va mai fi vizibil.</string>
     <string name="rename_failed">Nu se poate redenumi %1$s</string>
     <string name="repair_done">Restaurate</string>
     <string name="repair_error">"Nu s-au putut restaura"</string>
