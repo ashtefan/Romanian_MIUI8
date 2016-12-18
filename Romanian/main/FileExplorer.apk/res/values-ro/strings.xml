@@ -141,7 +141,6 @@
     <string name="decrypt_error">"Nu s-a putut decripta"</string>
     <string name="decrypt_to">Decriptați și salvați în…</string>
     <string name="decrypting">Decriptare…</string>
-    <string name="default_prize_text">Asta intră direct în visteria mea!</string>
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_error">"Nu s-au putut șterge fișierele; reîncercați, vă rog"</string>
     <string name="delete_file">Ştergeţi acest fişier?</string>
