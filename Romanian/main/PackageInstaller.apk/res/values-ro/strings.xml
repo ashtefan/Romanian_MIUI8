@@ -137,7 +137,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="permission_request_title">Solicitare de permisiune</string>
     <string name="permission_summary_enforced_by_policy">Aplicată conform politicii</string>
     <string name="permission_title">Permisiuni pentru %1$s</string>
-    <string name="permission_warning_template">Permiteți  %1$s să %2$s?</string>
+    <string name="permission_warning_template">Permiteți aplicației %1$s să %2$s?</string>
     <string name="permission_send_sms_descx">Aplicaţia poate trimite SMS-uri şi MMS-uri</string>
     <string name="permlab_togglePermissions">comutare permisiuni</string>
     <string name="privacyPerms">Confidențialitate</string>
