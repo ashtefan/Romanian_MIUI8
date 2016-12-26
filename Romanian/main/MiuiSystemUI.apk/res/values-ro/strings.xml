@@ -34,6 +34,12 @@
     <string name="accessibility_phone_three_bars">Semnal pentru telefon: trei bare.</string>
     <string name="accessibility_phone_two_bars">Semnal pentru telefon: două bare.</string>
     <string name="accessibility_recent">Aplicaţii recente.</string>
+    <string name="accessibility_recent_task_enter">S-a deschis Recente, aplicații disponibile: %d.</string>
+    <string name="accessibility_recent_task_exit">S-a închis Recente</string>
+    <string name="accessibility_recent_task_first_enter_tips">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina sau glisați în jos pentru a bloca.</string>
+    <string name="accessibility_recent_task_locked">Blocată în memorie, glisați în jos pentru a debloca.</string>
+    <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Memorie RAM disponibilă: %1$s. apăsați de 2 ori pentru a goli.</string>
+    <string name="accessibility_recent_task_unlocked">Deblocată</string>
     <string name="accessibility_remove_notification">Ştergeţi notificarea.</string>
     <string name="accessibility_ringer_silent">Sonerie silenţioasă.</string>
     <string name="accessibility_ringer_vibrate">Vibrare sonerie.</string>

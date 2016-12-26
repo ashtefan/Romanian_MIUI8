@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ad_service">Serviciul de reclame</string>
     <string name="app_label">Ecran de vizualizare HTML</string>
     <string name="app_name_which_call">Aplicația:%s</string>
     <string name="app_version_which_call">Versiunea aplicației:%s</string>
@@ -12,6 +13,8 @@ accesați %s"</string>
     <string name="open_wifi_connect_title">Conectați-vă la %1$s</string>
     <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>
     <string name="policy_name">Politica de confidențialitate: %s</string>
+    <string name="settings_ad_loading">Se încarcă…</string>
+    <string name="settings_ad_loading_unavailable">A apărut o problemă în timpul încărcării.</string>
     <string name="settings_license_activity_loading">Încărcare…</string>
     <string name="settings_license_activity_title">Licențe open-sourse</string>
     <string name="settings_license_activity_unavailable">A apărut o problemă la încărcarea licențelor.</string>

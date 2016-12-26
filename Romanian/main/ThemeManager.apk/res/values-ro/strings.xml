@@ -392,6 +392,7 @@
     <string name="theme_user_agreement_remind_summary">Se afişează Condițiile de utilizare de fiecare dată când se deschide aplicația Teme. Această setare va avea efect după ce reporniți dispozitivul.</string>
     <string name="theme_user_agreement_title">Condiții de utilizare</string>
     <string name="theme_yes">Da</string>
+    <string name="third_party_pickers_activity_title">Adăugați %1$s</string>
     <string name="title_component">Personalizați tema</string>
     <string name="title_my_audio_resource">Sunetele mele de apel</string>
     <string name="title_my_wallpaper_resource">Imaginile mele de fundal</string>

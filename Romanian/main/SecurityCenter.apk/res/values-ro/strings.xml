@@ -862,6 +862,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="optimize_result_button_cooldown_now">Răcorire</string>
     <string name="optimize_result_button_correct_now">Ajustați</string>
     <string name="optimize_result_button_fix_now">Reparare</string>
+    <string name="optimize_result_button_mifi_insurance">Cumpărați acum</string>
     <string name="optimize_result_button_onekey_open">Activați</string>
     <string name="optimize_result_button_onekey_restore">Restaurați</string>
     <string name="optimize_result_button_open_now">Activați</string>
@@ -1321,6 +1322,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="summary_garbage_lib">Utilizați cele mai recente definiții pentru a elimina programele spyware, adware și alte reziduuri nedorite</string>
     <string name="summary_install_virus">Verificare aplicații pentru viruși înainte de instalare</string>
     <string name="summary_live_talk_purchase">Doar o,o5 RON/minut pentru apelurile locale.</string>
+    <string name="summary_mifi_insurance">Achiziționați o asigurare de înlocuire de un an care poate acoperi daunele hardware</string>
     <string name="summary_miui_update">Actualizare disponibilă pentru %s.</string>
     <string name="summary_mms">Filtrare mesaje nedorite (vânzări, anunțuri, etc.)</string>
     <string name="summary_network_switch">Permiteţi aplicației de securitate să se conecteze la internet</string>
@@ -1469,6 +1471,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="title_install_virus_yes">Monitorizare instalare activată</string>
     <string name="title_limit_traffic_per_day">Limita de utilizare zilnică a datelor</string>
     <string name="title_live_talk_purchase">Suplimentați acum</string>
+    <string name="title_mifi_insurance">Garanție extinsă</string>
     <string name="title_miui_update">Actualizare disponibilă</string>
     <string name="title_mms_no">Filtrare mesaje dezactivată</string>
     <string name="title_mms_yes">Filtrare mesaje activată</string>

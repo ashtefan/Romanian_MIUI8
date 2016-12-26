@@ -104,7 +104,7 @@
     <string name="baby_album_change_background">Modificați imaginea de fundal</string>
     <string name="baby_album_needs_auto_backup_tip">Nu se poate dezactiva salvarea automată a albumului copilului</string>
     <string name="baby_album_new_photo_remind">Au fost adăugate fotografii noi în Albumul Copilului.</string>
-    <string name="baby_album_setting_title">Informaţii copil</string>
+    <string name="baby_album_setting_title">Informaţii despre copil</string>
     <string name="baby_album_sharer_accept_dialog_msg">%1$s %2$s,
 %3$s %4$s a distribuit albumul %5$s.</string>
     <string name="baby_album_sharer_recommand_face">Adăugaţi fotografiile existente ale %1$s?</string>
@@ -248,7 +248,7 @@
     <string name="download_title">Se pregătesc fișierele...</string>
     <string name="download_without_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca fotografii va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="download_without_wifi_title">Avertizare utilizare date</string>
-    <string name="edit_baby_info">Vizualizaţi informaţia despre copil</string>
+    <string name="edit_baby_info">Vizualizaţi informaţiile despre copil</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
     <string name="empty_recommend_back">Înapoi</string>
     <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
@@ -731,5 +731,5 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="who_is_this">Cine este?</string>
     <string name="xiaomi_account_not_exists_toast">"Contul Mi nu există"</string>
     <string name="yes">Da</string>
-    <string name="you_are">"SuntețiYou're the baby's"</string>
+    <string name="you_are">"Sunteți pentru copil"</string>
 </resources>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Conturi</string>
-    <string name="aaid_info">"    
-Identificatorul pentru reclame este un număr unic asociat permanent telefonului dumneavoastră. Acesta este utilizat de către vânzători pentru a selecta conținutul reclamelor astfel încât să vă fie cât mai utile."</string>
+    <string name="about_ad_service_instructions">Despre serviciile de reclame și confidențialitate​</string>
     <string name="about_phone_enter_xiaomi_net">Vizualizați mai multe detalii</string>
     <string name="about_settings">Informaţii telefon</string>
     <string name="about_settings_summary">Afişaţi informaţiile legale, starea şi versiunea software</string>
@@ -1706,8 +1705,8 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lock_screen_secure_after_timeout_immediately_summary">Se solicită parola imediat</string>
     <string name="lock_screen_secure_after_timeout_summary">Se solicită parola peste %1$s</string>
     <string name="lock_screen_secure_after_timeout_title">Solicitare parolă</string>
-    <string name="lock_screen_signature_summary">Semnătura va fi afișată în Blocarea ecranului</string>
-    <string name="lock_screen_signature_title">Semnătură Blocare ecran</string>
+    <string name="lock_screen_signature_summary">Acest mesaj va fi afișat în Blocarea ecranului</string>
+    <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
     <string name="lock_screen_unlock_show">Salt peste glisare</string>
     <string name="lock_screen_unlock_show_summary">Accesaţi direct ecranul de pornire sau interfaţa introducerii parolei</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Apăsați pentru a modifica</string>
@@ -2159,7 +2158,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="overlay_display_devices_title">Simulaţi afişaje secundare</string>
     <string name="owner_info_settings_edit_text_hint">Introduceţi textul de afişat pe ecranul de blocare</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_title">Semnătură în Blocarea ecranului</string>
+    <string name="owner_info_settings_title">Informații proprietar în Blocarea ecranului</string>
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="page_layout_1">Duminică 16 august</string>
     <string name="page_layout_10">Setări</string>
@@ -2309,9 +2308,9 @@ Selectaţi sistemul de operare de mai jos:"</string>
   <string name="path_oldman_mode">Setări/Modul Ușor</string>
     <string name="path_onekey_migrate">Setări/Setări adiționale/Mi Mover</string>
     <string name="path_other_advanced_settings">Setări/Setări adiționale</string>
-    <string name="path_owner_info_settings">Setări/Blocare ecran și parolă/Info. proprietar</string>
+    <string name="path_owner_info_settings">Setări/Blocare ecran și parolă/Informații proprietar în Blocarea ecranului</string>
     <string name="path_page_layout_settings">Setări/Afișaj/Dimensiunea textului</string>
-    <string name="path_permission_settings_title">Setări/Permisiuni/Permisiunile aplicațiilor</string>
+    <string name="path_permission_settings_title">Setări/Permisiuni/Permisiuni</string>
     <string name="path_pointer_speed">Setări/Setări adiționale/Limbă și metodă de introducere/Viteza indicatorului</string>
   <string name="path_power_checker">Setări/Setări adiționale/Beta features/Power Checker</string>
     <string name="path_power_hide_mode_title">Setări/Acumulator și performanță/Gestionare utilizare acumulator de către aplicații</string>
@@ -2981,7 +2980,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_oldman_mode">Modul Ușor</string>
   <string name="search_onekey_migrate">Transfer;One key migrate</string>
     <string name="search_other_advanced_settings">Setări adiționale;Mai multe</string>
-    <string name="search_owner_info_settings">Informații proprietar</string>
+    <string name="search_owner_info_settings">Informații proprietar în Blocarea ecranului;Informații proprietar;Semnătură;Semnătură Blocare ecran;Proprietar</string>
     <string name="search_page_layout_settings">Mărimea textului</string>
     <string name="search_permission_settings_title">Permisiunile aplicațiilor</string>
   <string name="search_pointer_speed">Viteza indicatorului</string>
@@ -3118,6 +3117,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="set_password_message">Setați o parolă pentru a dezactiva Modul Copil, precum și pentru a debloca acest dispozitiv.</string>
     <string name="set_password_title">Setaţi parola</string>
     <string name="setting_privacy_password">Setați parola de protejare a confidențialității</string>
+    <string name="settings_ad_loading">Încărcare…</string>
+    <string name="settings_ad_loading_unavailable">A apărut o problemă în timpul încărcării.</string>
     <string name="settings_backup">Setări copie de rezervă</string>
     <string name="settings_backup_summary">Creaţi o copie de rezervă a setărilor dvs.</string>
     <string name="settings_button">Setări</string>
@@ -3156,7 +3157,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="show_hw_screen_updates_summary">Iluminare ecrane din ferestre la desenarea cu GPU</string>
     <string name="show_magnifier_when_input">Afişaţi lupa</string>
     <string name="show_non_rect_clip">Remediați decupări nerectangulare</string>
-    <string name="show_owner_info_on_lockscreen_label">Afişaţi semnătura în Blocarea ecranului</string>
+    <string name="show_owner_info_on_lockscreen_label">Afişează informațiile despre proprietar în Blocarea ecranului</string>
     <string name="show_password">Faceţi parolele vizibile</string>
     <string name="show_profile_info_on_lockscreen_label">Afișați informații profil la blocarea ecranului</string>
     <string name="show_rounded_corners">Afişarea colţurilor rotunjite</string>
@@ -3700,7 +3701,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="use_location_title">Locaţie şi căutare Google</string>
     <string name="use_nuplayer">Utilizați NuPlayer (experimental)</string>
     <string name="use_nuplayer_summary">Utilizați NuPlayer în loc de AwesomePlayer</string>
-    <string name="use_personalized_ad_service">Reclame personalizate</string>
+    <string name="use_personalized_ad_service">Utilizați identificatorul pentru reclame</string>
     <string name="use_privacy_password_immediate">Utilizați</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizaţi limba sistemului</string>
     <string name="user_account_title">Cont pentru conţinut</string>

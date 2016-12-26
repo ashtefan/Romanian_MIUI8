@@ -37,7 +37,6 @@
     <string name="call_contacts_deny_permission_msg">"Ați refuzat permisiunea de citire contacte; nu se pot afișa detaliile contactelor."</string>
     <string name="call_description_recording">Înregistrare…</string>
     <string name="call_extension_conference_mode">Modul Conferinţă</string>
-    <string name="call_record_button_label">Înregistrare %s</string>
     <string name="call_record_wait_label">Aşteptare</string>
     <string name="call_recording_deny_permission_msg">"Ați refuzat permisiunea de înregistrare; nu se poate înregistra."</string>
     <string name="call_recording_error_low_storage">Spaţiu insuficient: cardul SD este plin</string>

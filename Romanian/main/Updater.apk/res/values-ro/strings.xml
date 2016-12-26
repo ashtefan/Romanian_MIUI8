@@ -116,8 +116,8 @@
     <string name="new_updates_found_notification_title">Este disponibilă o actualizare</string>
     <string name="next">Înainte</string>
     <string name="no_log">Niciun rezumat disponibil</string>
-    <string name="no_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca actualizarea va creşte utilizarea de date. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="no_wifi_title">Avertisment de utilizare a datelor</string>
+    <string name="no_wifi_msg">Utilizarea conexiunii de date mobile va creşte traficul de date mobile. Conectați-vă la Wi-Fi pentru a descărca actualizările.</string>
+    <string name="no_wifi_title">Conectați-vă la Wi-Fi</string>
     <string name="not_open">Nu</string>
     <string name="notification_auto_reboot_seccess_title">Dispozitiv actualizat automat</string>
     <string name="notification_delay_update_button">Actualizează peste 2 ore</string>

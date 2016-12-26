@@ -413,7 +413,7 @@
     <string name="title_of_traffic_notification">Statisticile datelor în bara de stare</string>
     <string name="title_optimizer">Termeni și condiții</string>
     <string name="title_share_link">Partajați URL-ul</string>
-    <string name="toast_add_white_list_success">" adăugat la excepții"</string>
+    <string name="toast_add_white_list_success">Adăugată cu succes în lista excepțiilor</string>
     <string name="toast_app_no_residual_on_sdcard">Aplicația nu are niciun fișier stocat pe cardul SD</string>
     <string name="toast_backup_is_running">Creare copie de rezervă în curs. Încercați din nou mai târziu.</string>
     <string name="toast_backup_uninstall_failed">Nu a reușit crearea copiei de rezervă pentru %d aplicaţii. Încercați din nou mai târziu.</string>
@@ -425,7 +425,7 @@
     <string name="toast_must_select_before_restore">Selectaţi fotografiile pentru a fi restabilite</string>
     <string name="toast_network_eror">Nu se poate conecta la rețea</string>
     <string name="toast_network_switch">Această aplicație se poate conecta la internet</string>
-    <string name="toast_removed_from_white_list">" eliminat din lista de excepții"</string>
+    <string name="toast_removed_from_white_list">Eliminată cu succes din lista excepțiilor</string>
     <string name="toast_resolve_apk_error">Rezolvați eroarea apk</string>
     <string name="toast_scaning_similar_image">Verificare fotografii…</string>
     <string name="toast_select_image_need_delete">Selectaţi fotografiile pentru a fi şterse</string>

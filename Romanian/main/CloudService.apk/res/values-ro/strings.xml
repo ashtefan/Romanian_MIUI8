@@ -78,7 +78,6 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="error_title">Nu s-a putut sincroniza</string>
     <string name="error_unauthorized">Sincronizarea a fost dezactivată din cauza prea multor încercări de conectare.</string>
     <string name="error_unknown">Nu se poate conecta</string>
-    <string name="file_provider_authority">com.miui.cloudservice.fileprovider</string>
     <string name="find_device">Localizare dispozitiv</string>
     <string name="find_device_disabled_notice">Puteți activa sau dezactiva această caracteristică oricând în Setările Mi Cloud.</string>
     <string name="find_device_disabled_title">Localizare dispozitiv dezactivată</string>
