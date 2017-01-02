@@ -196,7 +196,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="quick_settings_done">Terminat</string>
     <string name="quick_settings_more_settings">Setări suplimentare</string>
     <string name="quick_settings_tiles">implicit</string>
-    <string name="quick_settings_tiles_default">wi-fi,celulă,acumulator,nu deranjați,lanternă,rotire,bluetooth,mod avion,localizare</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
