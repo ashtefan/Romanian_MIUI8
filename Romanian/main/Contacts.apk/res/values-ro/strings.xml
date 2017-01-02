@@ -341,7 +341,6 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="deselect_all">Deselectaţi toate</string>
     <string name="details_list_group_header_other">ALTELE</string>
     <string name="device_bluetooth_title">Transferaţi contactele</string>
-    <string name="device_brand_title">Selectaţi marca telefonului</string>
     <string name="device_import_account_dialog_title">Selectaţi un cont</string>
     <string name="device_import_account_dialog_title_suffix">"
 (au fost găsite %1$s contacte)"</string>
@@ -354,15 +353,30 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="device_import_progress_toast">%1$d contacte importate</string>
     <string name="device_import_title">Import</string>
     <string name="device_list_title">Selectaţi un telefon</string>
-    <string name="device_other_guide">Dacă telefonul dvs. nu este în listă, urmaţi paşii de mai jos</string>
-    <string name="device_other_title">Alt telefon</string>
+    <string name="device_other_guide">Celălalt telefon are bluetooth?</string>
+    <string name="device_other_title">Importați de pe alte telefoane</string>
     <string name="device_paired_dialog_message">Preluare contacte…</string>
     <string name="device_paired_dialog_title">Preluare contacte…</string>
     <string name="device_pairing_dialog_message">Asociere…</string>
     <string name="device_pairing_dialog_title">Asociaţi dispozitivele</string>
-    <string name="device_version_header_bluetooth">Asigurați-vă că bluetooth-ul este activat</string>
+    <string name="device_transfer_by_bluetooth_message">"1. Activați \"Bluetooth\" pe celălalt telefon;
+        
+
+- Pe telefoanele cu Android \"Bluetooth\" se găsește de regulă în secțiunea Rețele mobile
+        
+- Pe telefoanele cu iOS \"Bluetooth\" se găsește în Setări
+        
+
+2. Pe telefoanele cu Android trebuie activată de asemenea și opțiunea \"Detectare disponibilă pentru celelalte dispozitive\";
+        
+
+3. Apăsați \"Următorul\", și acordați permisiunea de accesare contacte când vi se solicită acest lucru."</string>
+    <string name="device_transfer_by_sim_message">"1. Salvați contactele de pe celălalt telefon pe cartela SIM;
+        
+
+2. Mergeți la \"Setări Contacte\" -- \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM, selectați contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
+    <string name="device_version_header_bluetooth">Importați contactele prin Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importaţi contactele utilizând cartela SIM</string>
-    <string name="device_version_title">Selectaţi un model</string>
     <string name="dial">Apelaţi</string>
     <string name="dialerDialpadHintText">Formaţi pentru a adăuga un apel</string>
     <string name="dialerIconLabel">Recente</string>
@@ -726,8 +740,8 @@ Motivul: „%s”"</string>
     <string name="multi_number_title">Apel în conferință</string>
     <string name="multipleContactDeleteConfirmation">Ştergerea acestui contact din agendă va elimina informaţii din mai multe conturi.</string>
     <string name="multipleContactDeleteConfirmationDetail">Ştergerea \"%s\" implică ştergerea informaţiei din conturile multiple.</string>
-    <string name="my_phone_not_provider_bluetooth">Telefonul meu nu are bluetooth</string>
-    <string name="my_phone_provider_bluetooth">Telefonul meu are bluetooth</string>
+    <string name="my_phone_not_provider_bluetooth">Nu</string>
+    <string name="my_phone_provider_bluetooth">Da</string>
     <string name="nameLabelsGroup">Nume</string>
     <string name="name_family">Numele de familie</string>
     <string name="name_given">Prenume</string>

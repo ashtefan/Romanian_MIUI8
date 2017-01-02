@@ -105,7 +105,7 @@
     <string name="context_menu_call">Apelaţi</string>
     <string name="context_menu_contact">Contact: %1$s</string>
     <string name="context_menu_copy">Copiaţi</string>
-    <string name="context_menu_copy_notice">Copiată în clipboard</string>
+    <string name="context_menu_copy_notice">Copiat în clipboard</string>
     <string name="context_menu_new_contact">Contact nou</string>
     <string name="context_menu_send_mail">Trimiteţi E-mail</string>
     <string name="context_menu_send_sms">Trimiteţi SMS</string>
@@ -350,6 +350,7 @@
     <string name="mx_online">Activată</string>
     <string name="mx_reactivate">Reactivaţi Mesagerie Mi</string>
     <string name="mx_recommend_msg">Atingeţi pentru a activa Mesagerie Mi</string>
+    <string name="mx_stranger_recommend_msg">Atingeți pentru a bloca mesajele Mi provenite de la numere necunoscute</string>
     <string name="mx_type_guide">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli pentru SMS</string>
     <string name="need_download">Sincronizare…</string>
     <string name="networking_allow_continue">OK</string>

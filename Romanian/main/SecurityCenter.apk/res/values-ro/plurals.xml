@@ -133,6 +133,10 @@
         <item quantity="other">%d​ riscuri găsite, reparați acum</item>
         <item quantity="one">%d risc găsit, reparați acum</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Totul arată bine</item>
+        <item quantity="one">Totul arată bine</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicații cu risc de încălcare a confidențialității</item>
         <item quantity="one">%d aplicație cu risc de încălcare a confidențialității</item>

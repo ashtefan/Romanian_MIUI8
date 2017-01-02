@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minute</item>
-        <item quantity="one">1 minut</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d minute</item>
-        <item quantity="one">1 minut</item>
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu un minut în urmă</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">1 oră</item>
+        <item quantity="other">cu %d ore în urmă</item>
+        <item quantity="one">cu o oră în urmă</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d zile</item>
-        <item quantity="one">1 zi</item>
+        <item quantity="other">cu %d zile în urmă</item>
+        <item quantity="one">cu o zi în urmă</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SĂPTĂMÂNA %d</item>
@@ -30,5 +26,17 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+%d evenimente</item>
         <item quantity="one">+1 eveniment</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">cu %1$d zile în urmă la %2$s</item>
+        <item quantity="one">cu %1$d zi în urmă la %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">După %1$d zile la %2$s</item>
+        <item quantity="one">După %1$d zi la %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">cu %d săptămâni în urmă</item>
+        <item quantity="one">cu o săptămână în urmă</item>
     </plurals>
 </resources>

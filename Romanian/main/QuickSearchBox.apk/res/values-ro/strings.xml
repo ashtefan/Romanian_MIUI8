@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_loaction">Căutare pe Ecranul principal</string>
     <string name="app_name">Căutare</string>
     <string name="application_desc">Aplicație</string>
     <string name="applications_search_label">Aplicații</string>
@@ -41,6 +42,8 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="google_settings_category_title">Căutare Google</string>
     <string name="hot_search">Populare</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="local_app">Aplicații</string>
+    <string name="local_setting">Setări</string>
     <string name="menu_help">Ajutor</string>
     <string name="menu_settings">Setări căutare</string>
     <string name="network_unavailable">Nu se poate conecta la rețea</string>

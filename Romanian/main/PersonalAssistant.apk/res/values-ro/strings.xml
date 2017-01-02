@@ -120,7 +120,7 @@
     <string name="no_install">Nu este instalată</string>
     <string name="no_more_result">Nu mai sunt elemente</string>
     <string name="no_settings">Nu este setat</string>
-    <string name="not_install_c1">"Această aplicație nu este instalată pe telefonul dvs. O descărcați și instalați?"</string>
+    <string name="not_install_c1">"Această aplicație nu este instalată pe telefonul dvs. Doriți să o descărcați și să o instalați?"</string>
     <string name="not_install_c3">Descărcați</string>
     <string name="not_install_c4">Nu, mulțumesc</string>
     <string name="not_installed">Nu este instalată</string>

@@ -34,6 +34,7 @@
     <string name="first_using_dialog_message">Busola trebuie să utilizeze conexiunea la rețea și camera dispozitivului pentru a lucra în mod normal.</string>
     <string name="first_using_dialog_title">Permisiune acces</string>
     <string name="guide_toast">Pentru a calibra busola mişcaţi telefonul conform imaginii de mai sus</string>
+    <string name="keywords_search_compass">Busolă;Calibrare busolă;Presiune;Altitudine;Latitudine;Longitudine;Verificare longitudine; Verificare latitudine;Busolă MIUI;Aplicația Busolă;Aplicația de busolă MIUI;Unde este Busola;Descărcați aplicația Busolă;Presiune atmosferică; Verificare altitudine;Care este altitudinea</string>
     <string name="latitude">Latitudine</string>
     <string name="location_east">Est</string>
     <string name="location_enable">Permiteţi</string>

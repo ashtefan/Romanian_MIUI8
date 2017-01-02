@@ -935,7 +935,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="permit_running_network">Date în fundal</string>
     <string name="person_hotpot">Hotspot-uri mobile</string>
     <string name="pkg_traffic">Setaţi limita de utilizare a datelor</string>
-    <string name="please_continue_keep">Păstrați</string>
     <string name="pm_auto_start_by_other">Declanșare pornire</string>
     <string name="pm_auto_start_by_other_app">Permite aplicației să fie lansată de către alte aplicații</string>
     <string name="pm_auto_start_by_system">Aplicații pornire</string>
@@ -1581,6 +1580,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_open">Activat</string>
     <string name="traffic_setting_step_num">Setări plan de date</string>
     <string name="traffic_warning_purchase_title">Avertisment utilizare date mobile</string>
+    <string name="try_recommended_function">Protejați-vă telefonul utilizând noile funcții ale aplicației Securitate</string>
     <string name="unable_connect_internet">Nicio conexiune la internet</string>
     <string name="uninstall_app_dialog_msg">Dezinstalarea va șterge toate datele aplicației.</string>
     <string name="uninstall_app_dialog_title">Dezinstalați acum?</string>
