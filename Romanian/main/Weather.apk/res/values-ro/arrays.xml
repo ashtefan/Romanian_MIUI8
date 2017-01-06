@@ -49,6 +49,14 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Bună</item>
+        <item>Moderată</item>
+        <item>Cu risc pentru persoanele sensibile</item>
+        <item>Nocivă</item>
+        <item>Foarte nocivă</item>
+        <item>Periculoasă pentru sănătate</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Senin</item>
         <item>Înnorat</item>
@@ -92,6 +100,16 @@
         <item>Nepotrivit</item>
     </string-array>
     <string-array name="wind_direction">
+        <item>Nord</item>
+        <item>Nord-est</item>
+        <item>Est</item>
+        <item>Sud-est</item>
+        <item>Sud</item>
+        <item>Sud-vest</item>
+        <item>Vest</item>
+        <item>Nord-vest</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
         <item>Vânt din N</item>
         <item>Vânt din NE</item>
         <item>Vânt din E</item>
@@ -102,18 +120,46 @@
         <item>Vânt din NV</item>
      </string-array>
     <string-array name="wind_power">
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
-        <item> %s</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>scala Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;forța 2</item>
+        <item>&lt;6.0 km/h</item>
+        <item>&lt;1.7 m/s</item>
+        <item>&lt;3.7 mph</item>
+        <item>&lt;3.2 kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Scala Beaufort</item>
+        <item>Kilometri pe oră (km/h)</item>
+        <item>Metri pe secundă (m/s)</item>
+        <item>Mile pe oră (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>forța %1$s</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
     </string-array>
 </resources>

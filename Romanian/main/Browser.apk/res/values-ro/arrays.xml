@@ -41,6 +41,11 @@
         <item>Mesaj din Browser</item>
         <item>Urmăriți olimpiada cu Mi</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Pagina anterioară??</item>
+        <item>Comutare file</item>
+        <item>Nimic</item>
+    </string-array>
     <string-array name="baidu">
         <item>百度</item>
         <item>baidu.com</item>

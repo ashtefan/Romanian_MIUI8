@@ -2,6 +2,8 @@
 <resources>
     <string name="admin_receiver_status_disable_warning">Secure Spaces device admin va fi reactivat dacă și când va fi necesar ulterior.</string>
   <string name="app_name">Secure Spaces Agent</string>
+    <string name="btn_title_cancel">Renunțați</string>
+    <string name="btn_title_force">Forțați</string>
     <string name="choice_no">Nu</string>
     <string name="choice_yes">Da</string>
     <string name="dialog_download_space_cancel">Renunțați</string>
@@ -31,12 +33,14 @@
     <string name="pref_desc_last_applied_policy">Ultima Politică aplicată pe acest telefon.</string>
     <string name="pref_desc_policy_delay">Întârziere aplicată fiecărui element al Politicii.</string>
     <string name="pref_desc_sscm_address">Adresa serverului SSCM</string>
+  <string name="pref_desc_sscm_force_connection">Trigger the SSCM websocket to reconnect</string>
   <string name="pref_desc_sscm_mailbox">Mailbox ID on SSCM</string>
     <string name="pref_desc_sss_address">Adresa serverului SSM</string>
     <string name="pref_title_in_progress_policy">Politica în curs</string>
     <string name="pref_title_last_applied_policy">Ultima Politică aplicată</string>
     <string name="pref_title_policy_delay">Întârziere Politică</string>
     <string name="pref_title_sscm_address">Adresa SSCM</string>
+    <string name="pref_title_sscm_force_connection">Forțați conectarea SSCM</string>
   <string name="pref_title_sscm_mailbox">SSCM Mailbox Id</string>
     <string name="pref_title_sss_address">Adresa SSMS</string>
     <string name="progress_notification_text">Actualizare Spațiu în curs…</string>

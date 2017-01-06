@@ -276,7 +276,6 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="data_left">Disponibil date</string>
     <string name="data_unit_gb">GB</string>
     <string name="data_unit_mb">MB</string>
-    <string name="date_picker_label">Aminteşte-mi cu 3 zile înainte şi din nou în ziua</string>
     <string name="date_time_set">Setaţi</string>
     <string name="date_year_toggle">Indicaţi anul</string>
     <string name="default_ringtone">Ton de apel prestabilit</string>
@@ -1059,7 +1058,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="search_contacts_display">Contacte;Afișare</string>
     <string name="search_contacts_more">Organizare;Contacte</string>
     <string name="search_contacts_recovery">Contacte</string>
-    <string name="search_contacts_setting">Setări contacte;Afișare fotografie și informații;Atribuire fotografie de contact;Import și export;Partajare; Importare din sdcard;Import din cartela SIM;Importare din alt telefon;Exportare de pe sdcard;Exportare de pe cartela SIM;Partajare contacte vizibile;Afișare contacte;Ascundere numere incomplete;Arată contactele de pe cartela SIM;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction</string>
+    <string name="search_contacts_setting">Setări contacte;Afișare fotografie și informații;Atribuire fotografie de contact;Import și export;Partajare; Importare din card SD;Import de pe cartela SIM;Importare din alt telefon;Exportare de pe cardul SD;Exportare de pe cartela SIM;Partajare contacte;Preferințe de afișare;Ascundere numere incomplete;Arată contactele de pe cartela SIM;Configurare listă de contacte;Grupuri inteligente;Organizare contacte; Îmbinare contacte dublate;Ștergere în serie;Ștergere date;Reconstruire index date;t9;Cartele SIM;Stocare cartelă SIM;Introducere recuperare contacte</string>
     <string name="search_display_only_phones">Contacte;Afișare</string>
     <string name="search_display_sim_contacts">Contacte;Afișare</string>
     <string name="search_export_to_sdcard">Contacte;Export;stocare</string>

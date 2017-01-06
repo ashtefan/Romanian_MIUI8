@@ -4,6 +4,12 @@
     <string name="active_xiaomi_account">Activaţi</string>
     <string name="active_xiaomi_account_msg">"Pentru activarea contului dvs. Mi, accesaţi https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="active_xiaomi_account_title">Activaţi contul Mi</string>
+    <string name="alpha_apply">Înrolați-vă în programul Beta testing</string>
+    <string name="alpha_cancel">Părăsiți programul Beta testing</string>
+    <string name="alpha_cancel_cancel">Renunțați</string>
+    <string name="alpha_cancel_confirm">Părăsiți programul acum?</string>
+    <string name="alpha_cancel_ok">OK</string>
+    <string name="alpha_no_network">Conectați-vă la rețea pentru a vă înscrie</string>
     <string name="app_name">Actualizări</string>
     <string name="apply_title">Actualizare (%s)</string>
     <string name="apply_update_dialog_cancel_button">Anulaţi</string>
@@ -96,6 +102,7 @@
     <string name="loading">Solicitare…</string>
     <string name="log_share">Partajaţi</string>
     <string name="menu_more_button">Meniu</string>
+    <string name="menu_title_apply_for_alpha">Înscrieți-vă în programul Beta testing</string>
     <string name="menu_title_current_version_log">Ce este nou</string>
     <string name="menu_title_download_current_rom">Descărcați cel mai recent ROM</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>

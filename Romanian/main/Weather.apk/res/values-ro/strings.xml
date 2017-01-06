@@ -31,7 +31,7 @@
     <string name="already_voted">Votat</string>
     <string name="already_voted_toast">"Ați votat deja astăzi"</string>
     <string name="app_name">Meteo</string>
-    <string name="aqi_data_source">Oferit de Caiyun Weather</string>
+    <string name="aqi_data_source">Oferit de Colorful Clouds</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
     <string name="aqi_detail_24_hours">Prognoza orară</string>
     <string name="aqi_detail_5_days">Prognoza zilnică</string>
@@ -63,8 +63,8 @@
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
-    <string name="daily_forcast_no_stable_direction">Vântul nu adie</string>
-    <string name="daily_forcast_no_wind">&lt;12 km/h</string>
+    <string name="daily_forcast_no_stable_direction">Adiere</string>
+    <string name="daily_forcast_no_wind">0</string>
     <string name="daily_forcast_no_wind_miles">&lt;19,3 mph</string>
     <string name="daily_forcast_temperature_connect"/>
     <string name="daily_forcast_temperature_transfer">%1$s°C / %2$s°C</string>
@@ -103,6 +103,7 @@
     <string name="indices_title_sport">Sport</string>
     <string name="indices_title_uv">Index UV</string>
     <string name="indices_title_visibility">Vizibilitate</string>
+    <string name="information_manager_extension">Extensie meteo</string>
     <string name="information_manager_information">Informații despre vreme</string>
     <string name="information_manager_wlan">Actualizați în Wi-Fi</string>
     <string name="information_menu_title"/>
@@ -134,12 +135,15 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="no_vote_ratio">Contra %1$s%%</string>
     <string name="open">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
+    <string name="other">Altele</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
     <string name="realtime_wind_default_title">Vânt</string>
     <string name="refresh_fail">"Nu s-a putut conecta la rețea"</string>
     <string name="retry">Încercați din nou</string>
+    <string name="search_weather">Meteo</string>
+    <string name="search_weather_keywords">Temperatură;Prognoză meteo;Meteo;Calitatea aerului;Grad de poluare;Umiditate</string>
     <string name="set">Setări</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>

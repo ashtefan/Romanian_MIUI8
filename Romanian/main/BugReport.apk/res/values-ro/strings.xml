@@ -13,7 +13,6 @@
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Durează câteva minute.</string>
     <string name="bugreport_dump_start_notification_title">Creare raport…</string>
-    <string name="bugreport_feedback_from">De la: %s</string>
     <string name="bugreport_tool_log">Creaţi un raport de probleme</string>
     <string name="bugreport_tool_log_toast">Raport salvat în %s</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Creare raport de probleme (durează aproximativ 1 minut)</string>

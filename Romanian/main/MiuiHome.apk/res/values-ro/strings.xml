@@ -43,10 +43,6 @@
     <string name="cant_remove_retained_app">"Nu a putut fi eliminată această aplicație"</string>
     <string name="cant_remove_system_app">"Nu se poate elimina o aplicație de sistem"</string>
     <string name="change_wallpaper">Modificați</string>
-    <string name="children_folder_title">Mod Copii</string>
-    <string name="children_mode_exit">Ieşire</string>
-    <string name="children_mode_tips_message">Nu există nicio aplicație în Modul Copii. Selectați aplicațiile pe care doriți să le adăugați.</string>
-    <string name="children_mode_tips_title">Selectați aplicațiile</string>
     <string name="choose_wallpaper">Selectați imaginea de fundal</string>
     <string name="chooser_wallpaper">Alegeți o altă imagine de fundal</string>
     <string name="cloud_app_restore_title">În așteptare</string>

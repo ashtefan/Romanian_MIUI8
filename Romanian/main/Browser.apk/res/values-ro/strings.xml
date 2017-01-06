@@ -310,6 +310,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
+    <string name="fling_on_border_gesture_hint">Puteți selecta funcția acestui gest din Setări</string>
     <string name="force_quick_search_title">Căutați</string>
     <string name="force_touch_bookmark_history_title">Marcaje și istoric</string>
     <string name="force_touch_infoflow_title">Știri</string>
@@ -330,6 +331,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="gold_medals">Medalii de aur</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
+    <string name="hint">Indiciu</string>
     <string name="history_saved_webpage">Salvaţi pagina</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_delete_card_menu">Ştergeţi</string>
@@ -413,6 +415,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_airplane_mode_on">Dezactivați modul Avion pentru a vă conecta</string>
     <string name="miuichromium_error_page_btn_close">Închideți</string>
     <string name="miuichromium_error_page_btn_refresh">Reîncărcați</string>
+    <string name="miuichromium_error_page_btn_report_issue">Raportați o problemă</string>
     <string name="miuichromium_error_page_diagnose">Diagnosticare rețea</string>
     <string name="miuichromium_error_page_diagnose_banner">Diagnosticare rețea</string>
     <string name="miuichromium_error_page_diagnose_certificate">"Nu s-a putut verifica protocolul de rețea"</string>
@@ -537,8 +540,8 @@ Părăsiţi această pagină?"</string>
     <string name="pref_file_download_default_path_prefix">Locaţie prestabilită: %s</string>
     <string name="pref_file_download_save_modify_default_path">Locaţie de descărcare</string>
     <string name="pref_file_download_save_title">Descărcări</string>
-    <string name="pref_fling_on_border_enabled">Glisaţi de la margine pentru a comuta filele</string>
-    <string name="pref_fling_on_border_enabled_title_summary">Glisaţi de la marginea din stânga sau din dreapta a ecranului pentru comutare între file</string>
+    <string name="pref_fling_on_border_enabled">Glisaţi de la margine</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Glisaţi de la marginea din stânga sau din dreapta a ecranului</string>
     <string name="pref_font_size_category">Dimensiunea textului în paginile web</string>
     <string name="pref_force_userscalable">Forţaţi activarea zoomului</string>
     <string name="pref_force_userscalable_summary">Supr. solic. pt. control zoom</string>

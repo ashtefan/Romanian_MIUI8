@@ -964,8 +964,10 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sip_edit_title">Detalii cont SIP</string>
     <string name="sip_menu_discard">Renunţaţi</string>
     <string name="sip_menu_save">Salvaţi</string>
+    <string name="sip_profile_create_error">nu s-a putut crea noul profil SIP</string>
     <string name="sip_receive_calls">Primiţi apeluri de intrare</string>
     <string name="sip_receive_calls_summary">Reduce durata de funcţionare a bateriei</string>
+    <string name="sip_save_register_error">nu s-a putut salva și înregistra noul profil SIP</string>
     <string name="sip_settings">Setări pentru apeluri prin internet</string>
     <string name="sip_system_decide">Automat</string>
     <string name="sports_news_settings">Știri din sport</string>

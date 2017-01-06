@@ -166,6 +166,10 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
     <string name="notification_header_title">Notificări</string>
     <string name="notification_hidden_text">Conținut ascuns</string>
+    <string name="notification_low_battery_action_btn">Activați</string>
+    <string name="notification_low_battery_need_charge">Acumulatorul este descărcat. Încărcați telefonul.</string>
+    <string name="notification_low_battery_open_save_mode">Activați Economisirea acumulatorului</string>
+    <string name="notification_low_battery_title">Acumulator descărcat: %d%%</string>
     <string name="notification_manager">Gestionați notificările</string>
     <string name="notification_manager_des">Filtrați și gestionați notificările</string>
     <string name="notification_otg_gamestick_in">Controller jocuri conectat</string>

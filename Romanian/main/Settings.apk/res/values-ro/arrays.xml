@@ -840,7 +840,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Fotografii</item>
         <item>Fișiere</item>
         <item>Notițe</item>
-        <item>Modul Copil</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3 GB</item>
