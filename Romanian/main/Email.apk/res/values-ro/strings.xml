@@ -1004,7 +1004,6 @@ Actualizaţi acum?"</string>
     <string name="wait_for_manual_sync_body">"Acest cont nu este configurat pentru sincronizare automată.
 Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţi setările de sincronizare pentru a sincroniza e-mailurile în mod automat.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
-    <string name="wait_help_context">așteptați</string>
     <string name="webview_logout">Sigur renunțați la conectare? Reveniți și reîncercați!</string>
     <string name="webview_logout_cancel">"Nu mai încerc"</string>
     <string name="webview_logout_sure">Mai încerc o dată</string>
