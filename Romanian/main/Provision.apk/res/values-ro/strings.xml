@@ -20,6 +20,7 @@
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
     <string name="input_method_setting">Selectați tastatura prestabilită</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="language_picker_other_languages_title">Mai multe limbi</string>
     <string name="locale_picker_title">Selectaţi regiunea</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Termenii și condițiile la %s.</string>
@@ -33,7 +34,7 @@
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să acceseze locația dvs.</string>
     <string name="other_settings_mifg_online_content">Carusel de imagini de fundal</string>
-    <string name="other_settings_mifg_online_content_summary">Permiteți conectarea la internet pentru Caruselul de imagini de fundal pentru a obține imagini de fundal noi.</string>
+    <string name="other_settings_mifg_online_content_summary">Permiteți conectarea Caruselului de imagini de fundal la internet pentru a obține imagini de fundal noi.</string>
     <string name="other_settings_upload_debug_log_summary">Informațiile colectate vor fi utilizate pentru localizarea și analizarea problemelor de sistem și pot conține date personale. Aceste date nu vor fi folosite pentru a vă identifica.</string>
     <string name="other_settings_upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
@@ -57,7 +58,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="terms_of_use">Termeni și condiții</string>
     <string name="terms_of_use_label">Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
     
-Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Trebuie să vă conectați la internet pentru a activa serviciile Mi, Activarea cartelei SIM, Localizarea telefonului și Mi Home</string>
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Pe durata activării, serviciile Mi, Localizarea telefonului, componenta de sistem MSA și alte componente statistice se vor conecta la internet și vor obține locația dvs.</string>
     <string name="title_fingerprint">Adăugați amprenta</string>
     <string name="user_agreement">Termenii serviciului</string>
     <string name="welcome">Bine aţi venit</string>

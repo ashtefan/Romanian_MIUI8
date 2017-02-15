@@ -52,6 +52,10 @@
         <item quantity="other">Eliminaţi %d melodii?</item>
         <item quantity="one">Eliminaţi %d melodie?</item>
     </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Ștergeți %d melodii din Mi Cloud?</item>
+        <item quantity="one">Ștergeți %d melodie din Mi Cloud?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d melodii au fost adăugate în lista de redare</item>
         <item quantity="one">O melodie a fost adăugată în lista de redare</item>
@@ -91,5 +95,26 @@
     <plurals name="reader_count">
         <item quantity="other">%d urmăritori</item>
         <item quantity="one">%d urmăritor</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d melodii nu au fost sincronizate (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d melodie nu a fost sincronizată (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Sincronizați %1$d melodii (%2$.1fMB)</item>
+        <item quantity="one">Sincronizați %1$d melodie (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Sincronizare melodii, %1$d melodii rămase (%2$.1fMB)</item>
+        <item quantity="one">Sincronizare melodii, %1$d melodie rămasă (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d melodii nu s-au sincronizat în Mi Cloud. Opriți acum?"</item>
+        <item quantity="one">"%d melodie nu s-a sincronizat în Mi Cloud. Opriți acum?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Create pe %1$s | în total %2$d melodii</item>
+        <item quantity="zero">Create pe %1$s | în total %2$d melodii</item>
+        <item quantity="one">Create pe %1$s | în total %2$d melodie</item>
     </plurals>
 </resources>

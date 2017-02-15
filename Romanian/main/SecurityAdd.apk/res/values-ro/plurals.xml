@@ -8,4 +8,13 @@
         <item quantity="other">"Nu au fost adăugate %d jocuri"</item>
         <item quantity="one">"Nu a fost adăugat %d joc"</item>
     </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicații găsite</item>
+        <item quantity="zero">0 aplicații găsite</item>
+        <item quantity="one">%d aplicație găsită</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">căutați printre %d aplicații</item>
+        <item quantity="one">Căutați %d aplicație</item>
+    </plurals>
 </resources>

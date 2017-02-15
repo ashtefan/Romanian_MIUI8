@@ -92,7 +92,7 @@
     <string name="call_telex">Apelaţi un număr de telex</string>
     <string name="call_tty_tdd">Apelaţi TTY/TDD</string>
     <string name="call_type_and_date">%1$s %2$s</string>
-    <string name="call_unit">USD</string>
+    <string name="call_unit">CNY</string>
     <string name="call_work">Apelaţi numărul de serviciu</string>
     <string name="call_work_mobile">Apelaţi numărul de mobil de la serviciu</string>
     <string name="call_work_pager">Apelaţi pagerul de serviciu</string>
@@ -399,6 +399,10 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="dialog_voicemail_airplane_mode_message">Pentru a apela mesageria vocală, dezactivaţi modul Avion.</string>
     <string name="dialog_voicemail_not_ready_message">Pentru a configura mesageria vocală, accesaţi Meniu > Setări.</string>
     <string name="directory_search_label">Director</string>
+    <string name="disclaimer_text">"Aplicația Pagini Aurii obține informații despre soldul dumneavoastră prin trimiterea unui mesaj SMS. Operatorul dumneavoastră poate actualiza cu întârziere această informație, așa că valorile primite pot fi incorecte. Dacă semnalați vreo eroare, puteți raporta prin SMS acest lucru pentru a ne putea ajuta să îmbunătățim acest serviciu. 
+
+Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</string>
+    <string name="disclaimer_title">Act de renunțare</string>
     <string name="display_all_contacts">Toată Agenda</string>
     <string name="display_more_groups">Mai multe grupuri…</string>
     <string name="display_only_phones">Se ascund contactele cu nr. incomplete</string>
@@ -1038,6 +1042,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="remove_duplicate">MIUI vă va ajuta să găsiţi şi să îmbinaţi contactele dublate.
     
 Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
+    <string name="report_inquiry_mms">Raportați prin SMS</string>
     <string name="restore_nickname">Restabiliţi</string>
     <string name="ret_sign">"
 "</string>

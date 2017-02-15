@@ -96,29 +96,29 @@
         <item quantity="other">%1$d elemente | %2$s</item>
         <item quantity="one">%1$d element | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d elemente au fost rezervate</item>
-        <item quantity="one">%1$d element a fost rezervat</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d fotografii și videoclipuri</item>
+        <item quantity="one">%1$d fotografie sau videoclip</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d elemente așteaptă să fie rezervate</item>
-        <item quantity="one">%1$d element așteaptă să fie rezervat</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d fotografii și videoclipuri | %2$s</item>
+        <item quantity="one">%1$d fotografie sau videoclip | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-       <item quantity="other">Eroare de rețea. %1$d elemente așteaptă să fie rezervate.</item>
-        <item quantity="one">Eroare de rețea. %1$d element așteaptă să fie rezervat.</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>
+        <item quantity="one">"Nu s-a sincronizat %d fotografie sau videoclip"</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Sincronizarea este oprită. %1$d elemente așteaptă să fie rezervate.</item>
-        <item quantity="one">Sincronizarea este oprită. %1$d element așteaptă să fie rezervat.</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">"Nu s-au putut sincroniza %1$d elemente"</item>
-        <item quantity="one">"Nu s-a putut sincroniza %1$d element"</item>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d fotografii</item>
+        <item quantity="one">%d fotografie</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Nu există suficient spațiu pe telefon. %1$d elemente așteaptă să fie rezervate</item>
-        <item quantity="one">Nu există suficient spațiu pe telefon. %1$d element așteaptă să fie rezervat</item>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotografii</item>
@@ -163,5 +163,13 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"S-au omis %1$d fotografii care nu au putut fi încărcate."</item>
         <item quantity="one">"S-a omis o fotografie care nu a putut fi încărcată."</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">În total %1$d elemente</item>
+        <item quantity="one">În total %1$d element</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Au fost găsite %1$d fotografii noi</item>
+        <item quantity="one">A fost găsită o fotografie nouă</item>
     </plurals>
 </resources>

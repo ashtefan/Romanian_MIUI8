@@ -2,6 +2,8 @@
 <resources>
     <string name="app_loaction">Căutare pe Ecranul principal</string>
     <string name="app_name">Căutare</string>
+    <string name="appindex_description">funcțiile aplicațiilor instalate</string>
+    <string name="appindex_search_label">Funcțiile aplicațiilor</string>
     <string name="application_desc">Aplicație</string>
     <string name="applications_search_label">Aplicații</string>
     <string name="apps_search_activity" />
@@ -51,6 +53,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="permission_prompt_start">Permiteți</string>
     <string name="permission_prompt_started_info">"Ați acordat permisiunea de căutare globală"</string>
     <string name="permission_prompt_title">Doriți mai mult?</string>
+    <string name="pull_to_input">Glisați în jos pentru a afișa bara de căutare</string>
     <string name="recent_apps">Aplicații recente</string>
     <string name="recent_apps_filter">"Ascundeți aplicațiile pe care nu le utilizați"</string>
     <string name="recent_close_content">"Dezactivați acum această caracteristică?

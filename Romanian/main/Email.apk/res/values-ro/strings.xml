@@ -3,6 +3,8 @@
     <string name="SMTP_independent_verification_text">Verificare independentă SMTP</string>
     <string name="SMTP_password_text">Parolă</string>
     <string name="SMTP_username_text">Nume de utilizator</string>
+    <string name="accessibility_guide_first">În ecranul următor selectați tabul \"Servicii\" pentru a activa Configurarea Automată a 139 Mailbox</string>
+    <string name="accessibility_guide_second">Apoi apăsați butonul din partea din dreapta sus și atingeți \"Confirmare\" pentru a continua.</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
     <string name="account_name_toast">Un cont cu același nume există deja</string>
@@ -137,7 +139,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Perioadă sincronizare</string>
     <string name="account_setup_options_title">Setări cont</string>
     <string name="account_setup_outgoing_port_label">Port</string>
-    <string name="account_setup_outgoing_require_login_label">Solicitaţi conectarea</string>
+    <string name="account_setup_outgoing_require_login_label">Trebuie să vă conectați</string>
     <string name="account_setup_outgoing_smtp_server_label">Server SMTP</string>
     <string name="account_setup_security_policies_required_fmt">Serverul %s vă solicită permisiunea de a controla de la distanţă unele funcţii de securitate ale dispozitivului Android. Doriţi să finalizaţi configurarea acestui cont?</string>
     <string name="account_setup_security_required_title">Administrarea securităţii de la distanţă</string>
@@ -200,6 +202,14 @@ Actualizaţi acum?"</string>
     <string name="auto_advance_help_title">După ștergerea unui mesaj, se vizualizează…</string>
     <string name="auto_advance_label">Ștergere flux de mesaje</string>
     <string name="auto_advance_summary">Alegeți la ce mesaj se derulează după ștergerea unui e-mail</string>
+    <string name="auto_mail_describe">Configurarea automată a serviciului de e-mail 139 vă poate ajuta să completați datele de conectare ale căsuței de e-mail. Doriți să activați această caracteristică?</string>
+    <string name="auto_mail_disable_txt">Dezactivată</string>
+  <string name="auto_mail_enable_txt">Start Settings</string>
+    <string name="auto_mail_go_email">Căsuță de e-mail</string>
+    <string name="auto_mail_name">AutoMail</string>
+    <string name="auto_mail_title_note">Găsiți opțiunea \"Configurare automată a căsuței de e-mail 139\", și atingeți pentru a porni.</string>
+    <string name="auto_mail_window_description">Serviciul de configurare automată a căsuței de e-mail 139</string>
+    <string name="auto_mail_window_label">Configurare automată a căsuței de e-mail 139</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
   <string name="battery_saver">modul de economisire a energiei</string>
   <string name="battery_saver_keywords">Salvarea mesajelor; consumul de mesaje;battery saver;mail battery</string>
@@ -235,6 +245,7 @@ Actualizaţi acum?"</string>
     <string name="clear_display_images_whitelist_title">Eliminaţi aprobări imagini</string>
     <string name="click_download_all_content">[ Apăsați pentru a descărca conținutul ]</string>
     <string name="click_to_reload">Atingeți ecranul pentru a încărca din nou</string>
+    <string name="close">Închideți</string>
     <string name="collapse_recipient_details">Restrângeţi detaliile destinatarului</string>
     <string name="colon">:</string>
     <string name="compose">Compuneţi</string>
@@ -243,6 +254,9 @@ Actualizaţi acum?"</string>
     <string name="compose_picturesexceedlimits">Numărul maxim de imagini incluse este 5!</string>
     <string name="compose_send">Trimiteţi</string>
     <string name="compose_sent">E-mail trimis</string>
+    <string name="config">Numărul de telefon la căsuței de e-mail 139 a fost configurat</string>
+    <string name="config_cancel">Renunțați</string>
+    <string name="config_retry">Reîncercați</string>
     <string name="confirm">OK</string>
   <string name="confirm_before_delete">Confirmați înainte de a șterge</string>
   <string name="confirm_before_delete_keywords">confirmați înainte de a șterge;confirmați ștergerea</string>
@@ -293,8 +307,8 @@ Actualizaţi acum?"</string>
     <string name="conversation_item_mark_read">Citit</string>
     <string name="conversation_item_mark_unread">Necitit</string>
     <string name="conversation_photo_welcome_text">Atingeți imaginea expeditorului pentru a selecta o conversație.</string>
-    <string name="conversation_quick_button_approve">De acord</string>
-    <string name="conversation_quick_button_disapprove">Nu sunt de acord</string>
+    <string name="conversation_quick_button_approve">OK</string>
+    <string name="conversation_quick_button_disapprove">Renunțați</string>
     <string name="conversation_quick_button_received">Primite</string>
   <string name="conversation_view">sesiunea de afișare</string>
   <string name="conversation_view_keywords">vizualizare conversații;vizualizare e-mailuri</string>
@@ -358,6 +372,7 @@ Actualizaţi acum?"</string>
     <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Mesaje rapide</string>
     <string name="elided_padding_token"> </string>
+    <string name="email_address">Adresa de e-mail</string>
     <string name="email_feedback_uri" />
     <string name="email_setting">E-mail</string>
     <string name="email_setting_keywords">Conturi;Adăugare cont;conturi de e-mail;adăugare cont de e-mail;confirmare înainte de ștergere;confirmare ștergere;confirmare înainte de a trimite;confirmare trimitere;ștergere flux de mesaje;delete redirect;vizualizare conversații;mail conversation;economisire acumulator;acumulator e-mail;trimitere comentariu;încărcare jurnale</string>
@@ -369,6 +384,7 @@ Actualizaţi acum?"</string>
     <string name="empty_trash_dialog_title">Goliţi coşul de reciclare?</string>
     <string name="enable_sync_in_account_settings">Activaţi din %1$s.</string>
     <string name="enumeration_delimiter">" | "</string>
+    <string name="error">eroare</string>
     <string name="exception_cancel">"
     Acest eveniment a fost anulat
     pentru:
@@ -393,7 +409,10 @@ Actualizaţi acum?"</string>
     <string name="file_not_found_redownload">Nu se poate găsi fișierul</string>
     <string name="file_rar_not_support">Nu se pot deschide fișiere de tip .rar criptate</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
-    <string name="first_quick_default_reply">Apăsați acest buton și \"%s\" va fi trimis tuturor destinatarilor.</string>
+    <string name="first_quick_default_reply">Apăsați butonul pentru a trimite \"%s\" tuturor persoanelor care participă la această conversație.</string>
+    <string name="float_window_content">Detectează că utilizați căsuța de e-mail, atingeți Confirmare pentru completarea automată a numelui de utilizator și a parolei contului 139.</string>
+    <string name="float_window_info">"Atunci când configurați căsuța de e-mail 139, nu utilizați telefonul, în cazul în care configurarea eșuează."</string>
+    <string name="float_window_title">Configurare………</string>
     <string name="folder_drafts_name_cn0">Proiecte</string>
     <string name="folder_drafts_name_cn1">Schițe</string>
     <string name="folder_drafts_name_cn2">[Gmail]/Proiecte</string>
@@ -462,6 +481,7 @@ Actualizaţi acum?"</string>
     <string name="header_category_other">Feedback</string>
     <string name="header_label_general_preferences">Generale</string>
     <string name="help_and_info">Ajutor</string>
+  <string name="help_config">Configurare automată?</string>
     <string name="hide_atts_remaining">Ascundeţi %1$d ataşamente</string>
     <string name="hide_elided">▼ Ascundeți textul citat</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -488,6 +508,7 @@ Actualizaţi acum?"</string>
     <string name="local_search">Căutare locală</string>
     <string name="local_search_result">%s rezultate găsite în mesajele sincronizate</string>
     <string name="login">Conectaţi-vă</string>
+    <string name="login139">Conectare CMCC printr-un buton</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
     <string name="long_press_to_select_tip">Atingeți și mențineți apăsat pentru a selecta o conversație, apoi atingeţi pentru a selecta mai multe.</string>
@@ -605,6 +626,7 @@ Actualizaţi acum?"</string>
     <string name="mute">Suprimaţi</string>
     <string name="network_error">Nicio conexiune</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
+    <string name="network_tip">Autentificarea a eșuat, verificați conexiunea la rețea</string>
     <string name="network_try_again">Verificați setările rețelei</string>
     <string name="network_unavailable">Rețea indisponibilă</string>
     <string name="new_incoming_messages_one">Mesaj nou de la %s. Afişaţi.</string>
@@ -619,8 +641,11 @@ Actualizaţi acum?"</string>
     <string name="no_conversations">Niciun mesaj</string>
     <string name="no_mails">Niciun e-mail.</string>
     <string name="no_matched_attachment">Niciun rezultat.</string>
+    <string name="no_remind">Nu-mi mai aminti</string>
     <string name="not_subject">(Niciun subiect)</string>
     <string name="not_synced_title">Cont nesincronizat</string>
+    <string name="note_text">Posibilă prin rețeaua China Mobile sau verificare prin SMS; poate genera costuri suplimentare de trafic de date sau SMS-uri.</string>
+    <string name="note_title">Configurare automată e-mail 139</string>
     <string name="notification_action_archive">Arhivaţi</string>
     <string name="notification_action_delete">Ştergeţi</string>
     <string name="notification_action_remove_label">Eliminați eticheta</string>
@@ -633,6 +658,7 @@ Actualizaţi acum?"</string>
     <string name="oauth_error_description">Autentificare eșuată</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google pe următoarea pagină de autentificare.</string>
     <string name="oauth_login_continue">Continuare</string>
+    <string name="oauth_login_continue_qq">Obțineți codul de autorizare pentru a vă conecta &gt;</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
     <string name="outbox_alert_button_no_resend">Nu se retrimite</string>
@@ -656,6 +682,10 @@ Actualizaţi acum?"</string>
     <string name="outbox_alert_select_operation">Selectaţi o acţiune</string>
     <string name="outbox_alert_title_sent_failed">Nu s-a putut trimite e-mailul</string>
     <string name="outbox_no_mails">Gol</string>
+    <string name="overlays_fail_tip">Ne pare foarte rău că nu s-a putut configura cu succes căsuța de e-mail; deschideți fereastra plutitoare de permisiuni și reîncercați</string>
+    <string name="overlays_ok">Deschideți fereastra de permisiuni</string>
+    <string name="overlays_tip">Deschideți fereastra de permisiuni și bucurați-vă imediat de experiența extremă a configurării automate a căsuței de e-mail 139.</string>
+    <string name="overlays_title">Deschideți fereastra plutitoare de permisiuni</string>
     <string name="parase_setup_data">Obţinere date…</string>
     <string name="password_expire_warning_content_title">Parola de blocare a ecranului expiră</string>
     <string name="password_expire_warning_dialog_content_fmt">Este necesar să modificaţi în curând codul PIN sau parola de blocare a ecranului. În caz contrar, datele pentru %s vor fi şterse. Modificaţi acum?</string>
@@ -685,6 +715,7 @@ Actualizaţi acum?"</string>
     <string name="permission_access_provider_label">Accesare date e-mail oferite de KingSoft</string>
     <string name="permission_read_attachment_desc">Se permite aplicaţiei să citească ataşamentele din e-mail.</string>
     <string name="permission_read_attachment_label">Citire ataşamente e-mail</string>
+    <string name="permission_tip">Configurarea a eșuat, vă rugăm să permiteți efectuarea de apeluri și trimiterea de mesaje SMS în timpul configurării</string>
     <string name="phone">telefon</string>
     <string name="photo_load_failed">Imaginea nu s-a putut încărca</string>
     <string name="photo_view_count" formatted="false">%d din %d</string>
@@ -745,6 +776,17 @@ Actualizaţi acum?"</string>
     <string name="push_wps_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_no_response_app">Nu a fost găsită nicio aplicație pentru a gestiona această acţiune</string>
+    <string name="qq_bar_open_imap">Activați</string>
+    <string name="qq_bar_send_message">Trimiteți SMS</string>
+    <string name="qq_login_basecode">Conectați-vă la QQ Email din browser. Introduceți parola independentă.</string>
+    <string name="qq_login_get_auth">A eșuat trimiterea SMS-ului de verificare? Autentificați-vă răspunzând la întrebările de securitate a parolei</string>
+    <string name="qq_login_open_imap">Apăsați \"Activați\" pentru a activa \"IMAP/SMTP\"</string>
+    <string name="qq_login_origin_setting">Introduceți numele de utilizator și parola pentru a vă autentifica &gt;</string>
+    <string name="qq_login_send_message">Apăsați \"Trimiteți SMS\" pentru a obține un cod de autorizare</string>
+    <string name="qq_login_webview">Autentificare la QQ Email din browser. Introduceți vă rog parola.</string>
+    <string name="qq_next_generation_auth_toast">Vă rugăm completați aplicația pentru protecția de generație nouă a parolei din browser</string>
+    <string name="qq_uthentication_failed">Autentificarea a eșuat; vă rugăm conectați-vă din nou</string>
+    <string name="qq_webview_loading">Se omite acum, vă rugăm să așteptați...</string>
     <string name="questionnair_body_invisibility">"Mesajele nu sunt afișate"</string>
     <string name="questionnair_confirm_delete">Ștergeți</string>
     <string name="questionnair_instability">Aplicație instabilă, se blochează în mod frecvent</string>
@@ -847,7 +889,7 @@ Actualizaţi acum?"</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Se trimite…</string>
     <string name="sending_message">Se trimite mesajul…</string>
-    <string name="sending_quick_reply">Se trimite e-mailul \"%s\"</string>
+    <string name="sending_quick_reply">Se trimite \"%s\"</string>
     <string name="sent_folder_selection_title">Dosar articole trimise pentru %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Nu s-a putut valida certificatul de server
 \u0009 (Asigurați-vă că \"timpul de sincronizare automată\" este activat în Setări)"</string>
@@ -877,6 +919,7 @@ Actualizaţi acum?"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="sms_tip">Autentificarea a eșuat; verificați dacă antivirusul interceptează SMS-urile</string>
     <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
     <string name="sort_attachment">Sortaţi după</string>
     <string name="special_text_1">Redactare:</string>
@@ -961,6 +1004,13 @@ Actualizaţi acum?"</string>
     <string name="wait_for_manual_sync_body">"Acest cont nu este configurat pentru sincronizare automată.
 Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţi setările de sincronizare pentru a sincroniza e-mailurile în mod automat.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
+    <string name="wait_help_context">așteptați</string>
+    <string name="webview_logout">Sigur renunțați la conectare? Reveniți și reîncercați!</string>
+    <string name="webview_logout_cancel">"Nu mai încerc"</string>
+    <string name="webview_logout_sure">Mai încerc o dată</string>
+    <string name="webview_sslerror_handle_cancel">Renunțați</string>
+    <string name="webview_sslerror_handle_continue">Continuați</string>
+    <string name="webview_sslerror_handle_hitmessage">Eroare de Certificat! Continuați în acest website (nerecomandat)?</string>
     <string name="widget_all_mail">Toate e-mailurile</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altele</string>

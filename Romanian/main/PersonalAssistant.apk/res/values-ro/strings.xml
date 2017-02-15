@@ -5,6 +5,9 @@
     <string name="account_address">Adresă</string>
     <string name="address_name_spell">Introduceți adresa</string>
     <string name="adjustment_order">Schimbați ordinea</string>
+  <string name="agenda">Memento calendar</string>
+  <string name="agenda_open">Deschideți calendar memento cartelă</string>
+  <string name="agenda_setting_brief">În cazul în care programul urmează să fie executați în aceeași zi, înainte de a va avea loc programul pentru a vă reaminti că problema următoare</string>
     <string name="alipay_scan">Scaner</string>
     <string name="app_label">Asistent inteligent</string>
     <string name="apps">Recomandări aplicații</string>
@@ -26,6 +29,9 @@
     <string name="choose_city">Vă rugăm să selectați un oraș</string>
     <string name="choose_upload">Selectați fișierele de încărcat</string>
     <string name="city_name_spell">Introduceți numele orașului</string>
+  <string name="cleanup_garbage">golire coș de gunoi</string>
+  <string name="cleanup_memory">Eliberare memorie</string>
+  <string name="cleanup_power">Curățare profundă</string>
     <string name="clear">Goliți</string>
     <string name="closed">Închis</string>
     <string name="commute">Sugestii destinații</string>
@@ -41,11 +47,13 @@
     <string name="cta_dialog_text4">\"Politica de confidențialitate\"</string>
     <string name="cta_dialog_text5">Serviciul necesită de asemenea conectarea la internet și accesarea locației. Sunteți de acord?</string>
     <string name="cta_dialog_title">Termeni și Condiții</string>
+  <string name="daily_greeting">Salutări zilnice</string>
     <string name="data_error">Ne pare rău, serviciul este indisponibil momentan. Vă rugăm să încercați din nou mai târziu</string>
     <string name="data_error_show">"Comanda este finalizată, nu se pot afișa detalii"</string>
     <string name="drive">Conduceți</string>
-  <string name="duokan_open">Citire deschis pentru a vedea mai multe carduri</string>
-  <string name="duokan_reading">Citește mai mult pentru a vedea</string>
+    <string name="duokan_not_installed">"Această aplicație nu este instalată pe telefon. Nu se poate utiliza acest card acum."</string>
+    <string name="duokan_open">Adăugați un card Duokan</string>
+    <string name="duokan_reading">Duokan</string>
     <string name="duokan_setting_brief">Reluați lectura de unde ați rămas.</string>
     <string name="entrance">Scurtături card</string>
     <string name="exercise_setting_brief">Vedeți starea activităților(Permiteți pornirea automată pentru Mi Fit din Securitate).</string>
@@ -58,11 +66,22 @@
     <string name="express_support_app">Aplicații suportate</string>
     <string name="express_taobao">Taobao</string>
     <string name="express_tmall">Tmall</string>
+  <string name="favorite">Favoritele mele</string>
+  <string name="favorite_main">Înregistrare favorite</string>
     <string name="flow_open">Arată cardul pentru date mobile</string>
     <string name="flow_setting_brief">Gestionați traficul de date mobile(Adăugați planul de date în Securitate>Utilizare date).</string>
     <string name="focus">Urmărește starea</string>
     <string name="focus_on_dynamic">Urmărește starea</string>
     <string name="go_to_school">De la sau spre școală/servici</string>
+  <string name="greeting_open">Salutări de zi cu zi deschise</string>
+  <string name="greeting_setting_brief">În fiecare dimineață și seara, salutări de prognoza meteo și de programare, ceas cu alarmă, contacte, memento-uri ziua de nastere</string>
+  <string name="greeting_setting_brief_notice">informații meteo din aplicația meteo folosind oraș, orașul poate fi modificat pentru a modifica aplicația meteo</string>
+  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
+  <string name="greeting_weather_desc_from_to">%1$s转%2$s</string>
+  <string name="greeting_weather_prefix_moring">azi</string>
+  <string name="greeting_weather_prefix_night">mâine</string>
+  <string name="greeting_weather_prefix_saturday">sâmbătă</string>
+  <string name="greeting_weather_prefix_sunday">duminică</string>
     <string name="groupon">Tichete și cupoane</string>
     <string name="groupon_open">Arată cardurile pentru tichete și cupoane</string>
     <string name="groupon_setting_brief">Afișați informațiile despre tichetele și cupoanele achiziționate.</string>
@@ -70,6 +89,8 @@
     <string name="hold_down_adjustment_order">Țineți apăsat pe iconiță pentru a muta elemente</string>
     <string name="home">Acasă</string>
     <string name="home_and_company">Acasă și servici</string>
+    <string name="hour12_format_en">hh:mm</string>
+    <string name="hour24_format_en">HH:mm</string>
     <string name="immediate_recommendation">Recomandări</string>
   <string name="keyword_recommend">sugera</string>
     <string name="launch_app">Recomandări aplicații</string>
@@ -101,6 +122,7 @@
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sport_go_install">Descărcați</string>
     <string name="mi_sport_not_installed">"Această aplicație nu este instalată pe telefonul dvs. Nu se poate utiliza acest card acum."</string>
+  <string name="mi_wallet">Portofelul meu</string>
     <string name="music">Muzică și radio</string>
     <string name="music_open">Arată cardurile pentru muzică și radio</string>
     <string name="music_setting_brief">Conectați căștile pentru a continua să ascultați muzica sau radioul de unde ați rămas.</string>
@@ -130,6 +152,7 @@
     <string name="notification_express_content">Urmăriți comenzile utilizând Asistentul inteligent</string>
     <string name="notification_express_title">Activați cardurile pentru aplicațiile de cumpărături</string>
     <string name="opened">Activați</string>
+  <string name="pay_card_pack">Plățile mele</string>
     <string name="paycode_parent">Alipay</string>
     <string name="place_label">Locaţii frecventate</string>
     <string name="preferences">Preferinţe</string>
@@ -150,6 +173,7 @@
     <string name="scan_exercise">Studiu</string>
     <string name="scan_parent">Scaner</string>
     <string name="scan_trans">Traducere</string>
+  <string name="security">Centrul de securitate</string>
     <string name="service_unavailiable">Verificați conexiunea la rețea și reîncercați</string>
     <string name="setting_address">Adăugați locații frecventate</string>
     <string name="setting_dialog_cancel">Renunțați</string>
@@ -168,6 +192,7 @@
     <string name="taxi">Taxi</string>
     <string name="taxi_open">Arată cardurile pentru taxi</string>
     <string name="taxi_setting_brief">Chemați un taxi printr-o apăsare de buton.</string>
+  <string name="trans_card">Bilet de autobuz</string>
     <string name="transit_subway">Transport în comun</string>
     <string name="try_again">Încercați din nou</string>
     <string name="understandassistant">Despre Asistentul inteligent</string>
@@ -176,6 +201,9 @@
     <string name="weibo_name">Postare nouă</string>
     <string name="weibo_parent">Weibo</string>
     <string name="which_transport">Cu ce ajungeți în mod obișnuit la destinație?</string>
+    <string name="widget_fav">favorite</string>
+    <string name="widget_fav_open">Arată cardurile favorite</string>
+    <string name="widget_fav_setting_brief">Vizualizați datele dumneavoastră favorite.</string>
   <string name="wx_aa">Go Dutch</string>
     <string name="wx_collectioncode">Primiți bani</string>
     <string name="wx_name">Cardul meu</string>
@@ -183,4 +211,5 @@
     <string name="wx_paycode">Plată</string>
     <string name="wx_scan">Scaner</string>
     <string name="wx_timeline">Momente</string>
+    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>

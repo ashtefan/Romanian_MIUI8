@@ -43,8 +43,8 @@
     <string name="sst_grid_view_select_all">Selectați tot</string>
     <string name="sst_grid_view_unselect_all">Deselectați tot</string>
     <string name="sst_no_favor_wallpaper_hint">Nicio imagine favorită</string>
-    <string name="sst_prov_enable_desc">"Activați caruselul de imagini de fundal
-\npentru blocarea ecranului"</string>
+    <string name="sst_prov_enable_desc">Activați caruselul de imagini de fundal
+\npentru blocarea ecranului. Adăugați imaginile de fundal în dosarul Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
     <string name="sst_prov_enable_title">Activați caruselul de imagini de fundal</string>
     <string name="sst_require_one_category_hint">Selectați cel puțin o categorie</string>
     <string name="sst_sti_desc">Setați intervalul de timp pentru modificarea imaginii

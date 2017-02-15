@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="preferences_week_start_day_labels">
-        <item>Codul local prestabilit</item>
-        <item>Sâmbătă</item>
-        <item>Duminică</item>
-        <item>Luni</item>
-     </string-array>
+   
      <string-array name="timezone_labels">
         <item>Insulele Marshall</item>
         <item>Insula Midway</item>
@@ -139,6 +134,12 @@
         <item>Cu 2 zile înainte de eveniment</item>
         <item>Cu o săptămână înainte de eveniment</item>
     </string-array>
+<string-array name="preferences_week_start_day_labels">
+        <item>Codul local prestabilit</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+        <item>Luni</item>
+     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Întotdeauna</item>
         <item>Doar în modul Silențios</item>

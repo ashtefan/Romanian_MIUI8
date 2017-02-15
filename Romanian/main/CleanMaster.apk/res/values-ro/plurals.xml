@@ -81,4 +81,12 @@
         <item quantity="other">%d aplicații instalate</item>
         <item quantity="one">%d aplicație instalată</item>
     </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">"Nu s-au putut exporta %d videoclipuri. Eliberați spațiu și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut exporta %d videoclip. Eliberați spațiu și reîncercați."</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">（%1$d fișiere goale）%2$s</item>
+        <item quantity="one">（%1$d fișier gol）%2$s</item>
+    </plurals>
 </resources>

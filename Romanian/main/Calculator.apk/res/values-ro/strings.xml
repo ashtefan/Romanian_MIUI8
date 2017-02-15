@@ -143,11 +143,11 @@
     <string name="preference_alert_follow_qq_group">Copiați și lipiți în QQ pentru a lăsa un comentariu</string>
     <string name="preference_alert_follow_wechat">Copiați și lipiți în WeChat pentru a urmări</string>
     <string name="preference_alert_follow_wechat_button">Copiați</string>
-    <string name="preference_check_update_summary_current_version">Versiunea curentă：%s</string>
+    <string name="preference_check_update_summary_current_version">Versiunea curentă： %s</string>
     <string name="preference_check_update_summary_new_version">A apărut o nouă versiune： %s</string>
     <string name="preference_check_update_title">Căutați actualizări</string>
     <string name="preference_feedback_title">Întrebări frecvente</string>
-    <string name="preference_follow_qq_group">Numărul grupului QQ:523274279</string>
+    <string name="preference_follow_qq_group">Numărul grupului QQ: 523274279</string>
     <string name="preference_follow_us">Urmăriți-ne</string>
     <string name="preference_follow_web_summary">www.miui.com</string>
     <string name="preference_follow_web_title">Site-ul oficial</string>

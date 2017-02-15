@@ -46,7 +46,6 @@
     <string name="birthday_event_description_today">Astăzi este</string>
     <string name="birthday_event_description_tomorrow">Mâine este</string>
     <string name="birthday_event_description_yesterday">Ieri a fost</string>
-    <string name="birthday_event_title_suffix">" își serbează ziua de naștere"</string>
     <string name="birthday_metric" />
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_text_days_later">%1$s zile până la %4$s (%5$s)</string>
@@ -120,13 +119,13 @@
   <string name="downloading">Descărcați</string>
   <string name="downloading_wallpaper">Imagine de fundal</string>
     <string name="edit_event_all_day_label">Toată ziua</string>
-    <string name="edit_event_birthday_3_days_before">Cu trei zile înainte,</string>
     <string name="edit_event_birthday_import_from_contact">Importați ziua de naștere din Agendă</string>
     <string name="edit_event_birthday_name_empty_hint">Vă rugăm să introduceți un nume</string>
     <string name="edit_event_birthday_name_hint">Nume</string>
     <string name="edit_event_birthday_reminder_3_days_before">Și amintește-mi cu 3 zile înainte</string>
+    <string name="edit_event_birthday_reminder_summary">În acea zi la %1$s</string>
+    <string name="edit_event_birthday_reminder_summary_3_days_before">Cu trei zile în urmă, și în acea zi la %1$s</string>
     <string name="edit_event_birthday_reminder_time">Dată memento</string>
-    <string name="edit_event_birthday_the_day"> la ora </string>
     <string name="edit_event_calendar_label">Calendar</string>
     <string name="edit_event_choose_date">selectați data</string>
     <string name="edit_event_confirm_message">Renunțați la modificări?</string>
@@ -134,6 +133,8 @@
     <string name="edit_event_input_year">Introduceți anul</string>
     <string name="edit_event_label">Detalii</string>
     <string name="edit_event_no_reminder_value">Niciun memento</string>
+    <string name="edit_event_reminder_text">%1$s în ziua %2$s</string>
+    <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s ziua %3$s</string>
     <string name="edit_event_show_all">Afişaţi-le pe toate</string>
     <string name="edit_event_tab_anniversary">aniversare</string>
     <string name="edit_event_tab_birthday">zi de naștere</string>

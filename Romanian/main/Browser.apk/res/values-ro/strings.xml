@@ -283,6 +283,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="edit">Editaţi</string>
     <string name="edit_bookmark">Modificaţi marcajul</string>
     <string name="edit_quicklink">Editaţi</string>
+    <string name="empty_app_name">altă aplicație</string>
     <string name="empty_bookmark">Gol</string>
     <string name="empty_history_hint">Istoric gol</string>
     <string name="empty_snapshot_hint">Gol</string>
@@ -481,6 +482,7 @@ Părăsiţi această pagină?"</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
     <string name="ok">OK</string>
     <string name="older">Vechi</string>
+    <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_file_explorer_failed">"Nu s-a putut deschide Exploratorul de fișiere"</string>
     <string name="opening_file_error">Nu se poate deschide fișierul selectat</string>
     <string name="page_info">Informaţii pagină</string>

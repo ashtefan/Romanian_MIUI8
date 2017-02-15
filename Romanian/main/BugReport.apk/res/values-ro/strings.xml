@@ -81,6 +81,7 @@
     <string name="feedback_status_commit_failed_title">"Nu s-a putut trimite raportul"</string>
     <string name="feedback_status_commit_succ_title">Trimis</string>
     <string name="feedback_status_commit_uploading_title">Se trimite…</string>
+    <string name="feedback_status_forum_reply">Răspuns</string>
     <string name="feedback_status_jira_comment">Adăugați un comentariu</string>
     <string name="feedback_status_more">Detalii</string>
     <string name="feedback_status_processing">Procesare…</string>
@@ -88,6 +89,7 @@
     <string name="feedback_status_replyed">Răspuns</string>
     <string name="feedback_status_reresolved">Rezolvat</string>
     <string name="feedback_status_supplement">Descrieți în detaliu problema</string>
+    <string name="feedback_status_supplement_more">Adăugați un comentariu</string>
     <string name="feedback_submit_failed_notification_desc">Vedeți detaliile</string>
     <string name="feedback_submit_failed_notification_retry">Trimiteți din nou</string>
     <string name="feedback_submit_failed_notification_title">"Nu s-a putut trimite raportul"</string>
@@ -220,6 +222,7 @@
     <string name="nothing">--</string>
     <string name="open_feedback_main">Mai multe</string>
     <string name="packaging_dialog_content">Creare raport…</string>
+    <string name="permission_granted">%1$s permisiune acceptată</string>
     <string name="pic_not_exist">"Această imagine nu există"</string>
     <string name="pic_view_format">%1$s/%2$s</string>
     <string name="plus_one_submit_dialog_content">Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi, atunci când dispozitivul este conectat la Wi-Fi.</string>
@@ -254,7 +257,9 @@
     <string name="tab_title_chat">Întrebări frecvente</string>
     <string name="tab_title_my_reports">Rapoartele mele</string>
     <string name="tab_title_report">Feedback</string>
+    <string name="time_in_justnow">Chiar acum</string>
     <string name="title_answer_feedback_main">Am găsit răspunsurile!</string>
+    <string name="title_bbs_feedback_main">Aflați mai multe despre gama de telefoane Xiaomi</string>
     <string name="title_frequent_question_feedback_main">Întrebări frecvente</string>
     <string name="title_mi_family">Dispozitive Mi din apropiere</string>
     <string name="title_nonsystem_app">Alte aplicaţii</string>

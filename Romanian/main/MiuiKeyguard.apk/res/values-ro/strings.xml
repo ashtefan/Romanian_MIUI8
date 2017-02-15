@@ -63,6 +63,14 @@
     <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide %s</string>
     <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a deschide %s</string>
     <string name="open_wifi_settings">Conexiune deschisă la reţea</string>
+    <string name="phone_locked_foget_password">Ați uitat parola?</string>
+    <string name="phone_locked_foget_password_content">"Vă puteți conecta la i.mi.com utilizând contul Mi asociat acestui telefon, și să ștergeți toate datele. Acest lucru va duce la ștergerea datelor personale stocate pe acest telefon. După aceea, puteți reporni telefonul și restaura contactele, mesajele și celelalte elemente din Mi Cloud. 
+
+Nu veți putea face acest lucru dacă nu sunteți conectat la contul Mi de pe acest dispozitiv. Altfel, va trebui să reinstalați sistemul de operare."</string>
+    <string name="phone_locked_foget_password_footer">"Pași:
+Conectați-vă la i.mi.com, mergeți la “Găsire dispozitiv”, selectați dispozitivul și atingeți Șterge dispozitiv."</string>
+    <string name="phone_locked_foget_password_header">Ce trebuie să fac dacă uit parola?</string>
+    <string name="phone_locked_foget_password_ok">Am înțeles</string>
     <string name="phone_locked_string">Telefon blocat</string>
     <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>
     <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %s secunde</string>

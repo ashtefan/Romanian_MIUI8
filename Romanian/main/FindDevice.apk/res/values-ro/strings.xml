@@ -44,6 +44,8 @@ Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a r
     <string name="passport_verify">Verificați</string>
     <string name="password">Parola</string>
     <string name="phone_locked">Acest dispozitiv poate fi asociat cu un cont Mi existent (%s). Autentificați-vă pentru a activa acest dispozitiv.</string>
+    <string name="phone_locked_account_email">, e-mail asociat: %s</string>
+    <string name="phone_locked_account_phone">, număr de telefon asociat: %s</string>
     <string name="stop_on_empty_captcha">"Codul de verificare nu poate fi gol"</string>
     <string name="stop_on_empty_password">"Câmpul Parolă nu poate fi gol"</string>
     <string name="time_correction_failure">"Nu s-a putut corecta ora. %s"</string>

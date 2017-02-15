@@ -143,10 +143,6 @@
     <string name="mark_agent_block">Raportat ca Agenţie</string>
     <string name="mark_agent_block_large">Agenţii</string>
     <string name="mark_agent_time_setting">Se blochează numerele ce au fost raportate ca Agenţii de un anumit număr de ori</string>
-    <string name="mark_courier">Blocare numere raportate drept curieri</string>
-    <string name="mark_courier_block">Raportat drept Curier</string>
-    <string name="mark_courier_block_large">Curieri</string>
-    <string name="mark_courier_time_setting">Se blochează numerele ce au fost raportate drept Curieri de un anumit număr de ori</string>
     <string name="mark_fraud">Blocare numere raportate ca Escrocherii</string>
     <string name="mark_fraud_block">Raportat ca Escrocherie</string>
     <string name="mark_fraud_block_large">Escrocherii</string>
@@ -156,7 +152,6 @@
     <string name="mark_harass_block_large">Cicălitor</string>
     <string name="mark_harass_time_setting">Se blochează numerele ce au fost raportate ca Cicălitori de un anumit număr de ori</string>
     <string name="mark_number_agent">Agent</string>
-    <string name="mark_number_courier">Curier</string>
     <string name="mark_number_fraud">Fraudă</string>
     <string name="mark_number_harass">Hărțuire</string>
     <string name="mark_number_info">Rețineți că, uneori, aceste apeluri pot fi utile (de exemplu atunci când sunteți în căutarea unui apartament). Blocaţi numai numerele de la care nu doriți să primiți apeluri.</string>
