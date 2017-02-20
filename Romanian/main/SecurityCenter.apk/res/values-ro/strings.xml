@@ -171,6 +171,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="auto_task_notify_task_cancel_count_down">Acțiunea automată va fi anulată în 5 secunde</string>
     <string name="auto_task_notify_task_cancel_do">Opriți sarcina</string>
     <string name="auto_task_notify_task_canceled_summary">Veți putea efectua și primi apeluri</string>
+    <string name="auto_task_notify_task_canceled_summary2">"Se pare că jucați un joc acum."</string>
     <string name="auto_task_notify_task_canceled_title">Acțiunea este anulată</string>
     <string name="auto_task_notify_task_continue_do">Lansați acțiunea</string>
     <string name="auto_task_notify_task_count_down">Acțiunea automată va porni în 5 secunde</string>
@@ -327,6 +328,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="card_main_deepclean_title">Curățare profundă</string>
     <string name="card_main_gamebooster_summary">Creșteți viteza și îmbunătățiți experiența de gaming</string>
     <string name="card_main_gamebooster_title">Creștere viteză de gaming</string>
+    <string name="card_main_hbassistant_summary">Utilizați această unealtă pentru a apuca mai repede plicurile</string>
+    <string name="card_main_hbassistant_title">Asistent Red envelope</string>
     <string name="card_main_monthreport_action">Vizualizați</string>
     <string name="card_main_monthreport_summary">Vedeți rapoartele lunare</string>
     <string name="card_main_monthreport_title">Stare securitate</string>
@@ -414,6 +417,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_from_manual_item_white_list">Eliminați din excepții</string>
     <string name="deleted_apps">Aplicaţii dezinstalate</string>
+    <string name="demo_number">241</string>
     <string name="descx_cleanuping_item">Optimizare %s</string>
     <string name="descx_finish_cleanup_cache">Finalizare optimizare cache</string>
     <string name="descx_finish_cleanup_memory">Finalizare optimizare memorie</string>
@@ -580,7 +584,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular astăzi</string>
     <string name="info_and_call">Apeluri şi mesagerie</string>
-    <string name="information_setting">Setări flux de știri</string>
+    <string name="information_setting">Recomandări</string>
     <string name="input_aviable_traffic">Setaţi limita de utilizare a datelor</string>
     <string name="input_traffic_pkg">Introduceţi utilizarea datelor</string>
     <string name="input_used_hint">Introduceţi utilizarea datelor</string>
@@ -627,7 +631,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="legal_workday_message">(Omiteţi sărbătorile)</string>
     <string name="list_empty_text">Gol</string>
     <string name="load_fail">Nu se poate încărca</string>
-    <string name="load_only_under_wlan">Descarcă știrile doar când este conectat la Wi-Fi</string>
+    <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="local_ip_exception_summary">Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de pe dispozitivul dvs.</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s utilizaţi la blocarea ecranului</string>
@@ -1119,7 +1123,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="recently_reject_message">Instalarea %1$s și a altor %2$d aplicații a fost respinsă</string>
     <string name="recently_reject_message_one">Solicitarea de instalare a %1$s a fost respinsă</string>
     <string name="recommend_app">Aplicații recomandate</string>
-    <string name="recommend_news">Surse recomandate</string>
+    <string name="recommend_news">Primiți recomandări</string>
     <string name="recommended">Recomandare</string>
     <string name="reject_all">Restricționați tot</string>
     <string name="reject_countdown">Refuzați (%d)</string>
@@ -1237,6 +1241,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="showpattern">Arată modelul</string>
     <string name="shutdown_cancel_reminder">Dispozitivul nu s-a oprit</string>
     <string name="shutdown_cancel_reminder_detail">Dispozitivul nu s-a oprit pentru că un apel era în curs</string>
+    <string name="shutdown_cancel_reminder_detail2">"Se pare că jucați un joc acum. Oprirea automată este anulată."</string>
     <string name="shutdown_time">Închidere: %1$s</string>
     <string name="shutdown_time_day">Închidere:  %2$s %1$d z</string>
     <string name="shutdown_time_day_tomorrow">Închidere: %1$s</string>

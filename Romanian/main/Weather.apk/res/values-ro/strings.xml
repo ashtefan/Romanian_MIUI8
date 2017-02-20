@@ -61,6 +61,7 @@
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
+    <string name="connect_fail">Conexiunea la rețea este anormală. Vă rugăm încercați mai târziu.</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
@@ -74,6 +75,8 @@
     <string name="daily_forecast_detail">Detalii prognoză</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
  
+    <string name="daily_forecast_no_data">"Nu s-au putut obține informațiile despre starea vremii
+Glisați în jos pentru a actualiza sau verificați setările de rețea"</string>
     <string name="edit_alert_city_title">Gestionați alertele</string>
     <string name="edit_city">Editaţi localitatea</string>
     <string name="empty">" "</string>
@@ -138,7 +141,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="other">Altele</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
+    <string name="realtime_cityname_default">Oraș</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
+    <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Vânt</string>
     <string name="refresh_fail">"Nu s-a putut conecta la rețea"</string>
     <string name="retry">Încercați din nou</string>
@@ -195,6 +200,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="view_indexes_item_today">Astăzi</string>
     <string name="view_indexes_item_tommorrow">Mâine</string>
     <string name="weather_alert">Atenționări meteo</string>
+    <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_miles_unit">%1$s mph</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="yes_vote_num"> | %1$s persoane</string>

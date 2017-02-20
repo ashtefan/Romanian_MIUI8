@@ -14,7 +14,7 @@
         <item quantity="one">%d aplicație găsită</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">căutați printre %d aplicații</item>
+        <item quantity="other">Căutați printre %d aplicații</item>
         <item quantity="one">Căutați %d aplicație</item>
     </plurals>
 </resources>

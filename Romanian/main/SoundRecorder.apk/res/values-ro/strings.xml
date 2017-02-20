@@ -39,6 +39,9 @@
     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
     <string name="export_to_note">Exportați în Note</string>
     <string name="invalid_argument">Argument invalid</string>
+  <string name="keywords_search_call_record">Înregistrare apeluri;Înregistrare apel;Call recording;Call recordings</string>
+  <string name="keywords_search_record">Înregistrare nouă;Adăugați o înregistrare;Înregistrare;Înregistrări;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
+  <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
     <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_title">Acumulator descărcat</string>
@@ -82,6 +85,7 @@
     <string name="recognition_error_internal">Eroare internă</string>
     <string name="recognition_error_stopped">Recunoașterea s-a oprit</string>
     <string name="recognition_status_downloading">Se descarcă</string>
+    <string name="record">Înregistrați</string>
     <string name="record_back_pressed_hint">Pentru a opri înregistrarea, atingeţi Înapoi din nou</string>
     <string name="record_download">Descărcaţi din Mi Cloud</string>
     <string name="record_download_complete">Descărcat</string>

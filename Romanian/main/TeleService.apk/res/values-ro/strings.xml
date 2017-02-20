@@ -115,6 +115,7 @@
     <string name="call_background_setting">Imagine de fundal pt. apelurile primite</string>
     <string name="call_barring_sum">Setările restricţionării apelurilor vocale</string>
     <string name="call_description_recording">Înregistrare…</string>
+    <string name="call_forward_option">Redirecționare apel</string>
     <string name="call_forwarding_number_hint">Redirecţionare apeluri la</string>
     <string name="call_forwarding_settings">Setările pentru redirecţionarea apelurilor</string>
     <string name="call_record_add_numbers">Adăugaţi numere</string>
@@ -504,6 +505,8 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="labelCFNRc">Redirecţionaţi dacă telefonul nu este accesibil</string>
     <string name="labelCFNRy">Redirecţionaţi când nu se răspunde</string>
     <string name="labelCFU">Redirecţionaţi întotdeauna</string>
+    <string name="labelCFVideo">Video</string>
+    <string name="labelCFVoice">Voce</string>
     <string name="labelCW">Apel în aşteptare</string>
     <string name="labelCallerId">ID apelant</string>
     <string name="labelGSMMore">Setările apelului GSM</string>
