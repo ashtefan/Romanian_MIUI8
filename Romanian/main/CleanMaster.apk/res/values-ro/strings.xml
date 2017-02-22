@@ -182,6 +182,7 @@
     <string name="empty_title_residual">Niciun reziduu</string>
     <string name="empty_title_video">Nu există videoclipuri ce trebuie șterse​</string>
     <string name="file">Fișiere</string>
+    <string name="file_not_found">Fișier negăsit</string>
     <string name="flow_rank_title">Utilizare date</string>
     <string name="function_app_lock_title">%d aplicații cu risc de încălcare a confidențialității​</string>
     <string name="garbage_clean_detail">Detalii</string>
@@ -445,6 +446,7 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="virus_scan">Scanare pentru viruși</string>
   <string name="vungle_ad_name">ad-Vungle</string>
+    <string name="wechat_add_to_cleanlist">Curățat cu succes</string>
     <string name="wechat_cache_files">Cache WeChat</string>
     <string name="wechat_chat_clean_done">Totul arată bine</string>
     <string name="wechat_chat_data_type_cache">Cache WeChat</string>

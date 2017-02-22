@@ -135,14 +135,14 @@
         <item>12</item>
     </string-array>
     <string-array name="wind_unit_simple">
-        <item>scala Beaufort</item>
+        <item>Scala Beaufort</item>
         <item>km/h</item>
         <item>m/s</item>
         <item>mph</item>
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;forța 2</item>
+        <item>&lt;Forța 2</item>
         <item>&lt;6.0 km/h</item>
         <item>&lt;1.7 m/s</item>
         <item>&lt;3.7 mph</item>
@@ -156,7 +156,7 @@
         <item>Knot (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>forța %1$s</item>
+        <item>Forța %1$s</item>
         <item>%1$s km/h</item>
         <item>%1$s m/s</item>
         <item>%1$s mph</item>

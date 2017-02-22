@@ -121,6 +121,8 @@
     <string name="find_device_error_password_recently_changed">"Ați modificat parola în ultimele 3 zile. Nu se poate dezactiva acum Localizarea dispozitivului din motive de siguranță."</string>
     <string name="find_device_interrupted">Acțiunea a fost întreruptă; încercați din nou mai târziu</string>
     <string name="find_device_io_error">"Nu se poate conecta la rețea"</string>
+    <string name="find_device_locked_account_email" formatted="false">%s,adresa de e-mail asociată:%s</string>
+    <string name="find_device_locked_account_phone" formatted="false">%s,numărul de telefon asociat:%s</string>
     <string name="find_device_null_credential_error">"Nu se pot obține informațiile despre dispozitiv; contactați Serviciul Clienți Xiaomi"</string>
     <string name="find_device_operation_failed_error">A apărut o eroare</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
@@ -154,8 +156,6 @@
     <string name="micloud_space_info">Disponibil: %s</string>
     <string name="mili_center">Credite Mi</string>
     <string name="mipay_center">Portofel Mi</string>
-    <string name="miui_provision_find_status_text">"Acest telefon este asociat unui cont Mi existent (%1$s). Introduceți parola pentru a verifica acest telefon.
-(Cod de deblocare: %2$s)"</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Se pare că utilizați contul Mi din spațiul principal."</string>
     <string name="multi_user_not_show_sync_activity_message_2">"În acest caz, toate datele vor fi sincronizate cu cele din spațiul secundar. Pentru a evita acest lucru, nu activați sincronizarea cu Mi Cloud"</string>
     <string name="multi_user_not_show_sync_activity_title">"Nu activați sincronizarea cu Mi Cloud"</string>

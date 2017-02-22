@@ -33,8 +33,8 @@
     <string name="app_name">Meteo</string>
     <string name="aqi_data_source">Oferit de Colorful Clouds</string>
     <string name="aqi_desc">Indicele de Calitate a Aerului</string>
-    <string name="aqi_detail_24_hours">Prognoza orară</string>
-    <string name="aqi_detail_5_days">Prognoza zilnică</string>
+    <string name="aqi_detail_24_hours">Prognoza pe 24 de ore</string>
+    <string name="aqi_detail_5_days">Prognoza pe 5 zile</string>
     <string name="aqi_detail_co">CO</string>
     <string name="aqi_detail_no2">NO₂</string>
     <string name="aqi_detail_o3">O₃</string>

@@ -1223,6 +1223,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
     <string name="unknown">Necunoscut</string>
     <string name="unknown_contact_name">Contact necunoscut</string>
+    <string name="update_sim_contact_photo_toast">Nu s-au putut seta fotografiile pentru contactele SIM</string>
     <string name="upgrade_in_progress">Se actualizează lista contactelor din agendă.</string>
     <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară.
     

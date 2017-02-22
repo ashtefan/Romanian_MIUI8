@@ -35,4 +35,8 @@
         <item quantity="other">%1$s mesaje</item>
         <item quantity="one">%1$s mesaj</item>
      </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d selectate</item>
+        <item quantity="zero">Selectați elemente</item>
+    </plurals>
 </resources>

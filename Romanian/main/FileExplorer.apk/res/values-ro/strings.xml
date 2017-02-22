@@ -7,6 +7,7 @@
     <string name="activity_rule">Reguli</string>
     <string name="ad_download">Descărcare</string>
     <string name="ad_downloading">Încărcare…</string>
+    <string name="add_follow">Urmăriți</string>
     <string name="add_one">+1</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
@@ -99,9 +100,12 @@
     <string name="claim_video_success">Raportat cu succes</string>
     <string name="claim_video_unlogin">Conectați-vă pentru a raporta videoclipuri</string>
     <string name="clean_hint">Apăsaţi pentru a elibera spațiu</string>
+    <string name="click_login_str">Conectați-vă</string>
     <string name="click_to_refresh">Atingeți aici pentru a actualiza</string>
     <string name="click_to_switch_volume">Apăsați aici pentru a comuta între memoria internă și cardul SD</string>
     <string name="click_to_switch_volume_pad">Atingeți pentru a comuta între memoria internă și cardul SD</string>
+    <string name="comment_added">Adăugat cu succes</string>
+    <string name="comment_added_tip">"Adăugați multe comentarii. Doriți să urmăriți această persoană?"</string>
     <string name="comment_delete_message">Comentariul va fi șters definitiv.</string>
     <string name="comment_delete_title">Ștergeți comentariul</string>
     <string name="comment_hint">Adăugați un comentariu</string>
@@ -142,6 +146,7 @@
     <string name="decrypt_error">"Nu s-a putut decripta"</string>
     <string name="decrypt_to">Decriptați și salvați în…</string>
     <string name="decrypting">Decriptare…</string>
+    <string name="default_user_desc">"Această persoană nu a adăugat nicio descriere încă"</string>
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_error">"Nu s-au putut șterge fișierele; reîncercați, vă rog"</string>
     <string name="delete_file">Ştergeţi acest fişier?</string>
@@ -204,9 +209,11 @@
     <string name="file_loading">Încărcare…</string>
     <string name="file_name_invalid">"Numele fișierelor nu pot conține următoarele caractere: /\\:*?&lt;&gt;"</string>
     <string name="file_not_exist">Nu există</string>
+    <string name="finish_str">Finalizat</string>
     <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
     <string name="follow_fail">"Nu s-a putut urmări, încercați din nou mai târziu"</string>
+    <string name="follow_success_tip">Urmărit cu succes</string>
     <string name="follow_tip_1">Urmăriți-mă pentru a vedea mai multe videoclipuri</string>
     <string name="follow_tip_2">Urmăriți-mă pentru a vedea mai multe videoclipuri</string>
     <string name="force_touch_clean">Curățați</string>
@@ -320,8 +327,11 @@
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
     <string name="move_to">Mutaţi în…</string>
     <string name="msg_notify_setting">Setări notificare</string>
+    <string name="msg_page_video_default_title">Am încărcat un videoclip; aruncă o privire!</string>
     <string name="msg_set_password">Stabiliți parola mai întâi</string>
+    <string name="my_follows">Fluxul meu</string>
     <string name="name_empty">Introduceți un nume</string>
+    <string name="need_login">Conectați-vă mai întâi</string>
     <string name="need_read_storage_permission">"Exploratorul de fișiere necesită permisiunea de accesare a stocării dispozitivului pentru a funcționa normal"</string>
     <string name="network_dialog_checkbox_tip">"Nu arăta din nou"</string>
     <string name="network_not_available">"Nu s-a putut conecta la rețea"</string>
@@ -329,6 +339,7 @@
     <string name="network_spent_reminding_title">Notificare trafic de date</string>
     <string name="new_comments">Comentarii noi</string>
     <string name="new_folder_name">Dosar fără nume</string>
+    <string name="next_time">Nu acum</string>
     <string name="no">Nu</string>
     <string name="no_apk">Apăsați pentru a vedea cele mai populare aplicații.</string>
     <string name="no_app_tags">Gol</string>
@@ -345,6 +356,7 @@
     <string name="no_new_content_tip">Toate elementele sunt actualizate</string>
     <string name="no_recent_files">Niciun fişier recent</string>
     <string name="no_topic">Niciun subiect</string>
+    <string name="no_videos">Nimic aici. Verificați-le pe cele de mai jos!</string>
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="not_installed_documentsui">"Nu ați instalat DocumentsUI"</string>
@@ -402,6 +414,7 @@
     <string name="operation_show_sys">Se afişează fişierele ascunse</string>
     <string name="operation_unfavorite">Eliminaţi din favorite</string>
     <string name="origin_name">%1$s: </string>
+    <string name="original_user_desc">Încărcați în mod regulat videoclipuri originale pentru a căștiga titlul de Creator</string>
     <string name="original_user_qq_group">Alăturați-vă grupului Talent team QQ</string>
     <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s-au alăturat comunității</string>
     <string name="original_user_signal">Talent team</string>
@@ -477,8 +490,10 @@
     <string name="qzone_platform">Qzone</string>
     <string name="recent_show">Recent</string>
     <string name="recommend">Recomandat</string>
+    <string name="recommend_popup_title">Recomandări</string>
     <string name="recommend_topic">Subiecte recomandate</string>
     <string name="recommend_user">Profiluri recomandate</string>
+    <string name="recommend_users">%1$s+</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
     <string name="rename_alert">Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi.</string>
     <string name="rename_alert2">Fișierul nu va mai fi vizibil.</string>
@@ -528,6 +543,8 @@
     <string name="search_title_hint">Căutare</string>
     <string name="select_dest_folder">Selectați dosarul</string>
     <string name="select_image">Selectaţi fotografiile</string>
+    <string name="select_interest_str">Selectați subiectele care vă plac</string>
+    <string name="select_interest_tip">O mulțime de lucruri de descoperit!</string>
     <string name="select_music">Selectaţi melodiile</string>
     <string name="select_video">Selectaţi videoclipurile</string>
     <string name="select_volume">Selectați volumul</string>
@@ -563,6 +580,8 @@
     <string name="share_title_09">%s Am distribuit un videoclip, aruncă o privire!</string>
     <string name="share_title_1">Am găsit o colecție faină de stickere!</string>
     <string name="share_to">Partajați la…</string>
+    <string name="share_topic_desc">Încărcați videoclipuri pentru a primi premii</string>
+    <string name="share_topic_title">"Urmăresc #%1$s#, aruncă o privire!"</string>
     <string name="share_youliao1">Actualizați pentru a urmări mai multe episoade.</string>
     <string name="share_youliao2">Actualizați pentru a urmări mai multe episoade.</string>
     <string name="share_youliao3">Actualizați pentru a urmări mai multe episoade.</string>
@@ -606,6 +625,7 @@
     <string name="tab_local">LOCAL</string>
     <string name="tab_mine">Profil</string>
     <string name="tab_more">Mai multe</string>
+    <string name="tab_msg">Mesaje</string>
     <string name="tab_newest_video">Noutăți</string>
     <string name="tab_ranking_list">Lista de evaluări</string>
     <string name="tab_source">APLICAŢII</string>
@@ -673,11 +693,13 @@
     <string name="used">Utilizat</string>
     <string name="user_cancel">Renunțare</string>
     <string name="user_center_title">Acasă</string>
+    <string name="user_desc_default_tip">Autentificați-vă pentru a colecta puncte și a cîștiga premii.</string>
     <string name="user_follow_me_title">Urmăritorii mei</string>
     <string name="user_follow_title">Persoanele pe care le urmăresc</string>
     <string name="user_guide_continue_use">OK</string>
     <string name="user_guide_more_login">Alte modalități de conectare</string>
     <string name="user_icon">Fotografie de profil</string>
+    <string name="user_id_tip">ID: </string>
     <string name="user_info_setting">Editați informațiile</string>
     <string name="user_like_text">Îi place</string>
     <string name="user_liked_video_title">Videoclipurile la care am dat like</string>
@@ -749,6 +771,7 @@
     <string name="video_publish_hint">O descriere corespunzătoare va ajuta alte persoane să vă găsească videoclipul</string>
     <string name="video_publish_hint2">Descriere</string>
     <string name="video_publish_origin_tag">Eticheta originală</string>
+    <string name="video_publish_watchable_limit">Puteți face acest lucru de două ori pe zi</string>
     <string name="video_publish_watchable_tag">Urmăriți-mă pentru a putea vedea acest videoclip</string>
     <string name="video_recommend_upload">Recomandat</string>
     <string name="video_status_reject">Respins</string>
@@ -794,6 +817,12 @@
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
+    <string name="you_liao_god_desc">Încărcați videoclipuri în mod regulat și obțineți mai mulți fani pentru a primi statutul de Gentleman</string>
+    <string name="you_liao_god_str">Gentleman</string>
+    <string name="you_liao_goddess_desc">Încărcați videoclipuri în mod regulat și obțineți mai mulți fani pentru a primi statutul de Doamnă​</string>
+    <string name="you_liao_goddess_str">Lady</string>
+    <string name="you_liao_xunlei_desc">Încheiați un contract cu noi pentru a primi statutul de Gazdă</string>
+    <string name="you_liao_xunlei_str">Gazdă Xunlei</string>
     <string name="youliao_ad_msg">"Bucurați-vă cu \"Youliao\"!
 Urmăriți împreună cu 170 de milioane de fani Mi."</string>
     <string name="youliao_ad_title">Actualizat la versiunea completă!</string>

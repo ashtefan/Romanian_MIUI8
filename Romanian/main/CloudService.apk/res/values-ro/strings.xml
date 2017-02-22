@@ -174,6 +174,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_confusion_toast_confirm">Dispozitiv verificat</string>
     <string name="micloud_confusion_toast_deny">Conectați-vă la contul Mi</string>
     <string name="micloud_confusion_yes">Da</string>
+    <string name="micloud_detail_battery_low">Acumulator descărcat</string>
     <string name="micloud_detail_battery_low_message">Acumulatorul este descărcat. Încărcați-l și sincronizați.</string>
     <string name="micloud_detail_battery_low_title">Acumulatorul este descărcat</string>
     <string name="micloud_detail_depend_wifi_message">Conectați-vă la Wi-Fi sau verificați setările pentru sincronizare.</string>
@@ -184,9 +185,11 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_detail_force_sync">Sincronizați acum</string>
     <string name="micloud_detail_lastest">Sincronizat</string>
     <string name="micloud_detail_lastest_with_off">Sincronizat</string>
+    <string name="micloud_detail_need_charge">Acumulatorul trebuie încărcat pentru a sincroniza</string>
     <string name="micloud_detail_not_sync">%d așteaptă sincronizarea</string>
     <string name="micloud_detail_not_synced">Nesincronizat</string>
     <string name="micloud_detail_ok">OK</string>
+    <string name="micloud_detail_pause">Sincronizare oprită</string>
     <string name="micloud_detail_pending">Aşteptare</string>
     <string name="micloud_detail_preference_sync_items">Elemente</string>
     <string name="micloud_detail_query_error">"Nu s-au putut obține informații despre progresul sincronizării"</string>
@@ -197,6 +200,10 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_detail_syncing">Sincronizare</string>
     <string name="micloud_detail_upload_syncing">Încărcare %s</string>
     <string name="micloud_detail_wlan">%d așteaptă sincronizarea</string>
+    <string name="micloud_dialog_sync_now_message">Vă sugerăm să utilizați Wi-Fi</string>
+    <string name="micloud_dialog_sync_now_negative">Nu acum</string>
+    <string name="micloud_dialog_sync_now_positive">Utilizare flux de date pentru transfer</string>
+    <string name="micloud_dialog_sync_now_title">Se sincronizează datele utilizând fluxul de date</string>
     <string name="micloud_dspt">" Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul"</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_find_device_finish">Realizat</string>
@@ -236,6 +243,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_full_influence_title">Când Mi Cloud este plin…</string>
     <string name="micloud_main_battery_low">Nivelul acumulatorului este prea scăzut pentru a sincroniza</string>
     <string name="micloud_main_battery_message">Conectați încărcătorul pentru a sincroniza</string>
+    <string name="micloud_main_cancel_sync">Opriți sincronizarea</string>
     <string name="micloud_main_clear_now">Curăță</string>
     <string name="micloud_main_detail">Vizualizaţi detaliile</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
@@ -261,6 +269,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_suggest_sync">Nu s-a sincronizat tot conţinutul</string>
     <string name="micloud_main_sync_exception">Eroare de sincronizare</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
+    <string name="micloud_main_sync_need_charge">Se așteaptă încărcarea acumulatorului</string>
     <string name="micloud_main_sync_now">Sincronizaţi acum</string>
     <string name="micloud_main_sync_on">Activați sincronizarea</string>
     <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>

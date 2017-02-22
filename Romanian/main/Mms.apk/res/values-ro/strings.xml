@@ -14,7 +14,6 @@
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
     <string name="add_private_contact">Adăugați un contact privat</string>
-  <string name="add_redpackage">Red Package</string>
     <string name="add_slide">Adăugaţi diapozitiv</string>
     <string name="add_slide_before">Adăugați diapozitiv</string>
     <string name="add_slide_hint">Atingeţi pentru a crea un diapozitiv nou</string>
@@ -480,7 +479,6 @@
     <string name="recipient_label">"Destinatar: "</string>
     <string name="recipients_over_size">Prea mulţi destinatari.</string>
     <string name="recording_failed">Nu se poate înregistra</string>
-    <string name="red_package_btn">Deschideți</string>
     <string name="refill_now">Completaţi din nou acum</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="refresh_failed">Reîmprospătare eşuată</string>
@@ -587,7 +585,6 @@
     <string name="sms_report_success">Raport trimis</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[imagine]</string>
-  <string name="snippet_red_package">[Red Packet]</string>
     <string name="sp_category_all">Toate mesajele de serviciu</string>
     <string name="sp_category_bank">Mesaje servicii bancare</string>
     <string name="sp_category_title_prefix">%s</string>
@@ -627,9 +624,6 @@
     <string name="timed_message_to">către</string>
     <string name="title_allow_network_access">Actualizează informațiile în mod automat</string>
     <string name="title_collapse_sp_messages">Grupaţi notificările</string>
-  <string name="title_recv_red_package">Receive Red Packet</string>
-  <string name="title_red_package">Have a prosperous year!</string>
-  <string name="title_send_red_package">Send Red Packet</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
