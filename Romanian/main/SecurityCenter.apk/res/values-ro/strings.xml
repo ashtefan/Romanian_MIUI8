@@ -30,7 +30,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="activity_title_auto_start_manager">Pornire automată</string>
     <string name="activity_title_create_shortcut">Gestiune comenzi rapide</string>
     <string name="activity_title_deep_clean">Curățare profundă</string>
-    <string name="activity_title_default_apps_manager">Aplicaţii prestabilite</string>
     <string name="activity_title_garbage_cleanup">Curăţare</string>
     <string name="activity_title_license_manager">Permisiuni</string>
     <string name="activity_title_memory">Memorie</string>
@@ -120,7 +119,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="apps_item_sign_dialog_content">"Semnătura %s este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației."</string>
     <string name="apps_item_sign_dialog_title">Instalați versiunea oficială a aplicației</string>
     <string name="apps_item_sign_install_button_text">Înlocuiți</string>
-    <string name="apps_item_sms_default_set_success">Setată cu succes!</string>
     <string name="apps_item_sms_reset_button_text">Restabiliți setările implicite</string>
     <string name="apps_item_sms_title">Setări implicite mesagerie</string>
     <string name="apps_item_summary_sms">%s are acces la mesajele dumneavoastră; poate cauza probleme de securitate</string>
@@ -577,7 +575,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="hints_virus_app_list_item_summary">aplicaţie</string>
     <string name="hints_virus_app_summary">%s (aplicaţie)</string>
     <string name="hints_virus_descx_title">Descriere:</string>
-    <string name="hints_virus_lib_update_default_summary">Ultima actualizare: necunoscută</string>
     <string name="hints_virus_name_title">Virus:</string>
     <string name="hints_virus_scan_result_descx">Această aplicaţie prezintă un risc major pentru securitatea telefonului.</string>
     <string name="history_details_title">Detalii istoric</string>
@@ -626,7 +623,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="last_check_date_yesterday">"Scanat ieri "</string>
     <string name="last_check_never_checked">Scanaţi acum</string>
     <string name="last_checked_date2">Scanat cu %d zile în urmă</string>
-    <string name="last_checked_default">Scanat cu %s zile în urmă</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Zile de lucru legale</string>
     <string name="legal_workday_invalidate">Lu-Vi (informaţia despre zilele de lucru legale a expirat)</string>
@@ -645,7 +641,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="lock_screen_warning_category">Notificări blocare ecran</string>
     <string name="lock_screen_warning_switch_summary">Se afişează un avertisment la blocarea ecranului, atunci când utilizarea datelor depășește o anumită valoare</string>
     <string name="lock_screen_warning_switch_title">Se afişează un avertisment la blocarea ecranului</string>
-    <string name="lock_screen_warning_value">Valoarea de avertizare a utilizării datelor</string>
     <string name="lock_settings_title">Blocare ecran și parolă</string>
     <string name="lockpassword_confirm_your_password_header">Confirmați parola</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirmați modelul propriu</string>
@@ -882,10 +877,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="optimize_result_button_to_set">Setați</string>
     <string name="optimize_result_button_update_now">Actualizați</string>
     <string name="optimize_result_summary_sucurity_risk">Unele caracteristici de securitate sunt dezactivate. Activați-le pentru a vă face telefonul mai sigur:</string>
-    <string name="optimize_result_summary_system_default_settings">"Utilizarea aplicațiilor MIUI implicite crește nivelul de stabilitate și securitate al sistemului."</string>
     <string name="optimize_result_title_sucurity_risk">Au fost găsite riscuri de securitate</string>
-    <string name="optimize_result_title_system_default_settings">Setările implicite au fost modificate</string>
-    <string name="optimize_result_toast_system_default_settings">Setările implicite au fost restaurate</string>
     <string name="optimize_result_toast_system_no_item_selected">Niciun element selectat</string>
     <string name="optmizingbar_optimize_done">Optimizat</string>
     <string name="optmizingbar_ready">Optimizare…</string>
@@ -1089,7 +1081,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_title_virus_white_list">Excepții</string>
     <string name="pref_traffic_manage_title">Utilizarea datelor</string>
     <string name="pref_version">Versiune %s</string>
-    <string name="pref_warning_values">Nivelul de avertizare</string>
     <string name="pref_whitelist_setting">Excepții utilizare date în roaming</string>
     <string name="preferred_app_entries_browser">Browser</string>
     <string name="preferred_app_entries_camera">Cameră</string>
@@ -1124,8 +1115,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="quick_optimize_sub_summary_text">S-a prelungit durata de viață a acumulatorului cu %s</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Telefonul se descarcă rapid; rezolvați problema</string>
     <string name="quick_optimize_suggest_battery_over_heat">Telefonul se încălzește excesiv; rezolvați problema</string>
-    <string name="reach_daily_limit_value_body">Reduceți utilizarea datelor mobile.</string>
-    <string name="reach_daily_limit_value_title">Limita de date zilnică a fost atinsă</string>
     <string name="recently_reject_message">Instalarea %1$s și a altor %2$d aplicații a fost respinsă</string>
     <string name="recently_reject_message_one">Solicitarea de instalare a %1$s a fost respinsă</string>
     <string name="recommend_app">Aplicații recomandate</string>
@@ -1190,7 +1179,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="safe_result_item_info_app_sign">Nicio aplicație neoficială</string>
     <string name="safe_result_item_info_app_virus">Niciun virus sau aplicație riscantă</string>
     <string name="safe_result_item_info_sms_auth">Restricționați accesul aplicațiilor terțe la codurile de verificare</string>
-    <string name="safe_result_item_info_sms_default">Comutați la aplicația implicită de mesagerie</string>
     <string name="safe_result_item_info_sms_url">Protecție împotriva URL-urilor nesigure primite prin SMS</string>
     <string name="safe_result_item_info_system_antivirus">Protecție împotriva virușilor de tip phishing</string>
     <string name="safe_result_item_info_system_root">Root sigur</string>
@@ -1323,7 +1311,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="summary_cmcc_app_check">Unele aplicații nu au putut fi verificate</string>
     <string name="summary_consume_power">Au fost semnalate creșteri ale temperaturii ce pot afecta durata de viață a acumulatorului</string>
     <string name="summary_data_flow">Controlați utilizarea datelor mobile pentru a evita taxarea suplimentară</string>
-    <string name="summary_default_app">%s nu este setată ca aplicaţie de sistem prestabilită</string>
     <string name="summary_dev">Împiedicați aplicațiile să acceseze datele de utilizator</string>
     <string name="summary_find_device">Localizați și blocați dispozitivul de oriunde v-ați afla</string>
     <string name="summary_flow_notification">Afişaţi statisticile lunare de utilizare a datelor în panoul notificărilor</string>
@@ -1404,7 +1391,6 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_diagnostic_upload_success">Vă mulțumim pentru feedback!</string>
     <string name="tc_sms_report_direction">Cod SMS de interogare</string>
     <string name="tc_sms_report_do_report">Trimiteţi</string>
-    <string name="tc_sms_report_get_default">Nu veţi suporta taxe pentru mesajele SMS utilizate pentru a obține bilanţul utilizării datelor de la operatorul dvs.</string>
     <string name="tc_sms_report_get_sms">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms2">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms_again">Reîmprospătare SMS</string>
@@ -1469,7 +1455,6 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="title_consume_power">S-au găsit probleme la acumulator</string>
     <string name="title_consume_power_rank">Utilizarea acumulatorului</string>
     <string name="title_data_flow">Controlați utilizarea datelor mobile</string>
-    <string name="title_default_app">%s MIUI nu este setată ca aplicaţie prestabilită</string>
     <string name="title_dev_no">Opţiuni dezvoltator activate</string>
     <string name="title_dev_yes">Opţiuni dezvoltator dezactivate</string>
     <string name="title_find_device">Localizarea dispozitivului</string>
@@ -1514,7 +1499,6 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="toast_add_virus_white_list_success">Adăugat în lista excepțiilor. Vizualizați elementele în setările de Securitate.</string>
     <string name="toast_auto_traffic_correct">Utilizarea datelor este ajustată în mod automat</string>
     <string name="toast_cleaner_cloudscan">Curăţarea va utiliza definiții on-line</string>
-    <string name="toast_default_app">%1$s este setată ca %2$s prestabilită de sistem</string>
     <string name="toast_flow_notification">Au fost activate notificările de utilizare a datelor</string>
     <string name="toast_garbage_lib">Au fost activate actualizările automate pentru Curăţare</string>
     <string name="toast_lockscreen_glogin_empty_password">Parola este necesară</string>

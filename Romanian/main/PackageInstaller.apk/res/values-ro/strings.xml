@@ -50,7 +50,6 @@ Permiteţi întotdeauna această acțiune?"</string>
     <string name="caller_app">Solicitare de la: %1$s</string>
     <string name="cancel">Anulaţi</string>
     <string name="current_permission_template">%1$s din %2$s</string>
-    <string name="default_permission_description">efectuează o acțiune necunoscută</string>
     <string name="devicePerms">Acces la dispozitiv</string>
     <string name="dlg_app_replacement_statement">"Aplicaţia pe care o instalaţi va înlocui o aplicaţie existentă.
  Toate datele de utilizator vor fi păstrate."</string>

@@ -58,7 +58,6 @@ De asemenea, puteţi să măriţi temporar ceea ce se află sub degetul dvs. ati
 
 Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia tastaturii şi a barei de navigare."</string>
     <string name="accessibility_screen_magnification_title">Gesturi pentru magnificare</string>
-    <string name="accessibility_service_default_description">Nu a fost furnizată o descriere.</string>
     <string name="accessibility_services_title">Servicii</string>
     <string name="accessibility_settings">Accesibilitate</string>
     <string name="accessibility_settings_title">Setări de accesibilitate</string>
@@ -284,7 +283,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="background_data_dialog_title">Dezact. date în fundal?</string>
     <string name="background_data_summary">Aplicaţiile pot oricând sincroniza, trimite şi primi date</string>
     <string name="background_process_stop_description">Acesta este un proces al unei aplicaţii mai vechi, care rulează în continuare, pentru cazul în care este necesar din nou. De obicei nu există niciun motiv să îl opriţi.</string>
-    <string name="backup_configure_account_default_summary">În prezent, niciun cont nu stochează datele cu copii de rezervă</string>
     <string name="backup_configure_account_title">Cont de rezervă</string>
     <string name="backup_data_summary">Creaţi o copie de rezervă pentru datele aplicaţiei, parolele Wi-Fi şi pentru alte setări pe serverele Google</string>
     <string name="backup_data_title">Creaţi o copie de rezervă pentru datele dvs.</string>
@@ -538,7 +536,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_pb_remember_choice">Nu doresc să fiu întrebat din nou</string>
     <string name="bluetooth_permission_request">Solicitare de permisiune Bluetooth</string>
     <string name="bluetooth_phonebook_request">Solicitare de agendă</string>
-    <string name="bluetooth_pin_values_hint">De obicei, 0000 sau 1234</string>
     <string name="bluetooth_preference_connected_devices">Dispozitive conectate</string>
     <string name="bluetooth_preference_device_settings">Setările dispozitivului</string>
     <string name="bluetooth_preference_found_devices">Dispozitive disponibile</string>
@@ -999,10 +996,6 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="debug_view_attributes">Activați vizualizarea atributelor</string>
     <string name="defalut_launcher_title">Lansatorul de sistem implicit</string>
-    <string name="default_date_format">dd/MM/yyyy</string>
-    <string name="default_input_method">Selectaţi tastatura prestabilită</string>
-    <string name="default_sound">Sunet prestabilit</string>
-    <string name="default_usb_mode">Conexiune USB</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_fingerprint_confirm_msg">Eliminați amprenta?</string>
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
@@ -1037,7 +1030,6 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_display_layout_title">Caracteristici</string>
     <string name="device_edit_title">Editaţi numele dispozitivului</string>
     <string name="device_feedback">Trimiteți feedback despre acest dispozitiv</string>
-    <string name="device_info_default">Necunoscut</string>
     <string name="device_info_label">Informaţii despre dispozitiv</string>
     <string name="device_info_not_available">Indisponibil</string>
     <string name="device_info_settings">Stare telefon</string>
@@ -1528,7 +1520,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="internal_memory">Stocare internă</string>
     <string name="internal_storage">Stocare internă</string>
     <string name="invalid_location">Locaţia de instalare nu este validă.</string>
-    <string name="invalid_size_value">Nu s-a putut calcula mărimea pachetului.</string>
     <string name="ipaddr_label">Adr_IP:</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_last">%1$s şi %2$s</string>
@@ -1540,7 +1531,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="kernel_version">Versiune nucleu</string>
     <string name="key_settings">Butoane</string>
     <string name="key_settings_title">Butoane</string>
-    <string name="keyboard_layout_default_label">Prestabilit</string>
     <string name="keyboard_layout_dialog_setup_button">Configuraţi aspectul tastaturii</string>
     <string name="keyboard_layout_dialog_switch_hint">Pentru comutare, apăsaţi pe Control-Space</string>
     <string name="keyboard_layout_dialog_title">Alegeţi aspectul tastaturii</string>
@@ -1572,7 +1562,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="keywords_location">raportare istoric de proximitate</string>
     <string name="keywords_location_mode">acuratețe</string>
     <string name="keywords_lockscreen">glisați parolă model de deblocare pin</string>
-    <string name="keywords_more_default_sms_app">sms</string>
     <string name="keywords_more_mobile_networks">mobil celulă operator Wi-Fi</string>
     <string name="keywords_printing">imprimantă</string>
     <string name="keywords_sounds_and_notifications">difuzor beep</string>
@@ -1634,7 +1623,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="local_backup_password_toast_validation_failure">Setarea parolei de rezervă a eşuat</string>
     <string name="local_backup_section_summary">Creaţi o copie de rezervă pentru setările de sistem, cont şi aplicaţii</string>
     <string name="local_backup_section_title">Copii de rezervă locale</string>
-    <string name="locale_default">Prestabilit</string>
     <string name="locale_settings">Regiune</string>
     <string name="location_access_summary">Aplicațiile pot obține date despre locația dumneavoastră</string>
     <string name="location_access_title">Acces la locaţia mea</string>
@@ -2067,9 +2055,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_payment_learn_more">Aflați mai multe</string>
     <string name="nfc_payment_menu_item_add_service">Găsiți aplicații</string>
     <string name="nfc_payment_no_apps">Plătiți printr-o atingere</string>
-    <string name="nfc_payment_set_default">Utilizați întotdeauna %1$s pentru funcția „Atingeți și plătiți”?</string>
-    <string name="nfc_payment_set_default_instead_of">Utilizați întotdeauna %1$s în loc de %2$s pentru funcția „Atingeți și plătiți”?</string>
-    <string name="nfc_payment_set_default_label">Setați ca preferință?</string>
     <string name="nfc_payment_settings_title">Atingeți și plătiți</string>
     <string name="nfc_quick_toggle_summary">Permiteţi schimbul de date atunci când telefonul dvs. atinge un alt dispozitiv</string>
     <string name="nfc_quick_toggle_title">NFC</string>
@@ -2287,7 +2272,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="pref_volume_wake_title">Trezire cu butoanele de volum</string>
     <string name="preference_change_password_title">Modificaţi parola</string>
     <string name="preferred_app_settings">Setări aplicaţii prestabilite</string>
-    <string name="preferred_app_settings_default">Prestabilit</string>
     <string name="preferred_app_settings_not_selected">Neselectat</string>
     <string name="preferred_app_settings_reset">Resetaţi la valorile implicite</string>
     <string name="preferred_app_settings_reset_button">Resetaţi</string>
@@ -2406,7 +2390,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="provision_skip">Omiteți</string>
     <string name="proxy_action_text">Finalizat</string>
     <string name="proxy_clear_text">Ştergeţi</string>
-    <string name="proxy_defaultView_text">Restabiliţi valorile implicite</string>
     <string name="proxy_error">Atenţie</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_empty_host_set_port">Câmpul pentru port trebuie să fie necompletat în situaţia în care câmpul pentru gazdă este necompletat.</string>
@@ -2538,8 +2521,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="resetting_second_space_passwd">Resetarea parolei Spațiului Secundar</string>
     <string name="resolver_settings_label">Aranjați</string>
     <string name="resource_ringtone_volume_mute">Sonerie oprită</string>
-    <string name="restore_default_apn">Se restabilesc setările APN prestabilite.</string>
-    <string name="restore_default_apn_completed">Resetarea setărilor APN prestabilite a fost finalizată.</string>
     <string name="restr_pin_enter_admin_pin">Introduceți codul PIN al administratorului</string>
     <string name="restriction_bluetooth_config_summary">Permiteți modificarea împerecherilor și setărilor Bluetooth</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -3079,9 +3060,6 @@ Codul PIN poate fi incorect."</string>
     <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
-    <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
-    <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
-    <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie SMS?</string>
     <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pt. SMS livrat</string>
     <string name="sms_delivered_sound_title">SMS livrat</string>
     <string name="sms_messages_title">Mesaje SMS</string>
@@ -3320,16 +3298,6 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="trusted_credentials_user_tab">Utilizator</string>
     <string name="try_again">Încercaţi din nou.</string>
     <string name="tts_data_installed_summary">Vocile necesare pentru sintetizarea vorbirii sunt deja instalate corect</string>
-    <string name="tts_default_lang_summary">Setează vocea caracteristică limbii pentru textul vorbit</string>
-    <string name="tts_default_lang_title">Limbă</string>
-    <string name="tts_default_pitch_summary">Modifică tonul textului vorbit</string>
-    <string name="tts_default_pitch_title">Înălţime</string>
-    <string name="tts_default_rate_summary">Viteza cu care este rostit textul</string>
-    <string name="tts_default_rate_title">Ritmul vorbirii</string>
-    <string name="tts_default_sample_string">Acesta este un exemplu de sintetizare a vorbirii</string>
-    <string name="tts_default_settings_section">Setări standard</string>
-    <string name="tts_default_synth_summary">Setează utilizarea motorului de sintetizare a vorbirii pentru textul vorbit</string>
-    <string name="tts_default_synth_title">Motor prestabilit</string>
     <string name="tts_engine_error">Motorul pe care l-aţi ales nu poate rula.</string>
     <string name="tts_engine_error_config">Configuraţi</string>
     <string name="tts_engine_error_reselect">Alegeţi alt motor</string>
@@ -3503,8 +3471,6 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="usb_use_file_transfers">Transferați fișiere</string>
     <string name="usb_use_photo_transfers">Transferați fotografii (PTP)</string>
     <string name="usb_unmount_inform_text">Stocarea USB va fi demontată.</string>
-    <string name="use_default_tts_settings_summary">Setările prestabilite de mai jos înlocuiesc setările aplicaţiei</string>
-    <string name="use_default_tts_settings_title">Doresc să se utilizeze întotdeauna setările mele</string>
     <string name="use_location_summary">Permiteţi Google să utilizeze locaţia dvs. pt. îmbunăt. rezultatelor căutării şi a serviciilor</string>
     <string name="use_location_title">Locaţie şi căutare Google</string>
     <string name="use_nuplayer">Utilizați NuPlayer (experimental)</string>
@@ -4063,7 +4029,6 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_switch_to_gsm_title">Utilizați rețeaua GSM?</string>
     <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi portabil</string>
     <string name="wifi_tether_configure_ap_text">Configuraţi hotspotul Wi-Fi</string>
-    <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
     <string name="wifi_tether_configure_subtext">Hotspot portabil %1$s %2$s.</string>
     <string name="wifi_tether_enabled_subtext">Hotspot portabil %1$s activ</string>
     <string name="wifi_tether_failed_subtext">Eroare de hotspot Wi-Fi portabil</string>
@@ -4144,7 +4109,6 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zen_mode_alarm_info">Alarmele sunt întotdeauna întreruperi prioritare</string>
     <string name="zen_mode_alarm_use">Sunete</string>
     <string name="zen_mode_automation_category">Automatizare</string>
-    <string name="zen_mode_default_option">Până la dezactivare</string>
     <string name="zen_mode_downtime_category">Temporizator (doar întreruperi prioritare)</string>
     <string name="zen_mode_downtime_days">Zile</string>
     <string name="zen_mode_downtime_days_none">Niciuna</string>

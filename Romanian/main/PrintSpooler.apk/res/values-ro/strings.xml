@@ -37,7 +37,6 @@
     <string name="print_add_printer">Adăugați o imprimantă</string>
     <string name="print_button">Printați</string>
     <string name="print_dialog">Caseta de dialog de printare</string>
-    <string name="print_error_default_message">Nu s-a putut genera sarcina de printare</string>
     <string name="print_error_printer_unavailable">"Această imprimantă nu este disponibilă acum."</string>
     <string name="print_error_retry">Reîncercați</string>
     <string name="print_forget_printer">Omiteți imprimanta</string>

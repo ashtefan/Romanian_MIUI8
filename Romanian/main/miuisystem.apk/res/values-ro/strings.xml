@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add_frequent_phrases">Adăugare expresii frecvente</string>
-    <string name="android_ringtone_default_with_actual">Ton de apel prestabilit (%1$s)</string>
     <string name="android_ringtone_silent">Niciunul</string>
     <string name="android_ringtone_unknown">Ton de apel necunoscut</string>
     <string name="carousel">Carusel</string>

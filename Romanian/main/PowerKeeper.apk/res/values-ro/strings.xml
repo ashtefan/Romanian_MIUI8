@@ -44,7 +44,6 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="hide_mode_ultimate_desc">Modul Extrem este activat. Aplicațiile din fundal vor fi înghețate. Dezactivați economisirea acumulatorului pentru a părăsi modul Extrem.</string>
     <string name="high">Performanţă</string>
     <string name="hints_loading_text">Doar o secundă…</string>
-    <string name="invalid_size_value">Nu s-a putut obține dimensiunea pachetului.</string>
     <string name="location_disable_description">Se interzice utilizarea locației</string>
     <string name="location_disable_title">Interzis</string>
     <string name="location_enable_description">Aplicaţiile pot utiliza serviciul de localizare în fundal</string>

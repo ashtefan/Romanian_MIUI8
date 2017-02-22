@@ -248,7 +248,6 @@
     <string name="custom_select_title_select_all">Selectați tot</string>
     <string name="custom_select_title_select_item">Selectați elementele</string>
     <string name="debugging_tip">Se generează raportul erorilor</string>
-    <string name="default_album_name">Album nou</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_album_failed">Nu s-a putut șterge albumul.</string>
     <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s %3$s?</string>
@@ -679,7 +678,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="slideshow_interval_dialog_title">Introduceți intervalul</string>
     <string name="slideshow_interval_invalid">Intervalul trebuie să fie cuprins între 1 şi 3600 secunde</string>
     <string name="slideshow_interval_title">Arată fiecare imagine timp de</string>
-    <string name="slideshow_interval_value">%1$d secunde</string>
     <string name="slim_after_backuped_summary">Înlocuiește fotografiile la rezoluție maximă de pe dispozitiv cu unele cu o rezoluție optimizată după ce vor fi salvate în Mi Cloud. Imaginile la rezoluție maximă vor fi stocate în continuare în Mi Cloud. Astfel puteți economisi spațiu de stocare pe telefon.</string>
     <string name="slim_after_backuped_title">Optimizează spațiul de stocare de pe telefon după ce salvarea s-a încheiat cu succes</string>
     <string name="slim_introduce">Înlocuiește fotografiile la rezoluție maximă de pe dispozitiv cu unele cu o rezoluție optimizată după ce au fost salvate în Mi Cloud. Imaginile și videoclipurile la rezoluție maximă vor fi stocate în continuare în Mi Cloud. Astfel puteți economisi spațiu de stocare pe telefon. Pentru ca această caracteristică să funcționeze în mod normal, este necesar un cont Mi.</string>

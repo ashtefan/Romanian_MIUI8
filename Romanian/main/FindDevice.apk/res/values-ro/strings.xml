@@ -5,8 +5,6 @@
     <string name="app_name">Localizare dispozitiv</string>
     <string name="captcha">Cod de verificare</string>
     <string name="change_find_device_status_failed">"Nu s-a putut debloca. %s."</string>
-    <string name="default_lock_msg_words">Acest telefon este asociat unui cont Mi existent. Din motive de siguranță, trebuie să introduceți parola pentru verificarea acestui dispozitiv.</string>
-    <string name="default_lock_msg_words_with_phone">Salut! Mi-am pierdut telefonul. Mă poți contacta tu? Mulțumesc!</string>
     <string name="device_locked">Acest telefon este blocat</string>
     <string name="device_lost">Acest dispozitiv este pierdut</string>
     <string name="disable_find_device_error">"Nu se poate opri Localizare dispozitiv. %1$s"</string>
