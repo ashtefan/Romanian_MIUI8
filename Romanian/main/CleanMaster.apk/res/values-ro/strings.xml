@@ -144,7 +144,6 @@
     <string name="deepclean_title_uninstall_apps">Aplicaţii utilizate rar</string>
     <string name="deepclean_video_content">Ștergeți videoclipurile vizionate deja sau pe cele inutile</string>
     <string name="deepclean_video_summary_empty">Totul arată bine</string>
-    <string name="default_cache_type">Fişiere de date</string>
     <string name="delete_confirm">Ștergeți</string>
     <string name="delete_confirm_msg">Ștergeți definitiv fișierele selectate?</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Se şterg, de asemenea, fotografiile din Mi Cloud</string>
@@ -280,7 +279,6 @@
     <string name="low_memory_warning_dialog_ok_button">Curățați</string>
     <string name="low_memory_warning_dialog_title">Spațiul de stocare de pe telefon este epuizat</string>
     <string name="mainbtn_text_quick_cleanup">Curăţaţi %s</string>
-    <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
     <string name="megabyteShort"> MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
     <string name="month_day_format">dd MMM</string>

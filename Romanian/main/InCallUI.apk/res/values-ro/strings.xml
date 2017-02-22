@@ -7,7 +7,6 @@
     <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Număr necunoscut</string>
     <string name="antispam_provider">Identificat de %s</string>
-    <string name="areacode_set_default">Setați ca implicit</string>
     <string name="callFailed_cb_enabled">Nu puteţi efectua apeluri în timp ce blocarea apelurilor este activă.</string>
     <string name="callFailed_congestion">Reţea ocupată</string>
     <string name="callFailed_dialToDial">Solicitarea de apel a fost modificată în apel cu număr diferit.</string>
@@ -84,7 +83,6 @@
     <string name="conference_caller_name_me">Eu</string>
     <string name="conference_callers_exceeded">Numărul maxim de participanți la conferință a fost atins</string>
     <string name="contacts_icon_label">Contacte</string>
-    <string name="default_area_code_setting">Codul implicit al zonei</string>
     <string name="description_image_button_answer">Răspundeți</string>
     <string name="description_image_button_dialpad">Taste numerice</string>
     <string name="description_image_button_eight">opt</string>
@@ -174,7 +172,6 @@
     <string name="modify_call_option_vt_tx">Transmitere video</string>
     <string name="modify_call_prompt_no">Nu</string>
     <string name="modify_call_prompt_yes">Da</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="network_error_message">Încercați să efectuaţi un apel obișnuit. Acesta va fi taxat de către operator.</string>
     <string name="network_error_title">Eroare de reţea</string>
     <string name="no_balance_message">Nu sunt suficiente fonduri în pachetul de suplinire. Puteți încerca să efectuaţi un apel obişnuit.</string>

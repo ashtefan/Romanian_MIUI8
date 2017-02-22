@@ -45,7 +45,6 @@
      <string name="action_bar_up_description">Navigaţi în sus</string>
      <string name="action_menu_overflow_description">Mai multe opţiuni</string>
      <string name="action_mode_done">Terminat</string>
-     <string name="activity_chooser_view_dialog_title_default">Alegeţi activitatea</string>
      <string name="activity_chooser_view_see_all">Afişaţi-le pe toate</string>
      <string name="activity_list_empty">Nu s-a găsit nicio activitate potrivită.</string>
      <string name="activity_resolver_use_always">Întotdeauna</string>
@@ -223,13 +222,6 @@ utilizând %s"</string>
      <string name="day_picker_description">Tabel cu zilele din lună</string>
      <string name="days">" zile"</string>
      <string name="decline">Refuzaţi</string>
-     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-     <string name="defaultVoiceMailAlphaTag">Mesaj vocal</string>
-     <string name="default_audio_route_category_name">Sistem</string>
-     <string name="default_audio_route_name">Telefon</string>
-     <string name="default_audio_route_name_dock_speakers">Difuzor dispozitiv andocare</string>
-     <string name="default_audio_route_name_headphones">Căşti</string>
-     <string name="default_media_route_name_hdmi">HDMI</string>
      <string name="delete">Ștergeţi</string>
      <string name="deleteText">Ștergeţi</string>
      <string name="deleted_key">%1$s șterse</string>
@@ -387,7 +379,6 @@ utilizând %s"</string>
      <string name="imTypeHome">Domiciliu</string>
      <string name="imTypeOther">Altele</string>
      <string name="imTypeWork">Serviciu</string>
-     <string name="ime_action_default">Executaţi</string>
      <string name="ime_action_done">Terminat</string>
      <string name="ime_action_go">Accesaţi</string>
      <string name="ime_action_next">Înainte</string>
@@ -411,7 +402,6 @@ Sigur doriți să părăsiți această pagină?"</string>
      <string name="js_dialog_before_unload_positive_button">Părăsiți această pagină</string>
      <string name="js_dialog_before_unload_title">Confirmați părăsirea paginii</string>
      <string name="js_dialog_title">La pagina de la „%s” apare:</string>
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="keyboard_headset_required_to_hear_password">Conectaţi un set căşti-microfon pentru a auzi sunetele tastelor când introduceţi parola.</string>
      <string name="keyboard_password_character_no_headset">Punct.</string>
      <string name="keyboardview_keycode_alt">Alt</string>
@@ -526,7 +516,6 @@ Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire si
      <string name="lockscreen_access_pattern_detected">Modelul a fost desenat</string>
      <string name="lockscreen_access_pattern_start">Desenarea modelului a început</string>
      <string name="lockscreen_battery_short">%d %%</string>
-     <string name="lockscreen_carrier_default">Fără serviciu.</string>
      <string name="lockscreen_charged">Acumulator încărcat</string>
      <string name="lockscreen_emergency_call">Apel de urgenţă</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
@@ -1404,8 +1393,6 @@ pentru contul %s."</string>
      <string name="restr_pin_incorrect">Incorect</string>
      <string name="restr_pin_try_later">Reîncercați mai târziu</string>
      <string name="revoke">Revocați</string>
-     <string name="ringtone_default">Ton de apel prestabilit</string>
-     <string name="ringtone_default_with_actual">Ton de apel prestabilit (%1$s)</string>
      <string name="ringtone_picker_title">Tonuri de apel</string>
      <string name="ringtone_silent">Niciunul</string>
      <string name="ringtone_unknown">Ton de apel necunoscut</string>
@@ -1635,7 +1622,6 @@ Doriţi să o închideţi?"</string>
      <string name="wifi_p2p_show_pin_message">Cod PIN:</string>
      <string name="wifi_p2p_to_message">Către:</string>
      <string name="wifi_p2p_turnon_message">Porniţi Wi-Fi Direct. Acest lucru va dezactiva clientul/hotspotul Wi-Fi.</string>
-     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
      <string name="wifi_watchdog_network_disabled">Nu se poate conecta la Wi-Fi</string>
      <string name="wifi_watchdog_network_disabled_detailed">" are o conexiune la internet slabă."</string>
      <string name="wireless_display_route_description">Ecran wireless</string>

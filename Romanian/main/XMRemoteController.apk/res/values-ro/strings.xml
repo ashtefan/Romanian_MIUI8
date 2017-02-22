@@ -418,7 +418,6 @@
     <string name="match_data_error_tips">"Nu s-au putut obține informații
 Mergeți înapoi pentru a continua"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
-    <string name="match_direction_default">Direcția are un rol cheie?</string>
     <string name="match_dvd_intro_pause">Eliberați când DVD-ul oprește rularea videoclipului</string>
     <string name="match_dvd_intro_play">Eliberați când DVD-ul pornește rularea videoclipului</string>
     <string name="match_dvd_intro_stop">Eliberați când DVD-ul se oprește</string>
@@ -442,7 +441,6 @@ Asigurați-vă că %1$s reacționează."</string>
     <string name="match_mibox_sencond">    · Controlați TV-ul Mi cu acest dispozitiv.</string>
     <string name="match_mibox_third">    · Adăugați alte dispozitive Mi în mod automat</string>
     <string name="match_name_power">Pornire</string>
-    <string name="match_number_default">Butoanele cu cifre funcționează?</string>
     <string name="match_power_confirm_tip_frame">%1$s este pornit?</string>
     <string name="match_power_main_tip_frame">%1$s este pornit?</string>
     <string name="match_stb_intro_left">Eliberați când cursorul se mișcă în stânga</string>
@@ -453,7 +451,6 @@ Asigurați-vă că %1$s reacționează."</string>
     <string name="match_stb_name_up">Sus</string>
     <string name="match_stb_seletion_des">Alegeți locația</string>
     <string name="match_succuss">"Totul este pregătit"</string>
-    <string name="match_tip_default">Dispozitivul a răspuns?</string>
     <string name="match_tip_eject">Butonul de eject funcționează?</string>
     <string name="match_tip_exit">Butonul de ieșire funcționează?</string>
     <string name="match_tip_ff">Butonul pentru derularea înainte funcționează?</string>
@@ -796,7 +793,6 @@ direct din Blocarea ecranului"</string>
     <string name="save_share_title">Salvați această telecomandă?</string>
     <string name="scaning">Căutare……</string>
     <string name="scanning_milink">Căutare dispozitive…</string>
-    <string name="scene_default">Implicit</string>
     <string name="scene_name_frame">%1$s %2$s%3$s</string>
     <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screen_shot_button_title">Interceptarea ecranului televizorului</string>

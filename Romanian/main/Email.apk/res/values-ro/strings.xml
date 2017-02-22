@@ -117,7 +117,6 @@ Actualizaţi acum?"</string>
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Acceptaţi toate certificatele)</string>
     <string name="account_setup_incoming_server_label">Server</string>
     <string name="account_setup_incoming_username_label">Nume de utilizator</string>
-    <string name="account_setup_incoming_username_label_default_hint">Puteți include domeniul</string>
     <string name="account_setup_need_password_verification">Contul dvs. are autentificare cu parolă secundară. Este necesară autentificarea.</string>
     <string name="account_setup_options_mail_check_frequency_10min">La fiecare 10 minute</string>
     <string name="account_setup_options_mail_check_frequency_12hour">La fiecare 12 ore</string>
@@ -134,7 +133,6 @@ Actualizaţi acum?"</string>
     <string name="account_setup_options_mail_window_3days">Ultimele trei zile</string>
     <string name="account_setup_options_mail_window_all">Tot</string>
     <string name="account_setup_options_mail_window_auto">Automat</string>
-    <string name="account_setup_options_mail_window_default">Setări prestabilite cont</string>
     <string name="account_setup_options_mail_window_label">Sincronizare e-mail</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Perioadă sincronizare</string>
     <string name="account_setup_options_title">Setări cont</string>
@@ -279,7 +277,6 @@ Actualizaţi acum?"</string>
     <string name="contact_edit_title_phone_contact">Lista contactelor din telefon</string>
     <string name="contact_in_filter_title">E-mailurile de la acest expeditor</string>
     <string name="contact_info_string">Afişaţi informațiile de contact pentru %1$s</string>
-    <string name="contact_info_string_default">Afişaţi informațiile de contact</string>
     <string name="contact_list_add_btn">Adăugaţi</string>
     <string name="contact_list_search_hint">Căutaţi contacte</string>
     <string name="contact_list_title">Contacte</string>
@@ -320,9 +317,6 @@ Actualizaţi acum?"</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Astăzi, %1$s</string>
-    <string name="default_">PRESTABILIT</string>
-    <string name="default_setup">SETĂRI PRESTABILITE</string>
-    <string name="default_signature">Trimis de pe Mi</string>
     <string name="del_account_questionnair_hint">"Ne puteți spune de ce ștergeți acest cont?"</string>
     <string name="delete">Ştergeţi</string>
   <string name="delete_message_flow">sări în mod automat</string>
@@ -409,7 +403,6 @@ Actualizaţi acum?"</string>
     <string name="file_not_found_redownload">Nu se poate găsi fișierul</string>
     <string name="file_rar_not_support">Nu se pot deschide fișiere de tip .rar criptate</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
-    <string name="first_quick_default_reply">Apăsați butonul pentru a trimite \"%s\" tuturor persoanelor care participă la această conversație.</string>
     <string name="float_window_content">Detectează că utilizați căsuța de e-mail, atingeți Confirmare pentru completarea automată a numelui de utilizator și a parolei contului 139.</string>
     <string name="float_window_info">"Atunci când configurați căsuța de e-mail 139, nu utilizați telefonul, în cazul în care configurarea eșuează."</string>
     <string name="float_window_title">Configurare………</string>
@@ -581,7 +574,6 @@ Actualizaţi acum?"</string>
 %s "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Ataşamente</string>
-    <string name="menu_att_mgr_order_default">Recent vizualizate</string>
     <string name="menu_att_mgr_order_mime">Sortaţi după format</string>
     <string name="menu_att_mgr_order_name">Sortaţi după nume</string>
     <string name="menu_att_mgr_order_rev_date">Sortaţi după data recepţionării</string>

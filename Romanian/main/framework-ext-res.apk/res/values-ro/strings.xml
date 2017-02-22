@@ -31,7 +31,6 @@
     <string name="configure_input_methods">Selectați tastatura</string>
     <string name="copy">Copiere</string>
     <string name="cut">Decupare</string>
-    <string name="default_name">Implicit</string>
     <string name="enable_livetalk_summary">0.05 lei/minut pentru apelurile locale</string>
     <string name="enable_livetalk_title">Porniți livetalk</string>
     <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea aceastei probleme și nu va fi niciodată partajat în scop comercial.</string>

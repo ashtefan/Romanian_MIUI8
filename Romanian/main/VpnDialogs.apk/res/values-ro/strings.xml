@@ -3,7 +3,6 @@
     <string name="configure">Configuraţi</string>
     <string name="data_received">Primite:</string>
     <string name="data_transmitted">Trimise:</string>
-    <string name="data_value_format">%1$s octeţi/%2$s pachete</string>
     <string name="disconnect">Deconectaţi</string>
     <string name="duration">Durată:</string>
     <string name="legacy_title">VPN este conectat</string>

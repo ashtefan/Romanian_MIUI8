@@ -41,7 +41,6 @@
     <string name="birthday_event_description_day_before_yesterday">Alaltăieri a fost</string>
     <string name="birthday_event_description_days_ago">%1$s zile de la</string>
     <string name="birthday_event_description_days_later">peste %1$s zile</string>
-    <string name="birthday_event_description_default">"%2$s %3$s %4$s a lui %1$s"</string>
     <string name="birthday_event_description_special">"%1$s a lui %2$s %3$s %4$s %5$s"</string>
     <string name="birthday_event_description_today">Astăzi este</string>
     <string name="birthday_event_description_tomorrow">Mâine este</string>
@@ -104,7 +103,6 @@
   <string name="date_pattern_mm_dd">luna M ziua d</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
-    <string name="default_reminder_mode">Mod memento prestabilit</string>
   <string name="delete_calendar">Dezabonare</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
@@ -132,7 +130,6 @@
     <string name="edit_event_from_label">De la</string>
     <string name="edit_event_input_year">Introduceți anul</string>
     <string name="edit_event_label">Detalii</string>
-    <string name="edit_event_no_reminder_value">Niciun memento</string>
     <string name="edit_event_reminder_text">%1$s în ziua %2$s</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s ziua %3$s</string>
     <string name="edit_event_show_all">Afişaţi-le pe toate</string>
@@ -167,7 +164,6 @@
     <string name="event_info_where">Unde</string>
   <string name="event_lunar_month">Lună</string>
     <string name="event_reminder_allday_day_zero">În acea zi la %2$s</string>
-    <string name="event_reminder_value_zero">La momentul evenimentului</string>
     <string name="event_reminders_to_max">Acest eveniment suportă doar %d memento-uri</string>
     <string name="event_title">Titlu</string>
     <string name="event_view">Vizualizaţi evenimentul</string>
@@ -301,10 +297,6 @@
     <string name="preferences_alerts_ringtone_title">Sunet</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrare</string>
     <string name="preferences_alerts_vibrate_title">Vibrare și sunet</string>
-    <string name="preferences_default_allday_reminder_title">Ora implicită pentru memento</string>
-    <string name="preferences_default_reminder_dialog">Timp predefinit pentru memento</string>
-    <string name="preferences_default_reminder_title">Timp predefinit pentru memento</string>
-    <string name="preferences_home_tz_default">Europa/București</string>
     <string name="preferences_home_tz_title">Fus orar de acasă</string>
   <string name="preferences_import_credit_repayment">Plățile prin card de credit</string>
   <string name="preferences_import_travel">bilete de tren</string>
@@ -312,7 +304,6 @@
     <string name="preferences_title">Calendar</string>
     <string name="preferences_use_home_tz_descrip">Afișați calendarul şi orele evenimentelor în fusul orar de acasă când călătoriți</string>
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Săptămâna începe</string>
     <string name="preferences_week_start_day_title">Săptămâna începe</string>
   <string name="recommend_card_add">Aboneaza-te acum</string>
