@@ -130,7 +130,6 @@
     <string name="edit_event_from_label">De la</string>
     <string name="edit_event_input_year">Introduceți anul</string>
     <string name="edit_event_label">Detalii</string>
-    <string name="edit_event_no_reminder_value">"Nu-mi aminti"</string>
     <string name="edit_event_reminder_text">Pe %1$s la %2$s</string>
     <string name="edit_event_reminder_with_another_day_text">Pe %1$s, %2$s la %3$s</string>
     <string name="edit_event_show_all">Afişaţi-le pe toate</string>
@@ -165,7 +164,6 @@
     <string name="event_info_where">Unde</string>
   <string name="event_lunar_month">Lună</string>
     <string name="event_reminder_allday_day_zero">În acea zi la %2$s</string>
-    <string name="event_reminder_value_zero">Înainte de eveniment</string>
     <string name="event_reminders_to_max">Nu se pot seta %d memento-uri</string>
     <string name="event_title">Titlu</string>
     <string name="event_view">Vizualizaţi evenimentul</string>
