@@ -664,16 +664,6 @@
         <item></item>
         <item></item>
      </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Stocarea în masă USB se va deschide în mod automat după conectarea la computer.</item>
-        <item></item>
-     </string-array>
-    <string-array name="msd_pc_system_retry_xp">
-        <item>@string/msd_install_retry_connect</item>
-        <item>Reinstalaţi MiPhoneManager.</item>
-     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Crează un director: mkdir /media/mtp</item>
