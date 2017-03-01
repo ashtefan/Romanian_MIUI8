@@ -79,6 +79,7 @@
     <string name="start_game">Start</string>
     <string name="support_game_booster_tips">Creșteți viteza și îmbunătățiți experiența de joc</string>
     <string name="title_share_link">Partajați legătura web</string>
+    <string name="top_game">Jocuri de top</string>
     <string name="uninstall_game_count">"Nu au fost adăugate %d jocuri"</string>
     <string name="usage_sorted_loading_text">Doar o secundă…</string>
     <string name="wlan_change_protection_detail">"Nu comuta în mod automat pe Wi-Fi atunci când se utilizează datele mobile"</string>
