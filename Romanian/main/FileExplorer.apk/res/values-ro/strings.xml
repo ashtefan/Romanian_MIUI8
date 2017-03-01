@@ -146,6 +146,7 @@
     <string name="decrypt_error">"Nu s-a putut decripta"</string>
     <string name="decrypt_to">Decriptați și salvați în…</string>
     <string name="decrypting">Decriptare…</string>
+    <string name="default_user_desc">"Această persoană nu a adăugat nicio descriere încă"</string>
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_error">"Nu s-au putut șterge fișierele; reîncercați, vă rog"</string>
     <string name="delete_file">Ştergeţi acest fişier?</string>
@@ -326,6 +327,7 @@
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
     <string name="move_to">Mutaţi în…</string>
     <string name="msg_notify_setting">Setări notificare</string>
+    <string name="msg_page_video_default_title">Am încărcat un videoclip; aruncă o privire!</string>
     <string name="msg_set_password">Stabiliți parola mai întâi</string>
     <string name="my_follows">Fluxul meu</string>
     <string name="name_empty">Introduceți un nume</string>
@@ -691,6 +693,7 @@
     <string name="used">Utilizat</string>
     <string name="user_cancel">Renunțare</string>
     <string name="user_center_title">Acasă</string>
+    <string name="user_desc_default_tip">Autentificați-vă pentru a colecta puncte și a cîștiga premii.</string>
     <string name="user_follow_me_title">Urmăritorii mei</string>
     <string name="user_follow_title">Persoanele pe care le urmăresc</string>
     <string name="user_guide_continue_use">OK</string>
