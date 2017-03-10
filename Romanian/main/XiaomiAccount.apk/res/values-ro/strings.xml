@@ -124,10 +124,10 @@
     <string name="find_device_locked_account_email" formatted="false">%s,adresa de e-mail asociată:%s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s,numărul de telefon asociat:%s</string>
     <string name="find_device_null_credential_error">"Nu se pot obține informațiile despre dispozitiv; contactați Serviciul Clienți Xiaomi"</string>
-    <string name="find_device_operation_failed_error">A apărut o eroare</string>
+    <string name="find_device_operation_failed_error">A apărut o eroare de servere; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
     <string name="find_device_remote_exception">Eroare RPC</string>
-    <string name="find_device_request_error">"Nu s-a putut verifica starea; încercați din nou mai târziu"</string>
+    <string name="find_device_request_error">"A apărut o eroare de server; așteptați un minut sau două și reîncercați"</string>
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
     <string name="find_device_unknown_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
     <string name="first_login_time">Prima tentativă de conectare: %s</string>

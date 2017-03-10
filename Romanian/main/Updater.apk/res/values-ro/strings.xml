@@ -109,8 +109,8 @@
     <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Accesaţi forumul MIUI&lt;/a&gt;" "</string>
     <string name="miui_summary_has_new_version">" Actualizare disponibilă "</string>
     <string name="miui_summary_no_new_version">Nu există actualizări disponibile</string>
-    <string name="miui_summary_now_version">Nu se poate conecta la rețea</string>
-    <string name="miui_summary_slogan">"  La Mulți Ani! 2017  "</string>
+    <string name="miui_summary_now_version">"Nu se poate conecta la rețea"</string>
+    <string name="miui_summary_slogan">"  Simplificați-vă viața  "</string>
     <string name="miui_summary_updating">"  Actualizare…  "</string>
     <string name="monthly_build">Lunar</string>
     <string name="my_best_update">Cea mai bună actualizare</string>

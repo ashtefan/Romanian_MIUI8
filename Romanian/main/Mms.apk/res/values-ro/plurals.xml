@@ -5,14 +5,14 @@
         <item quantity="one">Ştergeţi această conversaţie?</item>
      </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s s</item>
-        <item quantity="one">%s s</item>
-        <item quantity="few">%s s</item>
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
      </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s secunde</item>
-        <item quantity="one">%s secundă</item>
-        <item quantity="few">%s secunde</item>
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
      </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s rezultate pentru „%2$s”</item>

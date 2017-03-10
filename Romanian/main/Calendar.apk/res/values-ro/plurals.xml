@@ -27,16 +27,36 @@
         <item quantity="other">+%d evenimente</item>
         <item quantity="one">+1 eveniment</item>
     </plurals>
-    <plurals name="Ndays_ago">
+    <plurals name="Ndays_ago_at">
         <item quantity="other">cu %1$d zile în urmă la %2$s</item>
         <item quantity="one">cu %1$d zi în urmă la %2$s</item>
     </plurals>
-    <plurals name="Ndays_after">
+    <plurals name="Ndays_after_at">
         <item quantity="other">În %1$d zile la %2$s</item>
         <item quantity="one">În %1$d zi la %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">cu %d săptămâni în urmă</item>
         <item quantity="one">cu o săptămână în urmă</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Aniversare: %2$d ani de la %1$s</item>
+        <item quantity="one">Aniversare: %2$d an de la %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Aniversare: %2$d ani de la %1$s în 3 zile</item>
+        <item quantity="one">Aniversare: %2$d an de la %1$s în 3 zile</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">ani</item>
+        <item quantity="one">an</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">zile</item>
+        <item quantity="one">zi</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">zile rămase</item>
+        <item quantity="one">zi rămasă</item>
     </plurals>
 </resources>

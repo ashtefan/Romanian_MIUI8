@@ -256,6 +256,13 @@
     <string name="impunity_declaration_negative_text">Ieșire</string>
     <string name="impunity_declaration_positive_text">Permite</string>
     <string name="impunity_declaration_title">Termenii serviciului</string>
+    <string name="keywords_search_code">Scaner;Scanare;Cod QR;QR;Recunoaștere;Cod de bare;Coduri de bare;Produs;Produse;Alipay;WeChat;Cum să scanați codurile QR;Cum să scanați codurile de bare;Cum să scanați;Scaner MIUI</string>
+    <string name="keywords_search_document">Scaner;Scanare document;Scanare documente;OCR;Scanare text;Scanare</string>
+    <string name="keywords_search_namecard">Scaner;Carte de vizită;Cărți de vizită;Scanare;Scanare cărți de vizită;Carte de vizită;Cărți de vizită;Contacte;Contact</string>
+    <string name="keywords_search_settings">Scaner;Setări de rețea scaner</string>
+    <string name="keywords_search_shopping">Cumpărături;Scaner;Scanare produse;Scanare produs;Verificare preț;Produse;Taobao;Tmall;Prețuri;Cumpărături online</string>
+    <string name="keywords_search_study">Scaner;Probleme;Rezolvare probleme;Temă pentru acasă;Școală;Fizică;Chimie;Matematică;Matematici;Engleză;Istorie;Chineză</string>
+    <string name="keywords_search_translation">Scaner;Traducere;Dicționar;Engleză;Limbă străină;Limbă;Limbi;Din engleză în chineză;Italiană;Germană;Japoneză;Coreană;Spaniolă;Franceză;Traducere Baidu;Dicționar Youdao;Dicționar Baidu;Traducere Google</string>
     <string name="language_entry_chinese_cn">Chineză simplificată</string>
     <string name="language_entry_chinese_tw">Chineză tradițională</string>
     <string name="language_entry_danish">Daneză</string>
@@ -291,6 +298,7 @@
     <string name="not_recommend_access_web_url">Accesați site-ul oricum</string>
     <string name="not_tips">"Nu arăta din nou"</string>
     <string name="note">Remarcă:</string>
+    <string name="path_scanner_setting">Aplicații de sistem/Scaner</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">AliPay</string>
     <string name="phone">Telefon:</string>

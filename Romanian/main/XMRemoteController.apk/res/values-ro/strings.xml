@@ -343,7 +343,10 @@
     <string name="input_source">Sursă intrare</string>
     <string name="input_speech_button">Apăsați &amp; țineți apăsat și rostiți comanda vocală</string>
     <string name="input_tip">Codurile expiră după 15 minute</string>
+    <string name="install">Instalați</string>
     <string name="install_failed">"Nu s-a putut instala %s"</string>
+    <string name="install_peel_content">Pentru a activa funcția ghid TV, vă rugăm să instalați Peel pentru Telecomandă Mi.</string>
+    <string name="install_peel_title">Instalați Peel Telecomandă Mi</string>
     <string name="install_succed">%s instalată</string>
     <string name="installing">Instalare……</string>
     <string name="introduction">Introducere</string>

@@ -200,7 +200,7 @@
     <string name="group_message">Mesaje de grup</string>
     <string name="group_message_failed_title">Trimiterea la %d contacte a eşuat</string>
     <string name="group_resend_message">Retrimiteţi (%d)</string>
-    <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte tipuri de conţinut</string>
+    <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte elemente</string>
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
     <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s&gt;</string>
@@ -348,7 +348,7 @@
     <string name="mx_on_sim_2">Mesagerie Mi SIM2</string>
     <string name="mx_online">Activată</string>
     <string name="mx_reactivate">Reactivaţi Mesagerie Mi</string>
-    <string name="mx_recommend_msg">Atingeţi pentru a activa Mesagerie Mi</string>
+    <string name="mx_recommend_msg">Atingeţi pentru a activa Mesageria Mi</string>
     <string name="mx_stranger_recommend_msg">Atingeți pentru a bloca mesajele Mi provenite de la numere necunoscute</string>
     <string name="mx_type_guide">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli pentru SMS</string>
     <string name="need_download">Sincronizare…</string>
@@ -570,8 +570,8 @@
     <string name="sim_full_title">Cartelă SIM plină</string>
     <string name="sim_manage_messages_title">Mesaje text pe cartela SIM</string>
     <string name="sim_view">Vizualizaţi</string>
-    <string name="slide_number">Diapozitiv %s</string>
-    <string name="slide_show_part">Partea %1$s/%2$s</string>
+    <string name="slide_number">Diapozitiv %d</string>
+    <string name="slide_show_part">Partea %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Glisați în sus pentru a renunța</string>
     <string name="slideshow_activity">Prezentare</string>
     <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
@@ -628,6 +628,7 @@
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
     <string name="title_timed_message_dialog">Setaţi mesajul temporizat</string>
+    <string name="title_use_gsm_alphabet">Utilizați alfabetul GSM</string>
     <string name="to_address_label">"Către: "</string>
     <string name="to_count">%d destinatari</string>
     <string name="to_label">"Pentru "</string>

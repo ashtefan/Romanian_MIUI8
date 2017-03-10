@@ -441,6 +441,9 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="dialog_msg_auto_start_declare">Unele aplicații pot indica în mod greșit că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări > Aplicații.</string>
     <string name="dialog_msg_stop_paysafety_scan">Opriți verificarea securității plaților?</string>
     <string name="dialog_msg_stop_virus_scan">Opriți scanarea de viruşi înainte de a fi terminată?</string>
+    <string name="dialog_remobe_luckymoney_cancle">Vechi</string>
+    <string name="dialog_remobe_luckymoney_ok">Nou</string>
+    <string name="dialog_remove_luckymoney">Puteți utiliza noul asistent Plicuri roșii intern sau îl puteți folosi pe cel deja instalat. Pe care îl preferați?</string>
     <string name="dialog_roaming_apps_sorted_title">Sortare după</string>
     <string name="dialog_roaming_message">Permiteți acestei aplicații să utilizeze datele mobile în roaming internațional?</string>
     <string name="dialog_roaming_title">Roaming internaţional</string>
@@ -828,6 +831,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_item">Activați blocarea aplicațiilor</string>
+    <string name="notification_quick_charging_title">Încărcare rapidă</string>
     <string name="notification_subtitle">Apăsați pentru a activa</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notification_sysapp_cracked_text">Versiunea curentă MIUI a fost modificată</string>

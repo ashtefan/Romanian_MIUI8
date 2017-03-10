@@ -18,6 +18,8 @@
     <string name="backup_theme_name">Tema mea</string>
     <string name="backup_theme_progress_message">Creare copie de rezervă…</string>
     <string name="backup_theme_success_message">Copia de rezervă a fost creată</string>
+    <string name="both_all_apply_failured">"Nu se poate aplica imaginea de fundal"</string>
+    <string name="both_all_apply_success">Imagine de fundal aplicată</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="change_host_hint">Modificare gazdă</string>
     <string name="change_wallpaper">Imagine de fundal</string>
@@ -80,14 +82,21 @@
     <string name="gift_use_confirmation_dlg_title">Trimiteţi acest cadou?</string>
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
+    <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
+    <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="incompatible_dialog_message">Această temă nu este compatibilă în întregime cu MIUI 8. Unele elemente pot fi afișate incorect.</string>
     <string name="incompatible_dialog_ok">Am înțeles</string>
     <string name="incompatible_dialog_title">Probleme de compatibilitate</string>
+    <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="live_wallpaper">Imagini de fundal live</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
     <string name="loading_resource_detail_info">Doar o secundă…</string>
     <string name="local_resouce_creator_name">Dezvoltator: %1$s</string>
+    <string name="lockscreen_apply_failured">"Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">"Imaginea de fundal pentru Ecranul principal a fost aplicată dar nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
+    <string name="lockscreen_apply_success">Imaginea de fundal pentru Blocarea ecranului a fost aplicată</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">"Imaginea de fundal pentru Blocarea ecranului a fost aplicată dar nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="lockscreen_magazine_subscribe">%1$s fani</string>
     <string name="lockscreen_magazine_summary">Categorii</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s imagini de fundal</string>
@@ -307,6 +316,7 @@
     <string name="search_hint_header_text">Expresii frecvente</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="settings">Setări</string>
+    <string name="the_picture_is_too_small">Fotografia este prea mică</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Sunet de apel</string>
@@ -391,7 +401,7 @@
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
-    <string name="wallpaper_loading_text">Doar o secundă…</string>
+    <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_destop">Setaţi ca imagine de fundal</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
