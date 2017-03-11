@@ -317,7 +317,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="geolocation_permissions_prompt_message">%s doreşte să vă cunoască locaţia</string>
     <string name="geolocation_permissions_prompt_remember">Memoraţi preferinţele</string>
     <string name="geolocation_permissions_prompt_share">Distribuiţi locaţia</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Acest site poate accesa locaţia dvs. Puteţi modifica acest lucru în ecranul Setări > Avansate > Site web.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Acest site poate accesa locaţia dvs. Puteţi modifica acest lucru în Setări.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Acest site nu poate accesa locaţia dvs.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Anulaţi</string>
     <string name="geolocation_settings_page_dialog_message">Blocaţi accesul la locaţie al acestui site web?</string>
@@ -331,7 +331,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="google_bookmarks">"Google: "</string>
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
     <string name="hint">Indiciu</string>
-    <string name="history_saved_webpage">Salvaţi pagina</string>
+    <string name="history_saved_webpage">Pagini salvate</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_delete_card_menu">Ştergeţi</string>
     <string name="homepage_get_location">Obţineţi locaţia</string>
@@ -533,7 +533,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_extras_title_version">Informaţii despre versiune</string>
     <string name="pref_file_download_save_title">Descărcări</string>
     <string name="pref_fling_on_border_enabled">Glisaţi de la margine</string>
-    <string name="pref_fling_on_border_enabled_title_summary">Glisaţi de la marginea din stânga sau din dreapta a ecranului</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Glisaţi de la marginea din stânga sau din dreapta</string>
     <string name="pref_font_size_category">Dimensiunea textului în paginile web</string>
     <string name="pref_force_userscalable">Forţaţi activarea zoomului</string>
     <string name="pref_force_userscalable_summary">Supr. solic. pt. control zoom</string>

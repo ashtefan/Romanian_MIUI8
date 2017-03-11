@@ -1325,8 +1325,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="firmware_version">Versiune Android</string>
     <string name="floating_window_switch_label">Activaţi fereastra plutitoare</string>
     <string name="floating_window_switch_label_disable">Dezactivaţi fereastra plutitoare</string>
-    <string name="fluency_mode">Optimizare performanţă sistem</string>
-    <string name="fluency_mode_confirm_and_reboot">Reporniţi acum</string>
     <string name="font_size_exhuge">Imens</string>
     <string name="font_size_huge">Imens</string>
     <string name="font_size_large">Mai mare</string>
@@ -1997,7 +1995,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_general_inear">General In-Ear</string>
     <string name="music_dirac_mode_headset">Căști Mi</string>
     <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-    <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+    <string name="music_dirac_mode_in_ear_2013">Căști Mi In-Ear(2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_dirac_mode_off">Dirac oprit</string>
     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>

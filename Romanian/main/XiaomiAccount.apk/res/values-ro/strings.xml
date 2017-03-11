@@ -115,21 +115,21 @@
     <string name="find_device_access_denied">"Nu s-a putut verifica starea; nu este permis accesul"</string>
     <string name="find_device_account_error">"Nu s-a putut obține starea datorită unei erori de cont"</string>
     <string name="find_device_activate_account">Activați contul</string>
-    <string name="find_device_bad_response_error">"Nu s-a putut obține starea datorită unei erori de server; încercați din nou mai târziu"</string>
+    <string name="find_device_bad_response_error">A apărut o eroare de server; așteptați un minut sau două și încercați din nou</string>
     <string name="find_device_display_id">Cod de deblocare: %s</string>
     <string name="find_device_error_password_not_confirmed">"Nu s-a putut dezactiva Localizarea dispozitivului. Introduceți parola contului Mi din nou."</string>
     <string name="find_device_error_password_recently_changed">"Ați modificat parola în ultimele 3 zile. Nu se poate dezactiva acum Localizarea dispozitivului din motive de siguranță."</string>
-    <string name="find_device_interrupted">Acțiunea a fost întreruptă; încercați din nou mai târziu</string>
+    <string name="find_device_interrupted">Acțiunea a fost întreruptă; așteptați un minut sau două și încercați din nou</string>
     <string name="find_device_io_error">"Nu se poate conecta la rețea"</string>
     <string name="find_device_locked_account_email" formatted="false">%s,adresa de e-mail asociată:%s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s,numărul de telefon asociat:%s</string>
     <string name="find_device_null_credential_error">"Nu se pot obține informațiile despre dispozitiv; contactați Serviciul Clienți Xiaomi"</string>
-    <string name="find_device_operation_failed_error">A apărut o eroare de servere; așteptați un minut sau două și reîncercați</string>
+    <string name="find_device_operation_failed_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
     <string name="find_device_remote_exception">Eroare RPC</string>
-    <string name="find_device_request_error">"A apărut o eroare de server; așteptați un minut sau două și reîncercați"</string>
+    <string name="find_device_request_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
-    <string name="find_device_unknown_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
+    <string name="find_device_unknown_error">"Nu s-a putut obține starea dispozitivului; așteptați un minut sau două și reîncercați"</string>
     <string name="first_login_time">Prima tentativă de conectare: %s</string>
     <string name="forward_to_bind">Adăugați</string>
     <string name="get_device_list_failed">Nu se poate obține lista dispozitivelor</string>

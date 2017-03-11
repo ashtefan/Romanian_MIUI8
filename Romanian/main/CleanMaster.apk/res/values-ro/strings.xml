@@ -99,7 +99,7 @@
     <string name="clean_content_zero">Nimic</string>
     <string name="clear_bigfiles">Ștergeți fișierele mari, fotografiile dublate și alte lucruri inutile</string>
     <string name="clear_immediately">Ștergeţi acum</string>
-    <string name="clear_safe_notify">Bara de notificări securitate</string>
+    <string name="clear_safe_notify">Widget perdea de notificări</string>
     <string name="clip_board_history_desc">Conținutul copiat/tăiat</string>
     <string name="clipboard">Clipboard</string>
     <string name="close">Închideți</string>

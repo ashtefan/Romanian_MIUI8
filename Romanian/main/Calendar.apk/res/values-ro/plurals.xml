@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">cu %d minute în urmă</item>
-        <item quantity="one">cu un minut în urmă</item>
+        <item quantity="other">cu %d minute înainte</item>
+        <item quantity="one">cu un minut înainte</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">cu %d ore în urmă</item>
-        <item quantity="one">cu o oră în urmă</item>
+        <item quantity="other">cu %d ore înainte</item>
+        <item quantity="one">cu o oră înainte</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">cu %d zile în urmă</item>
-        <item quantity="one">cu o zi în urmă</item>
+        <item quantity="other">cu %d zile înainte</item>
+        <item quantity="one">cu o zi înainte</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SĂPTĂMÂNA %d</item>
@@ -36,8 +36,8 @@
         <item quantity="one">În %1$d zi la %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">cu %d săptămâni în urmă</item>
-        <item quantity="one">cu o săptămână în urmă</item>
+        <item quantity="other">cu %d săptămâni înainte</item>
+        <item quantity="one">cu o săptămână înainte</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Aniversare: %2$d ani de la %1$s</item>

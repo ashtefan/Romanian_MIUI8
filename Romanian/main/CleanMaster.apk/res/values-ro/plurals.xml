@@ -86,7 +86,7 @@
         <item quantity="one">"Nu s-a putut exporta %d videoclip. Eliberați spațiu și reîncercați."</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">（%1$d fișiere goale）%2$s</item>
-        <item quantity="one">（%1$d fișier gol）%2$s</item>
+        <item quantity="other">(%1$d fișiere goale) %2$s</item>
+        <item quantity="one">(%1$d fișier gol) %2$s</item>
     </plurals>
 </resources>

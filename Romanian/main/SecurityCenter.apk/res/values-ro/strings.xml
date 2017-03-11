@@ -1615,6 +1615,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usbsharenet_exception_title">Testare internet partajat prin USB</string>
     <string name="usbsharenet_pc_exception_summary">Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea la internet a computerului.</string>
     <string name="use_immediately">Utilizați</string>
+    <string name="virus_ad_icon_text">Reclamă</string>
     <string name="virus_already_update">Definițiile virușilor sunt actualizate</string>
     <string name="virus_dp_update_title">Actalizarea definițiilor</string>
     <string name="virus_scan">Scanare pentru viruși</string>

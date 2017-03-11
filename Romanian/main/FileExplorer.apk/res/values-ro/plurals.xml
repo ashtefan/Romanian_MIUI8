@@ -232,14 +232,6 @@
         <item quantity="few">urmăritori</item>
         <item quantity="many">urmăritori</item>
     </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">videoclipuri</item>
-        <item quantity="zero">videoclipuri</item>
-        <item quantity="one">videoclip</item>
-        <item quantity="two">videoclipuri</item>
-        <item quantity="few">videoclipuri</item>
-        <item quantity="many">videoclipuri</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videoclipuri</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> videoclip</item>

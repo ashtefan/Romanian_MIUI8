@@ -39,10 +39,10 @@
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
     <string name="force_exit_message">%1$s a fost oprită forțat</string>
     <string name="force_exit_skip_message">"Nu se poate opri %1$s deoarece este necesară pentru sistem."</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Puteți reveni la ecranul principal apăsând butonul Acasă. Mergeți în Setări &gt; Setări adiționale &gt; Butoane și personalizați acțiunea pentru  butonul Acasă.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Puteți reveni la ecranul principal apăsând butonul Acasă. Puteți activa/dezactiva această caracteristică în Setări &gt; Setări adiționale &gt; Butoane; Atingeți butonul Acasă pentru a reveni la Ecranul principal.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nu acum</string>
-    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Mergeți la Setări</string>
-    <string name="fp_nav_center_action_choose_dlg_title">Apăsare scurtă a butonului Acasă</string>
+    <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activați</string>
+    <string name="fp_nav_center_action_choose_dlg_title">Activați Apăsarea scurtă a butonului Acasă</string>
     <string name="frequent_phrases">Expresii frecvente</string>
     <string name="global_actions_airplane_mode">Modul Avion</string>
     <string name="global_actions_reboot">Repornire</string>

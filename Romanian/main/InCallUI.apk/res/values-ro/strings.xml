@@ -81,7 +81,7 @@
     <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
     <string name="conference_caller_info_name">"Apelul în conferință al %1$s"</string>
     <string name="conference_caller_name_me">Eu</string>
-    <string name="conference_callers_exceeded">Numărul maxim de participanți la conferință a fost atins</string>
+    <string name="conference_callers_exceeded">"Nu se mai pot adăuga persoane"</string>
     <string name="contacts_icon_label">Contacte</string>
     <string name="description_image_button_answer">Răspundeți</string>
     <string name="description_image_button_dialpad">Taste numerice</string>

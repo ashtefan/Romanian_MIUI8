@@ -305,6 +305,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_notif_content_battery_low">Acumulatorul este descărcat.</string>
     <string name="micloud_notif_content_clipboard_push">Puteți lipi conținutul oriunde.</string>
     <string name="micloud_notif_content_depend_wifi">Conectaţi-vă la rețeaua Wi-Fi pentru a sincroniza.</string>
+    <string name="micloud_notif_content_dirty_data">Detalii</string>
     <string name="micloud_notif_content_master_depend_wifi">Conectați-vă la Wi-Fi mai întâi.</string>
     <string name="micloud_notif_content_memory_low">Nu există spațiu suficient de stocare.</string>
     <string name="micloud_notif_content_multi_user_error">Sunteți logat cu același cont ca și în spațiul principal.</string>
@@ -313,6 +314,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_notif_content_sync_with_off">Apăsați pentru a vă sincroniza dispozitivul acum.</string>
     <string name="micloud_notif_title_battery_low">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_clipboard_push">Conținut copiat în clipboard</string>
+    <string name="micloud_notif_title_dirty_data">Aveți date nesincronizate</string>
     <string name="micloud_notif_title_master_depend_wifi">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_memory_low">"Nu se poate sincroniza cu Mi Cloud"</string>
     <string name="micloud_notif_title_multi_user_error">"Nu se poate sincroniza cu Mi Cloud"</string>
@@ -361,7 +363,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
     <string name="micloud_upgrade_member">Obțineți mai mult spațiu de stocare</string>
-    <string name="micloud_upgrade_space">Obțineți mai mult spațiu de stocare</string>
+    <string name="micloud_upgrade_space">Obțineți spațiu de stocare</string>
     <string name="micloud_user_space_title">Spațiu de stocare</string>
     <string name="micloud_user_space_usage">Spațiu de stocare</string>
     <string name="micloud_warn_full_sum">Elementele noi nu vor fi sincronizate cu Mi Cloud.</string>
