@@ -394,7 +394,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="bind_xiaomi_account_confirm">Adăugați</string>
     <string name="bind_xiaomi_account_dialog_summery">"Sunteți pe cale să adăugați contul Mi %s. Dacă uitați parola, puteți utiliza acest cont pentru a o reseta."</string>
     <string name="bind_xiaomi_account_success">Contul Mi a fost adăugat cu succes</string>
-    <string name="binded_xiaomi_summary">Contul curent: %s</string>
     <string name="biometric_weak_improve_matching_title">Îmbunătăţiţi potrivirea feţei</string>
     <string name="biometric_weak_liveliness_summary">Se solicită clipirea la deblocare</string>
     <string name="biometric_weak_liveliness_title">Verificare mișcare</string>
@@ -1020,6 +1019,9 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_admin_status">Acest administrator este activ şi permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
     <string name="device_admin_title">Administrarea dispozitivelor</string>
     <string name="device_admin_warning">Activarea acestui administrator va permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
+    <string name="device_available_memory">Memorie disponibilă</string>
+    <string name="device_battery">Acumulator</string>
+    <string name="device_build_id">Număr versiune</string>
     <string name="device_complete_parameters">Specificații complete</string>
     <string name="device_cpu">Procesor</string>
     <string name="device_cpu10_info">"Deca-core"</string>
@@ -1043,12 +1045,16 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="device_name_input_hint">Introduceţi numele dispozitivului dvs.</string>
     <string name="device_name_usage_point">Alte dispozitive din apropiere pot vedea acest nume</string>
     <string name="device_picker">Selector de dispozitive Bluetooth</string>
+    <string name="device_rear_camera">Camera posterioară</string>
     <string name="device_reset_title">Resetare telefon</string>
+    <string name="device_screen_resolution">Rezoluția ecranului</string>
+    <string name="device_screen_size">Mărimea ecranului</string>
     <string name="device_sd_memory">Card SD</string>
     <string name="device_share_loading">Creare imagine…</string>
     <string name="device_status">Stare</string>
     <string name="device_status_activity_title">Stare</string>
     <string name="device_status_summary">Număr de telefon, semnal etc.</string>
+    <string name="device_total_memory">Memorie totală</string>
     <string name="dial_pad_tones_title">Tonuri tastatură</string>
     <string name="dialog_content_login">Vă conectaţi la contul dvs. Mi pentru a actualiza?</string>
     <string name="dialog_no">Nu</string>
@@ -1119,6 +1125,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="dndm_repeated_call_summary_none">Dezactivaţi soneria pt. apelurile repetate de la acelaşi număr</string>
     <string name="dndm_special_call_setting_group">Excepţii</string>
     <string name="dndm_summary">Apelurile și notificările primite în timp ce Nu deranjați este activat vor fi reduse la tăcere.</string>
+    <string name="dndm_summary_for_pad">Notificările primite în timp ce Nu deranjați este activ vor fi reduse la tăcere.</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
     <string name="dndm_vip_call_button_title">Permiteţi apelurile din lista excepţiilor</string>
@@ -1504,6 +1511,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="install_unknown_applications_title">Vă permite instalarea aplicaţiilor din alte surse decât Magazin Play</string>
     <string name="install_whole_rom">Descărcare ROM</string>
     <string name="instruction_privacy_password">Această parolă protejează următoarele elemente</string>
+    <string name="instruction_title">Instrucțiuni</string>
     <string name="insufficient_storage">Nu există suficient spaţiu de stocare.</string>
     <string name="intent_sender_account_label">Cont:</string>
     <string name="intent_sender_action_label">Acţiune:</string>
@@ -1712,6 +1720,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
     <string name="lockpassword_confirm_pins_dont_match">Parolele numerice nu corespund</string>
+    <string name="lockpassword_confirm_workspace_password">Verificați parola Spațiului pentru Servici</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirmați parola</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Confirmați modelul propriu</string>
     <string name="lockpassword_confirm_your_password_generic">Introduceți parola dispozitivului pentru a continua.</string>
@@ -1754,6 +1763,7 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_pattern_confirmed_header">Noul dvs. model pentru deblocare</string>
     <string name="lockpattern_pattern_entered_header">Model înregistrat</string>
+    <string name="lockpattern_pattern_same_with_others">Trebuie să fie diferită de parola pentru celălalt Spațiu</string>
     <string name="lockpattern_pattern_same_with_owner">Trebuie să fie diferită de parola pentru spațiul principal</string>
     <string name="lockpattern_pattern_same_with_security_space">Trebuie să fie diferită de parola pentru al doilea spațiu</string>
     <string name="lockpattern_recording_incorrect_too_short">Conectaţi minimum %d puncte. Încercaţi din nou</string>
@@ -1889,6 +1899,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="memory_media_misc_usage">Diverse</string>
     <string name="memory_media_usage">Media</string>
     <string name="memory_music_usage">Audio</string>
+    <string name="memory_rightvalue">Disponibil: %s</string>
     <string name="memory_size">Spaţiu total</string>
     <string name="memory_title">Disponibil %1$s\t\tTotal %2$s</string>
     <string name="menu_cancel">Renunţaţi</string>
@@ -1915,6 +1926,7 @@ Pentru a şterge muzică, imagini şi alte date ale utilizatorului, "<b>cardul S
     <string name="menu_stats_total">Totaluri privind utilizarea</string>
     <string name="menu_stats_unplugged">%1$s de la deconectare</string>
     <string name="menu_use_uss">Utilizați Uss</string>
+    <string name="mi_shopping_mall">Magazin Mi</string>
     <string name="misc_files">Fişiere diverse</string>
     <string name="misc_files_selected_count">au fost selectate %1$d din %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s din %2$s</string>
@@ -2336,19 +2348,25 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="privacy_mode_enable_title">Modul Vizitator</string>
     <string name="privacy_notes">Notițe</string>
     <string name="privacy_password">Parola de protejare a confidențialității</string>
+    <string name="privacy_password_add_account">Adăugați</string>
+    <string name="privacy_password_add_account_info">Adăugați contul Mi pentru a putea să vă resetați parola în caz că o veți uita</string>
+    <string name="privacy_password_add_account_setting">Cont și confidențialitate</string>
     <string name="privacy_password_bind_account">Adăugați contul Mi</string>
     <string name="privacy_password_bind_account_immediate">Adăugați</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmați parola pentru Spațiul Secundar</string>
     <string name="privacy_password_confirm_use_finger">Deblocați utilizând amprenta</string>
     <string name="privacy_password_enter_privacy">Introduceți parola de protejare a confidențialității</string>
+    <string name="privacy_password_exit_account_info">Contul va fi eliminat în mod automat atunci când vă veți deconecta</string>
     <string name="privacy_password_fingerprint_confirm_failed">"Nu s-a putut verifica amprenta"</string>
     <string name="privacy_password_fingerprint_confirm_succes">Amprentă verificată</string>
     <string name="privacy_password_fingerprint_dialog_error_title">"Nu s-a putut scana amprenta; încercați din nou"</string>
     <string name="privacy_password_fingerprint_dialog_message">Plasați degetul pe senzor</string>
     <string name="privacy_password_fingerprint_dialog_title">Scanați amprenta</string>
+    <string name="privacy_password_login_and_add_account">Conectați-vă și adăugați</string>
     <string name="privacy_password_never_remind">"Nu întreba din nou"</string>
+    <string name="privacy_password_not_add_account">Nu acum</string>
+    <string name="privacy_password_not_login_account">"Nu sunteți conectat"</string>
     <string name="privacy_password_remind_bind_notlogin_account">Adăugați contul Mi pentru a vă putea reseta parola în caz că o veți uita.</string>
-    <string name="privacy_password_remind_bindaccont_message">Adăugați contul Mi (%s) pentru a vă putea reseta parola în caz că o veți uita.</string>
     <string name="privacy_password_remind_bindaccount_title">Adăugați contul Mi</string>
     <string name="privacy_password_settings">Utilizați parola de protejare a confidențialității</string>
     <string name="privacy_password_settings_titles">Parola de protejare a confidențialității vă protejează mesajele, fotografiile, notițele și fișierele.</string>
@@ -2594,6 +2612,16 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_key_press">Apăsarea butoanelor de navigare</string>
     <string name="screen_key_press_action">Funcția de declanșare</string>
     <string name="screen_locking_sounds_title">Sunete de blocare a ecranului</string>
+    <string name="screen_monochrome_mode_apps_loading">Doar o secundă…</string>
+    <string name="screen_monochrome_mode_apps_title">Utilizați modul Monocrom</string>
+    <string name="screen_monochrome_mode_global_summary">Utilizați modul Monocrom pentru toate aplicațiile</string>
+    <string name="screen_monochrome_mode_global_title">Toate aplicațiile</string>
+    <string name="screen_monochrome_mode_local_summary"> Utilizați modul Monocrom pentru aplicațiile pe care le selectați</string>
+    <string name="screen_monochrome_mode_local_title">Aplicații selectate</string>
+    <string name="screen_monochrome_mode_off_apps_title">"Nu utiliza modul Monocrom"</string>
+    <string name="screen_monochrome_mode_set_apps_title">Aplicații în modul Monocrom</string>
+    <string name="screen_monochrome_mode_summary">Comutați la modul Monocrom pentru a economisi acumulatorul</string>
+    <string name="screen_monochrome_mode_title">Modul Monocrom</string>
     <string name="screen_never_timeout_title">Activ mereu</string>
     <string name="screen_on_proximity_sensor_summary">Blocarea automată a telefonului atunci când este plasat în buzunar</string>
     <string name="screen_on_proximity_sensor_title">Prevenirea apelării în buzunar/poșetă</string>
@@ -2631,6 +2659,7 @@ Pentru a utiliza fixarea ecranului:
 
 4. Apăsați iconița de fixare."</string>
     <string name="screen_pinning_title">Fixarea ecranului</string>
+    <string name="screen_recorder">Înregistrare ecran</string>
     <string name="screen_resolution_confirm">Repornire dispozitiv</string>
     <string name="screen_resolution_summary">"Scăzând rezoluția ecranului puteți crește durata de utilizare a acumulatorului și viteza sistemului, dar imaginile vor avea o claritate mai scăzută. Trebuie să reporniți dispozitivul pentru a aplica această modificare."</string>
     <string name="screen_resolution_switch">Modificați rezoluția ecranului</string>
@@ -3093,6 +3122,9 @@ Pentru mai multe informații, contactați administratorul."</string>
 
 Acest lucru este posibil datorită unui certificat de încredere instalat pe dispozitivul dvs."</string>
     <string name="stable_build">" | Stabil"</string>
+  <string name="standard_configuration_version_rear_camera">1300万像素</string>
+  <string name="standard_configuration_version_screen_resolution">1920 x 1080像素</string>
+  <string name="standard_configuration_version_screen_size">5.5英寸</string>
     <string name="status_awaiting_tap">Apăsați o etichetă pentru a scrie...</string>
     <string name="status_awake_time">Durată de activitate</string>
     <string name="status_bar_and_notification_bar">Panou notificări şi bară de stare</string>
@@ -3228,6 +3260,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system">Sistem</string>
     <string name="system_and_device_section_title">Sistem și dispozitiv</string>
     <string name="system_app_settings">Aplicaţii de sistem</string>
+    <string name="system_apps_updater">Actualizare aplicații de sistem</string>
     <string name="system_backup_section_title">Copii de rezervă</string>
     <string name="system_package">Actualizările de sistem nu pot fi instalate pe suportul extern.</string>
     <string name="system_storage">Stocare internă</string>
@@ -4091,6 +4124,9 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="work_profile_confirm_remove_message">Toate aplicațiile și datele asociate acestui profil vor fi șterse.</string>
     <string name="work_profile_confirm_remove_title">Eliminați profilul Servici?</string>
     <string name="work_sim_title">SIM de servici</string>
+    <string name="work_space_delete">Ștergeți Spațiul pentru Servici</string>
+    <string name="work_space_delete_confirm">Confirmați ștergerea</string>
+    <string name="work_space_delete_description">"Nu veți mai putea accesa Spațiul pentru Servici după ce îl veți elimina. Toate datele vor fi mutate sau șterse."</string>
     <string name="wps_category">Conexiune rapidă şi sigură</string>
     <string name="wps_connect_summary">Asigurați-vă că router-ul wireless suportă și are activat WPS</string>
     <string name="wps_connect_title">Conectare WPS</string>

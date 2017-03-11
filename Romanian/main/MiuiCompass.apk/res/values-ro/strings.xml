@@ -41,7 +41,7 @@
     <string name="location_enable_later">Mai târziu</string>
     <string name="location_enabled">Puteți dezactiva serviciile de localizare în orice moment în Setări.</string>
     <string name="location_north">Nord</string>
-    <string name="location_not_enabled_summary">Registrul are nevoie de informaţii despre locație pentru a lucra în mod normal.</string>
+    <string name="location_not_enabled_summary">Aplicația Busolă are nevoie de informaţii despre locație pentru a afișa coordonatele și altitudinea.</string>
     <string name="location_not_enabled_title">Servicii de localizare</string>
     <string name="location_south">Sud</string>
     <string name="location_west">Vest</string>

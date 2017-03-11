@@ -164,6 +164,7 @@
     <string name="exceed_message_text_limitation">Limita de text a mesajului a fost atinsă.</string>
     <string name="expire_on">Expiră la: %s</string>
     <string name="exporting_progress_private_message">Exportul mesajelor…</string>
+    <string name="fail_to_add_attachment">"Nu s-a putut adăuga atașamentul"</string>
     <string name="failed_to_add_media">Nu puteţi adăuga acest %1$s la mesajul dvs.</string>
     <string name="failed_to_resize_image">Fotografia nu a fost redimensionată.</string>
     <string name="fake_cell_alert_hint">Se pare că acest mesaj a fost trimis de pe un număr de telefon diferit față de cel afișat. Tratați cu precauție mesajele care vă solicită date financiare.</string>

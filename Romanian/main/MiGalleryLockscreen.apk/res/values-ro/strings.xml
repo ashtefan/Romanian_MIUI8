@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Ecrane zilnice de blocare</string>
-    <string name="apply">Aplicați</string>
     <string name="at_least_one">Selectați cel puțin o categorie</string>
     <string name="auto_interval">Automat</string>
     <string name="cancel">Renunță</string>
@@ -12,39 +11,26 @@
     <string name="declaration">Obțineți zilnic imagini de fundal noi direct pe ecranul telefonului în mod gratuit</string>
     <string name="declaration_lockscreen_title">Carusel de imagini de fundal</string>
     <string name="declaration_title">Termeni și Condiții de utilizare</string>
-    <string name="dislike">Ștergeți</string>
-    <string name="from_migallerylockscreen">" "</string>
     <string name="hour_1">În fiecare oră</string>
     <string name="hour_3">La fiecare 3 ore</string>
-    <string name="like">Like</string>
-    <string name="liked">liked</string>
-    <string name="lockscreen_magazine_summary">Categorii</string>
+    <string name="lockscreen_magazine_summary">Adăugați imaginile dvs. de fundal în dosarul Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
     <string name="lockscreen_magazine_system_title">Offline</string>
     <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
-    <string name="lockscreen_wallpaper_changed">imagine modificată</string>
     <string name="minutes_15">La fiecare 15 minute</string>
     <string name="no_long_show">"Nu arăta din nou"</string>
     <string name="ok_enable_network_prov">De acord</string>
     <string name="ok_international">De acord</string>
     <string name="ok_lockscreen">OK</string>
     <string name="ok_network">Sunt de acord</string>
-    <string name="platform_unavailable_qq">instalați QQ</string>
-    <string name="platform_unavailable_qzone">instalați Qzone</string>
-    <string name="platform_unavailable_wechat">instalați wechat</string>
-    <string name="platform_unavailable_wechatmoment">instalați wechat</string>
-    <string name="platform_unavailable_weibo">instalați weibo</string>
     <string name="resource_apply">Aplică</string>
     <string name="resource_no_network_text">"Nu se poate conecta la rețea."</string>
     <string name="setting_head">Setări</string>
-    <string name="settings">setări</string>
-    <string name="share">Partajați</string>
     <string name="sst_favor_desc">Vedeți imaginile de fundal favorite</string>
     <string name="sst_favor_title">Favorite</string>
     <string name="sst_grid_view_select_all">Selectați tot</string>
     <string name="sst_grid_view_unselect_all">Deselectați tot</string>
     <string name="sst_no_favor_wallpaper_hint">Nicio imagine favorită</string>
-    <string name="sst_prov_enable_desc">Activați caruselul de imagini de fundal
-\npentru blocarea ecranului. Adăugați imaginile de fundal în dosarul Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+    <string name="sst_prov_enable_desc">Activați caruselul de imagini de fundal./</string>
     <string name="sst_prov_enable_title">Activați caruselul de imagini de fundal</string>
     <string name="sst_require_one_category_hint">Selectați cel puțin o categorie</string>
     <string name="sst_sti_desc">Setați intervalul de timp pentru modificarea imaginii

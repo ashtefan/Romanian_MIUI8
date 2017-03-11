@@ -117,9 +117,9 @@
     <string name="callrecordview_menu_delete_called">Ştergeţi apelurile efectuate</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_missed">Ştergeţi apelurile nepreluate</string>
-    <string name="callrecordview_menu_delete_new">Ştergeţi jurnalul apelurilor contactelor noi</string>
+    <string name="callrecordview_menu_delete_new">Ştergeţi jurnalul apelurilor pentru contactele noi</string>
     <string name="callrecordview_menu_delete_one">Eliminaţi această intrare din jurnalul apelurilor</string>
-    <string name="callrecordview_menu_delete_sim">Ştergeţi jurnalul apelurilor %s</string>
+    <string name="callrecordview_menu_delete_sim">Ştergeţi jurnalul apelurilor (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Ştergeţi apelurile de la numere necunoscute</string>
     <string name="callrecordview_menu_edit_call_note">Editaţi nota apelului</string>
     <string name="callrecordview_menu_ip">Apelare automată IP</string>
@@ -205,7 +205,7 @@
     <string name="contact_detail_action_item_calllog">Istoric apeluri</string>
     <string name="contact_detail_action_item_nocalllog">Nu există istoric</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
-    <string name="contact_detail_calllog_call_record_tips">Înregistrare apeluri</string>
+    <string name="contact_detail_calllog_call_record_tips">Apel înregistrat</string>
     <string name="contact_detail_calllog_empty">Nu există un istoric de apelare</string>
     <string name="contact_detail_menu_delete_miprofile">Ştergere cartelă</string>
     <string name="contact_detail_miprofile_accept">Schimb cartele de contact</string>
@@ -370,7 +370,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="device_transfer_by_sim_message">"1. Salvați contactele de pe celălalt telefon pe cartela SIM;
         
 
-2. Mergeți la \"Setări Contacte\" -- \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM, selectați contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
+2. Accesați setările din aplicația Contacte și apoi mergeți la \"Import/Export contacte\" -- \"Importați de pe cartela SIM\", apăsați lung pe orice contact de pe cartela SIM pentru a-l selecta, selectați contactele pe care doriți să le importați și apoi apăsați \"Importați\"."</string>
     <string name="device_version_header_bluetooth">Importați contactele prin Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importaţi contactele utilizând cartela SIM</string>
     <string name="dial">Apelaţi</string>
@@ -589,11 +589,11 @@ Motivul: „%s”"</string>
     <string name="list_filter_customize">Personalizaţi</string>
     <string name="list_filter_phones">Toate contactele din agendă cu numere de telefon</string>
     <string name="list_filter_single">Contact din agendă</string>
-    <string name="live_talk_switch_on_toast">Live talk a fost activat</string>
-  <string name="livetalk_charge">Preț</string>
+    <string name="live_talk_switch_on_toast">Pachetul de suplimentare a fost activat cu succes</string>
+    <string name="livetalk_charge">Suplimentare</string>
     <string name="livetalk_left">Minute disponibile</string>
     <string name="livetalk_switch_on">Activați</string>
-    <string name="livetalk_title">Live talk</string>
+    <string name="livetalk_title">Pachet de suplimentare</string>
     <string name="loading_accounts">Doar o secundă...</string>
     <string name="loading_group_members">Doar o secundă…</string>
     <string name="loading_groups">Doar o secundă…</string>
@@ -1218,7 +1218,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
     <string name="unknown">Necunoscut</string>
     <string name="unknown_contact_name">Contact necunoscut</string>
-    <string name="update_sim_contact_photo_toast">Nu s-au putut seta fotografiile pentru contactele SIM</string>
+    <string name="update_sim_contact_photo_toast">"Nu s-au putut seta fotografiile pentru contactele SIM"</string>
     <string name="upgrade_in_progress">Se actualizează lista contactelor din agendă.</string>
     <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară.
     

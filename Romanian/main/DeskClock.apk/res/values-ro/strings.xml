@@ -29,7 +29,7 @@
     <string name="birthday_alarm">Alarma zilei de naştere</string>
     <string name="birthday_alarm_summary">De ziua dvs. se redă \"La mulţi ani\" în loc de sunetul de alarmă prestabilit</string>
     <string name="cancel">Anulaţi</string>
-    <string name="close_alarm">Opriţi alarma</string>
+    <string name="close_alarm">Dezactivați</string>
     <string name="common_settings">Setări</string>
     <string name="confirm_abort">Renunţaţi</string>
     <string name="control_set_alarm">Setaţi alarma</string>
@@ -114,8 +114,8 @@
     <string name="silent_alarm_summary">Silenţios</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
-    <string name="slider_text">Glisaţi în sus pentru a opri sunetul</string>
-    <string name="snooze_confirm_cancel">Anulaţi amânarea</string>
+    <string name="slider_text">Glisaţi în sus pentru a dezactiva</string>
+    <string name="snooze_confirm_cancel">Anulaţi alarma</string>
     <string name="snooze_duration_title">Durata de amânare</string>
     <string name="start">Start</string>
     <string name="start_up">Start</string>

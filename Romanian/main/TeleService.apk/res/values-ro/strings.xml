@@ -240,6 +240,8 @@
     <string name="contactUpdateSuccess">Contact de pe SIM actualizat</string>
     <string name="contactdeleteFailed">Nu se poate şterge persoana de contact de pe SIM</string>
     <string name="contactdeleteSuccess">Contact şters de pe SIM</string>
+    <string name="crescendo_ringer_summary">Volumul soneriei va crește gradual până la nivelul pe care l-ați setat</string>
+    <string name="crescendo_ringer_title">Volum crescător al soneriei</string>
     <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
     <string name="data_enabled">Date mobile</string>
     <string name="deactivate_all">Revocare totală</string>
@@ -320,6 +322,7 @@
     <string name="disable_fdn_ok">Activaţi FDN</string>
     <string name="disable_pin_ok">Codul PIN al cartelei SIM este dezactivat.</string>
     <string name="disable_sim_pin">Dezactivaţi codul PIN al cartelei SIM</string>
+    <string name="disabled_by_admin">Dezactivat de administrator</string>
     <string name="display_name_summary">&lt;Identic cu numele de utilizator&gt;</string>
     <string name="display_name_title">Numele afişat</string>
     <string name="domain_address_title">Server</string>
@@ -377,6 +380,7 @@
     <string name="enable_video_calling_dialog_msg">Pentru activarea apelurilor video, trebuie să activați mai întâi modul 4G LTE avansat din Setări.</string>
     <string name="enable_video_calling_dialog_settings">Setările rețelei</string>
     <string name="enable_video_calling_title">Activare apeluri video</string>
+    <string name="enabled_by_admin">Activat de administrator</string>
     <string name="enhanced_4g_lte_mode_off_failed">"Nu s-a putut opri serviciul VoLTE."</string>
     <string name="enhanced_4g_lte_mode_on_failed">"Nu s-a putut porni serviciul VoLTE."</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizați serviciile LTE pentru a îmbunătăți comunicațiile vocale(recomandat)</string>
@@ -731,6 +735,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="path_caller_id_title">Aplicații de sistem/Telefon/Setări avansate/ID apelant</string>
     <string name="path_cloud_antispam_title">Aplicații de sistem/Telefon/Identificare numere necunoscute</string>
     <string name="path_connect_disconnect_vibrate_title">Aplicații de sistem/Telefon/Setări avansate/Vibrare la răspuns</string>
+    <string name="path_crescendo_ringer_title">Aplicații de sistem/Telefon/Setările apelurilor primite/Volum crescător al soneriei</string>
     <string name="path_dtmf_tones_title">Aplicații de sistem/Telefon/Setări avansate/Tonuri DTMF</string>
     <string name="path_enable_antispam_strange_title">Aplicații de sistem/Telefon/Setările apelurilor primite/Prima sonerie dezactivată</string>
     <string name="path_enable_proximity_title">Aplicații de sistem/Telefon/Setările apelurilor primite/Senzor de proximitate</string>
@@ -749,7 +754,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="path_telocation_enable_title">Aplicații de sistem/Telefon/Locație/Afișare locație</string>
     <string name="path_turnover_mute_title">Aplicații de sistem/Telefon/Setările apelurilor primite/Întoarcere pentru a dezactiva soneria</string>
     <string name="path_voicemail_settings">Aplicații de sistem/Telefon/Setări avansate/Configurare</string>
-  <string name="path_voip_setting">Aplicații de sistem/Telefon/Mi Voice</string>
     <string name="pause_prompt_no">Nu</string>
     <string name="pause_prompt_str">"Se trimit tonuri
 "</string>

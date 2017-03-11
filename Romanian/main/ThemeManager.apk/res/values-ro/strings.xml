@@ -3,6 +3,8 @@
     <string name="account_info">Contul meu</string>
     <string name="account_name_not_login">Conectaţi-vă</string>
     <string name="account_unactivated">Contul nu este activat</string>
+    <string name="ad_app_download_start">Pornire descărcare…</string>
+    <string name="ad_app_is_downloading">Descărcare…</string>
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="all_resources">Toate</string>
     <string name="app_name">Teme</string>
@@ -399,6 +401,7 @@
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
+    <string name="wallpaper_auto_change_title">Blocarea ecranului</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
@@ -406,4 +409,8 @@
     <string name="wallpaper_set_as_destop">Setaţi ca imagine de fundal</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
+    <string name="wallpaper_settings_change_wallpaper">Modificați</string>
+    <string name="wallpaper_settings_desktop_text">Ecranul principal</string>
+    <string name="wallpaper_settings_lockscreen_text">Blocarea ecranului</string>
+    <string name="wallpaper_settings_page_title">imagine de fundal</string>
 </resources>

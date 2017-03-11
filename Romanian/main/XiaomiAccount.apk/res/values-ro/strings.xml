@@ -331,9 +331,10 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
     <string name="phone_activated">%s activat</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
-    <string name="push_notification_content">Atingeți și obțineți codul de verificare</string>
-    <string name="push_notification_title">Vă conectați la contul Mi de pe un dispozitiv necunoscut</string>
-    <string name="push_notify_dialog_title">Verificare securitate conectare</string>
+    <string name="push_notification_content">Obțineți codul de verificare</string>
+    <string name="push_notification_title">V-ați conectat la contul Mi de pe un dispozitiv necunoscut</string>
+    <string name="push_notify_dialog_message">"Un dispozitiv necunoscut este folosit pentru conectarea la contul dumneavoastră Mi. Introduceți acest cod de verificare pe dispozitiv. Dacă nu ați fost dumneavoastră, schimbați parola contului Mi imediat. Nu transmiteți codul de verificare altor persoane."</string>
+    <string name="push_notify_dialog_title">Verificare cont</string>
     <string name="qq">QQ</string>
     <string name="remove_device_success_notice">Dacă eliminați acest dispozitiv din lista dispozitivelor de încredere, ar putea fi necesar să parcurgeţi din nou procesul de verificare atunci când vă conectați.​</string>
     <string name="remove_trust_btn">Eliminați din lista dispozitivelor de încredere</string>

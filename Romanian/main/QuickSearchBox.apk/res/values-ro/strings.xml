@@ -27,7 +27,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="corpus_selection_heading">Căutare</string>
     <string name="cta_declaration">Această caracteristică trebuie să se conecteze la internet, să acceseze locația dispozitivului dvs. și să vizualizeze istoricul apelurilor și contactele pentru a funcţiona în mod normal.</string>
     <string name="cta_declaration_ignore">Nu se afișează din nou</string>
-    <string name="cta_declaration_negative_text">Ieşire</string>
+    <string name="cta_declaration_negative_text">"Nu permite"</string>
     <string name="cta_declaration_positive_text">Permiteţi</string>
     <string name="cta_declaration_title">Condiții de utilizare</string>
     <string name="device_settings_category_title">Ştergeţi istoricul căutărilor</string>

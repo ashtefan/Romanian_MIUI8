@@ -863,6 +863,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
+    <string name="optimize_result_ads_close_text">Reclamă</string>
     <string name="optimize_result_button_cloudspace">Adăugați stocare în Cloud</string>
     <string name="optimize_result_button_consume_power_analysis">Scanare acumulator</string>
     <string name="optimize_result_button_cooldown_now">Răcorire</string>

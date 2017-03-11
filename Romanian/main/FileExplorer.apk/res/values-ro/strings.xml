@@ -544,7 +544,7 @@
     <string name="select_dest_folder">Selectați dosarul</string>
     <string name="select_image">Selectaţi fotografiile</string>
     <string name="select_interest_str">Selectați subiectele care vă plac</string>
-    <string name="select_interest_tip">O mulțime de lucruri de descoperit!</string>
+    <string name="select_interest_tip">"Sunt o mulțime de lucruri de descoperit!"</string>
     <string name="select_music">Selectaţi melodiile</string>
     <string name="select_video">Selectaţi videoclipurile</string>
     <string name="select_volume">Selectați volumul</string>

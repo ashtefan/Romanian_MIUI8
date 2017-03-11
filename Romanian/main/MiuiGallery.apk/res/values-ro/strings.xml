@@ -128,6 +128,7 @@
     <string name="backup_automatically_title">Salvare automată</string>
     <string name="backup_battery_low_desc">Puteți alege să continuați sincronizarea elementelor</string>
     <string name="backup_battery_low_title">Sincronizarea a fost dezactivată datorită nivelului redus al acumulatorului</string>
+    <string name="backup_close">Opriți sincronizarea</string>
     <string name="backup_cloud_space_low_btn_text">Obțineți mai mult</string>
     <string name="backup_cloud_space_low_desc">%1$s în Mi Cloud | Disponibil %2$s</string>
     <string name="backup_cloud_space_low_title">Nu există suficient spațiu de stocare în Mi Cloud</string>
@@ -151,6 +152,7 @@
     <string name="backup_only_in_wifi">Salvați fotografiile și videoclipurile doar dacă sunteți conectat la Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Nu se utilizează conexiunea de date mobile pentru salvarea fotografiilor și a videoclipurilor</string>
     <string name="backup_pause">Opriți sincronizarea</string>
+    <string name="backup_pause_title">Sincronizați în %s</string>
     <string name="backup_pending">Se vor sincroniza în mod automat</string>
     <string name="backup_stop">Opriți sincronizarea</string>
     <string name="backup_sync_error_btn_text">Încercați din nou</string>
@@ -248,6 +250,8 @@
     <string name="custom_select_title_select_all">Selectați tot</string>
     <string name="custom_select_title_select_item">Selectați elementele</string>
     <string name="debugging_tip">Se generează raportul erorilor</string>
+    <string name="default_relation_name">Grup nou</string>
+    <string name="define_by_user">Personalizat</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_album_failed">Nu s-a putut șterge albumul.</string>
     <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s %3$s?</string>
@@ -299,6 +303,7 @@
     <string name="empty_query_text_msg">"Nu știu ce să caut…"</string>
     <string name="empty_recommend_back">Înapoi</string>
     <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
+    <string name="empty_relation">"Numele grupului nu poate fi necompletat"</string>
     <string name="enable_auto_upload_tip">Acest album va fi eliminat din  \"Alte albume\" după activare.</string>
     <string name="enable_auto_upload_title">Activați sincronizarea cu Mi Cloud</string>
     <string name="enable_cloud_for_sharing">Activați albumele Mi Cloud pentru a vedea fotografiile partajate.</string>
@@ -414,6 +419,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="input_baby_nick_name">Introduceţi pseudonimul</string>
     <string name="input_nickname_toast">Introduceţi numele copilului</string>
     <string name="input_or_select_a_name">Introduceți sau selectați un nume</string>
+    <string name="input_relation_name">Introduceți numele grupului</string>
     <string name="invalid_invition_url">URL greşit</string>
     <string name="invalid_recipient_message">Numele destinatarilor introduse sunt greşite</string>
     <string name="invite_sharer_confirm_button_text">Invitaţi</string>
@@ -430,6 +436,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="kilobyteShort">KB</string>
     <string name="limit_height">Înâlțimea trebuie să fie &gt; 0</string>
     <string name="limit_width">Lățimea trebuie să fie &gt; 0</string>
+    <string name="load_relations">Doar o secundă…</string>
     <string name="loading_dual_tip">Încărcare fotografie duală...</string>
     <string name="loading_fail">Nu s-a putut descărca</string>
     <string name="loading_fail_sync_off">Activați sincronizarea cu Mi Cloud pentru a descărca</string>
@@ -472,6 +479,9 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="new_album_invalid_char">"Numele albumului nu poate conține \"%s\"; introduceți doar litere sau cifre."</string>
     <string name="new_album_invalid_name">\"%s\" este un album de sistem; redenumiți-l.</string>
     <string name="new_album_invalid_prefix">"Nu folosiți \".\" or \"_\" la începutul numelui albumului."</string>
+    <string name="new_relation_invalid_char">"Numele grupurilor nu pot conține “%s”. Utilizați litere, numere sau caractere."</string>
+    <string name="new_relation_invalid_name">Grupul “%s” există deja; redenumiți acest grup.</string>
+    <string name="new_relation_invalid_prefix">"Numele grupului nu poate începe cu “.” sau “_”"</string>
     <string name="next">Următorul</string>
     <string name="no">Nu</string>
     <string name="no_map_app">Aplicaţia pentru hărţi lipseşte</string>
@@ -493,6 +503,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="operation_do_delete_local_thumnail">Ștergeți din telefon</string>
     <string name="operation_download">Descărcați fotografia (%s)</string>
     <string name="operation_edit">Editați</string>
+    <string name="operation_edit_video">Editați</string>
     <string name="operation_enable_auto_upload">Activați sincronizarea cu Mi Cloud</string>
     <string name="operation_enter_delete_local">Ștergeți fotografiile și videoclipurile sincronizate de pe telefon</string>
     <string name="operation_failed">Operaţiune eşuată</string>
@@ -506,6 +517,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
     <string name="operation_remove_from_other_albums">Mutați din Alte albume</string>
     <string name="operation_remove_secret">Afișați</string>
+    <string name="operation_rename">Redenumiți</string>
     <string name="operation_save">Salvați</string>
     <string name="operation_send">Trimiteți</string>
     <string name="operation_set_contact_photo">Setați ca fotografie a contactului</string>
@@ -589,6 +601,9 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="remove_from_secret_successful">Eliminat din albumul secret</string>
     <string name="remove_to_album_title">Asociați cu</string>
     <string name="remove_to_other_album">Asociați cu o altă persoană</string>
+    <string name="rename_album">Redenumiți albumul</string>
+    <string name="rename_album_failed">"Nu s-a putut redenumi"</string>
+    <string name="rename_album_succeeded">Redenumit cu succes</string>
     <string name="rename_face_album">Schimbaţi numele</string>
     <string name="rename_fail_msg">Schimbare nume eşuată</string>
     <string name="rename_from_contact">Nume din agendă</string>
@@ -700,8 +715,10 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="sync_battery_low">Acumulator descărcat</string>
     <string name="sync_cloud_space_full">Spaţiu insuficient în Cloud</string>
     <string name="sync_diabled_toast">Sincronizarea este dezactivată</string>
+    <string name="sync_metatata_wait_title">Se așteaptă sincronizarea datelor din Mi Cloud</string>
     <string name="sync_off_title">Activați sincronizarea cu Mi Cloud pentru a face o copie de rezervă în mod automat pentru fotografii și videoclipuri</string>
     <string name="sync_pending_title">Se vor sincroniza în mod automat</string>
+    <string name="sync_state_unknow">Se obțin informațiile</string>
     <string name="synced_title">Fotografii și videoclipuri sincronizate cu succes</string>
     <string name="syncing_gprs_title">Sincronizare utilizând datele mobile</string>
     <string name="syncing_metadata_title">Se sincronizează datele Mi Cloud</string>

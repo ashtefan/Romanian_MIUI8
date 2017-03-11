@@ -206,7 +206,7 @@
     <string name="tax_title_primary"/>
     <string name="tax_title_secondary"/>
     <string name="tax_unemployment">Șomaj</string>
-    <string name="tax_update_time_format">Data in year %s, oferit de HeXun</string>
+    <string name="tax_update_time_format">Date furnizate de HeXun (%s)</string>
     <string name="times"/>
     <string name="title_bar">Convertor pentru măsuri de lungime</string>
     <string name="to_num">62.7</string>

@@ -208,11 +208,24 @@ Actualizaţi acum?"</string>
     <string name="auto_mail_title_note">Găsiți opțiunea \"Configurare automată a căsuței de e-mail 139\", și atingeți pentru a porni.</string>
     <string name="auto_mail_window_description">Serviciul de configurare automată a căsuței de e-mail 139</string>
     <string name="auto_mail_window_label">Configurare automată a căsuței de e-mail 139</string>
+    <string name="auto_remind_bind">Adăugați</string>
+    <string name="auto_remind_discribe_text">Activați pentru a fi anunțat în mod automat</string>
+    <string name="auto_remind_text">Memento automat</string>
+    <string name="auto_remind_unbind">Opriți</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
-  <string name="battery_saver">modul de economisire a energiei</string>
-  <string name="battery_saver_keywords">Salvarea mesajelor; consumul de mesaje;battery saver;mail battery</string>
+    <string name="bank_card_detail">Detaliile cardului de credit</string>
+    <string name="bank_card_list_card_num_fmt">****%s</string>
+    <string name="battery_saver">Economisire acumulator</string>
+    <string name="battery_saver_keywords">economisire acumulator; consumul de acumulator pentru e-mailuri</string>
     <string name="bcc">BCC</string>
     <string name="bcc_heading">"BCC: "</string>
+    <string name="bill_center_setting">Setări pentru plată</string>
+    <string name="bill_center_setting_head">Importați din aceste conturi</string>
+    <string name="bill_cycle_text">Ciclu de plată</string>
+    <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+    <string name="bill_list_card_num_fmt">**** **** **** %s</string>
+    <string name="bill_remind">Memento plată programată</string>
+    <string name="bill_remind_due">O plată este programată pe %s, atingeți pentru a vedea detalii</string>
     <string name="blank_feedback_toast">Trebuie să scrieţi un feedback</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Compuneţi un e-mail</string>
@@ -313,6 +326,8 @@ Actualizaţi acum?"</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
     <string name="create_action">Creaţi</string>
+    <string name="credit_limit_text">Limita de credit</string>
+    <string name="cur_debt">Soldul contului</string>
     <string name="custom_from_account_label">Trimiteţi e-mailul ca:</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s %2$s</string>
@@ -359,9 +374,13 @@ Actualizaţi acum?"</string>
     <string name="download_confirm_title">Descărcaţi ataşamentul</string>
     <string name="download_message_failed_for_too_large">Mesajul este prea mare pentru a putea fi descărcat.</string>
     <string name="draft_count_format"> (%1$s)</string>
+    <string name="drawer_bank_bill">Declarații bancare</string>
+    <string name="drawer_bill_title">Facturi</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
     <string name="drawer_contacts">Contacte</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
+    <string name="due">Scadență</string>
+    <string name="due_date_text">Plată finală</string>
     <string name="eas_hotmail_email">hotmail.com</string>
     <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Mesaje rapide</string>
@@ -378,7 +397,7 @@ Actualizaţi acum?"</string>
     <string name="empty_trash_dialog_title">Goliţi coşul de reciclare?</string>
     <string name="enable_sync_in_account_settings">Activaţi din %1$s.</string>
     <string name="enumeration_delimiter">" | "</string>
-    <string name="error">eroare</string>
+    <string name="error">Eroare</string>
     <string name="exception_cancel">"
     Acest eveniment a fost anulat
     pentru:
@@ -397,6 +416,7 @@ Actualizaţi acum?"</string>
     <string name="feedback_sent">Mulţumim pentru feedback</string>
     <string name="feedback_user_edit_hint">Introduceți descrierea problemei aici. Vom reveni cu un e-mail după ce o vom analiza.</string>
     <string name="feedback_user_edit_tag">De la MIUI </string>
+    <string name="fetch_bank_sender_list_failure">"Nu s-au putut obține informațiile"</string>
     <string name="fetching_attachment">Obţinere ataşament</string>
     <string name="file_deleted_success">Fişier şters</string>
     <string name="file_not_found">Nu se poate găsi fișierul</string>
@@ -450,6 +470,7 @@ Actualizaţi acum?"</string>
     <string name="forward_attribution_no_headers">---------- Mesaj redirecţionat ----------</string>
     <string name="forward_download_failed_ticker">Nu se pot redirecţiona unul sau mai multe ataşamente</string>
     <string name="forward_download_failed_title">Ataşamentul nu a fost trimis</string>
+    <string name="free_period_text">Perioadă fără dobândă</string>
     <string name="from_heading">"De la: "</string>
     <string name="general_preference_confirm_delete_label">Confirmaţi înainte de a şterge</string>
     <string name="general_preference_confirm_send_label">Confirmaţi înainte de a trimite</string>
@@ -483,12 +504,15 @@ Actualizaţi acum?"</string>
     <string name="hint_quick_reply_all">Răspundeţi tuturor</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">Parola pentru serverul de intrare este incorectă</string>
+    <string name="import_button_text">Importați</string>
+    <string name="import_from_other_account">Importați din alte conturi</string>
     <string name="info_actionbar_normal_detail">Promoție</string>
     <string name="info_item_hide">Ascundeți</string>
     <string name="info_switch_summary">Vedeți promoțiile deasupra mesajelor primite</string>
     <string name="info_switch_title">Promoții</string>
     <string name="inline_picture_deleted">Se descărcă imaginea ce lipsește…</string>
     <string name="input_password_prompt">Introduceţi parola dvs.</string>
+    <string name="interact_with_server_error">"Nu s-a putut conecta la server"</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
     <string name="invalid_recipient_title">Eroare destinatar</string>
     <string name="kilobytes">%s KB</string>
@@ -501,7 +525,7 @@ Actualizaţi acum?"</string>
     <string name="local_search">Căutare locală</string>
     <string name="local_search_result">%s rezultate găsite în mesajele sincronizate</string>
     <string name="login">Conectaţi-vă</string>
-    <string name="login139">Conectare CMCC printr-un buton</string>
+    <string name="login139">Conectare prin China Mobile</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
     <string name="login_failed_title">Nu s-a putut conecta</string>
     <string name="long_press_to_select_tip">Atingeți și mențineți apăsat pentru a selecta o conversație, apoi atingeţi pentru a selecta mai multe.</string>
@@ -510,7 +534,8 @@ Actualizaţi acum?"</string>
     <string name="mail_body_turncated">Acest e-mail este prea mare pentru a fi încărcat, se afișează doar o parte din el. Pentru a-l vizualiza în întregime deschideţi-l pe un PC mai târziu.</string>
     <string name="mail_header_network_not_available">Nu aveți o conexiune la rețea.</string>
     <string name="mailbox_list_account_selector_combined_view">Toate conturile de e-mail</string>
-    <string name="mailbox_name_display_ad">Reclame și notificări</string>
+    <string name="mailbox_name_display_ad">Reclame</string>
+    <string name="mailbox_name_display_circular">Notificări</string>
     <string name="mailbox_name_display_drafts">Mesaje nefinalizate</string>
     <string name="mailbox_name_display_inbox">Mesaje primite</string>
     <string name="mailbox_name_display_junk">Mesaje nedorite</string>
@@ -592,7 +617,7 @@ Actualizaţi acum?"</string>
     <string name="menu_search">Căutaţi</string>
     <string name="menu_settings">Setări</string>
     <string name="merged_mailbox_compose_select_account">Selectaţi contul</string>
-    <string name="message_body_load_set_description">Conținutul de încărcat al e-mailurilor noi la utilizarea datelor mobile</string>
+    <string name="message_body_load_set_description">Încărcați mesajele când se utilizează datele mobile</string>
     <string name="message_compose_insert_quick_response_list_title">Introduceţi un răspuns rapid</string>
     <string name="message_count_spacer">  </string>
     <string name="message_decode_error">A apărut o eroare la decodificarea mesajului.</string>
@@ -610,6 +635,7 @@ Actualizaţi acum?"</string>
     <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată în mod implicit pentru adresele de e-mail legate de servici.</string>
     <string name="mibill_privacy_policy_link">"Prin utilizarea acestei funcții, sunteți de acord cu "<a href="https://www.mipay.com/res/doc/eula/email.html">Condiţiile de utilizare</a></string>
     <string name="mibill_privacy_policy_title">Gestionarea facturilor în mod automat</string>
+    <string name="min_payment_text">Suma minimă de plată</string>
     <string name="more_atts_remaining">%1$d rămase</string>
     <string name="more_context">Mai multe</string>
     <string name="more_string">+%1$s</string>
@@ -617,6 +643,7 @@ Actualizaţi acum?"</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Suprimaţi</string>
     <string name="network_error">Nicio conexiune</string>
+    <string name="network_invaild">"Nu s-a putut conecta la rețea"</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_tip">Autentificarea a eșuat, verificați conexiunea la rețea</string>
     <string name="network_try_again">Verificați setările rețelei</string>
@@ -628,9 +655,12 @@ Actualizaţi acum?"</string>
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Nu a fost găsită nicio aplicație pentru a deschide acest atașament.</string>
     <string name="no_application_found_title">Deschideţi acest atașament.</string>
+    <string name="no_bill_discribe">"Nu s-a găsit nicio factură.
+Încercați cu un alt cont de e-mail."</string>
     <string name="no_contacts">Niciun contact.</string>
     <string name="no_content_in_body">[Fără text]</string>
     <string name="no_conversations">Niciun mesaj</string>
+    <string name="no_filtrable_email_account">Niciun cont de filtrat</string>
     <string name="no_mails">Niciun e-mail.</string>
     <string name="no_matched_attachment">Niciun rezultat.</string>
     <string name="no_remind">Nu-mi mai aminti</string>
@@ -650,7 +680,7 @@ Actualizaţi acum?"</string>
     <string name="oauth_error_description">Autentificare eșuată</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google pe următoarea pagină de autentificare.</string>
     <string name="oauth_login_continue">Continuare</string>
-    <string name="oauth_login_continue_qq">Obțineți codul de autorizare pentru a vă conecta &gt;</string>
+    <string name="oauth_login_continue_qq">Obțineți codul de autorizare și conectați-vă &gt;</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
     <string name="outbox_alert_button_no_resend">Nu se retrimite</string>
@@ -674,11 +704,13 @@ Actualizaţi acum?"</string>
     <string name="outbox_alert_select_operation">Selectaţi o acţiune</string>
     <string name="outbox_alert_title_sent_failed">Nu s-a putut trimite e-mailul</string>
     <string name="outbox_no_mails">Gol</string>
+    <string name="over_due">Depășire</string>
     <string name="overlays_fail_tip">Ne pare foarte rău că nu s-a putut configura cu succes căsuța de e-mail; deschideți fereastra plutitoare de permisiuni și reîncercați</string>
     <string name="overlays_ok">Deschideți fereastra de permisiuni</string>
     <string name="overlays_tip">Deschideți fereastra de permisiuni și bucurați-vă imediat de experiența extremă a configurării automate a căsuței de e-mail 139.</string>
     <string name="overlays_title">Deschideți fereastra plutitoare de permisiuni</string>
     <string name="parase_setup_data">Obţinere date…</string>
+    <string name="parse_bill_discribe">Procesare facturi card de credit…</string>
     <string name="password_expire_warning_content_title">Parola de blocare a ecranului expiră</string>
     <string name="password_expire_warning_dialog_content_fmt">Este necesar să modificaţi în curând codul PIN sau parola de blocare a ecranului. În caz contrar, datele pentru %s vor fi şterse. Modificaţi acum?</string>
     <string name="password_expire_warning_dialog_title">Parola de blocare ecran expiră în curând</string>
@@ -712,6 +744,8 @@ Actualizaţi acum?"</string>
     <string name="photo_load_failed">Imaginea nu s-a putut încărca</string>
     <string name="photo_view_count" formatted="false">%d din %d</string>
     <string name="please_fill_in_your_mailbox_information2">Introduceţi datele căsuţei poştale.</string>
+    <string name="pls_parse_bill_discribe">"Analizați facturile și informațiile despre deplasări din e-mail
+pentru a primi notificări despre plăți și călătorii"</string>
     <string name="policy_app_blacklist">Se interzic aplicaţiile specificate</string>
     <string name="policy_app_whitelist">Se permit doar aplicaţiile specificate</string>
     <string name="policy_bluetooth_restricted">Se restricţionează utilizarea Bluetooth</string>
@@ -757,6 +791,7 @@ Actualizaţi acum?"</string>
     <string name="protocol_imap">imap</string>
     <string name="protocol_legacy_imap">imap</string>
     <string name="protocol_pop3">pop3</string>
+    <string name="protocol_setting_toast">Atingeți colțul din dreapta sus pentru a merge la setări după ce vă dați acordul</string>
     <string name="pull_to_refresh">Glisați în jos pentru a actualiza</string>
     <string name="push_wps_better_confirm_download">Descărcaţi</string>
     <string name="push_wps_better_confirm_exit">Nu acum</string>
@@ -768,17 +803,17 @@ Actualizaţi acum?"</string>
     <string name="push_wps_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_no_response_app">Nu a fost găsită nicio aplicație pentru a gestiona această acţiune</string>
-    <string name="qq_bar_open_imap">Activați</string>
+    <string name="qq_bar_open_imap">Ajutor</string>
     <string name="qq_bar_send_message">Trimiteți SMS</string>
-    <string name="qq_login_basecode">Conectați-vă la QQ Email din browser. Introduceți parola independentă.</string>
-    <string name="qq_login_get_auth">A eșuat trimiterea SMS-ului de verificare? Autentificați-vă răspunzând la întrebările de securitate a parolei</string>
-    <string name="qq_login_open_imap">Apăsați \"Activați\" pentru a activa \"IMAP/SMTP\"</string>
-    <string name="qq_login_origin_setting">Introduceți numele de utilizator și parola pentru a vă autentifica &gt;</string>
+    <string name="qq_login_basecode">Conectare la QQ Email din browser. Introduceți parola independentă.</string>
+    <string name="qq_login_get_auth">Activați protecția prin parolă dacă nu puteți primi SMS</string>
+    <string name="qq_login_open_imap">Apăsați \"Ajutor\" pentru a activa IMAP/SMTP</string>
+    <string name="qq_login_origin_setting">Introduceți numele de utilizator și parola pentru a vă conecta &gt;</string>
     <string name="qq_login_send_message">Apăsați \"Trimiteți SMS\" pentru a obține un cod de autorizare</string>
-    <string name="qq_login_webview">Autentificare la QQ Email din browser. Introduceți vă rog parola.</string>
-    <string name="qq_next_generation_auth_toast">Vă rugăm completați aplicația pentru protecția de generație nouă a parolei din browser</string>
-    <string name="qq_uthentication_failed">Autentificarea a eșuat; vă rugăm conectați-vă din nou</string>
-    <string name="qq_webview_loading">Se omite acum, vă rugăm să așteptați...</string>
+    <string name="qq_login_webview">Conectare la QQ Email din browser. Introduceți parola.</string>
+    <string name="qq_next_generation_auth_toast">Activați protecția prin parolă din browser</string>
+    <string name="qq_uthentication_failed">"Nu s-a putut verifica contul; vă rugăm conectați-vă din nou"</string>
+    <string name="qq_webview_loading">Doar o secundă...</string>
     <string name="questionnair_body_invisibility">"Mesajele nu sunt afișate"</string>
     <string name="questionnair_confirm_delete">Ștergeți</string>
     <string name="questionnair_instability">Aplicație instabilă, se blochează în mod frecvent</string>
@@ -895,6 +930,8 @@ Actualizaţi acum?"</string>
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
     <string name="ser_resp_err_map_serclosed">Serverul este oprit</string>
     <string name="ser_resp_err_map_ssl">"Alegeţi 'SSL/TLS (Se acceptă toate certificatele)' în 'Tip securitate'"</string>
+    <string name="service_protocol_discribe">&lt;u&gt;"Am citit și sunt de acord cu Termenii serviciului de e-mail WPS"&lt;/u&gt;</string>
+    <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
     <string name="settings_activity_title">Setări</string>
     <string name="share_choose">Selectaţi</string>
@@ -949,6 +986,7 @@ Actualizaţi acum?"</string>
     <string name="toast_bar_invalid_account">Este necesar să vă autentificaţi din nou</string>
     <string name="toast_bar_no_connection_network">Nu aveți o conexiune la internet</string>
     <string name="toast_bar_open_gmail_synchronization">Apăsați pentru a utiliza server proxy pentru Gmail</string>
+    <string name="today_text">Astăzi</string>
     <string name="too_large_to_attach_additional">Fişierul nu a fost ataşat. A fost atinsă limita maximă de %1$s.</string>
     <string name="too_large_to_attach_multiple">Unul sau mai multe fişiere nu au fost ataşate. Limita maximă este de %1$s.</string>
     <string name="too_large_to_attach_single">Nu puteţi ataşa fişiere care depăşesc %1$s.</string>
@@ -971,7 +1009,10 @@ Actualizaţi acum?"</string>
           între web, alte dispozitive ale dvs. și %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activaţi</string>
     <string name="turn_auto_sync_on_dialog_title">Activaţi sincronizarea automată?</string>
+    <string name="unbind_dialog_text">"Nu veți mai putea primi notificări după ce veți opri analizarea facturilor.
+Opriți acum?"</string>
     <string name="undo">Anulaţi</string>
+    <string name="unknow">Necunoscut</string>
     <string name="unread_string">conversație necitită</string>
     <string name="unsent_messages_in_outbox">%1$s netrimise în %2$s</string>
     <string name="unzip_file_failed">Nu s-a putut dezarhiva fişierul</string>
@@ -996,12 +1037,12 @@ Actualizaţi acum?"</string>
     <string name="wait_for_manual_sync_body">"Acest cont nu este configurat pentru sincronizare automată.
 Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţi setările de sincronizare pentru a sincroniza e-mailurile în mod automat.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
-    <string name="webview_logout">Sigur renunțați la conectare? Reveniți și reîncercați!</string>
-    <string name="webview_logout_cancel">"Nu mai încerc"</string>
+    <string name="webview_logout">Puteți să încercați să vă conectați din nou</string>
+    <string name="webview_logout_cancel">Nu acum</string>
     <string name="webview_logout_sure">Mai încerc o dată</string>
     <string name="webview_sslerror_handle_cancel">Renunțați</string>
     <string name="webview_sslerror_handle_continue">Continuați</string>
-    <string name="webview_sslerror_handle_hitmessage">Eroare de Certificat! Continuați în acest website (nerecomandat)?</string>
+    <string name="webview_sslerror_handle_hitmessage">A apărut o eroare de Certificat; Continuați oricum?</string>
     <string name="widget_all_mail">Toate e-mailurile</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Altele</string>

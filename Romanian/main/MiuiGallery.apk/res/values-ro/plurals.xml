@@ -104,6 +104,14 @@
         <item quantity="other">%1$d fotografii și videoclipuri | %2$s</item>
         <item quantity="one">%1$d fotografie sau videoclip | %2$s</item>
     </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Reluați sincronizarea în %d ore</item>
+        <item quantity="one">Reluați sincronizarea în %d oră</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d fotografii și videoclipuri | Oprită</item>
+        <item quantity="one">%d fotografie sau videoclip | Oprită</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>
         <item quantity="one">"Nu s-a sincronizat %d fotografie sau videoclip"</item>
@@ -155,6 +163,10 @@
     <plurals name="download_error">
         <item quantity="other">"Nu s-au putut descărca %1$d fișiere"</item>
         <item quantity="one">"Nu s-a putut descărca %1$d fișier</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">"Nu s-au putut descărca %1$d fișiere, verificați conexiunea la rețea și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut descărca %1$d fișier, verificați conexiunea la rețea și reîncercați"</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elemente selectate</item>

@@ -71,7 +71,7 @@
     <string name="download_failed_storage">Descărcarea a eșuat. Verificați cardul SD.</string>
     <string name="downloading">Se descarcă…</string>
     <string name="enable_now">Activați</string>
-    <string name="exapress_save_address_to_contact">Salvați adresa în contacte</string>
+    <string name="exapress_save_address_to_contact">Salvați această adresă în Contacte</string>
     <string name="express_add_new_address">Adăugați adresa</string>
     <string name="express_address_delete_warning">Eliminați această adresă?</string>
     <string name="express_address_deleted">Adresă ștearsă</string>
