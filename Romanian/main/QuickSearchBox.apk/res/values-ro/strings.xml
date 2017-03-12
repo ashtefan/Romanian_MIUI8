@@ -9,10 +9,10 @@
     <string name="apps_search_activity" />
     <string name="choose_search_engine">Selectați motorul de căutare implicit</string>
     <string name="clear_history">Goliți istoricul de căutare</string>
-    <string name="clear_shortcuts">Eliminaţi istoricul căutărilor</string>
-    <string name="clear_shortcuts_agree">Eliminare istoric</string>
-    <string name="clear_shortcuts_disagree">Nu se elimină istoricul</string>
-    <string name="clear_shortcuts_prompt">"Istoricul tuturor căutărilor va fi eliminat.
+    <string name="clear_shortcuts">Eliminaţi scurtăturile</string>
+    <string name="clear_shortcuts_agree">Eliminare scurtături</string>
+    <string name="clear_shortcuts_disagree">"Nu elimina scurtăturile"</string>
+    <string name="clear_shortcuts_prompt">"Doriți să eliminați toate scurtăturile pentru sugestiile recent alese?.
 
 Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</string>
     <string name="clear_shortcuts_summary">Eliminaţi istoricul tuturor căutărilor</string>
@@ -25,11 +25,12 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="corpus_label_global">Tot</string>
     <string name="corpus_label_web">Căutați aplicații, muzică, videoclipuri, Pagini Aurii, etc.</string>
     <string name="corpus_selection_heading">Căutare</string>
-    <string name="cta_declaration">Această caracteristică trebuie să se conecteze la internet, să acceseze locația dispozitivului dvs. și să vizualizeze istoricul apelurilor și contactele pentru a funcţiona în mod normal.</string>
-    <string name="cta_declaration_ignore">Nu se afișează din nou</string>
+    <string name="cta_declaration">"Această caracteristică trebuie să se conecteze la internet, să acceseze locația dispozitivului dvs. și să vizualizeze istoricul apelurilor și contactele pentru a funcţiona în mod normal."</string>
+    <string name="cta_declaration_ignore">"Nu se afișează din nou"</string>
     <string name="cta_declaration_negative_text">"Nu permite"</string>
     <string name="cta_declaration_positive_text">Permiteţi</string>
     <string name="cta_declaration_title">Condiții de utilizare</string>
+    <string name="default_hint">Căutați aplicații, muzică, videoclipuri, carți…</string>
     <string name="device_settings_category_title">Ştergeţi istoricul căutărilor</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="distance_unit_meter">m</string>
@@ -47,7 +48,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="local_setting">Setări</string>
     <string name="menu_help">Ajutor</string>
     <string name="menu_settings">Setări căutare</string>
-    <string name="network_unavailable">Nu se poate conecta la rețea</string>
+    <string name="network_unavailable">"Nu s-a putut conecta la rețea"</string>
     <string name="permission_prompt_detail">Căutați filme, cărți, muzică, etc.</string>
     <string name="permission_prompt_start">Permiteți</string>
     <string name="permission_prompt_started_info">"Ați acordat permisiunea de căutare globală"</string>
@@ -68,6 +69,7 @@ Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"
     <string name="recent_filter_functions">Caracteristici dezactivate</string>
     <string name="recent_function">Caracteristici</string>
     <string name="recently_shortcut_label">Comenzi rapide recente</string>
+    <string name="release_to_input">Eliberați pentru a afișa bara de căutare</string>
     <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutărilor?</string>
     <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
     <string name="search_apps">Căutați aplicații</string>
@@ -101,6 +103,7 @@ Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"
     <string name="switch_prompt_ignore">Ignorați</string>
     <string name="switch_prompt_set">Vizualizați opțiunile</string>
     <string name="switch_prompt_title">"Nu ați găsit %s?"</string>
+    <string name="switch_prompt_title_default">"Nu ați găsit ceea ce vă interesează?"</string>
     <string name="switch_setting">Setări</string>
     <string name="system_search_category_title">Telefon</string>
     <string name="top_clicked">Elemente frecvente</string>
