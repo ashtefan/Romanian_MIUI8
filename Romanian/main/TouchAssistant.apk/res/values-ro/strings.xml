@@ -47,6 +47,7 @@
     <string name="pref_category_quick_pay">Plată rapidă</string>
     <string name="pref_category_quick_settings">Setări rapide</string>
     <string name="pref_category_system">Setări de sistem</string>
+    <string name="restore_default">Restaurați la valorile implicite</string>
     <string name="restore_intro">"Restaurați la valorile implicite, inclusiv funcțiile și ordinea lor. Datele din telefon nu vor fi șterse."</string>
     <string name="show_on_keyguard">Afișare în blocarea ecranului</string>
     <string name="theme_manager_not_supported">"Managerul de teme nu este suportat."</string>

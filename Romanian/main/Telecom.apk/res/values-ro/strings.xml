@@ -24,6 +24,7 @@
     <string name="respond_via_sms_canned_response_4">"Nu pot vorbi acum. Vă rog să reveniți"</string>
     <string name="respond_via_sms_confirmation_format">Mesaj trimis la %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Răspuns rapid</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Resetați aplicația implicită</string>
     <string name="respond_via_sms_setting_summary"/>
     <string name="respond_via_sms_setting_title">Răspunsuri rapide</string>
     <string name="respond_via_sms_setting_title_2">Editați răspunsurile rapide</string>

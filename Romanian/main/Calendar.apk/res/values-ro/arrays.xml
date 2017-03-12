@@ -123,7 +123,18 @@
         <item>Transparent</item>
         <item>Fundal alb</item>
      </string-array>
-<string-array name="preferences_week_start_day_labels">
+    <string-array name="default_reminder_labels">
+        <item>La momentul evenimentului</item>
+        <item>Cu 5 minute înainte de eveniment</item>
+        <item>Cu 10 minute înainte de eveniment</item>
+        <item>Cu 15 minute înainte de eveniment</item>
+        <item>Cu 30 de minute înainte de eveniment</item>
+        <item>Cu o oră înainte de eveniment</item>
+        <item>Cu o zi înainte de eveniment</item>
+        <item>Cu 2 zile înainte de eveniment</item>
+        <item>Cu o săptămână înainte de eveniment</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
         <item>Codul local prestabilit</item>
         <item>Sâmbătă</item>
         <item>Duminică</item>

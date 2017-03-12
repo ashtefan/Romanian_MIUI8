@@ -10,6 +10,7 @@
     <string name="debug_dump_email_subject">Baza de date a contactelor a fost ataşată</string>
     <string name="debug_dump_start_button">Începeţi</string>
     <string name="debug_dump_title">Copiaţi baza de date a contactelor</string>
+    <string name="default_directory">Contacte</string>
     <string name="edit_contact">Adăugaţi la contact</string>
     <string name="local_invisible_directory">Altul</string>
     <string name="low_memory_toast">"Nu se poate continua utilizarea datorită memoriei reduse."</string>

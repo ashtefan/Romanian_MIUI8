@@ -510,6 +510,11 @@
         <item>Cimpanzeu</item>
         <item>Maimuță</item>
      </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Întrebaţi</item>
+        <item>Nu permiteţi niciodată</item>
+        <item>Permiteţi întotdeauna</item>
+     </string-array>
     <string-array name="ram_states">
         <item>normală</item>
         <item>moderată</item>

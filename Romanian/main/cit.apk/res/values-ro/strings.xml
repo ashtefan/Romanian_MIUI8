@@ -285,6 +285,7 @@ doar în modul ramă"</string>
     <string name="cpu_title">CPU :</string>
     <string name="credibility">Cred%</string>
     <string name="cta_version">Versiune CTA:</string>
+    <string name="current_value">"Valoare curentă: "</string>
     <string name="custombt">[BT]:</string>
     <string name="customft">[FT]:</string>
     <string name="customsn">[SN]:</string>

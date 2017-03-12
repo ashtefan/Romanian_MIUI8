@@ -8,6 +8,7 @@
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="all_resources">Toate</string>
     <string name="app_name">Teme</string>
+    <string name="apply_default_font_tip">"Păstrați fontul actual de sistem?"</string>
     <string name="apply_font_btn_exclude">Nu acum</string>
     <string name="apply_font_btn_reboot">Reporniţi</string>
     <string name="apply_font_tip">Reporniţi pentru a aplica fontul acestei teme</string>
@@ -119,6 +120,7 @@
     <string name="online_search_hint">Căutaţi resurse online</string>
     <string name="present_local_themes">Descărcate</string>
     <string name="present_online_themes">Obțineți mai multe teme gratuit</string>
+    <string name="provision_default_theme_title">Implicit</string>
     <string name="provision_loading_tips">Doar o secundă…</string>
     <string name="provision_second_title">Selectați una din cele câteva teme implicite</string>
     <string name="provision_title">Selectați o temă</string>
@@ -132,6 +134,7 @@
     <string name="resource_account_login_before_action">Conectați-vă la contul dvs. Mi</string>
     <string name="resource_account_login_title">Conectaţi-vă</string>
     <string name="resource_account_switch">Comutaţi</string>
+    <string name="resource_alarm_default">Alarmă</string>
     <string name="resource_app_name">Browser resurse</string>
     <string name="resource_apply">Aplicaţi</string>
     <string name="resource_apply_trial">Încercaţi acum</string>
@@ -153,6 +156,7 @@
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_edit_comment">Adăugaţi comentarii</string>
     <string name="resource_comment_edit_comment_waiting">Verificare istoric…</string>
+    <string name="resource_comment_edit_text_default">Scrieți un comentariu</string>
     <string name="resource_comment_edit_title">Editaţi comentariul: %1$s</string>
     <string name="resource_comment_entry_tips">Comentarii (%1$s)</string>
     <string name="resource_comment_expand_full_text">Extindeți tot textul▼</string>
@@ -160,6 +164,7 @@
     <string name="resource_comment_good_comments">Pozitive</string>
     <string name="resource_comment_invalid">Atingeţi steluţele pentru a evalua tema</string>
     <string name="resource_comment_loading_list">Doar o secundă…</string>
+    <string name="resource_comment_name_default">Utilizator %1$s</string>
     <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Niciun comentariu</string>
     <string name="resource_comment_publish">Trimiteţi</string>
@@ -176,6 +181,8 @@
     <string name="resource_comment_upload_success">Comentariul dvs. va fi afișat după o scurtă trecere în revistă.</string>
     <string name="resource_continue">Mai departe</string>
     <string name="resource_data_empty">Nu există conținut.</string>
+    <string name="resource_default">Ton de apel prestabilit</string>
+-   <string name="resource_default_name">Resursă</string>
     <string name="resource_delete">Ştergeţi</string>
     <string name="resource_delete_all">Ştergeţi %1$d resurse selectate?</string>
     <string name="resource_delete_confirm">Ştergeţi aceste resurse?</string>
@@ -238,6 +245,7 @@
     <string name="resource_no_match_app">Nicio aplicație găsită pentru a gestiona această acțiune.</string>
     <string name="resource_no_network_text">Nu se poate conecta la rețea.</string>
     <string name="resource_no_result">Nu s-a găsit nimic</string>
+    <string name="resource_notification_default">Notificări</string>
     <string name="resource_on_trial">Încercare: %1$s</string>
     <string name="resource_online">On-line</string>
     <string name="resource_pack_confirm">Chiar dacă ați achiziționat deja %1$d componente din această temă, este totuşi mai ieftin decât dacă ați procura pachetul complet.</string>
@@ -258,6 +266,7 @@
     <string name="resource_ranking">Populare</string>
     <string name="resource_ranking_free">Gratuite</string>
     <string name="resource_ranking_purchase">Cu plată</string>
+    <string name="resource_ringtone_default">Tonuri de apel</string>
     <string name="resource_ringtone_playing_error">Eroare de redare</string>
     <string name="resource_ringtone_volume_mute">Modul Silenţios este activat</string>
     <string name="resource_save_to_note">Salvaţi în Note</string>
@@ -358,6 +367,7 @@
     <string name="theme_component_title_wallpaper">Ecran principal</string>
     <string name="theme_current_using_has_update">Este disponibilă o actualizare</string>
     <string name="theme_description_title_customized">Personalizat</string>
+    <string name="theme_description_title_default">Prestabilit</string>
     <string name="theme_empty_redirect">Înapoi la Magazin Teme</string>
     <string name="theme_favorite_add_fail">Nu se poate adăuga tema la favorite</string>
     <string name="theme_favorite_add_success">Temă adăugată la favorite</string>

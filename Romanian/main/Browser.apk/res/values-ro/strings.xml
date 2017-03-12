@@ -247,6 +247,8 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="download_btn_select_none">Deselectați tot</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_completed">Descărcat</string>
+    <string name="download_default_path_txt">Memorează această alegere</string>
+    <string name="download_dialog_default_path_invalid">"Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…"</string>
     <string name="download_dialog_file_length_hint_txt">"Măr. fişier: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 kb</string>
     <string name="download_dialog_file_length_nolength_error_txt">Descărcare eşuată</string>
@@ -528,9 +530,17 @@ Părăsiţi această pagină?"</string>
     <string name="pref_enable_news">Ştiri</string>
     <string name="pref_enable_novels">Cărţi</string>
     <string name="pref_enable_videos">Videoclipuri</string>
+    <string name="pref_extras_reset_default">Resetaţi la valorile prestabilite</string>
+    <string name="pref_extras_reset_default_dlg">Restabiliţi setările la valorile prestabilite?</string>
+    <string name="pref_extras_reset_default_summary">Restabiliţi setările prestabilite</string>
+    <string name="pref_extras_reset_default_title">Altele</string>
     <string name="pref_extras_send_feedback">Trimiteți un comentariu</string>
     <string name="pref_extras_title">Avansat</string>
     <string name="pref_extras_title_version">Informaţii despre versiune</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">Salvați fișierele în locația prestabilită a browser-ului</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">Restabiliţi locaţia implicită</string>
+    <string name="pref_file_download_default_path_prefix">Locaţie prestabilită: %s</string>
+    <string name="pref_file_download_save_modify_default_path">Locaţie de descărcare</string>
     <string name="pref_file_download_save_title">Descărcări</string>
     <string name="pref_fling_on_border_enabled">Glisaţi de la margine</string>
     <string name="pref_fling_on_border_enabled_title_summary">Glisaţi de la marginea din stânga sau din dreapta</string>
@@ -604,6 +614,7 @@ Părăsiţi această pagină?"</string>
     <string name="quicklink_saved_before">Acest site web a fost adăugat</string>
     <string name="quicklink_user_define_webpage_title">Nume</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
+    <string name="quicklinks_group_default_subtitle">Gol</string>
     <string name="quicklinks_management">Popular</string>
     <string name="quicklinks_most_visited">Adăugaţi la pagina de start</string>
     <string name="quicklinks_most_visited_subtitle">Afişaţi site-urile vizitate recent pe fila nouă</string>
@@ -772,6 +783,7 @@ Părăsiţi această pagină?"</string>
     <string name="v5_edit_mode_title_empty">0 selectate</string>
     <string name="v5_select_all">Selectaţi tot</string>
     <string name="version_check_button_checking">Verificare…</string>
+    <string name="version_check_button_default">Verificare actualizări</string>
     <string name="version_check_button_download_failed">Reluaţi descărcarea</string>
     <string name="version_check_button_downloading">Descărcare…</string>
     <string name="version_check_button_install">Instalaţi</string>

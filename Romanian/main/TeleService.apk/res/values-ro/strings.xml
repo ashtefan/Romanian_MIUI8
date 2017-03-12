@@ -111,6 +111,7 @@
     <string name="callFailed_unobtainable_number">Număr incorect</string>
     <string name="callFailed_userBusy">Linie ocupată</string>
     <string name="call_advanced_setting_title">Setări avansate</string>
+    <string name="call_background_default">Implicit</string>
     <string name="call_background_lock_wallpaper">Imagine de fundal</string>
     <string name="call_background_setting">Imagine de fundal pt. apelurile primite</string>
     <string name="call_barring_sum">Setările restricţionării apelurilor vocale</string>
@@ -175,6 +176,7 @@
     <string name="cb_channel_dialog_channel_number">Număr canal (0-65534)</string>
     <string name="cb_channel_dialog_channel_state">Activaţi canalul</string>
     <string name="cb_channel_dialog_edit_channel">Editare canal</string>
+    <string name="cb_default_new_channel_name">Canal nou</string>
     <string name="cb_dialog_title_language_choice">Selectare limbă</string>
     <string name="cb_error_channel_id_exist">ID-ul canalului există.</string>
     <string name="cb_error_channel_name">Lungimea numelui canalului nu este corectă (1-10 caractere).</string>
@@ -211,17 +213,21 @@
     <string name="cfnry_title">Se redirecţionează atunci când nu răspunde</string>
     <string name="cfu_title">Se redirecţionează mereu</string>
     <string name="change_data_preference_4g_only_prompt">Se pare că aveți o cartelă SIM care suportă doar 4G. O setați ca și implicită pentru datele mobile?</string>
+    <string name="change_default_data_card">Cartelă SIM implicită pentru date</string>
+    <string name="change_default_data_card_summary">Se pare că ați schimbat cartelele SIM. Stabiliți această cartelă SIM ca implicită pentru date mobile?</string>
     <string name="change_num">Actualizaţi</string>
     <string name="change_password">Modificare parolă de barare</string>
     <string name="change_pin">Schimbaţi codul PIN pentru SIM</string>
     <string name="change_pin2">Schimbaţi codul PIN2</string>
     <string name="clir_choices_hide_number">Ascundeţi numărul</string>
+    <string name="clir_choices_network_default">Prestabilit de rețea</string>
     <string name="clir_choices_show_number">Se afişează numărul</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Închideţi</string>
     <string name="cloud_antispam_title">Identificare numere necunoscute</string>
     <string name="cmcc_ut_data_enable_prompt">Acest serviciu necesită o conexiune de date mobile. Porniți conexiunea de date mobile pentru a continua.</string>
     <string name="command_error_fdn_failure">Trebuie să dezactivaţi FDN mai întâi</string>
+    <string name="config_default_data_sim">Setări</string>
     <string name="config_dialing_emergency_number_suffix" />
     <string name="confirmPin2Label">Confirmaţi noul cod PIN2</string>
     <string name="confirmPinLabel">Confirmaţi noul cod PIN</string>
@@ -234,6 +240,7 @@
     <string name="connect_disconnect_vibrate_title">Vibrare la răspuns</string>
     <string name="connect_disconnect_vibrate_weak">Slabă</string>
     <string name="connect_later">Nu se poate efectua conectarea la această reţea acum. Încercaţi din nou mai târziu.</string>
+    <string name="connection_service_default_label">Serviciu de conectare încorporat</string>
     <string name="contactAddFailed">Nu se poate adăuga persoana de contact pe SIM</string>
     <string name="contactAddSuccess">Contact adăugat pe SIM</string>
     <string name="contactPhoto">Fotografie persoană din agendă</string>
@@ -246,6 +253,8 @@
     <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
     <string name="data_enabled">Date mobile</string>
     <string name="deactivate_all">Revocare totală</string>
+    <string name="default_notification_description">Sunet implicit (%1$s)</string>
+    <string name="default_preference_summary">&lt;Nesetat&gt;</string>
     <string name="delete">Eliminați</string>
     <string name="delete_fdn_contact">Ștergeţi numărul cu apelări restricţionate</string>
     <string name="deleting_fdn_contact">Se şterge numărul cu apelări restricţionate…</string>
@@ -479,6 +488,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="invalid_puk2">Introduceţi un cod PUK2 format din 8 cifre.</string>
     <string name="ip_dial_error_toast_for_no_ip_prefix_number">Introduceţi mai întâi prefixul IP în setările de apel vocal.</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">Funcţia de apelare IP nu se aplică la apelul prin internet.</string>
+    <string name="ip_prefix_edit_default_sum">Introduceţi prefixul pentru apelarea IP</string>
     <string name="ip_prefix_setting">Prefix IP</string>
     <string name="ip_prefix_setting_sum">Setările prefixului IP</string>
     <string name="ivr_mo_area_code_settings">Codul zonei actual</string>
@@ -566,7 +576,10 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="mobile_network_settings_not_available">Setările rețelei mobile nu sunt accesibile acestui cont de utilizator</string>
     <string name="mobile_networks">Setările reţelei mobile</string>
     <string name="msim_apn_not_set">Nesetat</string>
+    <string name="msim_default_setting">Setări prestabilite</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
+    <string name="msim_disable_sim_card_summary_default_card">"Această cartelă este setată ca SIM prestabilit. Dacă încetați să o utilizați, nu veți putea efectua apeluri sau să utilizaţi conexiunea de date mobile. Puteți dezactiva această cartelă SIM după setarea unui alt SIM ca prestabilit."</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">Este posibil să nu puteţi efectua apeluri sau să utilizaţi conexiunea de date mobile. Opriţi utilizarea cartelei SIM %s?</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Nu restricționați cartela SIM secundară în modul apelare de urgență emergency callback."</string>
     <string name="msim_disable_sim_card_title">Opriți utilizarea cartelei SIM</string>
     <string name="msim_enable_sim">Activaţi</string>
@@ -804,6 +817,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preference_category_ringtone">Ton de sonerie și vibrare</string>
     <string name="preference_data_usage_summary">Setați planul de date pentru a controla utilizarea datelor mobile</string>
     <string name="preference_data_usage_title">Setare plan de date</string>
+    <string name="preference_dial_pad_touch_tone_default">Prestabilit</string>
     <string name="preference_dial_pad_touch_tone_off">Dezactivate</string>
     <string name="preference_dial_pad_touch_tone_piano">Pian</string>
     <string name="preference_dial_pad_touch_tone_title">Tonuri taste numerice</string>
@@ -891,6 +905,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="respond_via_sms_cannot_empty">Mesajele de respingere nu pot fi necompletate</string>
     <string name="respond_via_sms_confirmation_format">Mesajul a fost trimis la %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Răspuns rapid</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Restabiliți valorile implicite</string>
     <string name="respond_via_sms_setting_summary">Editați răspunsurile prestabilite</string>
     <string name="respond_via_sms_setting_title">Răspunsuri rapide</string>
     <string name="response_error">Răspuns neaşteptat de la reţea.</string>
@@ -932,6 +947,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="sim_contact_name">Nume</string>
     <string name="sim_contact_number">Număr</string>
+    <string name="sim_description_default">Cartelă SIM, slotul: %s</string>
     <string name="sim_description_emergency_calls">Doar apeluri de urgență</string>
     <string name="sim_label_emergency_calls">Apeluri de urgență</string>
     <string name="sim_ndp_dismiss_text">Renunţaţi</string>
@@ -982,6 +998,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sum_cfu_enabled_no_number">Numărul nu este disponibil</string>
     <string name="sum_cw_disabled">Doresc să fiu notificat despre apelurile de intrare, inclusiv în timpul unui apel</string>
     <string name="sum_cw_enabled">Doresc să fiu notificat despre apelurile de intrare, inclusiv în timpul unui apel</string>
+    <string name="sum_default_caller_id">Utilizaţi setările prestabilite ale operatorului, pentru a vă afişa numărul în apelurile de ieşire</string>
     <string name="sum_fdn">Gestionaţi numerele cu apelări restricţionate</string>
     <string name="sum_fdn_change_pin">Schimbaţi codul PIN pentru accesul FDN</string>
     <string name="sum_fdn_manage_list">Gestionaţi lista numerelor de telefon</string>
@@ -1072,6 +1089,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voice_report_unknown_num">Număr necunoscut</string>
     <string name="voicemail">Mesaj vocal</string>
     <string name="voicemail_abbreviated">MV:</string>
+    <string name="voicemail_default">Operatorul dumneavoastră</string>
     <string name="voicemail_notification_ringtone_title">Sunet</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibraţii</string>
     <string name="voicemail_notification_vibrate_when_title">Vibraţii</string>

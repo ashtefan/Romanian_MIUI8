@@ -2,6 +2,7 @@
 <resources>
     <string name="accessibility_calllog_detail">Detalii jurnal apeluri</string>
     <string name="account_container_title">Importat din</string>
+    <string name="account_default">Telefon</string>
     <string name="account_phone">Numai pe telefon, nesincronizat</string>
     <string name="account_sim">Cartela SIM</string>
     <string name="account_sim2">Cartela SIM%d</string>
@@ -164,6 +165,7 @@
     <string name="clearFrequentsConfirmation_title">Ştergeţi lista persoanelor frecvent contactate?</string>
     <string name="clearFrequentsProgress_title">Ştergere persoane frecvent contactate…</string>
     <string name="clear_copy_number_description">Ștergeți numărul copiat</string>
+    <string name="clear_default">Ştergeţi datele prestabilite</string>
     <string name="clear_digits">Ştergeţi numărul</string>
     <string name="click_close">Atingeţi pentru a închide</string>
     <string name="clip_dialog_title">Apelaţi numărul copiat?</string>
@@ -276,6 +278,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="data_unit_mb">MB</string>
     <string name="date_time_set">Setaţi</string>
     <string name="date_year_toggle">Indicaţi anul</string>
+    <string name="default_ringtone">Ton de apel prestabilit</string>
     <string name="deleteConfirmation">Acest contact va fi şters din agendă.</string>
     <string name="deleteConfirmationDetail">Ştergeţi \"%s\"?</string>
     <string name="deleteConfirmation_title">Ştergeţi acest contact din agendă?</string>
@@ -946,6 +949,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_contacts_display">Preferinţe de afişare</string>
     <string name="preference_contacts_filter">Configuraţi listele contactelor</string>
     <string name="preference_contacts_more">Aranjarea contactelor</string>
+    <string name="preference_dial_pad_touch_tone_default">Prestabilit</string>
     <string name="preference_dial_pad_touch_tone_human">Voce</string>
     <string name="preference_dial_pad_touch_tone_piano">Pian</string>
     <string name="preference_dial_pad_touch_tone_switch">Tonuri la atingerea tastelor numerice</string>
@@ -1096,6 +1100,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="service_provider">Registru</string>
     <string name="service_provider_detail">Detalii registru</string>
     <string name="set_data_package">Setați mai întâi planul de date</string>
+    <string name="set_default">Setaţi ca prestabilit</string>
     <string name="set_photo_failed_msg">Setare avatar eşuată</string>
     <string name="share_error">Acest contact nu poate fi distribuit</string>
     <string name="share_over_limit">Mai mult decât 1000, nu poate fi partajat</string>
@@ -1236,6 +1241,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="vcard_import_failed">Nu s-a putut importa fişierul vCard %s.</string>
     <string name="vcard_import_request_rejected_message">Solicitarea de importare a fişierului vCard a fost respinsă. Încercaţi din nou mai târziu.</string>
     <string name="vcard_import_will_start_message">%s va fi importat în curând.</string>
+    <string name="vcard_import_will_start_message_with_default_name">Fişierul va fi importat în scurt timp.</string>
     <string name="vcard_info_send_error">"Nu s-a putut trimite din cauza unei erori vCrad"</string>
     <string name="vcard_unknown_filename">contact</string>
     <string name="video_call">Apel video</string>

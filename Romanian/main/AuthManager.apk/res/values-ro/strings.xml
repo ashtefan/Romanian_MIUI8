@@ -275,6 +275,7 @@
     <string name="SysOpt_Boost_Receiver">În fundal</string>
     <string name="app_name">Gestionare permisiuni</string>
     <string name="current_permission_template">%1$s din %2$s</string>
+    <string name="default_permission_description">executare acțiune necunoscută</string>
     <string name="grant_confirm_question">Doriți să acordați următoarele permisiuni? Va avea acces la:</string>
     <string name="grant_dialog_button_allow">Permite</string>
     <string name="grant_dialog_button_deny">Revocare</string>

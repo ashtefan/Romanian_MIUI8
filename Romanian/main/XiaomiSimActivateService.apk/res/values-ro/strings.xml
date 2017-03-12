@@ -6,6 +6,7 @@
     <string name="activate_auto_sms_notification_desc_2_cards">SMS trimis de pe cartela SIM %s pentru a activa \"Localizarea dispozitivului\"</string>
     <string name="activate_auto_sms_notification_title">Activare cartelă SIM</string>
     <string name="activate_feature_call_log_sync">Jurnal apeluri</string>
+    <string name="activate_feature_default_name">Servicii Mi</string>
     <string name="activate_feature_find_device">Localizare dispozitiv</string>
     <string name="activate_feature_live_talk">Pachet de suplimentare credit</string>
     <string name="activate_feature_mms_sync">Sincronizare mesaje</string>

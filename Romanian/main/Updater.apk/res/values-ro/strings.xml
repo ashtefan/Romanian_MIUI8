@@ -79,6 +79,7 @@
     <string name="download_title_full_download">Obţinere informaţii…</string>
     <string name="edit_comment">"  Adăugaţi un comentariu"</string>
     <string name="edit_comment_title">Editaţi comentariul</string>
+    <string name="edit_text_default">Scrieți un comentariu</string>
     <string name="emegency_build">Build:</string>
     <string name="expect">Așteptări</string>
     <string name="experimental_build">Experimental</string>

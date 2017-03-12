@@ -43,6 +43,7 @@
     <string name="birthday_event_description_day_before_yesterday">Alaltăieri a fost</string>
     <string name="birthday_event_description_days_ago">%1$d zile de la</string>
     <string name="birthday_event_description_days_later">peste %1$d zile</string>
+    <string name="birthday_event_description_default">"%2$s %3$s %4$s a lui %1$s"</string>
     <string name="birthday_event_description_special">"%1$s a lui %2$s %3$s %4$s %5$s"</string>
     <string name="birthday_event_description_today">Astăzi este</string>
     <string name="birthday_event_description_tomorrow">Mâine este</string>
@@ -110,6 +111,7 @@
   <string name="date_pattern_mm_dd">luna M ziua d</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
+    <string name="default_reminder_mode">Memento-uri</string>
   <string name="delete_calendar">Dezabonare</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
@@ -315,6 +317,10 @@
     <string name="preferences_alerts_ringtone_title">Sunet</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrare</string>
     <string name="preferences_alerts_vibrate_title">Vibrare și sunet</string>
+    <string name="preferences_default_allday_reminder_title">Ora implicită memento pentru evenimente</string>
+    <string name="preferences_default_reminder_dialog">Ora predefinită pentru memento</string>
+    <string name="preferences_default_reminder_title">Ora predefinită pentru memento</string>
+    <string name="preferences_home_tz_default">Europa/București</string>
     <string name="preferences_home_tz_title">Fus orar de acasă</string>
   <string name="preferences_import_credit_repayment">Plățile prin card de credit</string>
   <string name="preferences_import_travel">bilete de tren</string>
@@ -324,7 +330,7 @@
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>
     <string name="preferences_week_start_day_dialog">Săptămâna începe</string>
     <string name="preferences_week_start_day_title">Săptămâna începe</string>
-  <string name="recommend_card_add">Aboneaza-te acum</string>
+  <string name="recommend_card_add">Abonează-te acum</string>
   <string name="recommend_card_adding">abonamentele</string>
   <string name="recommend_card_close_hint">Reduce abonamentul va recomanda similare</string>
   <string name="recommend_card_from">de la abonamente：</string>

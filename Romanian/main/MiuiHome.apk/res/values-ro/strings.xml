@@ -54,6 +54,10 @@
     <string name="current_preview">Previzualizare</string>
     <string name="current_wallpaper">Actuală</string>
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
+    <string name="default_folder_title_game">Jocuri</string>
+    <string name="default_folder_title_recommend">Alte aplicații</string>
+    <string name="default_folder_title_security">Sistem</string>
+    <string name="default_folder_title_tools">Unelte</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_screen">Eliminați ecranul</string>
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
@@ -203,6 +207,7 @@
     <string name="preferences_general_title">Setări adiţionale</string>
     <string name="preferences_title">Setări lansator de sistem</string>
     <string name="process" />
+    <string name="recommend_apps_default_title">Gol</string>
     <string name="recommend_apps_notice">Aplicaţii promovate</string>
     <string name="recommend_apps_notice_nodata">Aplicații promovate (Nu există date)</string>
     <string name="recommend_apps_switch_title">Aplicaţii promovate</string>

@@ -37,6 +37,9 @@
     <string name="day">1 zi</string>
     <string name="day_concat">", "</string>
     <string name="days">%d zile</string>
+    <string name="default_alarm_alert">Sunetul prestabilit al alarmei</string>
+    <string name="default_alarm_title">Tonul de sonerie prestabilit</string>
+    <string name="default_label">Alarmă</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_alarm">Ştergeţi alarma</string>
     <string name="delete_alarm_confirm">Ştergeţi această alarmă?</string>

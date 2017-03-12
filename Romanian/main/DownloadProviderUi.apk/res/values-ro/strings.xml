@@ -234,6 +234,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="paused_waiting_for_network">Aşteptare reţea</string>
     <string name="paused_waiting_to_retry">Aşteptare reîncercare</string>
     <string name="period_of_validity">Perioada de valabilitate:</string>
+    <string name="pref_download_revert_default">Prestabilit</string>
     <string name="pref_download_settings_title">Limită dimensiune descărcare</string>
     <string name="pref_download_storage_path">Creaţi un dosar nou pentru descărcări</string>
     <string name="pref_sniff_shortcut">Crează o comandă rapidă pe ecranul principal pentru căutare web</string>
@@ -269,6 +270,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="resume_download">Reluaţi</string>
     <string name="retry_after_network_available">"Imposibil de conectat la rețea. Verificați conexiunea de date        și încercați din nou."</string>
     <string name="retry_download">Reîncercaţi</string>
+    <string name="revert_default">Restaurați setările implicite</string>
     <string name="revert_download_path">Utilizaţi locația prestabilită pentru descărcări?</string>
     <string name="save_path">"Salvaţi descărcările în: "</string>
     <string name="save_text">Economisiți ￥%1$s</string>
@@ -375,6 +377,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="text_showmore_infoflow">Vedeți surse suplimentare</string>
     <string name="third_web_cancel">Anulaţi</string>
     <string name="third_web_confirm">OK</string>
+    <string name="third_web_default">Reține această locație</string>
     <string name="third_web_filename_hint">Nume</string>
     <string name="third_web_filesize">Dimensiune</string>
     <string name="third_web_savepath">Locaţie</string>

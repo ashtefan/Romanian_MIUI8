@@ -135,6 +135,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
     <string name="list_delimeter">", "</string>
+    <string name="lockscreen_carrier_default">Niciun serviciu</string>
     <string name="long_screenshot_not_support_msg">"Aplicația curentă nu suportă captura de ecran extinsă"</string>
     <string name="long_screenshot_out_of_memory_error">Dimensiunea imaginii este prea mare</string>
     <string name="long_screenshot_processing">Procesare…</string>

@@ -4,6 +4,7 @@
     <string name="click_to_enter_text">Apăsaţi pentru a vizualiza</string>
     <string name="confirm_pin_msg">Reintroduceţi codul PIN</string>
     <string name="custom_lock_wallpaper_enter">Intrați</string>
+    <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
     <string name="delete">Ştergeţi</string>
     <string name="emergency_call_string">Apel de urgenţă</string>
     <string name="experimental_try_string">Încercaţi</string>
@@ -37,6 +38,7 @@
     <string name="invalid_sim_pin_hint">Codul PIN trebuie să conțină între 4 și 8 cifre</string>
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
+    <string name="left_action_default_hint_text">telecomandă Mi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_wallpaper_enter">Accesați</string>

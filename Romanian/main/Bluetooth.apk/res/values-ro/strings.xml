@@ -35,6 +35,7 @@
     <string name="bt_toast_5">Se trimit %1$s  fişiere către „%2$s”</string>
     <string name="bt_toast_6">Trimiterea fişierului către „%1$s” a fost anulată</string>
     <string name="btopp_live_folder">Bluetooth recepţionat</string>
+    <string name="defaultname">Carkit</string>
     <string name="deleteAll_record">Ștergeţi toate înregistrările</string>
     <string name="delete_record">Ștergeţi înregistrarea</string>
     <string name="download_cancel">Opriţi</string>
