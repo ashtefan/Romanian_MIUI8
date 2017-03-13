@@ -182,7 +182,7 @@
     <string name="resource_continue">Mai departe</string>
     <string name="resource_data_empty">Nu există conținut.</string>
     <string name="resource_default">Ton de apel prestabilit</string>
--   <string name="resource_default_name">Resursă</string>
+    <string name="resource_default_name">Resursă</string>
     <string name="resource_delete">Ştergeţi</string>
     <string name="resource_delete_all">Ştergeţi %1$d resurse selectate?</string>
     <string name="resource_delete_confirm">Ştergeţi aceste resurse?</string>
