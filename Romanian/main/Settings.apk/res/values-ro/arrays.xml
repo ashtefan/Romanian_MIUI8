@@ -793,6 +793,18 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>2 minute</item>
         <item>5 minute</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Ascunde animațiile de sistem</item>
+        <item>Arată animațiile de sistem</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Crește performanța telefonului"</item>
+        <item>"Poate scădea performanța telefonului"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Reporniți telefonul pentru a aplica această setare?</item>
+        <item>Reporniți telefonul pentru a aplica această setare?</item>
+    </string-array>
     <string-array name="screen_resolution_entries">
         <item>Foarte înaltă (2K)</item>
         <item>Normală (720p)</item>

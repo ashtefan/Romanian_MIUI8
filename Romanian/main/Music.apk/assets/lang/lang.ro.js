@@ -302,7 +302,7 @@
     "eq_delete":"Eliminaţi",
     "eq_delete_success":"Finalizat",
     "eq_electronic":"Electronic",
-    "eq_flat":"Flat",
+    "eq_flat":"Implicit",
     "eq_hiphop":"Hip Hop",
     "eq_jazz":"Jazz",
     "eq_metal":"Metal",

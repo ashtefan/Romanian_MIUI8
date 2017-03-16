@@ -95,7 +95,7 @@
     <string name="confirm_restore_checkbox">Restabiliţi mesajele blocate</string>
     <string name="confirm_restore_message">Restabiliţi mesajele selectate?</string>
     <string name="confirm_restore_positive">Restabiliţi</string>
-    <string name="confirm_restore_title">Restabilire mesaje</string>
+    <string name="confirm_restore_title">Restabiliți mesajele</string>
     <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca MMS, ceea ce poate duce la costuri suplimentare.</string>
     <string name="context_menu_add_calendar">Adăugaţi în Calendar</string>
     <string name="context_menu_add_contact">Adăugaţi la Contacte</string>
@@ -436,7 +436,7 @@
     <string name="pref_title_miui_card">Trimiteţi prin card</string>
     <string name="pref_title_mms_auto_retrieval">Preluare automată a conținutului mesajelor MMS</string>
     <string name="pref_title_mms_delete">Limită mesaj multimedia</string>
-    <string name="pref_title_mms_read_reports">Rapoarte despre citire</string>
+    <string name="pref_title_mms_read_reports">Rapoarte despre citirea MMS-urilor</string>
     <string name="pref_title_mms_retrieval_during_roaming">Descărcare automată a conținutului mesajelor în roaming</string>
     <string name="pref_title_mms_validity_period">Expirare MMS</string>
     <string name="pref_title_notification_body_enabled">Previzualizaţi mesajele</string>

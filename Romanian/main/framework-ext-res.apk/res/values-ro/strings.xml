@@ -73,6 +73,7 @@
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="memory_clear_result">%1$sB goliţi | %2$sB disponibili</string>
     <string name="miui">MIUI</string>
+    <string name="miui_upgrading_notification_title">Se actualizează sistemul, unele caracteristici pot fi limitate</string>
     <string name="package_delete_confirm_step_1">Ștergeți %s?</string>
     <string name="package_delete_confirm_step_2">Eliminarea aceastei aplicații poate face sistemul instabil.</string>
     <string name="package_delete_confirm_step_3">"Nu veți mai putea deschide această aplicație după ce o veți elimina."</string>
@@ -83,7 +84,7 @@
     <string name="permlab_manageLocationPolicy">Accesare locație</string>
     <string name="reboot_confirm_title">Reporniți acum telefonul?</string>
     <string name="reboot_info_auto_boot">Telefonul dvs. va porni în mod automat la %s</string>
-    <string name="reboot_info_shutdown_alarm">Alarma va suna la %s</string>
+    <string name="reboot_info_shutdown_alarm">Următoarea alarmă: %s</string>
     <string name="reboot_progress">Repornire…</string>
     <string name="replace">Înlocuire</string>
     <string name="resource_select">Selectați</string>

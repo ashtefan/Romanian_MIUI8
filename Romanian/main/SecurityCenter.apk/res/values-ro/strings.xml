@@ -7,6 +7,7 @@
     <string name="Settings_title_garbage_cleanup">Setări curăţare</string>
     <string name="Settings_title_network_assistants">Setări utilizare date</string>
     <string name="Settings_title_power_center">Setări acumulator</string>
+    <string name="about_autostart">Despre pornirea automată</string>
     <string name="ac_enable_title">Activați blocarea aplicațiilor</string>
     <string name="ac_enter_applock">Accesați Blocare Aplicații</string>
     <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
@@ -456,6 +457,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="disable_air_mode">Dezactivaţi modul Avion mai întâi</string>
     <string name="dns_exception_summary">Verificaţi setările DNS ale router-ului.</string>
     <string name="dns_exception_title">Verificare setări DNS</string>
+    <string name="domestic_roaming_setting">Roaming național</string>
     <string name="download">Descărcați</string>
     <string name="downloading">Se descarcă</string>
     <string name="dual_setting_simcard1">SIM1</string>
@@ -537,6 +539,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="hide_mode_app_background_setting_text">Economisire utilizare acumulator de către aplicații</string>
     <string name="hide_mode_summary_text">"Gestionați activitatea în fundal a aplicațiilor pentru a economisi acumulatorul"</string>
     <string name="hide_mode_title_text">Mod ascuns</string>
+    <string name="hide_system_app">Ascunde aplicațiile de sistem</string>
     <string name="hints_auto_start_warning_info">Dacă restricţionaţi pornirea automată, unele aplicații și servicii nu vor putea primi notificări.</string>
     <string name="hints_cleanning_done">Scanare încheiată cu succes</string>
     <string name="hints_cleanning_text">Curăţare…</string>
@@ -836,6 +839,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_item">Activați blocarea aplicațiilor</string>
+    <string name="notification_mask_summary">"Nu arăta conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări"</string>
+    <string name="notification_mask_title">Ascundeți conținutul</string>
     <string name="notification_quick_charging_title">Încărcare rapidă</string>
     <string name="notification_subtitle">Apăsați pentru a activa</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
@@ -932,6 +937,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
+    <string name="percent_formatted_text">%s%%</string>
     <string name="percent_symbol">%</string>
     <string name="percentage">%d%%</string>
     <string name="permission_action_accept">Acceptaţi</string>
@@ -970,6 +976,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="power_center_consume_rank">Utilizare acumulator</string>
     <string name="power_center_consume_time">Disponibil: %1$s</string>
     <string name="power_center_custom_title">Profil curent acumulator</string>
+    <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
     <string name="power_center_ontime_shutdown">Ora de oprire</string>
     <string name="power_center_repeat">Repetare</string>
@@ -982,6 +989,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="power_consume_rank_hardware">Hardware</string>
     <string name="power_consume_rank_software">Aplicaţii</string>
     <string name="power_consume_rank_title">Utilizare acumulator</string>
+    <string name="power_consume_total_hardware">Hardware: %s</string>
+    <string name="power_consume_total_software">Aplicații: %s</string>
     <string name="power_customize_giveup_change">Renunţaţi la modificări?</string>
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_ok">OK</string>
@@ -1248,6 +1257,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="settings_title_payment_security">Setări de securitate pentru plăți</string>
     <string name="settings_title_permission">Setări permisiuni</string>
     <string name="share">Partajați</string>
+    <string name="show_system_app">Arată aplicațiile de sistem</string>
     <string name="show_traffic_dialog_message">Informaţia despre utilizarea datelor va fi afișată în panoul notificărilor. Puteți activa sau dezactiva această caracteristică oricând în Utilizare date > Setări</string>
     <string name="show_traffic_dialog_title">Afişare utilizare date în panoul notificărilor</string>
     <string name="showpattern">Arată modelul</string>
@@ -1375,6 +1385,9 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_diagnostic_brand_error_notification_title">Tip rețea incorect</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Nume operator incorect&lt;br/&gt;&lt;br/&gt;Alegeți operatorul: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Nume actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
     <string name="tc_diagnostic_complete">Finalizat</string>
+    <string name="tc_diagnostic_fragment_default">"Despre diagnosticare
+1. Telefonul se va conecta la rețeaua operatorului, va trimite un mesaj gratuit și va aștepta răspunsul operatorului. Acest lucru poate dura până la 5 minute.
+2. Puteți părăsi această pagină în timpul diagnosticării; ea va fi menținută activă în fundal."</string>
     <string name="tc_diagnostic_location_error_notification_summary">Apăsați pentru a modifica locația</string>
     <string name="tc_diagnostic_location_error_notification_title">Locație incorectă</string>
     <string name="tc_diagnostic_notification_sumarry">Apăsați pentru a vedea rezultatele</string>
@@ -1439,6 +1452,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
+    <string name="temperature_formatted_text">%s℃</string>
     <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
     <string name="text_button">Am înțeles</string>
     <string name="text_day"></string>

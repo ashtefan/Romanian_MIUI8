@@ -30,6 +30,7 @@
     <string name="incorrect_pukcode">Cod PUK incorect</string>
     <string name="incorrect_pukcode_remaining_attempts">Cod PUK incorect, au rămas %d încercări</string>
     <string name="input_password_after_boot_msg">"Introduceți parola pentru a debloca telefonul"</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul Principal după ce telefonul repornește</string>
     <string name="input_password_hint_text">Introduceţi parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
     <string name="input_pin_code">Introduceţi codul PIN</string>

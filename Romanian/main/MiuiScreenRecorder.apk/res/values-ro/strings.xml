@@ -4,7 +4,7 @@
     <string name="app_name">Înregistrare ecran</string>
     <string name="app_notification_title">Înregistrare ecran</string>
     <string name="auto_stop_title">Videoclip salvat cu succes</string>
-    <string name="battery_not_allowed">"Nu se poate înregistra când acumulatorul are mai puțin de 3%% disponibil. Asigurați-vă că aveți măcar 20%% disponibil."</string>
+    <string name="battery_not_allowed" formatted="false">"Nu se poate înregistra când acumulatorul are mai puțin de 3% disponibil. Asigurați-vă că aveți măcar 20% disponibil."</string>
     <string name="bit_rate">Calitatea videoclipului</string>
     <string name="bit_rate_summary">Calitatea mai ridicată înseamnă fișiere mai mari</string>
     <string name="bubble_text">Atingeți pentru a începe înregistrarea</string>
@@ -14,6 +14,7 @@
     <string name="button_goon_recorder">Reluați</string>
     <string name="cancel_edit">Renunțați</string>
     <string name="cannot_change_parames">"Nu se pot modifica parametrii în timpul înregistrării"</string>
+    <string name="cannot_record">"Nu s-a putut înregistra; vă rugăm să reîncercați mai târziu."</string>
     <string name="date_day"/>
     <string name="date_month">/</string>
     <string name="date_year">/</string>

@@ -185,7 +185,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_sender_info">Informații despre expeditor</string>
     <string name="express_sender_name">Numele expeditorului</string>
     <string name="express_sender_region">"Regiunea expeditorului"</string>
-    <string name="express_shortcut_name">Solicită sau trimite express</string>
+    <string name="express_shortcut_name">Trimiteți sau urmăriți trimiterile express</string>
     <string name="express_show_all_inquiry_history">Arată istoricul solicitărilor</string>
     <string name="express_submit_order">Trimite</string>
   <string name="express_tail_number">număr de ordine</string>
