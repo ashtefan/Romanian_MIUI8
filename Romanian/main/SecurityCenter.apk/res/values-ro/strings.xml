@@ -982,8 +982,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="power_consume_rank_hardware">Hardware</string>
     <string name="power_consume_rank_software">Aplicaţii</string>
     <string name="power_consume_rank_title">Utilizare acumulator</string>
-    <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-    <string name="power_consume_total_software">Aplicaţii: %1$d%%</string>
     <string name="power_customize_giveup_change">Renunţaţi la modificări?</string>
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_ok">OK</string>
