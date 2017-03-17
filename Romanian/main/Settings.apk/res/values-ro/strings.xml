@@ -1502,7 +1502,6 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="input_method_selector">Selector al metodei de intrare</string>
     <string name="input_method_selector_always_hide_title">Ascundeţi întotdeauna</string>
     <string name="input_method_selector_always_show_title">Afişaţi întotdeauna</string>
-    <string name="input_method_selector_always_show_title">Arată întotdeauna</string>
     <string name="input_method_selector_show_automatically_title">Automat</string>
     <string name="input_method_settings">Setări</string>
     <string name="input_method_settings_button">Setări</string>
