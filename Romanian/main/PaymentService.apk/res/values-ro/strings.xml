@@ -69,20 +69,20 @@
   <string name="mibi_direct_payment_title">Informații despre comandă</string>
   <string name="mibi_enter_failed">Nu s-a putut deschide</string>
   <string name="mibi_error_account_changed_summary">"Informațiile despre contul dvs. au fost actualizate.
-Please conectați-vă din nou."</string>
+Conectați-vă din nou."</string>
   <string name="mibi_error_account_changed_title">Contul s-a modificat</string>
   <string name="mibi_error_account_throtting">"Contul dvs. nu este în siguranță.
-Please contactați Serviciul Clienți"</string>
+Contactați Serviciul Clienți"</string>
   <string name="mibi_error_auth_summary">Conectați-vă din nou la contul dvs. Mi</string>
   <string name="mibi_error_cert_date_summary">"Eroare dată certificat. 
-Please verificați ora locală și reîncercați."</string>
+Verificați ora locală și reîncercați."</string>
   <string name="mibi_error_common_summary">Eroare de sistem. Vă rugăm să încercați din nou mai târziu.</string>
   <string name="mibi_error_deduct">"Nu s-a putut activa protocolul automat de plată"</string>
   <string name="mibi_error_expired_summary">Comanda dvs. a expirat</string>
   <string name="mibi_error_frozen_service_num">400-100-2234</string>
   <string name="mibi_error_frozen_service_time">De luni până vineri</string>
   <string name="mibi_error_frozen_summary">"Contul dvs. este blocat. 
-Please contactați Serviciul Clienți Xiaomi."</string>
+Contactați Serviciul Clienți Xiaomi."</string>
   <string name="mibi_error_has_bought_summary">Ați achiziționat deja acest produs.</string>
   <string name="mibi_error_illegal_order_summary">Eroare comandă. Încercați din nou mai târziu</string>
   <string name="mibi_error_invalid_device">Dispozitiv nevalid.</string>
@@ -110,7 +110,7 @@ Please contactați Serviciul Clienți Xiaomi."</string>
   <string name="mibi_get_phone_num_title">Introduceți numărul de telefon</string>
   <string name="mibi_get_phone_sms_prompt">Codul de verificare a fost trimis către %1$s</string>
   <string name="mibi_giftcard_acitivity_and_denomination">%2$s-card cadou Mi Credit de la %1$s</string>
-  <string name="mibi_giftcard_define_detail">Utilizați aceste carduri cadou ca și cardurile normale Mi Credits. Puteți primi carduri cadou în urma participării la evenimentele și promoțiile Xiaomi.</string>
+  <string name="mibi_giftcard_define_detail">Utilizați aceste carduri cadou ca și cardurile normale Mi Credit. Puteți primi carduri cadou în urma participării la evenimentele și promoțiile Xiaomi.</string>
   <string name="mibi_giftcard_denom">Mi Credit</string>
   <string name="mibi_giftcard_denom_available">Mi Credit disponibil</string>
   <string name="mibi_giftcard_denom_frozen">Mi Credit blocat</string>
@@ -126,11 +126,11 @@ Please contactați Serviciul Clienți Xiaomi."</string>
   <string name="mibi_giftcard_will_expire">Expiră pe %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s cupon Mi Credit disponibil</string>
   <string name="mibi_illegal_intent">Solicitare de intenție ilegală</string>
-  <string name="mibi_is_what">Ce putați cumpăra cu Creditele Mi?</string>
+  <string name="mibi_is_what">Ce puteți cumpăra cu Creditele Mi?</string>
   <string name="mibi_label_balance">Balanță</string>
   <string name="mibi_label_giftcard">Card cadou</string>
   <string name="mibi_label_pay_remain">Sold: %1$s Credite Mi</string>
-  <string name="mibi_license_message">"Sunteți pe cale să utilizați serviciul Mi Credit, furnizat de către Xiaomi Inc. înainte de a putea utiliza acest serviciu, trebuie să fiți de acord cu Termenii Serviciului prezentați în %1$s. Atingeți OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s. Trebuie să vă conectați la internet și să permiteți localizarea telefonului pentru a utiliza Mi Credit."</string>
+  <string name="mibi_license_message">"Sunteți pe cale să utilizați serviciul Mi Credit, furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să fiți de acord cu Termenii Serviciului prezentați în %1$s. Atingeți OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s. Trebuie să vă conectați la internet și să permiteți localizarea telefonului pentru a utiliza Mi Credit."</string>
   <string name="mibi_license_message_span">Acordul utilizatorului Mi Credit</string>
   <string name="mibi_license_title">Termenii și condițiile</string>
   <string name="mibi_list_item_bottom_hint">"Ați ajuns la capătul listei"</string>
@@ -248,7 +248,7 @@ Centrul de relații clienți： 400-100-5678"</string>
   <string name="mibi_progress_warning_waiting">"Plata nu a ajuns în contul dvs. încă."</string>
   <string name="mibi_prompt_info_button_hint">Atenție(%d)</string>
   <string name="mibi_prompt_info_button_text">OK</string>
-  <string name="mibi_prompt_info_for_first_use">"Creditele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe Mi.com."</string>
+  <string name="mibi_prompt_info_for_first_use">"Creditele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe mi.com."</string>
   <string name="mibi_prompt_info_title">Ponturi</string>
   <string name="mibi_push_register_fail">Înregistrare push eșuată.</string>
   <string name="mibi_push_register_success">Înregistrare push cu succes.</string>
@@ -356,7 +356,7 @@ Pentru activarea contului, deschideți
   <string name="passport_error_unknown">"Nu s-a putut autentifica"</string>
   <string name="passport_error_user_name">Numele de utilizator introdus nu este valid.</string>
   <string name="passport_failed_to_send_activate_email">"Nu s-a putut trimite e-mailul de activare"</string>
-  <string name="passport_find_password_on_web_msg">Visitați account.mi.com pentru a vă reseta parola.</string>
+  <string name="passport_find_password_on_web_msg">Vizitați account.mi.com pentru a vă reseta parola.</string>
   <string name="passport_forget_password"><u>Am uitat parola</u></string>
   <string name="passport_forget_password_no_underline">Am uitat parola</string>
   <string name="passport_get_back_pwd">Recuperare parolă cont</string>

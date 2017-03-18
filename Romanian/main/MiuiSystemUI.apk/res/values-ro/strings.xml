@@ -167,7 +167,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="notification_header_title">Notificări</string>
     <string name="notification_hidden_text">Conținut ascuns</string>
     <string name="notification_low_battery_action_btn">Activați</string>
-    <string name="notification_low_battery_need_charge">Acumulatorul este descărcat. Puneți telefonul la încărcat.</string>
+    <string name="notification_low_battery_need_charge">Acumulatorul este descărcat. Conectați încărcătorul.</string>
     <string name="notification_low_battery_open_save_mode">Activați Economisirea acumulatorului</string>
     <string name="notification_low_battery_title">Acumulator descărcat: %d%%</string>
     <string name="notification_manager">Gestionați notificările</string>

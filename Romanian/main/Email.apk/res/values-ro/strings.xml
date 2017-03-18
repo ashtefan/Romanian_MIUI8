@@ -267,7 +267,7 @@ Actualizaţi acum?"</string>
     <string name="compose_picturesexceedlimits">Numărul maxim de imagini incluse este 5!</string>
     <string name="compose_send">Trimiteţi</string>
     <string name="compose_sent">E-mail trimis</string>
-    <string name="config">Numărul de telefon la căsuței de e-mail 139 a fost configurat</string>
+    <string name="config">Numărul de telefon al căsuței de e-mail 139 a fost configurat</string>
     <string name="config_cancel">Renunțați</string>
     <string name="config_retry">Reîncercați</string>
     <string name="confirm">OK</string>

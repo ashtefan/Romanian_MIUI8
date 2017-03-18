@@ -151,7 +151,7 @@
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="trash_folder_name">Gunoi</string>
-    <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate permanent în 30 de zile.</string>
+    <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în 30 de zile.</string>
     <string name="undo">Anulaţi</string>
     <string name="unknown_source">Sursă necunoscută</string>
     <string name="welcome_note_for_cm">"Și multe alte caracteristici!

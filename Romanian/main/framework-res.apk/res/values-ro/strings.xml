@@ -526,7 +526,7 @@ Pentru a debloca, apăsați și tineți apăsate butoanele Acasă și Pornire si
      <string name="lockscreen_access_pattern_detected">Modelul a fost desenat</string>
      <string name="lockscreen_access_pattern_start">Desenarea modelului a început</string>
      <string name="lockscreen_battery_short">%d %%</string>
-     <string name="lockscreen_carrier_default">Fără serviciu</string>
+     <string name="lockscreen_carrier_default">Fără semnal</string>
      <string name="lockscreen_charged">Acumulator încărcat</string>
      <string name="lockscreen_emergency_call">Apel de urgenţă</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>

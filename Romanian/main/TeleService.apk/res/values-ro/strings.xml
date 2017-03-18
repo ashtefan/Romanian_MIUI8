@@ -998,7 +998,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sum_cfu_enabled_no_number">Numărul nu este disponibil</string>
     <string name="sum_cw_disabled">Doresc să fiu notificat despre apelurile de intrare, inclusiv în timpul unui apel</string>
     <string name="sum_cw_enabled">Doresc să fiu notificat despre apelurile de intrare, inclusiv în timpul unui apel</string>
-    <string name="sum_default_caller_id">Utilizaţi setările prestabilite ale operatorului, pentru a vă afişa numărul în apelurile de ieşire</string>
+    <string name="sum_default_caller_id">Utilizaţi setările prestabilite ale operatorului, pentru a vă afişa numărul în apelurile efectuate</string>
     <string name="sum_fdn">Gestionaţi numerele cu apelări restricţionate</string>
     <string name="sum_fdn_change_pin">Schimbaţi codul PIN pentru accesul FDN</string>
     <string name="sum_fdn_manage_list">Gestionaţi lista numerelor de telefon</string>

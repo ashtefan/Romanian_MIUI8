@@ -2567,7 +2567,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="resetting_second_space_passwd">Resetarea parolei Spațiului Secundar</string>
     <string name="resolver_settings_label">Aranjați</string>
     <string name="resource_ringtone_volume_mute">Sonerie oprită</string>
-    <string name="restore_default_apn">Se restabilesc setările APN prestabilite.</string>
+    <string name="restore_default_apn">Se restabilesc setările APN implicite.</string>
     <string name="restore_default_apn_completed">Resetarea setărilor APN prestabilite a fost finalizată.</string>
     <string name="restr_pin_enter_admin_pin">Introduceți codul PIN al administratorului</string>
     <string name="restriction_bluetooth_config_summary">Permiteți modificarea împerecherilor și setărilor Bluetooth</string>
@@ -3120,8 +3120,8 @@ Codul PIN poate fi incorect."</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie pentru SMS?</string>
-    <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
-    <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie SMS?</string>
+    <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia pentru SMS?</string>
+    <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie pentru SMS-uri?</string>
     <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pt. SMS livrat</string>
     <string name="sms_delivered_sound_title">SMS livrat</string>
     <string name="sms_messages_title">Mesaje SMS</string>
@@ -3364,7 +3364,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="trusted_credentials_user_tab">Utilizator</string>
     <string name="try_again">Încercaţi din nou.</string>
     <string name="tts_data_installed_summary">Vocile necesare pentru sintetizarea vorbirii sunt deja instalate corect</string>
-    <string name="tts_default_lang_summary">Setează vocea caracteristică limbii pentru textul vorbit</string>
+    <string name="tts_default_lang_summary">Setează vocea caracteristică limbii pentru textul rostit</string>
     <string name="tts_default_lang_title">Limbă</string>
     <string name="tts_default_pitch_summary">Modifică tonul textului vorbit</string>
     <string name="tts_default_pitch_title">Înălţime</string>
@@ -3372,7 +3372,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_default_rate_title">Ritmul vorbirii</string>
     <string name="tts_default_sample_string">Acesta este un exemplu de sintetizare a vorbirii</string>
     <string name="tts_default_settings_section">Setări standard</string>
-    <string name="tts_default_synth_summary">Setează utilizarea motorului de sintetizare a vorbirii pentru textul vorbit</string>
+    <string name="tts_default_synth_summary">Setează utilizarea motorului de sintetizare a vorbirii pentru textul rostit</string>
     <string name="tts_default_synth_title">Motor prestabilit</string>
     <string name="tts_engine_error">Motorul pe care l-aţi ales nu poate rula.</string>
     <string name="tts_engine_error_config">Configuraţi</string>

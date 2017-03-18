@@ -53,7 +53,7 @@
     <string name="screen_record_params">Parametri înregistrare</string>
     <string name="select_all">Selectați tot</string>
     <string name="show_hard_key">Afișează butoanele de navigare</string>
-    <string name="show_hard_key_summary">Se indică apăsarea butoanele Acasă, Meniu și Înapoi</string>
+    <string name="show_hard_key_summary">Se indică apăsarea butoanelor Acasă, Meniu și Înapoi</string>
     <string name="show_screen_touch">Afișează atingerile ecranului</string>
     <string name="show_screen_touch_summary">Se indică atingerile ecranului printr-un punct alb</string>
     <string name="sound_source">Sursă sunet</string>
