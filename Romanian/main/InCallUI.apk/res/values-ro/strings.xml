@@ -77,6 +77,8 @@
     <string name="card_title_video_call_paused">Apel video oprit</string>
     <string name="card_title_video_conf_call">Apel videoconferință</string>
     <string name="card_video_hold_swap">Comutați</string>
+    <string name="close_camera_failed">"Nu s-a putut opri Camera"</string>
+    <string name="close_camera_requesting">Solicitare de închidere Cameră</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_number">%s persoane</string>
     <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
@@ -162,7 +164,6 @@
     <string name="keep_wait_call_back">Mai așteptați</string>
     <string name="livetalk_dial">Utilizare Pachete de suplinire</string>
     <string name="livetalk_hangup">Încheiați apelul</string>
-    <string name="livetalk_left_minute">%s minute rămase</string>
     <string name="manageConferenceLabel">Gestionaţi teleconferinţa</string>
     <string name="miprofile_stranger_card">Necunoscută</string>
     <string name="modify_call_failure_str">"Modificarea solicitării de apel nu a reușit

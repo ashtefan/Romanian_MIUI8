@@ -125,8 +125,6 @@
     <string name="cloud_welcome_message">Sincronizați melodiile</string>
     <string name="cloud_welcome_summary">Sincronizați melodiile în Mi Cloud și redați-le pe alte dispozitive</string>
     <string name="comment_format" formatted="false">%s: %s</string>
-    <string name="confirm_delete_downloads_message">%d descărcări vor fi șterse.</string>
-    <string name="confirm_delete_the_download_item_message">Ștergeți aceste descărcări?</string>
     <string name="confirm_download">Descărcare</string>
     <string name="confirm_to_renew">Reînnoire</string>
     <string name="continue_backup">Continuați</string>
@@ -168,8 +166,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="dialog_button_scan_tracks">Căutați muzica de pe acest dispozitiv</string>
     <string name="dialog_cannot_resume">"Descărcarea s-a întrerupt și nu poate fi reluată."</string>
     <string name="dialog_confirm_delete_checkbox_message">Ștergeți de asemenea și fișierele de pe telefon</string>
-    <string name="dialog_confirm_delete_downloads_message">Ștergeți %d elemente?</string>
-    <string name="dialog_confirm_delete_the_download_item_message">Ștergeți aceste elemente?</string>
     <string name="dialog_failed_body">Încercați să descărcați din nou mai târziu sau eliminați definitiv din lista descărcărilor?</string>
     <string name="dialog_file_already_exists">"Nu se poate descărca. Fișierul există deja."</string>
     <string name="dialog_file_missing_body">"Nu s-a găsit fișierul descărcat."</string>
@@ -234,7 +230,6 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="download_fail_to_fetch_info">"Nu s-a putut descărca, încercați din nou"</string>
     <string name="download_filesize_unknown">Necunoscută</string>
     <string name="download_in_process">DESCĂRCARE</string>
-    <string name="download_info_count_deleted_tasks">%s descărcări eliminate</string>
     <string name="download_info_start_deleted_tasks">Ștergeți descărcările</string>
     <string name="download_list_get_free_vip">Perioadă de încercare Xunlei</string>
     <string name="download_list_get_hightspeed_flow_auto_open">Accelerarea descărcărilor Xunlei este activată</string>

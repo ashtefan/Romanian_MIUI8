@@ -14,6 +14,7 @@
     <string name="account_crop_user_avatar">Decupaţi fotografia</string>
     <string name="account_empty_user_name">Introduceți numele de utilizator al contului Mi</string>
     <string name="account_error_all_space_user_name">"Numele nu poate conține numai spații goale"</string>
+    <string name="account_error_invalid_user_name">"Numele nu poate conține &lt;, &gt;, /"</string>
     <string name="account_error_longer_user_name">Numele nu poate depăși 20 de caractere</string>
     <string name="account_error_shorter_user_name">Numele trebuie să conţină mai mult de 2 caractere</string>
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>

@@ -103,6 +103,9 @@
     <string name="click_to_refresh">Atingeți aici pentru a actualiza</string>
     <string name="click_to_switch_volume">Apăsați aici pentru a comuta între memoria internă și cardul SD</string>
     <string name="click_to_switch_volume_pad">Atingeți pentru a comuta între memoria internă și cardul SD</string>
+    <string name="clockin_failed">"Nu s-a putut verifica, reîncercați"</string>
+    <string name="clockin_success">Verificat cu succes</string>
+    <string name="clockin_use">Obțineți un premiu</string>
     <string name="comment_added">Adăugat cu succes</string>
     <string name="comment_added_tip">"Adăugați multe comentarii. Doriți să urmăriți această persoană?"</string>
     <string name="comment_delete_message">Comentariul va fi șters definitiv.</string>
@@ -122,12 +125,14 @@
     <string name="confirm_know">OK</string>
     <string name="connecting">Conectare…</string>
     <string name="connection_error">Nu s-a putut conecta</string>
+    <string name="contain_sensitive_words">Eliminați cuvintele necorespunzătoare și încercați din nou</string>
     <string name="copied">Copiat</string>
     <string name="copy_failed">"Nu s-a putut copia"</string>
     <string name="copy_text">Copiați textul</string>
     <string name="copy_to">Copiați în…</string>
     <string name="count_down">Numărătoare inversă: %1$s</string>
     <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
+    <string name="daily_clockin">Verificați</string>
     <string name="data_consumption_cancel">Ieşire</string>
     <string name="data_consumption_checkbox_hint">Nu se afişează din nou</string>
     <string name="data_consumption_confirm">OK</string>
@@ -357,6 +362,7 @@
     <string name="no_message">Niciun mesaj</string>
     <string name="no_new_content_tip">Toate elementele sunt actualizate</string>
     <string name="no_recent_files">Niciun fişier recent</string>
+    <string name="no_search_content">"Nu s-a găsit niciun rezultat"</string>
     <string name="no_topic">Niciun subiect</string>
     <string name="no_videos">Nimic aici. Verificați-le pe cele de mai jos!</string>
     <string name="no_wifi">Nu a fost detectată nicio reţea</string>
@@ -517,6 +523,11 @@
     <string name="rlv_refreshing">Reîmprospătare…</string>
     <string name="rlv_release_to_close">Eliberați pentru a închide</string>
     <string name="rlv_release_to_refresh">Eliberați pentru a actualiza</string>
+    <string name="save">Salvați</string>
+    <string name="save_desc_success">Modificat cu succes​</string>
+    <string name="save_failed">"Nu s-a putut salva; încercați din nou"</string>
+    <string name="save_failed_for_length">Semnătura este prea lungă; încercați cu o semnătură mai scurtă</string>
+    <string name="save_name_success">Modificat cu succes</string>
     <string name="save_to_local">Descărcați</string>
     <string name="search_app">Aplicații și dosare</string>
     <string name="search_app_more">Mai multe</string>
@@ -534,11 +545,16 @@
     <string name="search_hot_video">Videoclipuri populare;Încărcați videoclipuri;Încărcați un videoclip;Videoclip scurt;Videoclipuri scurte;Videoclip mic;Videoclipuri mici</string>
     <string name="search_keyword">Etichete</string>
     <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+    <string name="search_popup_tip">Puteți căuta subiecte și persoane</string>
     <string name="search_recent_file">Explorator fișiere;Explorator;Fișier;Fișiere;Gestionați fișierele;Gestionare fișiere</string>
     <string name="search_result">Rezultate</string>
     <string name="search_result_more">Mai multe</string>
     <string name="search_title">Căutare</string>
     <string name="search_title_hint">Căutare</string>
+    <string name="search_topic">Căutați subiecte</string>
+    <string name="search_user">Căutați persoane</string>
+    <string name="see_more_topic">Mai multe subiecte</string>
+    <string name="see_more_user">Mai mulți utilizatori</string>
     <string name="select_dest_folder">Selectați dosarul</string>
     <string name="select_image">Selectaţi fotografiile</string>
     <string name="select_interest_str">Selectați subiectele care vă plac</string>
@@ -638,6 +654,7 @@
     <string name="topic_follow">Urmăriți</string>
     <string name="topic_followed">Urmărit</string>
     <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
+    <string name="topic_title">Subiecte</string>
     <string name="transfer_done">Fișierele au fost mutate.</string>
     <string name="transfer_private_data">Se transferă dosarele ascunse de pe cardul SD…</string>
     <string name="type_not_support">"Acest format de fișier nu este suportat. Dezarhivați fișierul și reîncercați."</string>
@@ -682,6 +699,7 @@
     <string name="uploading_video">Se încarcă videoclipul…</string>
     <string name="usb_label">USB</string>
     <string name="used">Utilizat</string>
+    <string name="user">Utilizatori</string>
     <string name="user_cancel">Renunțare</string>
     <string name="user_center_title">Acasă</string>
     <string name="user_desc_default_tip">Autentificați-vă pentru a colecta puncte și a câștiga premii.</string>
@@ -768,7 +786,7 @@
     <string name="video_tag_search_hint">Personalizați conținutul</string>
     <string name="video_tag_search_lead">\#</string>
     <string name="video_tag_search_title">Selectați conținutul</string>
-    <string name="video_topic_hint">Căutare</string>
+    <string name="video_topic_hint">Căutați persoane sau subiecte</string>
     <string name="video_upload_btn">Următorul</string>
     <string name="video_upload_btn_hint">Videoclipurile în format mp4 trebuie să aibă între 3 sec. și 10 min. lungime</string>
     <string name="video_upload_item_more">Mai multe (%1$s)</string>

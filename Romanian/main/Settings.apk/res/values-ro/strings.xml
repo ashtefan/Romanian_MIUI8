@@ -868,6 +868,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="current_input_method">Prestabilit</string>
     <string name="current_use_ese">Utilizare element de siguranță încorporat</string>
     <string name="current_use_uicc_se">Utilizare element de siguranță de pe cartela SIM</string>
+    <string name="current_zone">(curent)</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalie(roșu-verde)</string>
     <string name="daltonizer_mode_disabled">Dezactivat</string>
     <string name="daltonizer_mode_monochromacy">Monocromie</string>
@@ -2023,7 +2024,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_general_inear">General In-Ear</string>
     <string name="music_dirac_mode_headset">Căști Mi</string>
     <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-    <string name="music_dirac_mode_in_ear_2013">Căști Mi In-Ear(2013)</string>
+    <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_dirac_mode_off">Dirac oprit</string>
     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2397,7 +2398,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="privacy_password_remind_bind_notlogin_account">Adăugați contul Mi pentru a vă putea reseta parola în caz că o veți uita.</string>
     <string name="privacy_password_remind_bindaccount_title">Adăugați contul Mi</string>
     <string name="privacy_password_settings">Utilizați parola de protejare a confidențialității</string>
+    <string name="privacy_password_settings_next">Următorul</string>
     <string name="privacy_password_settings_titles">Parola de protejare a confidențialității vă protejează mesajele, fotografiile, notițele și fișierele.</string>
+    <string name="privacy_password_settings_titles_elder_mode">Parola de protecție a confidențialității vă protejează fotografiile, fișierele și notițele.</string>
+    <string name="privacy_password_settings_titles_second_space">Parola de protecție a confidențialității vă protejează mesajele, fotografiile și notițele.</string>
     <string name="privacy_password_title">Parola de protejare a confidențialității</string>
     <string name="privacy_password_transparent_tiltle"/>
     <string name="privacy_password_visible_pattern">Arată modelul de deblocare</string>

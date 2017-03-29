@@ -280,6 +280,7 @@
     <string name="language_entry_russian">Rusă</string>
     <string name="language_entry_spanish">Spaniolă</string>
     <string name="language_entry_swedish">Suedeză</string>
+    <string name="low_version_tip">Aplicația Scaner nu poate rula pe acest sistem; actualizați versiunea MIUI</string>
     <string name="module_title_code">Cod QR</string>
     <string name="module_title_document">Document</string>
     <string name="module_title_namecard">Carte de vizită</string>

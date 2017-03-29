@@ -32,14 +32,6 @@
         <item quantity="few">%1$d selectate</item>
         <item quantity="many">%1$d selectate</item>
      </plurals>
-    <plurals name="items_file">
-        <item quantity="other"> (%1$d elemente)</item>
-        <item quantity="zero"> (%1$d elemente)</item>
-        <item quantity="one"> (%1$d element)</item>
-        <item quantity="two"> (%1$d elemente)</item>
-        <item quantity="few"> (%1$d elemente)</item>
-        <item quantity="many"> (%1$d elemente)</item>
-    </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d elemente)</item>
         <item quantity="zero"> (%1$d elemente)</item>
@@ -216,22 +208,6 @@
         <item quantity="few">%1$s vizualizări</item>
         <item quantity="many">%1$s vizualizări</item>
     </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s videoclipuri</item>
-        <item quantity="zero">%1$s videoclipuri</item>
-        <item quantity="one">%1$s videoclip</item>
-        <item quantity="two">%1$s videoclipuri</item>
-        <item quantity="few">%1$s videoclipuri</item>
-        <item quantity="many">%1$s videoclipuri</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">urmăritori</item>
-        <item quantity="zero">urmăritori</item>
-        <item quantity="one">urmăritor</item>
-        <item quantity="two">urmăritori</item>
-        <item quantity="few">urmăritori</item>
-        <item quantity="many">urmăritori</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videoclipuri</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> videoclip</item>
@@ -287,5 +263,25 @@
     <plurals name="more_gems">
         <item quantity="other">Colectați &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> mai multe bijuterii pentru a participa la tombolă</item>
         <item quantity="one">Colectați &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> mai multe bijuterii pentru a participa la tombolă</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Ziua %1$s</item>
+        <item quantity="one">Ziua %1$s</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Ați obținut&lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puncte</item>
+        <item quantity="one">Ați obținut &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punct</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Ați atins %1$s zile la rând, continuați!</item>
+        <item quantity="one">Ați atins %1$s într-o zi, continuați!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s topicuri</item>
+        <item quantity="one">%1$s topic</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s persoane</item>
+        <item quantity="one">%1$s persoană</item>
     </plurals>
 </resources>

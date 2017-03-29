@@ -4,4 +4,8 @@
      <item quantity="other">%d apeluri înregistrate.</item>
      <item quantity="one">Un apel înregistrat.</item>
  </plurals>
+    <plurals name="livetalk_left_minute">
+        <item quantity="other">%d minute rămase</item>
+        <item quantity="one">%d minut rămas</item>
+    </plurals>
 </resources>

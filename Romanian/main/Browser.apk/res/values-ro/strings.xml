@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navigaţi acasă</string>
+    <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe</string>
     <string name="abc_action_mode_done">Finalizat</string>
@@ -121,10 +121,10 @@
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Glisaţi în jos pentru a închide</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Aceasta este ultima filă</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisaţi în sus pentru a închide</string>
-    <string name="browserFrameFileErrorLabel">Problemă cu fişierul</string>
+    <string name="browserFrameFileErrorLabel">Eroare de fişier</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise. În caz că retransmiteţi datele, acţiunile anterioare (de ex. căutările, sau achiziţiile) se vor repeta.</string>
-    <string name="browserFrameNetworkErrorLabel">Problemă de conexiune</string>
+    <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
     <string name="cancel">Anulaţi</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
@@ -185,7 +185,7 @@
     <string name="contextmenu_openlink">Deschideţi</string>
     <string name="contextmenu_openlink_newwindow">Deschideţi într-o filă nouă</string>
     <string name="contextmenu_openlink_newwindow_background">Deschideţi într-o filă în fundal</string>
-    <string name="contextmenu_recognise_qr_code">Recunoaștere cod QR</string>
+    <string name="contextmenu_recognise_qr_code">Scanare cod QR</string>
     <string name="contextmenu_savelink">Salvaţi linkul</string>
     <string name="contextmenu_send_mail">Trimiteţi un e-mail</string>
     <string name="contextmenu_set_wallpaper">Setaţi ca imagine de fundal</string>
@@ -356,7 +356,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
 Părăsiţi această pagină?"</string>
     <string name="js_dialog_before_unload_negative_button">Rămâneți pe pagină</string>
     <string name="js_dialog_before_unload_positive_button">Părăsiţi pagina</string>
-    <string name="js_dialog_before_unload_title">Confirmaţi navigarea</string>
+    <string name="js_dialog_before_unload_title">Părăsiți pagina</string>
     <string name="js_dialog_title">Pagina de la \" %s \" zice:</string>
     <string name="js_disable_confirm_message">Dezactivarea JavaScript poate cauza afișarea incorectă a unor site-uri.</string>
     <string name="js_disable_confirm_title">Dezactivaţi JavaScript?</string>
@@ -655,8 +655,8 @@ Părăsiţi această pagină?"</string>
     <string name="save_button_text">Salvaţi</string>
     <string name="save_dialog_title">Salvaţi</string>
     <string name="save_file">Salvați fișierul %s?</string>
-    <string name="save_file_already_exist_alert_message">Un fișier cu același nume există deja, doriţi să-l înlocuiţi?</string>
-    <string name="save_file_already_exist_alert_title">Alertă</string>
+    <string name="save_file_already_exist_alert_message">Un fișier cu același nume există deja, îl înlocuiţi?</string>
+    <string name="save_file_already_exist_alert_title">Înlocuiți fișierul?</string>
     <string name="save_form_data_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="save_image_failed">Imposibil de salvat imaginea</string>
     <string name="save_image_success">Imagine salvată</string>
@@ -666,9 +666,9 @@ Părăsiţi această pagină?"</string>
     <string name="save_password_never">Niciodată</string>
     <string name="save_password_notnow">Nu acum</string>
     <string name="save_password_remember">Memorare</string>
-    <string name="save_to_camera">Salvaţi la cameră</string>
-    <string name="save_to_camera_failed">Nu se poate salva imaginea</string>
-    <string name="save_to_camera_success">Salvat la cameră</string>
+    <string name="save_to_camera">Salvaţi în Galerie</string>
+    <string name="save_to_camera_failed">"Nu se poate salva imaginea"</string>
+    <string name="save_to_camera_success">Salvat în Galerie</string>
     <string name="sdcard_error">Verificaţi cardul SD</string>
     <string name="search">Căutare</string>
     <string name="search_baidu">Baidu</string>
@@ -703,7 +703,7 @@ Părăsiţi această pagină?"</string>
     <string name="send_comment_title">Comentariu</string>
     <string name="senddesktop">Ecranul principal</string>
     <string name="sendstartpage">Pagina de pornire</string>
-    <string name="share_page_text">"Mă bucur de 【%1$s】 | %2$s"</string>
+    <string name="share_page_text">"Mă bucur de %1$s | %2$s"</string>
     <string name="show_check_security_url_check_tip_dialog_description">URL-ul acestui site va fi trimis la serverele MI pentru a verifica dacă este sigur. Puteți să dezactivați această funcţie oricând în Setări.</string>
     <string name="show_security_tip_dialog_title">Condiții de utilizare</string>
     <string name="show_weather_location_getter_tip_dialog_description">Serviciile meteo necesită informații despre locație pentru a vă oferi date meteo direct în browser. Puteți să dezactivați această funcţie în Setări.</string>

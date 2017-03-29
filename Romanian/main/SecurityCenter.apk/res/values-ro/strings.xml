@@ -21,6 +21,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru blocarea aplicațiilor</string>
     <string name="access_control_recording_intro_header">Desenaţi un model propriu pentru blocarea aplicaţiilor</string>
     <string name="access_control_reset_by_account">Conectaţi-vă la contul dvs. Mi pentru a reseta parola de blocare a aplicațiilor</string>
+    <string name="accessibility_service_description"/>
     <string name="action_button_text_100">Optimizați</string>
     <string name="action_button_text_60">Reparați</string>
     <string name="action_button_text_60_80">Reparați</string>
