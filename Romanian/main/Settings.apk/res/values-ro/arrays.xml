@@ -792,6 +792,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>1 minut</item>
         <item>2 minute</item>
         <item>5 minute</item>
+        <item>Niciodată</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Ascunde animațiile de sistem</item>
@@ -873,7 +874,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version_description_secondary">
         <item>4.4</item>
         <item>MediaTek Helio X10</item>
-        <item>3060 mAh</item>
+        <item>3060 mAh(typ)</item>
         <item>5,5 inci</item>
         <item>1920 x 1080 pixeli</item>
         <item>13 MP</item>

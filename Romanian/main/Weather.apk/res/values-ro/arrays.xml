@@ -110,14 +110,14 @@
         <item>Nord-vest</item>
     </string-array>
     <string-array name="wind_direction_simple">
-        <item>Vânt din N</item>
-        <item>Vânt din NE</item>
-        <item>Vânt din E</item>
-        <item>Vânt din SE</item>
-        <item>Vânt din S</item>
-        <item>Vânt din SV</item>
-        <item>Vânt din V</item>
-        <item>Vânt din NV</item>
+        <item>din N</item>
+        <item>din NE</item>
+        <item>din E</item>
+        <item>din SE</item>
+        <item>din S</item>
+        <item>din SV</item>
+        <item>din V</item>
+        <item>din NV</item>
      </string-array>
     <string-array name="wind_power">
         <item>0</item>

@@ -8,6 +8,7 @@
     <string name="altitude_uncalibrate_refresh">Încercaţi din nou</string>
     <string name="altitude_uncalibrate_tip">Nu se poate calibra altitudinea</string>
     <string name="altitude_unit">m</string>
+    <string name="angle">%.0f</string>
     <string name="app_label">Busolă</string>
     <string name="calibrate_failed">Calibrare altitudine eşuată</string>
     <string name="calibrate_failed_no_location">Calibrare eşuată</string>

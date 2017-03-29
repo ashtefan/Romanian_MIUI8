@@ -421,6 +421,7 @@
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
     <string name="pref_summary_show_recent_contacts">Afişarea contactelor recente la compunerea unui mesaj text</string>
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
+    <string name="pref_switch_sdk_setting">Înlocuiți motorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
     <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală a fontului</string>
     <string name="pref_time_auto_group_summary">Grupaţi mesajele după oră</string>

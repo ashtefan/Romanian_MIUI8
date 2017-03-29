@@ -2065,6 +2065,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="mvno_match_data">Valoare MVNO</string>
     <string name="mvno_type">Tip MVNO</string>
     <string name="my_device">Telefonul meu</string>
+    <string name="my_device_disclaimer">Notă: Informațiile hardware, incluzând procesorul, capacitatea acumulatorului, dimensiunea și rezoluția ecranului precum și caracteristicile camerei foto sunt furnizate de către laboratoarele, designerii și furnizorii Xiaomi.</string>
     <string name="nearby_wifi">Reţele disponibile</string>
     <string name="need_reboot_now">Reporniţi pentru a instala actualizarea.</string>
     <string name="network_assistant">Utilizare date</string>
@@ -3406,7 +3407,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_status_title">Starea limbii prestabilite</string>
     <string name="turn_off_common_password_confirm_msg">Modelul de deblocare va fi de asemenea dezactivat.</string>
     <string name="turn_off_keyguard_password_alert_title">Dezactivați</string>
-    <string name="turn_off_keyguard_password_confirm_msg">Dezactivați parola pentru Blocarea ecranului?</string>
+    <string name="turn_off_keyguard_password_confirm_msg">Caracteristicile de protecție a dispozitivului nu vor funcționa fără modelul de deblocare</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"Nu veți mai putea debloca telefonul utiizând amprenta după ce veți dezactiva parola pentru Blocarea ecranului"</string>
     <string name="turn_off_radio">Opriţi radioul</string>
     <string name="turn_off_security_lock">Dezactivaţi blocarea</string>
@@ -3762,6 +3763,8 @@ Atingeți butonul (+) pentru a adăuga cuvinte."</string>
     <string name="vpn_save_login">Salvaţi informaţiile contului</string>
     <string name="vpn_search_domains">Domenii de căutare DNS</string>
     <string name="vpn_server">Adresă server</string>
+    <string name="vpn_set_screen_lock_content">Setați o parolă pentru Blocarea ecranului pentru a salva setările VPN</string>
+    <string name="vpn_set_screen_lock_title">Setați parola pentru Blocarea ecranului</string>
     <string name="vpn_settings_not_available">Setările VPN nu sunt accesibile acestui cont de utilizator</string>
     <string name="vpn_settings_password">Parolă de protecţie VPN</string>
     <string name="vpn_settings_summary">Protejați setările pentru VPN cu parola pentru blocarea ecranului</string>

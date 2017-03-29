@@ -89,6 +89,7 @@
     <string name="call_settings">Setări</string>
     <string name="call_sim1_menu_title">Apelaţi prin SIM1</string>
     <string name="call_sim2_menu_title">Apelaţi prin SIM2</string>
+    <string name="call_sim_menu_title_suffix">(Principal)</string>
     <string name="call_telex">Apelaţi un număr de telex</string>
     <string name="call_tty_tdd">Apelaţi TTY/TDD</string>
     <string name="call_type_and_date">%1$s %2$s</string>
@@ -125,6 +126,7 @@
     <string name="callrecordview_menu_edit_call_note">Editaţi nota apelului</string>
     <string name="callrecordview_menu_ip">Apelare automată IP</string>
     <string name="callrecordview_menu_livetalk">Pachet de suplinire</string>
+    <string name="callrecordview_menu_misim">Mi SIM</string>
     <string name="callrecordview_menu_mobiledata">Achiziționare date mobile</string>
     <string name="callrecordview_menu_paste">Lipire</string>
     <string name="callrecordview_menu_recharge">Suplinire</string>
@@ -1138,6 +1140,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="sim_export_loading">Citirea cartelei SIM…</string>
     <string name="sim_indexed_contact_not_exist">Poziţia %1$d pe cartela SIM nu este valabilă, trebuie să fie cuprinsă între %2$d şi %3$d</string>
     <string name="sim_no_contact">Nu există contacte pe cartela SIM</string>
+  <string name="sim_unloaded">Nu s-a încărcat cartela SIM</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Niciun membru în grup</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>

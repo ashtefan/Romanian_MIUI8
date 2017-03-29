@@ -56,13 +56,15 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="activity_title_virus_detail">Detalii virus</string>
     <string name="activity_title_virus_settings">Setări</string>
     <string name="activity_title_white_list">Excepții</string>
+    <string name="ad_btn_default_text">Aflați mai multe</string>
     <string name="adb_install_no_network">Conectați-vă la rețea și încercați din nou</string>
     <string name="adb_install_open">Se acordă permisiunea…</string>
     <string name="adb_install_open_error">"Nu s-a putut acorda permisiunea; verificați conexiunea la rețea"</string>
     <string name="adb_install_reject_notiy">"Nu s-a acordat permisiunea de instalare prin USB a %s"</string>
     <string name="adb_install_reject_notiy_desc">Puteți permite instalarea prin USB din Opțiuni dezvoltator</string>
     <string name="adb_login_xiaomi_account">Conectați-vă mai întâi la contul Mi</string>
-    <string name="add_miservice_dialog_content">"%s necesită să adăugați MIUI Service Framework la lista de excepții. Puteți primi notificări de la aplicațiile MIUI și de la alte aplicații."</string>
+    <string name="add_miservice_dialog_content">"%s necesită să adăugați MIUI Service Framework în lista excepțiilor.
+          Puteți primi notificări de la aplicațiile MIUI și de la alte aplicații."</string>
     <string name="add_miservice_dialog_title">MIUI Service Framework</string>
     <string name="add_to_whitelist_button">Gestionare excepţii roaming</string>
     <string name="add_white_list">Adăugaţi</string>
@@ -173,6 +175,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="auto_task_notify_task_cancel_do">Opriți sarcina</string>
     <string name="auto_task_notify_task_canceled_summary">Veți putea efectua și primi apeluri</string>
     <string name="auto_task_notify_task_canceled_summary2">"Se pare că jucați un joc acum."</string>
+    <string name="auto_task_notify_task_canceled_summary3">Anulată de Spațiul Secundar</string>
+    <string name="auto_task_notify_task_canceled_summary4">Anulată de Spațiul Principal</string>
     <string name="auto_task_notify_task_canceled_title">Acțiunea este anulată</string>
     <string name="auto_task_notify_task_continue_do">Lansați acțiunea</string>
     <string name="auto_task_notify_task_count_down">Acțiunea automată va porni în 5 secunde</string>
@@ -281,6 +285,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="btn_text_start_check">Verificare</string>
     <string name="btn_text_stop">Opriţi</string>
     <string name="btn_text_virus_scan">Scanaţi</string>
+    <string name="button_look_up">Atingeți pentru a vedea</string>
     <string name="button_text_accept">Acceptaţi</string>
     <string name="button_text_accept_timer">Acceptaţi (%d)</string>
     <string name="button_text_cancel">Anulaţi</string>
@@ -350,6 +355,14 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="card_main_xspace_action">Creați</string>
     <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
     <string name="card_main_xspace_title">Aplicații clonate</string>
+    <string name="card_sms_report">Raportați prin SMS</string>
+    <string name="card_tc_failed">"Nu s-a putut realiza calibrarea"</string>
+    <string name="card_tc_failed_content">"Motive posibile:
+ 1. Operatorii răspund mai greu la începutul și la sfîrșitul lunii. Încercați din nou în câteva zile.
+ 2. Este necesar un tipar de solicitare atunci când faceți calibrarea pentru prima dată. Conectați-vă la rețea și încercați din nou.
+ 3. Este posibil ca operatorul dvs. să nu permită trimiterea de mesaje text datorită soldului curent. Contactați operatorul pentru mai multe detalii.
+ 4. Este posibil să existe o eroare a datelor mobile de la operator. Încercați diagnosticarea rețelei pentru a rezolva acest lucru.
+ 5. Nimic nu este de ajutor? Atingeți \"Raportați prin SMS\" pentru a trimite comentariul dvs. către Xiaomi printr-un mesaj text."</string>
     <string name="celcius_symbol">℃</string>
     <string name="charging_text_battery_full_time">"Ultima încărcare a durat "</string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
@@ -386,6 +399,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="cta_dialog_title">Termeni și condiții</string>
     <string name="cta_settings">Permiteți conexiunea la internet</string>
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
+    <string name="customize_limit_pkg">%s (personalizat)</string>
     <string name="daily_limit_and_lock_screen">Limita datelor și notificări</string>
     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
     <string name="daily_limit_over_message">Ați depășit limita zilnică de utilizare a datelor.</string>
@@ -393,7 +407,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="data_network_blocked_notification_title">Nu există o conexiune la internet</string>
     <string name="data_usage_correction_timeout_body">Atingeți pentru a actualiza manual.</string>
     <string name="data_usage_correction_timeout_title">Timpul pentru sincronizarea utilizării datelor a expirat</string>
-    <string name="data_usage_disabled_dialog">Ați atins limita de utilizare a datelor din planul dvs. Dacă depăşiţi această limită, operatorul vă poate percepe taxe suplimentare.</string>
+    <string name="data_usage_disabled_dialog">"Ați atins limita de utilizare a datelor din planul dvs.
+          Dacă depăşiţi această limită, operatorul vă poate percepe taxe suplimentare.</string>
     <string name="data_usage_disabled_dialog_enable">Activaţi datele mobile</string>
     <string name="data_usage_leisure_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
     <string name="data_usage_leisure_warning_title">Limita utilizării datelor în afara orelor de vârf</string>
@@ -407,7 +422,9 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="data_usage_restricted_body">Atingeți pentru a activa datele în fundal</string>
     <string name="data_usage_restricted_title">Datele în fundal sunt restricționate</string>
     <string name="data_usage_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
+    <string name="data_usage_warning_body_notify">Atingeți pentru a vedea detalii</string>
     <string name="data_usage_warning_title">Avertizare utilizare date</string>
+    <string name="data_usage_warning_title_notify">Ați atins limita planului dvs. de date</string>
     <string name="datausage_ignore_app_list_count">Ignorare utilizare date de la %d aplicaţii</string>
     <string name="declaration_dialog_msg">Această caracteristică vă poate ajuta să urmăriți utilizarea datelor, dar nu vă garantează prevenirea costurilor suplimentare. Pentru rezultate optime, setați o limită conservatoare.</string>
     <string name="deep_clean_disconnect_data_title">Dezactivați datele mobile atunci când telefonul este blocat</string>
@@ -494,14 +511,16 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="fingerprint_verify_succeed">Amprentă verificată</string>
     <string name="fingerprint_verify_try_agin">"Nu s-a putut scana amprenta; încercați din nou"</string>
     <string name="firewall_activity_lable">Restricționaţi utilizarea datelor</string>
+    <string name="firewall_allow_network">Permis</string>
     <string name="firewall_applist">Aplicaţii</string>
     <string name="firewall_fragment_nonesys_listempty">Gol</string>
     <string name="firewall_fragment_sys_listempty">Gol</string>
     <string name="firewall_fragment_tab_title_nonsys">Instalate</string>
     <string name="firewall_fragment_tab_title_sys">Sistem</string>
+    <string name="firewall_network_allow">S-a permis ca %1$s să utilizeze %2$s conexiunea</string>
     <string name="firewall_network_restrict_notify_message">Atingeţi pentru a modifica setările.</string>
     <string name="firewall_network_restrict_notify_mobile">Date mobile</string>
-    <string name="firewall_network_restrict_notify_title">%1$s nu poate utiliza %2$s.</string>
+    <string name="firewall_network_restrict_notify_title">"%1$s nu poate utiliza rețeaua"</string>
     <string name="firewall_restrict_android_dialog_content">Pentru a fi siguri că telefonul funcționează în mod normal, câteva aplicații se vor conecta în continuare la internet. Aceste aplicații vor folosi conexiunea de date mobile și pot genera costuri.</string>
     <string name="firewall_restrict_android_dialog_title">Atenție</string>
     <string name="firewall_rule_group_title_mobile">Date</string>
@@ -526,6 +545,13 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="go_to">Mergeți</string>
     <string name="go_to_setting_fingerprint">Setări</string>
     <string name="goto_set">Setați</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator greșit?&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="guide_operator_text">"Operatorul dvs. curent: "</string>
+    <string name="guide_primary_text">"Activați Asistentul de rețea
+pentru a vă gestiona utilizarea datelor"</string>
+    <string name="guide_quck_open">Activați</string>
+    <string name="guide_second_text">"După ce vă setați operatorul, MIUI va monitoriza zilnic traficul de date prin trimiterea unui mesaj gratuit către operator. Atunci când MIUI va detecta că ați depășit limita de date, vă va deconecta de la rețea și vă va notifica."</string>
+    <string name="guide_wait_setting">Nu acum</string>
     <string name="handle_bar_summary_wifi_unknown">Necunoscut</string>
     <string name="handle_bar_title_apps">Aplicații</string>
     <string name="handle_bar_title_paysms">Mesaje</string>
@@ -601,7 +627,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="installing">Se instalează</string>
     <string name="international_roaming_setting">Roaming internaţional</string>
     <string name="international_roaming_whitelist_count">%d aplicații pot utiliza datele mobile în roaming</string>
-    <string name="ip_address_exception_summary">Nu s-a putut obține adresa IP. Dacă această problemă persistă, încercați să utilizați o adresă IP statică.</string>
+    <string name="ip_address_exception_summary">"Nu s-a putut obține adresa IP. Dacă această problemă persistă,
+          încercați să utilizați o adresă IP statică.</string>
     <string name="item_app_permission">Permisiuni aplicaţie</string>
     <string name="item_dev_mode">Opţiuni dezvoltator</string>
     <string name="item_install_monitor">Monitorizare instalare</string>
@@ -638,10 +665,15 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="legal_workday_invalidate">Lu-Vi (informaţia despre zilele de lucru legale a expirat)</string>
     <string name="legal_workday_invalidate_message">Apăsați pentru a actualiza informaţiile despre zilele de lucru legale.</string>
     <string name="legal_workday_message">(Omiteţi sărbătorile)</string>
+    <string name="leisure_usage_dialog_message">"Ați atins limita de trafic de date.
+
+Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mobile."</string>
+    <string name="leisure_usage_dialog_title">Ați atins limita de trafic de date; conexiunea este dezactivată</string>
     <string name="list_empty_text">Gol</string>
     <string name="load_fail">Nu se poate încărca</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
-    <string name="local_ip_exception_summary">Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de pe dispozitivul dvs.</string>
+    <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI,
+          deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s utilizaţi la blocarea ecranului</string>
     <string name="lock_screen_traffic_guide_notification_title">Apăsați pentru a gestiona utilizarea datelor.</string>
@@ -687,43 +719,37 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
     <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
     <string name="main_alert_message_open_traffic_ctrl">Recomandăm restricționarea utilizării datelor</string>
-    <string name="main_button_idel_traffic">În afara orelor de vârf</string>
-    <string name="main_button_normal_traffic">Maxim</string>
+    <string name="main_bill_remained">Sold telefon</string>
     <string name="main_button_usage_adjust">Sincronizaţi utilizarea datelor mobile</string>
     <string name="main_button_usage_adjust_manual">Setaţi limita utilizării datelor</string>
     <string name="main_button_usage_adjusting">Modificare…</string>
     <string name="main_button_usage_package_setting">Setaţi limita utilizării datelor</string>
-    <string name="main_message_no_package_by_dual">Setaţi limita datelor pentru %s</string>
+    <string name="main_leisure_remained">Trafic de date rămas</string>
+    <string name="main_month_total_used">Utilizat în luna aceasta</string>
+    <string name="main_month_used">Utilizat în luna aceasta</string>
+    <string name="main_no_info">Nu există date</string>
+    <string name="main_normal_data_usage">Date mobile utilizate</string>
     <string name="main_open_traffic_ctrl_button">Restricționați utilizarea datelor</string>
-    <string name="main_primary_message_traffic_cur_leisure">Utilizare date în afara orelor de vârf</string>
-    <string name="main_primary_message_traffic_cur_normal">Sub limita de date</string>
-    <string name="main_primary_message_traffic_cur_normal_overlimit">Limita de date depășită</string>
-    <string name="main_primary_message_traffic_cur_normal_warning">Avertisment de utilizare a datelor</string>
-    <string name="main_primary_message_traffic_enough">În limita de utilizare a datelor</string>
-    <string name="main_primary_message_traffic_overlimit">Limita de utilizare a datelor depășită</string>
-    <string name="main_primary_message_traffic_overlimit_purchase">Este necesar să supliniţi</string>
-    <string name="main_primary_message_traffic_purchase">Este necesar să supliniţi</string>
+    <string name="main_primary_message_leisure_alert">Avertizare limită de date</string>
+    <string name="main_primary_message_leisure_overlimit">Ați depășit limita de date</string>
+    <string name="main_primary_message_leisure_remain">Limita de date</string>
+    <string name="main_primary_message_traffic_overlimit">Ați depășit limita de date</string>
+    <string name="main_primary_message_traffic_remain">Date mobile</string>
     <string name="main_primary_message_traffic_warning">Aproape de limita de utilizare a datelor</string>
-    <string name="main_secondary_message_traffic_detail_leisure">
-\nÎn afara orelor de vârf: %1$s | utilizat %2$s"</string>
-    <string name="main_secondary_message_traffic_detail_normal">
-\nÎn orele de vârf: %1$s%2$s | utilizat %3$s"</string>
-    <string name="main_secondary_message_traffic_over">"peste "</string>
-    <string name="main_secondary_message_traffic_remain">"rămas "</string>
-    <string name="main_secondary_message_traffic_used_leisure">Date utilizate în afara orelor de vârf: %s</string>
-    <string name="main_secondary_message_traffic_used_noleisure">Date utilizate în orele de vârf %s | nu au mai rămas date în afara orelor de vârf</string>
-    <string name="main_secondary_message_traffic_used_normal">Date utilizate în orele de vârf %s</string>
+    <string name="main_purchase_tips">Promoție</string>
+    <string name="main_tc_over">Calibrare realizată cu succes</string>
+    <string name="main_tc_send_sms">"Trimite un SMS
+pentru calibrare"</string>
+    <string name="main_tc_wait_result">"Se așteaptă
+răspunsul operatorului"</string>
+    <string name="main_today_used">Utilizat azi</string>
     <string name="main_toolbar_firewall">Restricţionare utilizare date</string>
     <string name="main_toolbar_internet_by_mobiledata">Date mobile</string>
     <string name="main_toolbar_internet_by_pc_brige">Internet partajat prin USB</string>
     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="main_toolbar_purchase">Suplinire</string>
     <string name="main_toolbar_statistic">Statistică</string>
-    <string name="main_traffic_overlimit_text">Peste</string>
-    <string name="main_traffic_remian_text">Rămas</string>
-    <string name="main_traffic_used">Utilizat: %s</string>
-    <string name="main_traffic_used_only">Utilizat: %s</string>
-    <string name="main_traffic_used_text">Utilizat</string>
+    <string name="main_used_bill">%s CNY</string>
     <string name="manual_handle_title">CARACTERISTICI DISPONIBILE</string>
     <string name="manual_input_free_traffic">Setaţi utilizarea datelor în afara orelor de vârf</string>
     <string name="manual_input_traffic">Setaţi utilizarea datelor</string>
@@ -766,6 +792,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="menu_text_power_manager">Utilizare acumulator</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_text_power_percent_title">Acumulator %s</string>
+    <string name="menu_text_power_percent_title_default">Acumulator</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
@@ -791,7 +818,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
 
 3. Semnalul rețelei operatorului dvs. poate fi slab în locația curentă."</string>
     <string name="network_not_available">"Nu s-a putut conecta la rețea"</string>
-    <string name="network_operator_exception_summary">Nu s-a putut activa cartela SIM. Asigurați-vă că este introdusă corect cartela SIM și că planul de date mobile a fost activat de către operatorul dvs.</string>
+    <string name="network_operator_exception_summary">"Nu s-a putut activa cartela SIM. Asigurați-vă că este introdusă corect
+          cartela SIM și că planul de date mobile a fost activat de către operatorul dvs."</string>
     <string name="network_permission_exception_tips">Nu se pot utiliza datele mobile pentru conectare la rețea</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
@@ -809,7 +837,7 @@ A"&lt;/b&gt;"sigurați-vă că nu aveţi contul suspendat de către furnizorul d
 C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
 
 5."&lt;b&gt;" Asigurați-vă că routerul este conectat corect
-Î"&lt;/b&gt;"ncercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
+Î"&lt;/b&gt;"ncercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet. "</string>
     <string name="network_sim_exception_detail">"Este posibil să existe o problemă cu cartela SIM:
 
 1. Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet. Încercați să utilizaţi cartela SIM a unui prieten pentru a vedea dacă telefonul se conectează în mod normal.
@@ -827,7 +855,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="networkchanged_exception_title">Conexiune modificată</string>
     <string name="never">O dată</string>
     <string name="news_change">Modificați</string>
-    <string name="next_step_button">Mai departe</string>
     <string name="no_network">"Nu s-a putut conecta la rețea; încercați din nou mai târziu"</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="none_mi_service_app_detail">Gol</string>
@@ -1033,6 +1060,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_about_traffic_title">Setări utilizare date</string>
     <string name="pref_add_traffic_pkg">Date achiziționate suplimentar</string>
     <string name="pref_adjust_data_usage">Șablon mesaj operator</string>
+    <string name="pref_adjust_data_usage_summary">După ce modificați tiparul de calibrare, MIUI îl va utiliza pentru a obține statistici de utilizare de la operatorul dvs.</string>
+    <string name="pref_adjust_data_usage_value">Modificat</string>
     <string name="pref_adjust_traffic_data">Setaţi utilizarea datelor</string>
     <string name="pref_allow_connect_network_title">Roaming internațional de date</string>
     <string name="pref_allow_connect_network_whitelist_title">Permiteți excepţiilor să utilizeze datele mobile în roaming</string>
@@ -1041,6 +1070,9 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_auto_adjust_traffic">Ajustare automată a statisticilor utilizării datelor</string>
     <string name="pref_automatic_adjust">Sincronizați utilizarea oferită de către operator</string>
     <string name="pref_avaible_traffic">Plan de date</string>
+    <string name="pref_category_daily_package_tile">Plan de date zilnic</string>
+    <string name="pref_category_extra_package_tile">Pachet de suplimentare</string>
+    <string name="pref_category_half_year_package_tile">Pachet de date semianual</string>
     <string name="pref_category_title_lock_screen_memory_clean">Curăţare la blocarea ecranului</string>
     <string name="pref_category_title_module_settings">Setări module</string>
     <string name="pref_category_title_other">Setări adiţionale</string>
@@ -1049,20 +1081,33 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_category_title_virus_lib_auto_update">Se actualizează definiţiile de viruşi în mod automat</string>
     <string name="pref_category_title_virus_white_list">Excepții</string>
     <string name="pref_check_network_diagnostics">Verificați conexiunea la internet a dispozitivului</string>
+    <string name="pref_confirm_operator_setting">Asigurați-vă că informațiile introduse sunt corecte</string>
     <string name="pref_connect_settings_enable_background">Permiteți datele în fundal</string>
     <string name="pref_connect_settings_enable_background_hint">Permiteţi aplicațiilor să utilizeze datele mobile în fundal</string>
     <string name="pref_connect_settings_exceed_limit">Restricţionaţi utilizarea datelor</string>
     <string name="pref_connect_settings_exceed_limit_hint">Dezactivaţi conexiunea de date atunci când utilizarea datelor a atins limita</string>
     <string name="pref_content_virus_white_list_none">Nu există elemente</string>
+    <string name="pref_correction_setting">Setări șablon calibrare</string>
+    <string name="pref_correction_setting_switch">Utilizați un șablon personalizat de calibrare</string>
+    <string name="pref_correction_sms_content">Șablon calibrare</string>
+    <string name="pref_correction_sms_number">Trimiteți SMS-ul de calibrare către</string>
     <string name="pref_daily_adjust">Setaţi limita maximă de utilizare a datelor</string>
     <string name="pref_daily_traffic">Limita maximă de utilizare date</string>
     <string name="pref_data_usage_ignore_settings">Se ignoră utilizarea datelor</string>
     <string name="pref_data_usage_ignore_settings_summary">Nu se contabilizează utilizarea datelor de către aplicațiile selectate</string>
-    <string name="pref_data_usage_not_set">Setaţi limita utilizării datelor</string>
-    <string name="pref_free_adjust">Setaţi limita de date în afara orelor de vârf</string>
+    <string name="pref_data_usage_not_set">Plan de date necunoscut</string>
+    <string name="pref_free_adjust">Setaţi limita de trafic de date înafara orelor de vârf</string>
     <string name="pref_free_traffic_exceed_limit">Anunţă-mă atunci când utilizarea datelor a atins limita</string>
     <string name="pref_free_traffic_limit_warn">Avertizare despre utilizarea datelor în afara orelor de vârf</string>
     <string name="pref_free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
+    <string name="pref_key_daily_package_switch">Plan de date zilnic</string>
+    <string name="pref_key_daily_package_value">Plan de date zilnic</string>
+    <string name="pref_key_direction_traffic">Date mobile desemnate?</string>
+    <string name="pref_key_extra_package_switch">Pachet de suplimentare lunar</string>
+    <string name="pref_key_extra_package_value">Dimensiunea pachetului</string>
+    <string name="pref_key_half_year_package_start">Data de început</string>
+    <string name="pref_key_half_year_package_switch">Pachet de date semianual</string>
+    <string name="pref_key_half_year_package_value">Dimensiunea pachetului</string>
     <string name="pref_leisure_no_overlay">Activat</string>
     <string name="pref_leisure_not_opened">Dezactivat</string>
     <string name="pref_manual_adjust">Setaţi manual statistica de utilizare a datelor</string>
@@ -1072,7 +1117,10 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_more_traffic_settings">Setări adiţionale</string>
     <string name="pref_new_installed_preconfig_title">Setările prestabilite pentru aplicaţiile noi</string>
     <string name="pref_open_adjust_traffic">Actualizaţi utilizarea datelor în fiecare zi, utilizând statistici de la operatorul dvs.</string>
-    <string name="pref_package_traffic_leisure">%1$s | În afara orelor de vârf: %2$s</string>
+    <string name="pref_operator_not_set">"Nu ați setat operatorul"</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
+    <string name="pref_package_traffic_leisure">"%1$s
+    În afara orelor de vârf: %2$s"</string>
     <string name="pref_package_traffic_normal">Maxim: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Adiţional: %2$s</string>
     <string name="pref_package_traffic_settings">Limita datelor mobile</string>
@@ -1082,6 +1130,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="pref_roaming_setting_gategory">Setări</string>
     <string name="pref_setting_operators_message">Editați mesajul pe care dispozitivul dvs. îl trimite operatorului pentru a sincroniza statistica de utilizare a datelor</string>
     <string name="pref_show_mobile_traffic">Se afişează statistica de utilizare a datelor în timpul deblocării, dacă dispozitivul a fost blocat timp de mai mult de 5 minute</string>
+    <string name="pref_special_package_setting">Plan de date personalizat</string>
     <string name="pref_special_traffic_exceed_limit">Anunţă-mă atunci când utilizarea datelor a atins limita</string>
     <string name="pref_special_traffic_limit_warn">Setaţi valoarea de avertizare pentru utilizarea datelor</string>
     <string name="pref_specified_adjust">Setaţi o limită personalizată</string>
@@ -1114,9 +1163,13 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteţi de acord cu &lt;a href=%s&gt; Condițiile de utilizare&lt;/a&gt; Opera.</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>
-    <string name="privacy_prompt_tc_sms_report_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor.</string>
-    <string name="privacy_prompt_traffic_adjust_message">Această caracteristică necesită criptarea şi trimiterea IMEI-ului, numărului de telefon şi a informaţiilor operatorului pe serverele Mi, cu scopul de a obține statistici de utilizare a datelor de la operatorul dvs.</string>
-    <string name="privacy_prompt_traffic_purchase_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, pentru a obține mai multe informații despre opțiunile de achiziție a datelor.</string>
+    <string name="privacy_prompt_tc_sms_report_message">"Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi
+          încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor."</string>
+    <string name="privacy_prompt_traffic_adjust_message">"După ce veți începe calibrarea, MIUI se va conecta la rețea, criptează informațiile despre operator, număr de telefon, IMEI şi contul Mi și le va încărca pe serverele Mi. Acest lucru este necesar pentru obținerea șablonului de calibrare a operatorului și afla dacă se pot achiziționa pachete de date din locația în care vă aflați
+    
+Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obține șablonul de calibrare."</string>
+    <string name="privacy_prompt_traffic_purchase_message">"Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi
+          încărcate pe serverele Mi, pentru a obține mai multe informații despre opțiunile de achiziție a datelor."</string>
     <string name="privacy_prompt_upload">Încărcare</string>
     <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="process_mediaserver_label">Server media</string>
@@ -1258,7 +1311,8 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="settings_title_permission">Setări permisiuni</string>
     <string name="share">Partajați</string>
     <string name="show_system_app">Arată aplicațiile de sistem</string>
-    <string name="show_traffic_dialog_message">Informaţia despre utilizarea datelor va fi afișată în panoul notificărilor. Puteți activa sau dezactiva această caracteristică oricând în Utilizare date > Setări</string>
+    <string name="show_traffic_dialog_message">"Informaţiile despre utilizarea datelor va fi afișată în panoul notificărilor. Puteți
+          activa sau dezactiva această caracteristică oricând în Utilizare date > Setări"</string>
     <string name="show_traffic_dialog_title">Afişare utilizare date în panoul notificărilor</string>
     <string name="showpattern">Arată modelul</string>
     <string name="shutdown_cancel_reminder">Dispozitivul nu s-a oprit</string>
@@ -1270,13 +1324,13 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="signal_exception_summary">Nu se poate conecta la rețea în această zonă.</string>
     <string name="signal_exception_title">Testare putere semnal</string>
     <string name="sim_location_diagnostic">Diagnosticare locație</string>
-    <string name="sim_location_error_dialog_message">"Cartela SIM pe care o utilizați este din %1$s. Aceasta este diferită de locația setată manual(%2$s). Schimbați locația SIM-ului la %3$s?"</string>
+    <string name="sim_location_error_dialog_message">"Cartela SIM pe care o utilizați este din %1$s. Aceasta este diferită de locația
+          setată manual(%2$s). Schimbați locația SIM-ului la %3$s?"</string>
     <string name="sim_location_error_notify_message">Apăsați pentru a schimba locația cartelei SIM.</string>
     <string name="sim_location_error_notify_title">Eroare de cartelă SIM</string>
     <string name="sim_state_exception_summary">Starea cartelei SIM indică că ceva poate fi în neregulă cu aceasta.</string>
     <string name="skin_change_close_btn_text">Setați ca imagine de fundal implicită</string>
     <string name="skin_change_close_toast">Modificările vor intra în vigoare la următoarea accesare a aplicației Securitate</string>
-    <string name="sorted_button">Sortaţi după</string>
     <string name="sorted_dialog_title">Sortaţi după</string>
     <string name="sp_back_title_text_zero">Sigur</string>
     <string name="sp_background_risk_dialog_summary">, analizați și remediați problemele referitoare la plăți.</string>
@@ -1313,14 +1367,13 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="sp_settings_root_title_omit">Verificare acces ROOT</string>
     <string name="sp_settings_title_input_method">IME sigur</string>
     <string name="sp_toast_removed_from_sign_white_list">Eliminat din lista excepțiilor. Va fi scanat data viitoare.</string>
-    <string name="spinner_title">%1$s - Date mobile: %2$s</string>
     <string name="sponsored">Sponsorizat</string>
     <string name="sponsored_sec_fb">Sponsorizat</string>
     <string name="st_title_mode_choose_group">Selectați un profil</string>
     <string name="start_diagnostic_botton">Start</string>
     <string name="start_downloading_app">A început descărcarea: %1$s</string>
     <string name="start_install">Instalați acum</string>
-    <string name="stop_app_button">Opriţi</string>
+    <string name="start_tc_button">Calibrați</string>
     <string name="suffix_pay_risk_count_bottom">riscuri</string>
     <string name="suffix_pay_risk_count_top">plăți</string>
     <string name="suffix_virus_count_bottom">total</string>
@@ -1386,8 +1439,10 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Nume operator incorect&lt;br/&gt;&lt;br/&gt;Alegeți operatorul: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Nume actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
     <string name="tc_diagnostic_complete">Finalizat</string>
     <string name="tc_diagnostic_fragment_default">"Despre diagnosticare
-1. Telefonul se va conecta la rețeaua operatorului, va trimite un mesaj gratuit și va aștepta răspunsul operatorului. Acest lucru poate dura până la 5 minute.
-2. Puteți părăsi această pagină în timpul diagnosticării; ea va fi menținută activă în fundal."</string>
+1. Telefonul se va conecta la rețeaua operatorului,
+          va trimite un mesaj gratuit și va aștepta răspunsul operatorului. Acest lucru poate dura până la 5 minute.
+2. Puteți părăsi
+          această pagină în timpul diagnosticării; ea va fi menținută activă în fundal."</string>
     <string name="tc_diagnostic_location_error_notification_summary">Apăsați pentru a modifica locația</string>
     <string name="tc_diagnostic_location_error_notification_title">Locație incorectă</string>
     <string name="tc_diagnostic_notification_sumarry">Apăsați pentru a vedea rezultatele</string>
@@ -1420,7 +1475,8 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_diagnostic_upload_success">Vă mulțumim pentru feedback!</string>
     <string name="tc_sms_report_direction">Cod SMS de interogare</string>
     <string name="tc_sms_report_do_report">Trimiteţi</string>
-    <string name="tc_sms_report_get_default">"Nu veţi suporta taxe pentru mesajele SMS utilizate pentru a obține bilanţul utilizării datelor de la operatorul dvs."</string>
+    <string name="tc_sms_report_get_default">"Nu veţi suporta taxe pentru mesajele SMS utilizate pentru a obține bilanţul utilizării datelor
+          de la operatorul dvs."</string>
     <string name="tc_sms_report_get_sms">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms2">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms_again">Reîmprospătare SMS</string>
@@ -1429,13 +1485,15 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_sms_report_get_sms_failure">Nu s-a putut obține formatul SMS-ului pentru utilizarea datelor</string>
     <string name="tc_sms_report_get_sms_successs">Formatul SMS-ului pentru utilizarea datelor a fost actualizat</string>
     <string name="tc_sms_report_get_sms_timeout">Solicitare expirată</string>
-    <string name="tc_sms_report_get_success">A fost primit SMS-ul cu raportul despre utilizarea datelor de la operator. Asigurați-vă că este corect și trimiteţi-l către noi.</string>
+    <string name="tc_sms_report_get_success">"A fost primit SMS-ul cu raportul despre utilizarea datelor de la operator. Asigurați-vă că este corect și
+          trimiteţi-l către noi."</string>
     <string name="tc_sms_report_get_success_notify_body">Asigurați-vă că raportul este corect și trimiteţi-l către MIUI.</string>
     <string name="tc_sms_report_get_success_notify_title">A fost primit SMS-ul cu raportul despre utilizarea datelor</string>
     <string name="tc_sms_report_geting_sms">Obţinere informaţii SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Mergeţi la aplicația Utilizarea datelor în Centrul de securitate și încercați din nou manual.</string>
     <string name="tc_sms_report_notify_correction_failure_title">Nu se pot actualiza informaţiile despre utilizarea datelor</string>
-    <string name="tc_sms_report_notify_get_failure_body">Nu s-a putut trimite raportul de utilizare a datelor. Asigurați-vă că sunteți conectat la o rețea mobilă.</string>
+    <string name="tc_sms_report_notify_get_failure_body">"Nu s-a putut trimite raportul de utilizare a datelor. Asigurați-vă că sunteți conectat
+          la o rețea mobilă."</string>
     <string name="tc_sms_report_notify_get_failure_title">Nu se poate obține SMS-ul utilizării datelor</string>
     <string name="tc_sms_report_notify_get_timeout_body">Procesul a expirat. Confirmați cu operatorul dvs. dacă codul de solicitare SMS introdus este corect.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Nu se poate obține SMS-ul utilizării datelor</string>
@@ -1444,7 +1502,9 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_sms_report_receive_num">Numărul destinatarului</string>
     <string name="tc_sms_report_send_num">Numărul de telefon al operatorului</string>
     <string name="tc_sms_report_summary">Ajutaţi-ne să îmbunătăţim această funcție prin trimiterea unui raport, atunci când informaţiile despre datele utilizate sunt incorecte sau eşuează actualizarea</string>
-    <string name="tc_sms_report_tips_dialog_message">Utilizarea datelor foloseşte un format special de SMS pentru a obține cele mai recente date utilizate de la operatorul dvs. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format actualizat va fi încărcat pe serverele noastre.</string>
+    <string name="tc_sms_report_tips_dialog_message">"Utilizarea datelor foloseşte un format special de SMS pentru a obține cele mai recente date
+          de utilizare de la operatorul dvs. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format
+	  actualizat va fi încărcat pe serverele noastre."</string>
     <string name="tc_sms_report_tips_dialog_title">SMS de utilizare a datelor</string>
     <string name="tc_sms_report_title">Eroare raport de utilizare a datelor</string>
     <string name="tc_sms_report_title_bill">Raportați eroarea de contabilizare a utilizării datelor</string>
@@ -1556,13 +1616,17 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
 
 Acceptați această valoare?"</string>
     <string name="traffic_config_alert_body_extra">"
-Ați procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual."</string>
+Ați procurat %1$s date suplimentare în această lună. Aceasta este diferit
+          de %2$s pe care i-aţi adăugat manual."</string>
     <string name="traffic_config_alert_body_extra_notset">"
-Ați procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual."</string>
+Ați procurat %s date suplimentare în această lună. Acest lucru nu se reflectă
+          în datele lunare limită setate manual."</string>
     <string name="traffic_config_alert_body_leisure">"
-Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
+Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă
+          de %2$s setaţi manual."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-Contabilizarea operatorului dvs. arată că aveţi %s din datele orelor de vârf. Nu aţi setat o limită pentru datele în afara orelor de vârf."</string>
+Limita planului de date lunar înafara orelor de vârf este %1$s.
+          Nu aţi setat o limită pentru datele în afara orelor de vârf."</string>
     <string name="traffic_config_alert_body_normal">"
 Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
     <string name="traffic_config_alert_package">"
@@ -1574,10 +1638,12 @@ Traficul de date suplimentar a fost depășit"</string>
     <string name="traffic_correction_start_correction_failed">Solicitare eşuată, verificați setările operatorului</string>
     <string name="traffic_correction_success">Informaţia despre utilizarea datelor a fost actualizată</string>
     <string name="traffic_correction_success_notify_message">Atingeţi pentru a vizualiza detaliile.</string>
-    <string name="traffic_limit_error_alert_body">Contabilizarea operatorului dvs. arată că aveţi %1$s rămaşi în această lună. Este mai mult decât limita de %2$s setată manual.</string>
+    <string name="traffic_limit_error_alert_body">"Contabilizarea operatorului dvs. arată că aveţi %1$s rămaşi în această lună.
+         Este mai mult decât limita de %2$s setată manual. Marcați diferența ca și pachet de suplimentare?"</string>
     <string name="traffic_limit_error_alert_package">"
 
-Datele rămase includ datele reportate din luna anterioară."</string>
+Datele rămase includ datele reportate
+          din luna anterioară."</string>
     <string name="traffic_limit_error_alert_title">Memento limită de date %s</string>
     <string name="traffic_none">Nimic</string>
     <string name="traffic_over_purchase_body">Atingeți pentru a vizualiza detalii.</string>
@@ -1586,11 +1652,6 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_purchase_body">Apăsați pentru a suplimenta soldul.</string>
     <string name="traffic_purchse_suggestion">Suplinire date mobile</string>
     <string name="traffic_setting_app_count">%d aplicaţii</string>
-    <string name="traffic_setting_completed">OK</string>
-    <string name="traffic_setting_extra_pkg_oversea_summary">Ajustaţi planul de date și limitele de utilizare</string>
-    <string name="traffic_setting_extra_pkg_summary">Ajustaţi planul de date și limitele de utilizare</string>
-    <string name="traffic_setting_extra_pkg_title">Setări adiţionale</string>
-    <string name="traffic_setting_extra_traffic_title">Setări adiţionale</string>
     <string name="traffic_setting_fragment_area">Local</string>
     <string name="traffic_setting_fragment_area_dual">%s Local</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
@@ -1608,8 +1669,6 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_sms_content_tips">Scrieţi mesajul aici</string>
     <string name="traffic_setting_fragment_template">Şablon mesaj</string>
     <string name="traffic_setting_fragment_title">Setări interogare utilizare date</string>
-    <string name="traffic_setting_open">Activat</string>
-    <string name="traffic_setting_step_num">Setări plan de date</string>
     <string name="traffic_warning_purchase_title">Avertisment utilizare date mobile</string>
     <string name="try_recommended_function">Protejați-vă telefonul utilizând noile funcții ale aplicației Securitate</string>
     <string name="unable_connect_internet">Nicio conexiune la internet</string>
@@ -1639,9 +1698,11 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="usb_adb_input_apply_step_2">Dezvoltatorii pot folosi soluții software speciale pentru a imita gesturile, modifica setările și pentru a acorda diverse permisiuni prin USB.</string>
     <string name="usb_adb_input_apply_step_3">Permiteți acum?</string>
     <string name="usb_install_desc">Instalați această aplicație prin USB?</string>
-    <string name="usbsharenet_exception_summary">Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea USB a dispozitivului și reporniți Mi PC Suite.</string>
+    <string name="usbsharenet_exception_summary">"Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea
+          USB a dispozitivului și reporniți Mi PC Suite."</string>
     <string name="usbsharenet_exception_title">Testare internet partajat prin USB</string>
-    <string name="usbsharenet_pc_exception_summary">Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați conexiunea la internet a computerului.</string>
+    <string name="usbsharenet_pc_exception_summary">"Nu se poate conecta la internet utilizând conexiunea USB partajată. Verificați
+          conexiunea la internet a computerului."</string>
     <string name="use_immediately">Utilizați</string>
     <string name="virus_ad_icon_text">Reclamă</string>
     <string name="virus_already_update">Definițiile virușilor sunt actualizate</string>

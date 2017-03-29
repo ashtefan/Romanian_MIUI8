@@ -80,6 +80,7 @@ Conectați-vă la i.mi.com, mergeți la “Găsire dispozitiv”, selectați dis
     <string name="unlock_string">OK</string>
     <string name="unlocking_sim_card">Deblocare cartelă SIM</string>
     <string name="unlockscreen_low_battery">Conectaţi încărcătorul</string>
+    <string name="unlockscreen_quick_charging_message">Încărcare rapidă %d%%</string>
     <string name="unlockscreen_recharge_completed">Încărcare finalizată</string>
     <string name="unlockscreen_recharging_message">Încărcat: %d%%</string>
     <string name="wrong_password">Parolă incorectă</string>

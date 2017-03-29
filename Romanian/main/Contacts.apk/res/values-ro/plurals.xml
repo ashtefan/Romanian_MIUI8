@@ -2,9 +2,11 @@
 <resources>
     <plurals name="group_move_success_toast">
         <item quantity="other">%1$d contacte mutate cu succes</item>
+        <item quantity="one">%1$d contact mutat cu succes</item>
     </plurals>
     <plurals name="group_copy_success_toast">
         <item quantity="other">%1$d contacte copiate cu succes</item>
+        <item quantity="one">%1$d contact copiat cu succes</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d  persoane din agendă cu numere de telefon</item>
@@ -47,12 +49,12 @@
         <item quantity="one">Mesaj vocal</item>
      </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">Cartela SIM poate stoca %d contacte.</item>
-        <item quantity="one">Cartela SIM poate stoca %d contact.</item>
+        <item quantity="other">Cartela SIM poate stoca %1$d contacte.</item>
+        <item quantity="one">Cartela SIM poate stoca %1$d contact.</item>
      </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Ştergeţi %d contacte de pe cartela SIM?</item>
-        <item quantity="one">Ştergeţi %d contact de pe cartela SIM?</item>
+        <item quantity="other">Ştergeţi %1$d contacte de pe cartela SIM?</item>
+        <item quantity="one">Ştergeţi %1$d contact de pe cartela SIM?</item>
      </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selectate</item>
@@ -99,20 +101,20 @@
         <item quantity="one">%1$d contact adăugat</item>
      </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Ştergeţi %d contacte</item>
-        <item quantity="one">Ştergeţi %d contact</item>
+        <item quantity="other">Ştergeţi %1$d contacte</item>
+        <item quantity="one">Ştergeţi %1$d contact</item>
      </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d persoane</item>
-        <item quantity="one">%d persoană</item>
+        <item quantity="other">%1$d persoane</item>
+        <item quantity="one">%1$d persoană</item>
      </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contacte importate</item>
         <item quantity="one">%1$d contact importat</item>
      </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">Ştergeţi %d contacte?</item>
-        <item quantity="one">Ştergeţi %d contact?</item>
+        <item quantity="other">Ştergeţi %1$d contacte?</item>
+        <item quantity="one">Ştergeţi %1$d contact?</item>
      </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d selectate</item>
@@ -136,16 +138,16 @@
         <item quantity="one">Minut</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">A sunat de %d ori</item>
-        <item quantity="one">A sunat %d dată</item>
+        <item quantity="other">A sunat de %1$d ori</item>
+        <item quantity="one">A sunat %1$d dată</item>
      </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d contacte</item>
         <item quantity="one">%1$d contact</item>
      </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d contacte sau fotografii nu au fost sincronizate"</item>
-        <item quantity="one">"%d contact sau fotografie nu a fost sincronizat"</item>
+        <item quantity="other">"%1$d contacte sau fotografii nu au fost sincronizate"</item>
+        <item quantity="one">"%1$d contact sau fotografie nu au fost sincronizate"</item>
      </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Cu o oră în urmă</item>
@@ -157,7 +159,7 @@
         <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Cu %d min în urmă</item>
+        <item quantity="other">Cu %1$d min în urmă</item>
         <item quantity="one">Cu un minut în urmă</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
@@ -170,7 +172,7 @@
         <item quantity="other">Imediat</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">în %d minute</item>
+        <item quantity="other">în %1$d minute</item>
         <item quantity="one">într-un minut</item>
     </plurals>
 </resources>

@@ -87,7 +87,12 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
     <string name="hourly_forecast_title">Prognoză orară</string>
+    <string name="index_item_experience_now">Instalați acum</string>
+    <string name="index_item_install_dialog"/>
+    <string name="index_item_install_dialog_cancel"/>
+    <string name="index_item_install_dialog_open"/>
     <string name="index_item_install_now">Instalați acum</string>
+    <string name="index_item_installing">Se instalează</string>
     <string name="indices_desc_Precip1hr">%1$s mm</string>
     <string name="indices_desc_feel">Se simte ca la %1$s °C</string>
     <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -115,6 +120,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="information_time_source">%1$s | %2$s</string>
     <string name="information_views"/>
     <string name="install">Instalați</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_detail_menu_title">Detalii</string>
     <string name="international_details_pressure_title">PRESIUNE</string>
     <string name="international_details_real_feel_title">TEMPERATURA RESIMȚITĂ®</string>
@@ -139,6 +145,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="no_vote_ratio">Contra %1$s%%</string>
     <string name="open">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
+    <string name="open_now">Deschideți acum</string>
     <string name="other">Altele</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>

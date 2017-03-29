@@ -4,6 +4,8 @@
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
     <string name="app_name">Provision</string>
     <string name="back">Înapoi</string>
+    <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
+    <string name="cm_terms_title">Acord Operator rețea mobilă</string>
     <string name="congratulation_label">"Sunteți gata de start!​"</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
@@ -15,6 +17,9 @@
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
     <string name="desc_international_fingerprint">Utilizați amprenta digitală pentru a debloca dispozitivul sau pentru a vă autentifica în aplicații ori servicii.</string>
     <string name="disagree">Anulaţi</string>
+    <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
+    <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
+    <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
     <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s.</string>
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
