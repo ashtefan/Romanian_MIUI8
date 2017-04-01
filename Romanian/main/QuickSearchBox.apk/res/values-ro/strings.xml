@@ -7,6 +7,12 @@
     <string name="application_desc">Aplicație</string>
     <string name="applications_search_label">Aplicații</string>
     <string name="apps_search_activity" />
+    <string name="barcode_install_back">Înapoi</string>
+    <string name="barcode_install_cancel">Renunțați</string>
+    <string name="barcode_install_confirm">Instalați</string>
+    <string name="barcode_system_unmatch">Actualizați versiunea MIUI înainte de a instala aplicația Scaner</string>
+    <string name="barcode_to_install">Instalați aplicația Scaner pentru a continua</string>
+    <string name="barcode_uninstalled">Aplicația Scaner nu este instalată</string>
     <string name="choose_search_engine">Selectați motorul de căutare implicit</string>
     <string name="clear_history">Goliți istoricul de căutare</string>
     <string name="clear_shortcuts">Eliminaţi scurtăturile</string>
@@ -49,6 +55,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="local_setting">Setări</string>
     <string name="menu_help">Ajutor</string>
     <string name="menu_settings">Setări căutare</string>
+    <string name="mina_name">Aplicații directe</string>
     <string name="network_unavailable">"Nu s-a putut conecta la rețea"</string>
     <string name="permission_prompt_detail">Căutați filme, cărți, muzică, etc.</string>
     <string name="permission_prompt_start">Permiteți</string>
@@ -89,6 +96,9 @@ Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"
     <string name="search_videos">Căutați videoclipuri</string>
     <string name="search_widget">Căutare</string>
     <string name="send_secret_code">Trimiteţi codul</string>
+    <string name="setting_other">Altele</string>
+    <string name="setting_version">Versiunea aplicației</string>
+    <string name="setting_version_title">Versiunea aplicației</string>
     <string name="settings_description">Numele aplicațiilor instalate</string>
     <string name="show_more">Arată mai multe</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide aplicația"</string>

@@ -134,8 +134,8 @@
         <item quantity="one">%d risc găsit, reparați acum</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">Totul arată bine</item>
-        <item quantity="one">Totul arată bine</item>
+        <item quantity="other">S-au rezolvat %1$d probleme. Totul arată bine acum</item>
+        <item quantity="one">S-a rezolvat %1$d problemă. Totul arată bine acum</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicații cu risc de încălcare a confidențialității</item>
@@ -213,5 +213,49 @@
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">S-au adăugat %d jocuri</item>
+        <item quantity="one">S-a adăugat %d joc</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Sunt disponibile actualizări pentru %d aplicații</item>
+        <item quantity="one">Este disponibilă o actualizare pentru %d aplicație</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">A aceesat agenda de %d ori</item>
+        <item quantity="one">A aceesat agenda %d dată</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">A efectuat %d apeluri</item>
+        <item quantity="one">A efectuat %d apel</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">A trimis %d SMS-uri</item>
+        <item quantity="one">A trimis %d SMS</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">A citit SMS-urile de %d ori</item>
+        <item quantity="one">A citit SMS-uri %d dată</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">A citit istoricul de apelare de %d ori</item>
+        <item quantity="one">A citit istoricul de apelare %d dată</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Accesată de %d ori</item>
+        <item quantity="one">Accesată %d dată</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">A acordat %d permisiuni</item>
+        <item quantity="one">A acordat %d permisiune</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d ori</item>
+        <item quantity="one">%d dată</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Blocată de %d ori</item>
+        <item quantity="one">Blocată %d dată</item>
     </plurals>
 </resources>

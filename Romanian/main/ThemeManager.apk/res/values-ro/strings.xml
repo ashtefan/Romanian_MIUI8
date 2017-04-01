@@ -327,6 +327,7 @@
     <string name="search_hint_header_text">Expresii frecvente</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="settings">Setări</string>
+    <string name="the_picture_is_not_support">fotografia nu este suportată</string>
     <string name="the_picture_is_too_small">Fotografia este prea mică</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>

@@ -100,6 +100,7 @@
     <string name="feedback_submit_succ_button">Finalizat</string>
     <string name="feedback_submitting">Se trimite</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s sugestie \"%2$s\"</string>
+    <string name="feedback_third_packagename_hint">Care aplicație terță cauzează probleme?</string>
     <string name="feedback_title">Titlu</string>
     <string name="feedback_title_hint">Descrieți pe scurt problema</string>
     <string name="feedback_tracking">Urmăriți problemele</string>
@@ -283,6 +284,7 @@
     <string name="toast_report_copied_to_clipboard">Raportul a fost copiat în clipboard</string>
     <string name="toast_report_sent_failed">Imposibil de trimis raportul</string>
     <string name="toast_report_sent_succeed">Raportul a fost trimis</string>
+    <string name="toast_third_packagename_required">Introduceți numele aplicației</string>
     <string name="toast_title_required">Descrieți problema</string>
     <string name="topic_author">1#</string>
     <string name="try_again">Încercați din nou</string>
