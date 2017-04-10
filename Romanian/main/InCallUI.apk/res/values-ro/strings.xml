@@ -78,7 +78,7 @@
     <string name="card_title_video_conf_call">Apel videoconferință</string>
     <string name="card_video_hold_swap">Comutați</string>
     <string name="close_camera_failed">"Nu s-a putut opri Camera"</string>
-    <string name="close_camera_requesting">Solicitare de închidere Cameră</string>
+    <string name="close_camera_requesting">Se închide camera foto…</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_number">%s persoane</string>
     <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>

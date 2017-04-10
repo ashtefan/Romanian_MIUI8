@@ -115,7 +115,7 @@
     <string name="mortgage_hint_accumulation_fund">Introduceți suma</string>
     <string name="mortgage_hint_commercial">Introduceți suma</string>
     <string name="mortgage_hint_loan">Introduceți suma</string>
-    <string name="mortgage_input_error">Introduceți suma</string>
+    <string name="mortgage_input_error">Introduceți valoarea</string>
     <string name="mortgage_interest_amount">Valoarea dobânzii</string>
     <string name="mortgage_interest_rate">Dobânda</string>
     <string name="mortgage_item_repayment">Metoda de rambursare</string>
@@ -176,7 +176,7 @@
     <string name="tax_birth">Data nașterii</string>
     <string name="tax_cal_method_annual">Calcularea bonusului anual</string>
     <string name="tax_cal_method_fixed_salary">Calcularea impozitului pe profit</string>
-  <string name="tax_cal_method_format">Personal input: %s</string>
+  <string name="tax_cal_method_format">Venit personal: %s</string>
     <string name="tax_city">Orașul</string>
     <string name="tax_city_error">Introduceți numele corect al orașului</string>
     <string name="tax_city_located">Locația</string>
@@ -261,7 +261,7 @@
     <string name="unit_data_display_temperature_f">Fahrenheit</string>
     <string name="unit_data_display_temperature_k">Kelvin</string>
     <string name="unit_data_display_temperature_r">Rankine</string>
-    <string name="unit_data_display_temperature_re">Reaumur</string>
+    <string name="unit_data_display_temperature_re">Réaumur</string>
     <string name="unit_data_display_time_day">Zi</string>
     <string name="unit_data_display_time_h">Oră</string>
     <string name="unit_data_display_time_min">Minut</string>
@@ -310,7 +310,7 @@
     <string name="unit_data_display_weight_qian">Qian</string>
     <string name="unit_data_display_weight_st">Short ton</string>
     <string name="unit_data_display_weight_t">Tonă</string>
-    <string name="unit_data_display_weight_taijin">Jin(Taiwan)</string>
+    <string name="unit_data_display_weight_taijin">Jin (Taiwan)</string>
     <string name="unit_data_display_weight_ug">Microgram</string>
     <string name="unit_data_display_weight_uk.cwt">UK hundredweight</string>
     <string name="unit_data_display_weight_uk.st">Stone</string>

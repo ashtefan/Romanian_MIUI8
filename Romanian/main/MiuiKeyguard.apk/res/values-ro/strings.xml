@@ -19,10 +19,12 @@
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>
     <string name="fingerprint_enter_second_psw_msg">Introduceți parola pentru Spațiul Secundar după repornirea telefonului pentru a putea utiliza deblocarea cu amprentă</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"Nu se poate accesa Spațiul Secundar în modul Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduceți parola pentru Spațiul Secundar</string>
     <string name="fingerprint_lockout_msg">Așteptați un minut apoi încercați din nou să deblocați utilizând amprenta</string>
-    <string name="fingerprint_not_identified_msg">Introduceți parola pentru a debloca dispozitivul.</string>
+    <string name="fingerprint_not_identified_msg">"Nu s-a putut verifica amprenta; introduceți parola."</string>
     <string name="fingerprint_not_identified_title">"Nu se poate citi amprenta"</string>
+    <string name="fingerprint_try_again_msg">"Nu s-a putut verifica amprenta; încercați din nou."</string>
     <string name="fingerprint_try_again_text">Încercați din nou</string>
     <string name="forget_password_string">Am uitat parola</string>
     <string name="incorrect_pincode">Cod PIN incorect</string>

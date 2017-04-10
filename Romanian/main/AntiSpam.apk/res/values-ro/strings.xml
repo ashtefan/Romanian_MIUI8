@@ -117,7 +117,7 @@
     <string name="dlg_remove_whitelist_title">Eliminaţi</string>
     <string name="dlg_retore">Restabiliţi în Inbox mesajele?</string>
     <string name="dlg_retore_ok">Restabiliţi</string>
-    <string name="dlg_title_not_open_stranger_identify">Identificare Necunoscuţi</string>
+    <string name="dlg_title_not_open_stranger_identify">Identificarea apelantului este dezactivată</string>
     <string name="dlg_white_address_antispam_message">Adăugaţi această locaţie în lista excepţiilor?</string>
     <string name="dlg_white_antispam_hint">Excepţii</string>
     <string name="dlg_white_antispam_message">Adăugaţi acest număr în lista excepţiilor?</string>
@@ -128,7 +128,7 @@
     <string name="fw_blocked_join">" şi "</string>
     <string name="hint_antispam_mode_edit">Mod personalizat</string>
     <string name="im">IM</string>
-    <string name="info_antispam_close">AntiSpam oprit</string>
+    <string name="info_antispam_close">Lista blocărilor este dezactivată	</string>
     <string name="info_antispam_current_mode">%s</string>
     <string name="info_antispam_phone">Blocaţi apelurile</string>
     <string name="info_antispam_phone_sms">Blocaţi SMS-urile şi apelurile</string>

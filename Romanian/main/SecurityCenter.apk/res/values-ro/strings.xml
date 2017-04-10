@@ -399,6 +399,9 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="card_main_deepclean_action">Goliți</string>
     <string name="card_main_deepclean_summary">Ștergeți fișierele inutile</string>
     <string name="card_main_deepclean_title">Curățare profundă</string>
+    <string name="card_main_deepclean_wechat_action">Goliți</string>
+    <string name="card_main_deepclean_wechat_summary">Goliți cache-ul WeChat pentru a elibera spațiu de stocare</string>
+    <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
     <string name="card_main_gamebooster_summary">Creșteți viteza și îmbunătățiți experiența de gaming</string>
     <string name="card_main_gamebooster_title">Creștere viteză de gaming</string>
     <string name="card_main_hbassistant_summary">Utilizați această unealtă pentru a apuca mai repede plicurile</string>
@@ -614,7 +617,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="goto_set">Setați</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator greșit?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent: "</string>
-    <string name="guide_primary_text">"Activați Asistentul de rețea
+    <string name="guide_primary_text">"Utilizați aplicația de Securitate
 pentru a vă gestiona utilizarea datelor"</string>
     <string name="guide_quck_open">Activați</string>
     <string name="guide_second_text">"După ce vă setați operatorul, MIUI va monitoriza zilnic traficul de date prin trimiterea unui mesaj gratuit către operator. Atunci când MIUI va detecta că ați depășit limita de date, vă va deconecta de la rețea și vă va notifica."</string>
@@ -879,7 +882,7 @@ răspunsul operatorului"</string>
     <string name="network_diagnostics">Testare reţea</string>
     <string name="network_mobile_exception_detail">"Dispozitivul dvs. nu se poate conecta la internet:
 
-1. Asigurați-vă că nu ați depășit limita de date mobile din planul operatorului dvs.
+1. Asigurați-vă că nu ați depășit limita de date mobile.
 
 2. Dacă tocmai ați suplinit soldul, reporniți dispozitivul și încercați din nou.
 
@@ -1014,7 +1017,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="path_antispam">Aplicații de sistem/Securitate/Listă blocări</string>
     <string name="path_antivirus">Aplicații de sistem/Securitate/Scanare pentru viruși</string>
     <string name="path_app_permissions">Aplicații de sistem/Securitate/Permisiuni/Permisiunile aplicațiilor</string>
-    <string name="path_auto_restart">Aplicații de sistem/Securitate/Permisiuni/Gestionare pornire automată</string>
+    <string name="path_auto_restart">Aplicații de sistem/Securitate/Permisiuni/Pornire automată</string>
     <string name="path_buy_flow">Aplicații de sistem/Securitate/Utilizare date/Achiziționați date mobile</string>
     <string name="path_cleanmaster">Aplicații de sistem/Securitate/Curățare</string>
     <string name="path_networkassistant_1">Aplicații de sistem/Securitate/Utilizare date</string>
@@ -1033,6 +1036,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_symbol">%</string>
+    <string name="percent_text_formatted">%s%%</string>
     <string name="percentage">%d%%</string>
     <string name="permission_action_accept">Acceptaţi</string>
     <string name="permission_action_prompt">Notificare</string>
@@ -1539,7 +1543,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="tc_diagnostic_status_updating">Testare…</string>
     <string name="tc_diagnostic_success_notification_summary">Raportați această problemă pentru a ajuta MIUI să îmbunătățească serviciul de diagnosticare</string>
     <string name="tc_diagnostic_success_notification_title">Tipul de rețea și numele sunt corecte</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Rețeaua și numele operatorului sunt setate corect&lt;br/&gt;&lt;br/&gt;Nu s-a putut completa setarea:&lt;br/&gt;1. Informațiile despre operator pot fi incorecte la începutul sau la sfârșitul lunii.&lt;br/&gt;2. Asistentul de rețea nu a fost actualizat.&lt;br/&gt;&lt;br/&gt;Raportați această problemă pentru a ajuta MIUI să îmbunătățească serviciul de diagnosticar&lt;/font&gt;"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Rețeaua și numele operatorului sunt setate corect&lt;br/&gt;&lt;br/&gt;Nu s-a putut completa setarea:&lt;br/&gt;1. Informațiile despre operator pot fi incorecte la începutul sau la sfârșitul lunii.&lt;br/&gt;2. Caracteristicile aplicației Securitate nu au fost actualizate.&lt;br/&gt;&lt;br/&gt;Raportați această problemă pentru a ajuta MIUI să îmbunătățească serviciul de diagnosticar&lt;/font&gt;"</string>
     <string name="tc_diagnostic_title">Diagnosticare operator</string>
     <string name="tc_diagnostic_upload_button">Raportați</string>
     <string name="tc_diagnostic_upload_no_network">Vă mulțumim pentru feedback! Raportul va fi trimis atunci când veți fi conectat la rețea.</string>
@@ -1578,14 +1582,14 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
 	  actualizat va fi încărcat pe serverele noastre."</string>
     <string name="tc_sms_report_tips_dialog_title">SMS de utilizare a datelor</string>
     <string name="tc_sms_report_title">Eroare raport de utilizare a datelor</string>
-    <string name="tc_sms_report_title_bill">Raportați eroarea de contabilizare a utilizării datelor</string>
-    <string name="tc_sms_report_title_calltime">Raportați eroarea de contabilizare a utilizării datelor</string>
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
+    <string name="tc_sms_report_type">Tip raport</string>
     <string name="tc_sms_report_upload_success">Raportul de utilizare a datelor trimis prin SMS.</string>
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
     <string name="temperature_formatted_text">%s℃</string>
     <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
     <string name="text_button">Am înțeles</string>
+    <string name="text_cycle_day">%s</string>
     <string name="text_day"></string>
     <string name="text_lock_info">Desenați modelul de deblocare</string>
     <string name="there_is_no">Totul arată bine, reveniți mai târziu</string>
@@ -1699,7 +1703,8 @@ Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor
 Limita planului de date lunar înafara orelor de vârf este %1$s.
           Nu aţi setat o limită pentru datele în afara orelor de vârf."</string>
     <string name="traffic_config_alert_body_normal">"
-Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
+Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună,
+          ceea ce diferă de %2$s setaţi manual."</string>
     <string name="traffic_config_alert_package">"
 Traficul de date suplimentar a fost depășit"</string>
     <string name="traffic_config_alert_setted">Setări aplicate</string>
@@ -1709,8 +1714,8 @@ Traficul de date suplimentar a fost depășit"</string>
     <string name="traffic_correction_start_correction_failed">Solicitare eşuată, verificați setările operatorului</string>
     <string name="traffic_correction_success">Informaţia despre utilizarea datelor a fost actualizată</string>
     <string name="traffic_correction_success_notify_message">Atingeţi pentru a vizualiza detaliile.</string>
-    <string name="traffic_limit_error_alert_body">"Contabilizarea operatorului dvs. arată că aveţi %1$s rămaşi în această lună.
-         Este mai mult decât limita de %2$s setată manual. Marcați diferența ca și pachet de suplimentare?"</string>
+    <string name="traffic_limit_error_alert_body">"Limita de date rămasă pentru luna aceasta (%1$s) este mai mare decât planul de date
+          lunar (%2$s).S-a modificat planul lunar de date?"</string>
     <string name="traffic_limit_error_alert_package">"
 
 Datele rămase includ datele reportate
@@ -1728,6 +1733,7 @@ Datele rămase includ datele reportate
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button1_text">Anulaţi</string>
     <string name="traffic_setting_fragment_button2_text">Salvaţi</string>
+    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Nu cunoașteți operatorul?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_setting_fragment_get_template_falure">Nu se poate conecta la reţea. Verificați conexiunea de date și încercați din nou.</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">"Nu arăta din nou"</string>
     <string name="traffic_setting_fragment_loading_text">Obţinere informaţii…</string>

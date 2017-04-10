@@ -44,7 +44,6 @@
     <string name="audio_sim_card_mismatching">Nu există conexiune la rețea ori este instalată o cartelă SIM incorectă. Instalați cartela SIM de pe care a fost trimis mesajul și conectați-vă la rețea.</string>
     <string name="back_to_message_list">Înapoi la lista de mesaje</string>
     <string name="batch_adding_progress_message">Adăugare…</string>
-    <string name="batch_delete_confirm_dialog_message">Ştergeți %1$s mesaje?</string>
     <string name="batch_deleting_message_progress_message">Ştergere…</string>
     <string name="batch_deleting_progress_message">Ştergere…</string>
     <string name="bcc_label">"Bcc: "</string>
@@ -332,8 +331,8 @@
     <string name="mx_current_status">Setări</string>
     <string name="mx_dspt">Trimiteți mesaje SMS și MMS oricărui utilizator de telefon MIUI fără a fi taxat, atunci când sunteți conectat la o rețea Wi-Fi.</string>
     <string name="mx_dspt_listview">Trimiteți mesaje altor utilizatori de telefoane MIUI fără a fi taxat</string>
-    <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
-    <string name="mx_dspt_provision_ex">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui.</string>
+    <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje prin internet altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
+    <string name="mx_dspt_provision_ex">"Trimiteţi mesaje și efectuaţi apeluri prin internet către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui."</string>
     <string name="mx_dspt_provision_ex2">Politica de Confidențialitate</string>
     <string name="mx_enable">Mesagerie Mi</string>
     <string name="mx_enable_ex">Mesaj şi Voce Mi</string>
@@ -395,6 +394,7 @@
     <string name="pref_delivery_ringtone">Sunet mesaj trimis</string>
     <string name="pref_edit_smsc_address">Centrul de servicii mesaje scurte(SMSC)</string>
     <string name="pref_forward_title">Redirecţionaţi</string>
+    <string name="pref_hide_verification_code_summary">Ascunde în mod automat notificările mesajelor ce conțin parole de unică utilizare în Blocarea ecranului</string>
     <string name="pref_messages_to_save">Setaţi numărul de mesaje pentru salvare</string>
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
     <string name="pref_msg_trash_bin_title">Mesaje șterse recent</string>
@@ -421,7 +421,7 @@
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
     <string name="pref_summary_show_recent_contacts">Afişarea contactelor recente la compunerea unui mesaj text</string>
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
-    <string name="pref_switch_sdk_setting">Înlocuiți motorul de mesagerie inteligentă</string>
+    <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
     <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală a fontului</string>
     <string name="pref_time_auto_group_summary">Grupaţi mesajele după oră</string>
@@ -626,6 +626,7 @@
     <string name="timed_message_to">către</string>
     <string name="title_allow_network_access">Actualizează informațiile în mod automat</string>
     <string name="title_collapse_sp_messages">Grupaţi notificările</string>
+    <string name="title_hide_verification_code">Ascundere automată a OTP în Blocarea ecranului</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>

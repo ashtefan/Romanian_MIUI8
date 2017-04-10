@@ -12,7 +12,7 @@
     <string name="barcode_install_confirm">Instalați</string>
     <string name="barcode_system_unmatch">Actualizați versiunea MIUI înainte de a instala aplicația Scaner</string>
     <string name="barcode_to_install">Instalați aplicația Scaner pentru a continua</string>
-    <string name="barcode_uninstalled">Aplicația Scaner nu este instalată</string>
+    <string name="barcode_uninstalled">Aplicația Scaner este dezinstalată</string>
     <string name="choose_search_engine">Selectați motorul de căutare implicit</string>
     <string name="clear_history">Goliți istoricul de căutare</string>
     <string name="clear_shortcuts">Eliminaţi scurtăturile</string>
@@ -29,7 +29,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="corpus_hint_apps">Căutare aplicaţii</string>
     <string name="corpus_label_apps">Aplicaţii</string>
     <string name="corpus_label_global">Tot</string>
-    <string name="corpus_label_web">Căutați aplicații, muzică, videoclipuri, Pagini Aurii, etc.</string>
+    <string name="corpus_label_web">Rezultate web</string>
     <string name="corpus_selection_heading">Căutare</string>
     <string name="cta_declaration">"Această caracteristică trebuie să se conecteze la internet, să acceseze locația dispozitivului dvs. și să vizualizeze istoricul apelurilor și contactele pentru a funcţiona în mod normal."</string>
     <string name="cta_declaration_ignore">"Nu se afișează din nou"</string>
@@ -55,7 +55,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="local_setting">Setări</string>
     <string name="menu_help">Ajutor</string>
     <string name="menu_settings">Setări căutare</string>
-    <string name="mina_name">Aplicații directe</string>
+    <string name="mina_name">Aplicații noi</string>
     <string name="network_unavailable">"Nu s-a putut conecta la rețea"</string>
     <string name="permission_prompt_detail">Căutați filme, cărți, muzică, etc.</string>
     <string name="permission_prompt_start">Permiteți</string>

@@ -168,7 +168,7 @@
     <string name="menu_settings">Setări</string>
     <string name="menu_sort">Sortaţi aplicaţiile</string>
     <string name="menu_wallpaper">Imagini de fundal</string>
-    <string name="menu_workspace_preview">Previzualizare</string>
+    <string name="menu_workspace_preview">Previzualizare Ecran principal</string>
     <string name="mi_wallpaper">Magazin Teme MIUI</string>
     <string name="mtzgadget_missing_text">"Obiectul widget nu este disponibil"</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare și mutați-o aici</string>
@@ -185,9 +185,9 @@
     <string name="permdesc_write_settings">Permite aplicaţiei să modifice setările şi comenzile rapide din ecranul de pornire.</string>
     <string name="permlab_install_shortcut">Instalează comenzi rapide</string>
     <string name="permlab_install_widget">Instalează obiecte widget</string>
-    <string name="permlab_read_settings">Citeşte setările Paginii de pornire şi ale comenzilor rapide</string>
+    <string name="permlab_read_settings">Citeşte setările și scurtăturile Paginii de pornire</string>
     <string name="permlab_uninstall_shortcut">Dezinstalează comenzi rapide</string>
-    <string name="permlab_write_settings">Scrie setări şi comenzi rapide pentru Ecranul de pornire</string>
+    <string name="permlab_write_settings">Editare setări şi comenzi rapide pentru Ecranul de pornire</string>
     <string name="photo_adjust">Previzualizare</string>
     <string name="photo_confirm">Aplicaţi</string>
     <string name="photo_load_failed">"Încărcarea fotografiei a eşuat"</string>
@@ -259,7 +259,7 @@
     <string name="uninstall_result_two_failed">"Nu se poate dezinstala %s şi încă o aplicaţie"</string>
     <string name="uninstall_with_xspace_dialog_message">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele acestora.</string>
     <string name="uninstall_xspace_dialog_message">Dezinstalarea aplicației clonate va șterge și toate datele acesteia.</string>
-    <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"</string>
+    <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"?</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar</string>
     <string name="wallpaper">Imagine de fundal</string>

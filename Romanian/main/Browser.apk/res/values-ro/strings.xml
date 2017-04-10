@@ -112,6 +112,7 @@
     <string name="bookmark_title_lable">Titlu</string>
     <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">Aţi adăugat deja acest URL la marcaje</string>
+    <string name="bookmark_url_can_not_null">Introduceți adresa URL.</string>
     <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">Această adresă URL nu este validă</string>
     <string name="bookmarks_content_is_null">Niciun marcaj</string>

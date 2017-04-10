@@ -78,7 +78,7 @@
     <string name="sender_in_progress_later">Aşteptaţi şi încercaţi din nou</string>
     <string name="sender_in_progress_now">Anulaţi</string>
     <string name="sender_in_progress_title">Anulaţi transferul?</string>
-    <string name="sender_interrupt_summary">Nu dezactivați conexiunea Wi-Fi atunci când sunt trimise fişiere</string>
+    <string name="sender_interrupt_summary">"Nu dezactivați conexiunea Wi-Fi atunci când sunt trimise fişiere"</string>
     <string name="sender_interupt">Transfer întrerupt</string>
     <string name="sender_reject">Nu acceptaţi</string>
     <string name="sender_reject_kick_off">Vă rog reîncercați mai târziu</string>

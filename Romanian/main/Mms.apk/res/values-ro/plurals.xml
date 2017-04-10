@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Ştergeţi %1$s conversaţii selectate?</item>
-        <item quantity="one">Ştergeţi această conversaţie?</item>
+        <item quantity="one">Ştergeţi conversaţia %1$s selectată?</item>
      </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d secunde</item>
@@ -20,16 +20,20 @@
      </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s persoane</item>
-        <item quantity="one">o persoană</item>
+        <item quantity="one">%1$s persoană</item>
      </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Ștergeți %1$s mesaje?</item>
+        <item quantity="one">Ștergeți %1$s mesaj?</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mesaje</item>
-        <item quantity="zero">niciun mesaj</item>
-        <item quantity="one">1 mesaj</item>
+        <item quantity="zero">%d mesaje</item>
+        <item quantity="one">%d mesaj</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d mesaje nu au fost sincronizate</item>
-        <item quantity="one">1 mesaj nu a fost sincronizat</item>
+        <item quantity="one">"%d mesaj nu a fost sincronizat"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaje</item>
@@ -38,5 +42,6 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d selectate</item>
         <item quantity="zero">Selectați elemente</item>
+        <item quantity="one">%d selectat</item>
     </plurals>
 </resources>

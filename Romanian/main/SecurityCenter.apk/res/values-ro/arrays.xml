@@ -79,6 +79,14 @@
     <string-array name="long_add_menu">
         <item>Adăugați în lista excepțiilor</item>
     </string-array>
+    <string-array name="sort_type">
+        <item>Sortare după nume</item>
+        <item>Sortare după mărime</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Utilizare date</item>
+        <item>Balanță telefon</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>După un minut</item>
         <item>După 5 minute</item>

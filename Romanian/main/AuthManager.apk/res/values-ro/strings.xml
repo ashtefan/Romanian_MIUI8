@@ -235,7 +235,7 @@
     <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Citire date despre serviciul SMS</string>
     <string name="HIPS_Perm_service_foreground">Servicii în fundal</string>
-    <string name="HIPS_Perm_service_foreground_Desc">Servicii în fundal</string>
+    <string name="HIPS_Perm_service_foreground_Desc">servicii în fundal</string>
     <string name="HIPS_Perm_show_when_locked">Afișare în Blocarea ecranului</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Afișare în Blocarea ecranului</string>
     <string name="HIPS_Perm_use_sip">Servicii video</string>

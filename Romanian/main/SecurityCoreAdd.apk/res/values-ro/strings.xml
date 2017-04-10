@@ -109,8 +109,6 @@ Le puteți de asemenea descărca separat."</string>
     <string name="import_photo_desc">Vizualizați elementele partajate în Spațiul Secundar</string>
     <string name="import_photo_suc">Fotografii importate</string>
     <string name="invalid_qr_code">Cod QR invalid</string>
-    <string name="keywords_sspace">Spațiu secundar;2 spații de lucru;două spații de lucru;Ascundere aplicații;Ascundere fișiere;Ascundere fotografii;Blocar ecran;Parola pentru Blocarea ecranului;Confidențialitate;Mod Confidențialitate;Mod privat;Privat;Mod gazdă;Sesiune gazdă;Acces gazdă;Cont gazdă;Gazdă</string>
-    <string name="keywords_xspace">Aplicație clonată;Aplicații clonate;Aplicație dublă;Aplicații duble;Clonare aplicație;Clonare aplicații;Clonă aplicație;Clone aplicații;Două conturi;2 conturi</string>
     <string name="list_empty_text">Gol</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_apps">Se încarcă aplicațiile…</string>
@@ -147,8 +145,6 @@ Le puteți de asemenea descărca separat."</string>
     <string name="otherSettings">Alte setări</string>
     <string name="passWordGuardSummary">Accesați Spațiul Secundar din blocarea ecranului utilizând o parolă</string>
     <string name="passwordProtect">Parola</string>
-    <string name="path_sspace">Setări/Spațiul Secundar</string>
-    <string name="path_xspace">Setări/Aplicații clonate</string>
     <string name="please_diff_finger_print">"Asigurați-vă că utilizați amprente diferite pentru cele 2 spații de lucru.
 Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
     <string name="privacyContactsSummary">Arată elementele private în Spațiul Secundar</string>
@@ -162,8 +158,6 @@ Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
     <string name="removingSpace">Ștergere…</string>
     <string name="repeat_scanner_fingerprint">Adăugați din nou</string>
     <string name="reset_passwd_success">Parola a fost resetată cu succes</string>
-    <string name="resource_sspace">Spațiul Secundar</string>
-    <string name="resource_xspace">Aplicații clonate</string>
     <string name="restore_normal_show">"Nu arăta mesajele private"</string>
     <string name="restore_show_desc">"Nu arăta mesajele private în Spațiul Secundar. Ele vor fi în continuare disponibile în Spațiul Principal."</string>
     <string name="restore_show_toast">Nu se afișează mesajele private</string>
@@ -213,6 +207,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="show_private_msg">Afișează mesajele private</string>
     <string name="show_private_msg_summary">Afișează mesajele private în Spațiul Secundar</string>
     <string name="spaceSetting">Setări</string>
+    <string name="space_deleted">Acest spațiu a fost șters</string>
     <string name="space_des_default">Spațiu izolat cu date criptate</string>
     <string name="space_name_default">Spațiul pentru Servici</string>
     <string name="startSet">Setați</string>

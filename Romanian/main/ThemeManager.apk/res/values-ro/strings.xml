@@ -97,9 +97,9 @@
     <string name="loading_resource_detail_info">Doar o secundă…</string>
     <string name="local_resouce_creator_name">Dezvoltator: %1$s</string>
     <string name="lockscreen_apply_failured">"Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
-    <string name="lockscreen_apply_failured_but_home_apply_success">"Imaginea de fundal pentru Ecranul principal a fost aplicată dar nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">"Imaginea de fundal pentru Ecranul principal a fost aplicată. Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
     <string name="lockscreen_apply_success">Imaginea de fundal pentru Blocarea ecranului a fost aplicată</string>
-    <string name="lockscreen_apply_success_but_home_apply_failured">"Imaginea de fundal pentru Blocarea ecranului a fost aplicată dar nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">"Imaginea de fundal pentru Blocarea ecranului a fost aplicată. Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="lockscreen_magazine_subscribe">%1$s fani</string>
     <string name="lockscreen_magazine_summary">Categorii</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s imagini de fundal</string>
@@ -327,8 +327,8 @@
     <string name="search_hint_header_text">Expresii frecvente</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="settings">Setări</string>
-    <string name="the_picture_is_not_support">fotografia nu este suportată</string>
-    <string name="the_picture_is_too_small">Fotografia este prea mică</string>
+    <string name="the_picture_is_not_support">"Imaginea nu este suportată"</string>
+    <string name="the_picture_is_too_small">Imaginea este prea mică</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Sunet de apel</string>
@@ -423,5 +423,5 @@
     <string name="wallpaper_settings_change_wallpaper">Modificați</string>
     <string name="wallpaper_settings_desktop_text">Ecranul principal</string>
     <string name="wallpaper_settings_lockscreen_text">Blocarea ecranului</string>
-    <string name="wallpaper_settings_page_title">imagine de fundal</string>
+    <string name="wallpaper_settings_page_title">Imagine de fundal</string>
 </resources>

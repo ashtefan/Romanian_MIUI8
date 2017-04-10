@@ -443,6 +443,8 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="loading_fail">Nu s-a putut descărca</string>
     <string name="loading_fail_sync_off">Activați sincronizarea cu Mi Cloud pentru a descărca</string>
     <string name="loading_fail_sync_off_message">"Nu s-au putut încărca fotografiile; sincronizarea cu Mi Cloud este oprită."</string>
+    <string name="loading_fail_sync_without_network">Conectați-vă la rețea pentru a descărca datele</string>
+    <string name="loading_fail_syncing">Așteptați până când datele sunt complet descărcate și încercați din nou</string>
     <string name="loading_gif">Descărcare gif…</string>
     <string name="loading_gif_thumbnail">Descărcare miniatură gif…</string>
     <string name="loading_image">Descărcare imagine…</string>
@@ -450,6 +452,8 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="loading_members">Încărcare membri…</string>
     <string name="loading_suspend">Descărcare întreruptă. Acţiunea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
     <string name="loading_video">Descărcare videoclip…</string>
+    <string name="loading_video_fail_sync_without_network">Conectați-vă la rețea pentru a descărca datele</string>
+    <string name="loading_video_fail_syncing">Așteptați până când datele sunt complet descărcate și încercați din nou</string>
     <string name="loading_video_thumbnail">Descărcare copertă videoclip…</string>
     <string name="login_and_enable_service">Conectați-vă utilizând contul Mi</string>
     <string name="long_press_to_refocus">Atingeți și mențineți apăsat pentru a reorienta</string>

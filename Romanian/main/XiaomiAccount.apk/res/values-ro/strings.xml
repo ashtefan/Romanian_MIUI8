@@ -122,8 +122,8 @@
     <string name="find_device_error_password_recently_changed">"Ați modificat parola în ultimele 3 zile. Nu se poate dezactiva acum Localizarea dispozitivului din motive de siguranță."</string>
     <string name="find_device_interrupted">Acțiunea a fost întreruptă; așteptați un minut sau două și încercați din nou</string>
     <string name="find_device_io_error">"Nu se poate conecta la rețea"</string>
-    <string name="find_device_locked_account_email" formatted="false">%s,adresa de e-mail asociată:%s</string>
-    <string name="find_device_locked_account_phone" formatted="false">%s,numărul de telefon asociat:%s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, adresa de e-mail asociată: %s</string>
+    <string name="find_device_locked_account_phone" formatted="false">%s, numărul de telefon asociat: %s</string>
     <string name="find_device_null_credential_error">"Nu se pot obține informațiile despre dispozitiv; contactați Serviciul Clienți Xiaomi"</string>
     <string name="find_device_operation_failed_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
@@ -381,7 +381,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="search_user_detail_top_key_words">Informații personale,Modificare fotografie de profil,Modificare nume utilizator,Modificare pseudonim,Modificare dată de naștere,Modificare sex</string>
     <string name="security_question">Selectați întrebarea</string>
     <string name="security_question_answer">Introduceți răspunsul</string>
-    <string name="security_question_notice_message">Adăugați telefonul înainte de a seta întrebările de siguranță pentru a putea reseta întrebările în cazul în care uitați răspunsurile</string>
+    <string name="security_question_notice_message">Adăugați numărul de telefon înainte de a seta întrebările de siguranță pentru a putea reseta întrebările în cazul în care uitați răspunsurile</string>
     <string name="security_question_notice_title">Asociați telefonul</string>
     <string name="security_question_prompt">"Întrebările de siguranță pot fi utilizate atunci când modificați sau resetați parola.
 Asigurați-vă că știți răspunsurile la aceste întrebări."</string>

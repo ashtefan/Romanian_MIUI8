@@ -865,7 +865,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Buenos Aires</item>
         <item>Cancun</item>
         <item>Caracas</item>
-        <item>Cayman</item>
+        <item>Insulele Cayman</item>
         <item>Chicago</item>
         <item>Costa Rica</item>
         <item>Curaçao</item>
@@ -883,8 +883,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Halifax</item>
         <item>Havana</item>
         <item>Indianapolis</item>
-        <item>Knox</item>
-        <item>Marengo</item>
+        <item>Knox City</item>
         <item>Petersburg</item>
         <item>Tell City</item>
         <item>Vevay</item>
@@ -905,7 +904,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Nassau</item>
         <item>New York</item>
         <item>Beulah</item>
-        <item>Center</item>
         <item>New Salem</item>
         <item>Panama</item>
         <item>Phoenix</item>
@@ -965,10 +963,9 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Tokyo</item>
         <item>Ulaanbaatar</item>
         <item>Bermuda</item>
-        <item>Canary</item>
+        <item>Insulele Canare</item>
         <item>Cape Verde</item>
         <item>Reykjavik</item>
-        <item>Stanley</item>
         <item>Adelaide</item>
         <item>Brisbane</item>
         <item>Canberra</item>
@@ -1053,7 +1050,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>San Francisco</item>
         <item>Salt Lake City</item>
         <item>San Jose</item>
-        <item>San Salvador</item>
         <item>Seattle</item>
         <item>St. Louis</item>
         <item>Washington D.C.</item>
@@ -1179,7 +1175,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>America/Havana</item>
         <item>America/Indiana/Indianapolis</item>
         <item>America/Indiana/Knox</item>
-        <item>America/Indiana/Marengo</item>
         <item>America/Indiana/Petersburg</item>
         <item>America/Indiana/Tell_City</item>
         <item>America/Indiana/Vevay</item>
@@ -1200,7 +1195,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>America/Nassau</item>
         <item>America/New_York</item>
         <item>America/North_Dakota/Beulah</item>
-        <item>America/North_Dakota/Center</item>
         <item>America/North_Dakota/New_Salem</item>
         <item>America/Panama</item>
         <item>America/Phoenix</item>
@@ -1263,7 +1257,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Atlantic/Canary</item>
         <item>Atlantic/Cape_Verde</item>
         <item>Atlantic/Reykjavik</item>
-        <item>Atlantic/Stanley</item>
         <item>Australia/Adelaide</item>
         <item>Australia/Brisbane</item>
         <item>Australia/Canberra</item>
@@ -1348,7 +1341,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>America/Los_Angeles</item>
         <item>America/Denver</item>
         <item>America/Los_Angeles</item>
-        <item>America/Guatemala</item>
         <item>America/Los_Angeles</item>
         <item>America/Chicago</item>
         <item>America/New_York</item>

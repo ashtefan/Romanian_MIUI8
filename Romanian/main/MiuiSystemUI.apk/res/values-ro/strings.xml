@@ -279,8 +279,8 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="usb_accessory_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
     <string name="usb_accessory_uri_prompt">Aplic. instal. nu funcţ. cu acest acces. USB. Aflaţi despre acest accesoriu la %1$s</string>
     <string name="usb_debugging_always">Permiteţi întotdeauna de la acest computer</string>
-    <string name="usb_debugging_message">Cheia amprentă RSA a computerului este:
-%1$s</string>
+    <string name="usb_debugging_message">"Cheia amprentă RSA a computerului este:
+%1$s"</string>
     <string name="usb_debugging_title">Permiteţi depanarea USB?</string>
     <string name="usb_device_confirm_prompt">Deschideţi %1$s la conectarea acestui dispozitiv USB?</string>
     <string name="usb_device_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
@@ -306,7 +306,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="usb_storage_stop_notification_title">Dezactivaţi stocarea USB</string>
     <string name="usb_storage_stop_title">Stocare USB în uz</string>
     <string name="usb_storage_title">USB conectat</string>
-    <string name="user_guide_for_notification">Glisaţi în jos cu un deget pentru a deschide panoul notificărilor</string>
+    <string name="user_guide_for_notification">Glisaţi în jos deschide panoul notificărilor</string>
     <string name="user_guide_for_toggle">Lista comutatoarelor poate fi derulată orizontal</string>
     <string name="user_guide_for_toggle_list">Gestionaţi comutatoarele</string>
     <string name="vpn_text">Atingeți pentru a vedea setările.</string>
