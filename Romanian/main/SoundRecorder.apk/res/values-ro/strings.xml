@@ -116,6 +116,7 @@
     <string name="rename">Redenumiţi</string>
     <string name="rename_dialog_title">Redenumiţi înregistrarea</string>
     <string name="rename_duplicate">O altă înregistrare cu acelaşi nume există deja.</string>
+    <string name="rename_fail_tip">"Nu s-a putut redenumi. Elementul cu acest nume există deja."</string>
     <string name="rename_no_more_tip">Nu se afişează din nou</string>
     <string name="retry">Reîncercaţi</string>
     <string name="runtime_permission_ungranted">"Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacordate</string>

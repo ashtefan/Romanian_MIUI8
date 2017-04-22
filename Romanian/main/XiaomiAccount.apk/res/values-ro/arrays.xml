@@ -21,41 +21,4 @@
         <item>4 001~6 000</item>
         <item>> 6 000(EȘTI BAZAT!)</item>
     </string-array>
-    <string-array name="question_no1">
-        <item>Familie</item>
-        <item>"Numele bunicii de pe mamă"</item>
-        <item>"Numele bunicului de pe mamă"</item>
-        <item>"Numele bunicii de pe tată"</item>
-        <item>"Numele bunicului de pe tată"</item>
-        <item>"Ziua de naștere a tatălui"</item>
-        <item>"Ziua de naștere a mamei"</item>
-        <item>"Care este diferența de vârstă dintre părinți (ani și luni)?"</item>
-    </string-array>
-    <string-array name="question_no2">
-        <item>Școala absolvită</item>
-        <item>Care era numele șefului clasei din școala gimnazială?</item>
-        <item>Care era numele șefului clasei din școala primară?</item>
-        <item>Numărul matricol din liceu</item>
-        <item>"Care era numele colegului de cameră din liceu?"</item>
-        <item>"Care era numele dirigintelui din liceu?"</item>
-    </string-array>
-    <string-array name="question_no3">
-        <item>Informații personale</item>
-        <item>Cum te alintă părinții?</item>
-        <item>Ultimele 6 cifre din numărul pașaportului</item>
-        <item>În ce spital te-ai născut?</item>
-        <item>"Care este numele celui mai bun prieten al tău?"</item>
-    </string-array>
-    <string-array name="question_no4">
-        <item>Prima dată</item>
-        <item>"Care era numele primului animal de companie?"</item>
-        <item>"Care era numele primului iubit/primei iubite?"</item>
-        <item>"Care este numele companiei pentru care ai lucrat prima dată?"</item>
-    </string-array>
-    <string-array name="question_no5">
-        <item>Căsătorie</item>
-        <item>Când te-ai căsătorit?</item>
-        <item>"Numele soțului/soției"</item>
-        <item>"Data de naștere a soțului/soției"</item>
-    </string-array>
 </resources>

@@ -76,6 +76,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="account_add">Adăugaţi</string>
     <string name="account_autostar_label">Pornire automată</string>
     <string name="account_list">Alte conturi</string>
+    <string name="account_other">Altele</string>
     <string name="account_settings">Conturi</string>
     <string name="account_settings_menu_auto_sync">Auto sincronizare date</string>
     <string name="account_settings_menu_auto_sync_personal">Auto sincronizare date personale</string>
@@ -1724,9 +1725,9 @@ Este posibil ca unele aplicaţii să nu funcţioneze înainte de a fi actualizat
     <string name="lock_screen_notifications_summary_hide">Ascunde notificările cu conținut sensibil</string>
     <string name="lock_screen_notifications_summary_show">Afișează toate notificările</string>
     <string name="lock_screen_notifications_title">Când dispozitivul este blocat</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">Se solicită parola imediat</string>
-    <string name="lock_screen_secure_after_timeout_summary">Se solicită parola peste %1$s</string>
-    <string name="lock_screen_secure_after_timeout_title">Solicitare parolă</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">Solicită parola imediat</string>
+    <string name="lock_screen_secure_after_timeout_summary">Solicită parola: %1$s</string>
+    <string name="lock_screen_secure_after_timeout_title">Solicită parola</string>
     <string name="lock_screen_signature_summary">Acest mesaj va fi afișat în Blocarea ecranului</string>
     <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
     <string name="lock_screen_unlock_show">Salt peste glisare</string>
@@ -2068,6 +2069,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_mi_effect_summary">Se utilizează Amplificatorul Mi Sound, atunci când se utilizează difuzorul</string>
     <string name="music_mi_effect_title">Amplificatorul Mi Sound</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
+    <string name="music_unsupport_effect_summary">"Căștile USB nu sunt suportate"</string>
     <string name="musicfx_title">Efecte muzicale</string>
     <string name="mvno_match_data">Valoare MVNO</string>
     <string name="mvno_type">Tip MVNO</string>
@@ -2238,6 +2240,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="page_layout_page2_small_title">Foarte mic</string>
     <string name="page_layout_page2_title">Previzualizaţi</string>
     <string name="page_layout_small_title">Foarte mic</string>
+    <string name="palm_enabled">Acoperiți ecranul pentru a o dezactiva</string>
     <string name="paper_mode_end_time_title">Oră sfârșit</string>
     <string name="paper_mode_start_time_title">Oră de început</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
@@ -2839,7 +2842,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_notification_sound_title">Sunet de notificare implicit</string>
     <string name="search_ntts_settings_title">Rezultatul transformării textului în vorbire;TTS</string>
     <string name="search_oldman_mode_entry_name">Modul Ușor;Mod persoane vârstnice;Mod Ușor</string>
-  <string name="search_onekey_migrate">Transfer;One key migrate</string>
+    <string name="search_onekey_migrate">Transfer;Mi Mover</string>
     <string name="search_other_advanced_settings">Setări adiționale;Mai multe</string>
     <string name="search_owner_info_settings_title">Informații proprietar</string>
     <string name="search_page_layout_settings">Dimensiunea textului;Mărimea fontului;Font mic;Font mare;Font mediu;Font foarte mare;Font uriaș;Mărime font</string>
@@ -3168,9 +3171,9 @@ Pentru mai multe informații, contactați administratorul."</string>
 
 Acest lucru este posibil datorită unui certificat de încredere instalat pe dispozitivul dvs."</string>
     <string name="stable_build">" | Stabil"</string>
-  <string name="standard_configuration_version_rear_camera">1300万像素</string>
-  <string name="standard_configuration_version_screen_resolution">1920 x 1080像素</string>
-  <string name="standard_configuration_version_screen_size">5.5英寸</string>
+    <string name="standard_configuration_version_rear_camera">13 MP</string>
+    <string name="standard_configuration_version_screen_resolution">1920 x 1080 pixeli</string>
+    <string name="standard_configuration_version_screen_size">5.5 inci</string>
     <string name="status_awaiting_tap">Apăsați o etichetă pentru a scrie...</string>
     <string name="status_awake_time">Durată de activitate</string>
     <string name="status_bar_and_notification_bar">Panou notificări şi bară de stare</string>
@@ -3278,6 +3281,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="summary_font_size">%1$s</string>
     <string name="supl_not_set">&lt;Nu este setat&gt;</string>
     <string name="supplicant_state_label">Stare supplicant:</string>
+    <string name="suspend_gesture_enabled">Răsturnați telefonul pentru a închide ecranul</string>
     <string name="switch_off_text">Oprit</string>
     <string name="switch_on_text">Pornit</string>
     <string name="symbols_not_allowed_for_password">Parola nu poate conține simboluri</string>
@@ -4204,6 +4208,9 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wrong_pin_code_pukked">Cod PIN incorect. Contactaţi operatorul pentru deblocarea dispozitivului.</string>
     <string name="xiaomi_account">Contul Mi</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service_description">Mi Cloud sincronizează contactele și fotografiile, face o copie de rezervă a aplicațiilor și a setărilor și vă ajută să vă găsiți telefonul utilizând funcția Localizare telefon.</string>
+    <string name="xiaomi_cloud_service_disabled">Dezactivat</string>
+    <string name="xiaomi_cloud_service_unknown">Necunoscut</string>
     <string name="xiaomi_money_service">Mi Credit</string>
     <string name="xiaomi_router_available_notif_summary">Apăsați pentru a vizualiza mai multe informații.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponibil</string>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Introduceţi locaţia</string>
-    <string name="act_find_city_hot_title">Adăugaţi</string>
-    <string name="act_set_city_find_side">Localizare…</string>
+    <string name="act_find_city_hot_attractions_title">Locații populare</string>
+    <string name="act_find_city_hot_city_title">Orașe populare</string>
+    <string name="act_set_city_find_side">Localizare</string>
     <string name="act_set_city_find_side_error">"Localizare eşuată"</string>
     <string name="act_weather_find_city_added">Oraş adăugat</string>
     <string name="act_weather_find_city_click_retry">Reîncercaţi</string>
@@ -61,7 +62,7 @@
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
-    <string name="connect_fail">Conexiunea la rețea este anormală. Vă rugăm încercați mai târziu.</string>
+    <string name="connect_fail">"Nu s-a putut conecta la rețea; încercați din nou"</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
@@ -78,7 +79,7 @@
     <string name="daily_forecast_no_data">"Nu s-au putut obține informațiile despre starea vremii
 Glisați în jos pentru a actualiza sau verificați setările de rețea"</string>
     <string name="edit_alert_city_title">Gestionați alertele</string>
-    <string name="edit_city">Editaţi localitatea</string>
+    <string name="edit_city">Gestionați locațiile</string>
     <string name="empty">" "</string>
     <string name="first_start_network_msg">Această aplicație trebuie să se conecteze la internet și să acceseze locația dvs. pentru a funcţiona in mod normal.</string>
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
@@ -130,18 +131,17 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="international_details_wind_title">VÂNT</string>
     <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
-    <string name="location_management">Locaţii</string>
     <string name="location_tag">Localizare GPS</string>
     <string name="lunar_calendar"/>
     <string name="menu_add_city">Editați locațiile</string>
     <string name="menu_location">Locaţii</string>
+    <string name="menu_speeker">Suport vocal</string>
     <string name="mi_pad2">latte</string>
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
     <string name="no_data">--</string>
     <string name="no_network_btn">Reîncercați</string>
-    <string name="no_vote_num">%1$s persoane | </string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
     <string name="open">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
@@ -182,7 +182,6 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="top_pollution_pm10">PM10</string>
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_so2">SO2</string>
-    <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; persoane au votat"</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Poimâine: %1$s</string>
     <string name="traffic_control_today_numbers">Astăzi: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Mâine: %1$s</string>
@@ -210,6 +209,5 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_miles_unit">%1$s mph</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="yes_vote_num"> | %1$s persoane</string>
     <string name="yes_vote_ratio">Pro %1$s%%</string>
 </resources>

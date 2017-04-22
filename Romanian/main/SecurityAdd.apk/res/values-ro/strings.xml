@@ -58,6 +58,7 @@
     <string name="i_know">Am înțeles</string>
     <string name="install_game_count">Au fost adăugate %d jocuri</string>
     <string name="intro_improve">Creșteți experiența de joc la nivel de sistem</string>
+    <string name="intro_skip">omiteți</string>
     <string name="loading">Doar o secundă…</string>
   <string name="lucky_result_title">Plicuri roșii</string>
     <string name="main_toolbar_purchase">Adăugați</string>

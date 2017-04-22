@@ -8,10 +8,10 @@
      </string-array>
     <string-array name="search_category_rbds_entries">
         <item>Toate staţiile</item>
-        <item>Adult Hits</item>
+        <item>Hituri</item>
         <item>Muzică Clasică</item>
         <item>Rock clasic</item>
-        <item>College</item>
+        <item>Campus</item>
         <item>Muzica country</item>
         <item>Urgenţă</item>
         <item>Test urgenţă</item>
@@ -19,9 +19,9 @@
         <item>Informaţii</item>
         <item>Jazz</item>
         <item>Noutăţi</item>
-        <item>Nostalgie</item>
+        <item>Nostalgică</item>
         <item>Vechi</item>
-        <item>Personalitate</item>
+        <item>Personalizate</item>
         <item>Public</item>
         <item>Muzică religioasă</item>
         <item>Discuţii religioase</item>
@@ -38,7 +38,7 @@
     <string-array name="search_category_rds_entries">
         <item>Toate staţiile</item>
         <item>Cultură</item>
-        <item>Afaceri curente</item>
+        <item>Subiecte curente</item>
         <item>Programe pentru copii</item>
         <item>Muzică Country</item>
         <item>Documentar</item>
@@ -48,21 +48,21 @@
         <item>Urgenţă</item>
         <item>Test urgenţă</item>
         <item>Finanţe</item>
-        <item>Muzică Folk</item>
+        <item>Muzică folk</item>
         <item>Informaţii</item>
-        <item>Muzică Jazz</item>
+        <item>Muzică de Jazz</item>
         <item>Light classical</item>
         <item>Timp liber</item>
         <item>Noutăţi</item>
-        <item>Muzică populară</item>
+        <item>Muzică folk tradițională</item>
         <item>Altă muzică</item>
         <item>Muzică veche</item>
         <item>Phone In</item>
         <item>Muzică Pop</item>
         <item>Religie</item>
-        <item>Muzică Rock</item>
+        <item>Muzică rock</item>
         <item>Ştiinţă</item>
-        <item>Serious classical</item>
+        <item>Clasică</item>
         <item>Afaceri sociale</item>
         <item>Sport</item>
         <item>Călătorii</item>
@@ -94,7 +94,7 @@
         <item>India</item>
         <item>Irlanda</item>
         <item>Italia</item>
-        <item>Coreea</item>
+        <item>Coreea de Sud</item>
         <item>Mexic</item>
         <item>Olanda</item>
         <item>Noua Zeelandă</item>
@@ -132,7 +132,7 @@
         <item>India (91.0 MHz - 106.4 MHz cu pasul 100 kHz)</item>
         <item>Irlanda (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
         <item>Italia (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
-        <item>Coreea (87.5 MHz - 108.0 MHz cu pasul 200 kHz)</item>
+        <item>Coreea de Sud(87.5 MHz - 108.0 MHz cu pasul 200 kHz)</item>
         <item>Mexic (88.1 MHz - 107.9 MHz cu pasul 200 kHz)</item>
         <item>Olanda (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
         <item>Noua Zeelandă (88.0 MHz - 107.0 MHz cu pasul 100 kHz)</item>

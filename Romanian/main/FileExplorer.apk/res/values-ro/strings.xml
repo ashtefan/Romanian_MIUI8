@@ -99,6 +99,7 @@
     <string name="claim_video_success">Raportat cu succes</string>
     <string name="claim_video_unlogin">Conectați-vă pentru a raporta videoclipuri</string>
     <string name="clean_hint">Apăsaţi pentru a elibera spațiu</string>
+    <string name="clear_record">Goliți istoricul</string>
     <string name="click_login_str">Conectați-vă</string>
     <string name="click_to_refresh">Atingeți aici pentru a actualiza</string>
     <string name="click_to_switch_volume">Apăsați aici pentru a comuta între memoria internă și cardul SD</string>
@@ -541,6 +542,7 @@
     <string name="search_file_type_picture">Fotografii</string>
     <string name="search_file_type_video">Videoclipuri</string>
     <string name="search_hint">Căutare</string>
+    <string name="search_history">Istoricul de căutare</string>
     <string name="search_hot_sticker">Stickere; Descărcați stickere</string>
     <string name="search_hot_video">Videoclipuri populare;Încărcați videoclipuri;Încărcați un videoclip;Videoclip scurt;Videoclipuri scurte;Videoclip mic;Videoclipuri mici</string>
     <string name="search_keyword">Etichete</string>

@@ -119,6 +119,19 @@
         <item>[Abonare] pentru funcțiile calendar personalizate și servicii</item>
         <item>[Abonare] a găsit o diferite caracteristici și servicii calendar</item>
     </string-array>
+    <string-array name="fortune_random_birthday">
+        <item>1992-01-01</item>
+        <item>2013-02-04</item>
+        <item>1995-04-05</item>
+        <item>1999-08-06</item>
+        <item>1996-06-21</item>
+        <item>2014-01-18</item>
+        <item>2006-01-23</item>
+        <item>2012-01-13</item>
+        <item>1993-01-17</item>
+        <item>1980-01-08</item>
+        <item>1982-01-10</item>
+    </string-array>
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Fundal alb</item>
@@ -241,5 +254,65 @@
         <item>Niciodată</item>
         <item>Lunar</item>
         <item>Anual</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>berbec</item>
+        <item>Berbec</item>
+        <item>21.03 - 19.04</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taur</item>
+        <item>Taur</item>
+        <item>20.04 - 20.05</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemeni</item>
+        <item>Gemeni</item>
+        <item>21.05 - 21.06</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>rac</item>
+        <item>Rac</item>
+        <item>22.06 - 22.07</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leu</item>
+        <item>Leu</item>
+        <item>23.07 - 22.08</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>fecioară</item>
+        <item>Fecioară</item>
+        <item>23.08 - 22.09</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>balanță</item>
+        <item>Balanță</item>
+        <item>23.09 - 23.10</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpion</item>
+        <item>Scorpion</item>
+        <item>24.10 - 22.11</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>săgetător</item>
+        <item>Săgetător</item>
+        <item>23.11 - 21.12</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricorn</item>
+        <item>22.12 - 19.01</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>vărsător</item>
+        <item>Vărsător</item>
+        <item>20.01 - 18.02</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pești</item>
+        <item>Pești</item>
+        <item>19.02 - 20.03</item>
     </string-array>
 </resources>

@@ -19,14 +19,6 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d evenimente</item>
-        <item quantity="one">1 eveniment</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">+%d evenimente</item>
-        <item quantity="one">+1 eveniment</item>
-    </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">cu %1$d zile în urmă la %2$s</item>
         <item quantity="one">cu %1$d zi în urmă la %2$s</item>

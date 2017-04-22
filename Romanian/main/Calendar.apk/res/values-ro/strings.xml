@@ -13,7 +13,7 @@
     <string name="acct_not_synced">Acest cont nu este sincronizat, prin urmare calendarele dvs. pot să nu fie actualizate.</string>
     <string name="acessibility_selected_marker_description">Eveniment selectat</string>
     <string name="action_label">Revocare</string>
-  <string name="action_text_card_manager">abonamente</string>
+    <string name="action_text_card_manager">Canal</string>
     <string name="action_text_today">Astăzi</string>
   <string name="ad_card_connecting">conexiune</string>
   <string name="ad_card_download_count">utilizatorii descarcă %1$s</string>
@@ -68,15 +68,15 @@
     <string name="can_not_modify_allday_event">"Nu se poate modifica evenimentul de o zi"</string>
     <string name="can_not_modify_event">"Nu se poate schimba evenimentul"</string>
     <string name="can_not_modify_repeating_acrossing_days_event">"Nu se poate modifica evenimentul de mai multe zile"</string>
-  <string name="card_detail_dialog_message">“%1$s”Conținutul este actualizat în fiecare zi, după abonament, puteți parcurge cel mai recent conținut în fiecare zi la zi, da, o zi minunată.</string>
-  <string name="card_detail_dialog_negative">În afară următor</string>
-  <string name="card_detail_dialog_positive">Aboneaza-te acum</string>
-  <string name="card_detail_dialog_title">Fie Abonează-te</string>
-  <string name="card_detail_hint">După ce abonamentul, conținutul se va afișa pagina de start, actualizat zilnic</string>
-  <string name="card_detail_title">Detalii abonament</string>
-  <string name="card_manager">Managementul subscripției</string>
-  <string name="card_manager_no_data">Nu există card de abonament :)</string>
-  <string name="card_title_change">Pentru o schimbare</string>
+    <string name="card_detail_dialog_message">“%1$s se va actualiza în fiecare zi. Abonați-vă pentru a primi actualizări zilnice.</string>
+    <string name="card_detail_dialog_negative">Abonați-vă mai târziu</string>
+    <string name="card_detail_dialog_positive">Abonați-vă acum</string>
+    <string name="card_detail_dialog_title">Vă abonați acum?</string>
+    <string name="card_detail_hint">Conținutul va fi afișat în pagina principală și se va actualiza zilnic după ce vă veți abona</string>
+    <string name="card_detail_title">Detalii</string>
+    <string name="card_manager">Gestionare abonări</string>
+    <string name="card_manager_no_data">Nicio abonare încă</string>
+    <string name="card_title_change">Mai multe</string>
     <string name="change_response_title">Modificaţi răspunsul</string>
   <string name="check_reminded_text">Vezi memento-uri</string>
   <string name="chinese_leap">Intercalare</string>
@@ -112,10 +112,10 @@
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
     <string name="default_reminder_mode">Memento-uri</string>
-  <string name="delete_calendar">Dezabonare</string>
+    <string name="delete_calendar">Dezabonare</string>
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
-  <string name="deleting_calendar">Dezabonare de la</string>
+    <string name="deleting_calendar">Dezabonare</string>
     <string name="departure">Plecare</string>
     <string name="description_calendar">Aplicații de sistem/Calendar</string>
     <string name="description_calendar_edit_event">Aplicații de sistem/Calendar/Agendă</string>
@@ -204,6 +204,7 @@
     <string name="from_google_group_calendar">Calendar Google</string>
     <string name="gadget_no_events">Niciun eveniment viitor în calendar</string>
     <string name="gadget_title">Calendar</string>
+    <string name="global_action_text_card_manager">Un calendar mult mai interesant</string>
     <string name="guide_card_hint_text">Importați zilele de naștere din Agendă</string>
     <string name="hint_attendees">Invitaţi</string>
     <string name="hint_description">Descriere</string>
@@ -215,7 +216,7 @@
   <string name="horoscope_card_financial">Bani:</string>
   <string name="horoscope_card_love">Dragoste:</string>
   <string name="horoscope_card_working">Carieră:</string>
-  <string name="horoscope_select_activity_label">Selectați activitatea</string>
+    <string name="horoscope_select_activity_label">Selectați semnul zodiacal</string>
   <string name="huangli_bad_type">Evitaţi</string>
   <string name="huangli_good_type">Bun</string>
     <string name="import_action">Importați</string>
@@ -295,7 +296,8 @@
     <string name="new_event_dialog_label">Eveniment nou</string>
     <string name="new_event_dialog_option">Eveniment nou</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
-  <string name="no_network">Nicio rețea, încercați să reîmprospătați din nou rețeaua</string>
+    <string name="no_network">"Nu s-a putut conecta la rețea.
+Verificați setările de rețea și încercați din nou."</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_title_label">(Fără titlu)</string>
     <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont pentru a continua.</string>
@@ -334,7 +336,7 @@
   <string name="recommend_card_adding">abonamentele</string>
   <string name="recommend_card_close_hint">Reduce abonamentul va recomanda similare</string>
   <string name="recommend_card_from">de la abonamente：</string>
-  <string name="refresh">Reîmprospătaţi</string>
+    <string name="refresh">Reîmprospătaţi</string>
     <string name="repeat_activity_label">Repetare</string>
     <string name="repeat_custom_activity_label">Personalizat</string>
     <string name="repeat_custom_prompt">în fiecare zi de %2$s, %1$s</string>
@@ -397,21 +399,21 @@
     <string name="show_newer_events">Atingeţi pentru a vedea evenimente după %1$s</string>
     <string name="show_older_events">Atingeţi pentru a vedea evenimente dinainte de %1$s</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
-  <string name="subscribe_card">Aboneaza-te acum</string>
-  <string name="subscribe_card_success">Aboneaza-te la succes, pot fi vizionate la domiciliu</string>
-  <string name="subscribe_card_success_for_homepage">Abonare la "%1$s" cu succes</string>
-  <string name="subscribe_channel_bottom_hint">—— Calendarul mei ——</string>
-  <string name="subscribe_channel_click_hint">Aboneaza-te pentru a citi</string>
-  <string name="subscribe_channel_footer_button">Managementul subscripției</string>
-  <string name="subscribe_channel_footer_desc">Pentru a vizualiza abonamentele sau dezabonați de a intra în gestionare</string>
-  <string name="subscribe_channel_footer_title">deja subscris</string>
-  <string name="subscribe_channel_footer_view">vedere</string>
-  <string name="subscribe_channel_hint">"Aboneaza-te pentru a se potrivi cu funcția sau un serviciu de abonament lor va apărea Pagina principală，
-Puteți adăuga, de asemenea, memento-uri de abonament, ți-e dor de fiecare minunat！"</string>
-  <string name="subscribe_channel_subscribe">abonament</string>
-  <string name="subscribe_channel_subscribing">abonamentele</string>
-  <string name="subscribe_channel_title">abonamentele</string>
-  <string name="subscribing_card">abonamentele</string>
+    <string name="subscribe_card">Abonați-vă acum</string>
+    <string name="subscribe_card_success">Abonare cu succes! Verificați detaliile în pagina principală</string>
+    <string name="subscribe_card_success_for_homepage">Abonare la "%1$s" cu succes</string>
+    <string name="subscribe_channel_bottom_hint">—— Calendar Mi ——</string>
+    <string name="subscribe_channel_click_hint">Este necesară abonarea</string>
+    <string name="subscribe_channel_footer_button">Gestionați abonările</string>
+    <string name="subscribe_channel_footer_desc">Verificați abonările sau dezabonați-vă</string>
+    <string name="subscribe_channel_footer_title">Abonat</string>
+    <string name="subscribe_channel_footer_view">Verificați</string>
+    <string name="subscribe_channel_hint">"Abonați-vă la serviciile care vă plac și primiți actualizări zilnice în pagina principală，
+Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</string>
+    <string name="subscribe_channel_subscribe">Abonați-vă</string>
+    <string name="subscribe_channel_subscribing">Abonare</string>
+    <string name="subscribe_channel_title">Canal</string>
+    <string name="subscribing_card">Abonare</string>
   <string name="swipe_up_guide_hint_text">Glisați pentru a afla mai multe</string>
     <string name="synced">sincronizat</string>
   <string name="taishen">Copil al lui Dumnezeu</string>
@@ -456,9 +458,9 @@ Puteți adăuga, de asemenea, memento-uri de abonament, ți-e dor de fiecare min
     <string name="travel_seat_number_text">Loc</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Gară</string>
-  <string name="unsubscribe_card">anulare</string>
-  <string name="unsubscribe_card_success">Dezabonare de la "%1$s" cu succes</string>
-  <string name="unsubscribing_card">Dezabonarea</string>
+    <string name="unsubscribe_card">Dezabonare</string>
+    <string name="unsubscribe_card_success">Dezabonare cu succes de la "%1$s"</string>
+    <string name="unsubscribing_card">Dezabonare</string>
     <string name="user_notice_button_exit">Ieșire</string>
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_declaration_ignore">"Nu arăta din nou"</string>

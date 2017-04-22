@@ -190,7 +190,7 @@
     <string name="change_to_photo_mode">Afișați previzualizarea completă</string>
     <string name="choose_baby_sexy">Sex</string>
     <string name="choose_owner_relation">Relaţie</string>
-    <string name="choose_people">Selectați albumul persoanei</string>
+    <string name="choose_people">"Selectați albumul unei persoane"</string>
     <string name="choose_some_people">Selectați albumul pentru %s</string>
     <string name="clear_local_photo_direction">Dacă veți șterge fotografii sau videoclipuri de pe telefon, ele vor fi disponibile în continuare în Mi Cloud</string>
     <string name="click_download_gif">Apăsați pentru a descărca imaginea gif</string>
@@ -298,7 +298,7 @@
     <string name="download_retry_title">"Nu s-au putut descărca fișierele"</string>
     <string name="download_tip">Descărcaţi</string>
     <string name="download_title">Se pregătesc fișierele...</string>
-    <string name="download_without_wifi_msg">Utilizarea conexiunii de date mobile pentru a descărca fotografii va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="download_without_wifi_msg">"Utilizarea conexiunii de date mobile pentru a descărca fișiere va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="download_without_wifi_title">Avertizare utilizare date</string>
     <string name="edit_baby_info">Vizualizaţi informaţiile despre copil</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
@@ -562,7 +562,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="picker_full_format">Puteți selecta până la %d elemente.</string>
     <string name="picker_image_need_download">"%d dintre fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</string>
     <string name="picker_image_will_download">"%d dintre fotografiile selectate nu sunt pe telefon; acestea vor fi descărcate"</string>
-    <string name="picker_mobile_data_video">"Nu se pot descărca videoclipuri utilizând datele mobile; au fost omise %d."</string>
     <string name="picker_no_network_message">Conectați-vă la rețea pentru a putea descărca</string>
     <string name="picker_origin_need_download">"%1$d dintre fotografiile selectate nu sunt pe telefon (%2$dMB); le descărcați utilizând datele mobile?"</string>
     <string name="picker_title_format">Puteți selecta %d fotografii</string>
@@ -708,7 +707,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="slim_now">Optimizați acum</string>
     <string name="slim_result_size">Salvat %1$s</string>
     <string name="slim_result_title">Au fost redimensionate cu succes</string>
-    <string name="slim_tip_msg">Dimensiunea fotografiilor va fi redusă în mod automat atunci când veți fi conectat la Wi-Fi. Pentru a descărca fișierele la rezoluție maximă din Mi Cloud, apăsați \"Descărcare fotografii\" în Detalii.</string>
+    <string name="slim_tip_msg">Dimensiunea fișierelor va fi redusă în mod automat atunci când veți fi conectat la Wi-Fi. Pentru a descărca fișierele la rezoluție maximă din Mi Cloud, apăsați \"Descărcare fișier\" în pagina de detalii a fotografiei.</string>
     <string name="slim_tip_title">Optimizare spațiu de stocare</string>
     <string name="slimming">Optimizare…</string>
     <string name="start_debug">Reparare Galerie</string>

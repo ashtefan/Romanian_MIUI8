@@ -183,9 +183,9 @@
     <string name="min_error">%1$s dvs ar trebui să fie mai lung.</string>
     <string name="modem_tool_log">Înregistrare jurnale modem</string>
     <string name="modem_tool_log_start">Porniţi</string>
-    <string name="modem_tool_log_start_toast">Porniţi înregistrarea jurnalului modemului în %s</string>
+    <string name="modem_tool_log_start_toast">Se salvează jurnalul modemului în %s</string>
     <string name="modem_tool_log_stop">Opriţi</string>
-    <string name="modem_tool_log_stop_toast">Opriţi înregistrarea jurnalului modemului în %s</string>
+    <string name="modem_tool_log_stop_toast">S-a oprit înregistrarea jurnalului modemului în %s</string>
     <string name="module_communication">Comunicații</string>
     <string name="module_data">Stocare și aplicații clonate</string>
     <string name="module_desktop">Ecranul principal și setări</string>
@@ -228,7 +228,7 @@
     <string name="pic_view_format">%1$s/%2$s</string>
     <string name="plus_one_submit_dialog_content">Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi, atunci când dispozitivul este conectat la Wi-Fi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
-    <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forum"</string>
+    <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>
     <string name="pull_to_refresh_pull_label">Glisați în jos pentru a împrospăta</string>
     <string name="pull_to_refresh_refreshing_label">Împrospătare…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a împrospăta</string>
