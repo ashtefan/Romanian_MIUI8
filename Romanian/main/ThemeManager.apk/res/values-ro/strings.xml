@@ -412,6 +412,9 @@
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
+    <string name="uid_change_dialog_message">"Ați eliminat actualizările. Reporniți telefonul pentru a putea utiliza temele."</string>
+    <string name="uid_change_dialog_ok">Am înțeles</string>
+    <string name="uid_change_dialog_title">Reporniți telefonul</string>
     <string name="wallpaper_auto_change_title">Blocarea ecranului</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>

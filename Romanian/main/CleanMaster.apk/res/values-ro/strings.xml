@@ -316,7 +316,7 @@
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Căutare Google</string>
     <string name="positive_confirm">OK</string>
-    <string name="pref_category_title_auto_clean_settings">Curăţare automată</string>
+    <string name="pref_category_title_auto_clean_settings">Memento curăţare</string>
     <string name="pref_category_title_auto_update_cleanup_db">Setări adiţionale</string>
     <string name="pref_category_title_cleanup_white_list">Excepţii</string>
     <string name="pref_category_title_engine_settings">Setări pentru definițiile scanării</string>
@@ -336,7 +336,7 @@
     <string name="pref_title_auto_clean_content_choose">Selectaţi elementele pentru curățare</string>
     <string name="pref_title_auto_update_cleanup_db">Actualizare automată</string>
     <string name="pref_title_choose_engine">Definiții</string>
-    <string name="pref_title_clean_alert">Curățare automată</string>
+    <string name="pref_title_clean_alert">Memento cleaner</string>
     <string name="pref_title_cleanup_white_list">Excepţii</string>
     <string name="pref_title_expand_cache_group">Afişare elemente din memoria cache</string>
     <string name="pref_title_garbage_cleanup_check_size">Limita coşului de reciclare</string>
@@ -383,7 +383,7 @@
     <string name="sponsored">Sponsorizate</string>
     <string name="start_downloading_app">A început descărcarea pentru: %1$s</string>
     <string name="start_install">Instalați acum</string>
-    <string name="summary_auto_cleaner">Curățați sistemul în mod automat la fiecare 3 zile?</string>
+    <string name="summary_auto_cleaner">Doriți să primiți o notificare de fiecare dată când coșul de gunoi atinge 100 MB?</string>
     <string name="summary_delete_apk">Ștergeți definitiv fișierele .apk selectate?</string>
     <string name="summary_delete_cache">Goliți memoria cache pentru aplicațiile selectate?</string>
     <string name="summary_delete_large_file">Ștergeți definitiv fișierele selectate?</string>
@@ -405,7 +405,7 @@
     <string name="tips_of_traffic_notification">Arată statisticile de date în ecranul de notificări</string>
     <string name="tips_of_traffic_pack_threshold">"Achiziționați date suplimentare atunci când vă apropiați de limita de utilizare"</string>
     <string name="tips_of_virus_scan">Scanați telefonul în mod regulat pentru a-l păstra în siguranță</string>
-    <string name="title_auto_cleaner">Curăţare automată?</string>
+    <string name="title_auto_cleaner">Memento curățare</string>
     <string name="title_delete_cache">Golire memorie cache aplicații</string>
     <string name="title_delete_clipboard">Conţinut clipboard</string>
     <string name="title_delete_deepclean">Ștergeți</string>

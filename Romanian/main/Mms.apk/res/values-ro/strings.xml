@@ -295,7 +295,7 @@
     <string name="multimedia_message">Mesaj multimedia</string>
     <string name="multimedia_notification">Notificare mesaj multimedia</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="mx_activate_allow_notice">Operatorul vă poate taxa pentru un SMS folosit pentru activarea Mesajelor Mi și a Mi Voice.</string>
+    <string name="mx_activate_allow_notice">Operatorul vă poate taxa pentru un SMS folosit pentru activarea serviciilor vocale și de mesagerie. De asemenea, acest serviciu trebuie să aibă acces la datele mobile pentru a funcționa în mod normal.</string>
     <string name="mx_activate_dlg_title">Activaţi Mesagerie Mi</string>
     <string name="mx_activate_dlg_title_ex">Activaţi Mesaj şi Voce Mi</string>
     <string name="mx_activate_error_malformed_info">Trebuie să reactivaţi Mesagerie Mi.</string>
@@ -308,6 +308,7 @@
     <string name="mx_activate_int_hint_malformed_info">Operatorul dvs. poate percepe taxe pentru un mesaj SMS internaţional trimis pentru a reactiva Mesagerie Mi.</string>
     <string name="mx_activate_int_hint_server">Operatorul dvs. poate percepe taxe pentru un mesaj SMS internaţional trimis pentru a reactiva Mesagerie Mi.</string>
     <string name="mx_activate_int_hint_sim_change">"Se pare că aţi schimbat cartelele SIM. Operatorul dvs. vă poate taxa pentru un mesaj SMS trimis pentru reactivarea serviciului Mesagerie Mi."</string>
+    <string name="mx_activate_network_allow_notice">Acest serviciu trebuie să aibă acces la datele mobile pentru a funcționa în mod normal.</string>
     <string name="mx_activate_status_desc_activating_now">Activare…</string>
     <string name="mx_activate_status_desc_check_net_connection">"Nu s-a putut conecta la rețea"</string>
     <string name="mx_activate_status_desc_fail">"Nu s-a putut activa Mesageria Mi"</string>

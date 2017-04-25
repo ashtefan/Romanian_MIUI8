@@ -388,6 +388,12 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="get_album_info_in_process">Obţinere informaţii album…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="grant_permission_go_and_set">Setați</string>
+    <string name="grant_permission_item">\"%s\"</string>
+    <string name="grant_permission_text">"Galeria necesită accesul la 
+%s
+ pentru a funcționa normal, atingeți Setare pentru a merge la Permisiuni."</string>
+    <string name="grant_permission_title">Permiteți accesul</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
     <string name="hidden_album_display_name">Album ascuns</string>

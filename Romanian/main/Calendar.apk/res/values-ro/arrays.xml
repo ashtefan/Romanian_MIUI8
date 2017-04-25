@@ -315,4 +315,8 @@
         <item>Pești</item>
         <item>19.02 - 20.03</item>
     </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Înainte</item>
+        <item>Înapoi</item>
+    </string-array>
 </resources>

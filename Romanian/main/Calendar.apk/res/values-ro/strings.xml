@@ -24,6 +24,9 @@
   <string name="ad_card_installing">instalare</string>
   <string name="ad_card_network_error">Nu există nicio conexiune de rețea, vă rugăm să încercați din nou mai târziu!</string>
   <string name="ad_card_spread">Publicitate</string>
+    <string name="add_anniversary">Adăugați aniversare</string>
+    <string name="add_countdown">Adăugați numărătoare inversă</string>
+    <string name="add_event">Adăugați un eveniment</string>
     <string name="agenda_today">AZI, %1$s</string>
     <string name="agenda_tomorrow">MÂINE, %1$s</string>
     <string name="agenda_view">Evenimente</string>
@@ -62,6 +65,7 @@
     <string name="button_day">Z</string>
     <string name="button_month">L</string>
     <string name="button_week">S</string>
+    <string name="calculate_result">Rezultat</string>
   <string name="calendar_network_error">Eroare de rețea</string>
     <string name="calendar_refresh">Actualizaţi</string>
     <string name="can_not_create_long_event">Numele evenimentului este prea lung</string>
@@ -108,8 +112,22 @@
   <string name="credit_event_delete_successfully">Evenimentul Plată prin card de credit a fost șters cu succes</string>
   <string name="credit_event_title">Comisionul pentru cardul de credit</string>
     <string name="daily">Zilnic</string>
+    <string name="date_calculate">Calcul date</string>
+    <string name="date_calculate_days">Introduceți numărul de zile</string>
+    <string name="date_calculate_description">Aflați ce dată este înainte sau după o anumită zi</string>
+    <string name="date_calculate_direction">Direcție</string>
+    <string name="date_calculate_result">Rezultat</string>
+    <string name="date_calculate_tab">Calcul dată</string>
+    <string name="date_calculate_today">0 zile</string>
+    <string name="date_calculate_when">Început</string>
+    <string name="date_interval_description">Aflați numărul de zile dintre 2 date</string>
+    <string name="date_interval_end">Sfârșit</string>
+    <string name="date_interval_start">De la</string>
+    <string name="date_interval_tab">Interval</string>
+    <string name="date_interval_text_to">Până la %1$s</string>
   <string name="date_pattern_mm_dd">luna M ziua d</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string name="date_today">(astăzi)</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
     <string name="default_reminder_mode">Memento-uri</string>
     <string name="delete_calendar">Dezabonare</string>
@@ -129,6 +147,10 @@
   <string name="downloaded">Descărcat</string>
   <string name="downloading">Descărcați</string>
   <string name="downloading_wallpaper">Imagine de fundal</string>
+    <string name="edit_date_calculate_days_backward_error_hint">"Nu se poate calcula înainte"</string>
+    <string name="edit_date_calculate_days_empty_hint">Introduceți numărul de zile</string>
+    <string name="edit_date_calculate_days_error_hint">Introduceți zilele până la %1$d</string>
+    <string name="edit_date_calculate_days_forward_error_hint">"Nu se poate calcula înapoi"</string>
     <string name="edit_event_all_day_label">Toată ziua</string>
     <string name="edit_event_anniversary_name_empty_hint">Introduceți numele evenimentului</string>
     <string name="edit_event_anniversary_name_hint">Eveniment</string>
@@ -264,6 +286,8 @@
     <string name="local_calendar_display_name">Calendar local</string>
     <string name="local_owner_account_name">Salvat pe telefon</string>
     <string name="lunar_date">Dată lunară</string>
+    <string name="lunar_day"/>
+    <string name="lunar_to_solar"/>
   <string name="match_ed">S-a încheiat</string>
   <string name="match_ing">În curs de desfășurare</string>
   <string name="match_not_started">nu a început</string>
@@ -335,7 +359,6 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="recommend_card_add">Abonează-te acum</string>
   <string name="recommend_card_adding">abonamentele</string>
   <string name="recommend_card_close_hint">Reduce abonamentul va recomanda similare</string>
-  <string name="recommend_card_from">de la abonamente：</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="repeat_activity_label">Repetare</string>
     <string name="repeat_custom_activity_label">Personalizat</string>
@@ -399,6 +422,11 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="show_newer_events">Atingeţi pentru a vedea evenimente după %1$s</string>
     <string name="show_older_events">Atingeţi pentru a vedea evenimente dinainte de %1$s</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
+    <string name="solar_lunar_convert_date"/>
+    <string name="solar_lunar_convert_description"/>
+    <string name="solar_lunar_convert_tab"/>
+    <string name="solar_to_lunar"/>
+    <string name="start_date_calculate">Calculare</string>
     <string name="subscribe_card">Abonați-vă acum</string>
     <string name="subscribe_card_success">Abonare cu succes! Verificați detaliile în pagina principală</string>
     <string name="subscribe_card_success_for_homepage">Abonare la "%1$s" cu succes</string>
@@ -471,6 +499,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="view_event_calendar_label">Calendar:</string>
     <string name="view_event_organizer_label">Organizator:</string>
     <string name="view_event_response_label">Participaţi?</string>
+    <string name="view_in_month_view">Vizualizare lună</string>
     <string name="week_view_today_toast">"În acest moment vizualizaţi această săptămână"</string>
     <string name="weekly">Săptămânal (în fiecare zi de %s)</string>
     <string name="when_label">Când</string>

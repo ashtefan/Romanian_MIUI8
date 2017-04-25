@@ -406,7 +406,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="block_list_qcom_dialog_content">Această acțiune va deconecta “%s” de la acest dispozitiv și îl va adăuga în Lista blocărilor</string>
     <string name="block_list_remove_dialog_content">Acest dispozitiv “%s” se va putea conecta la acest hotspot</string>
     <string name="block_list_remove_dialog_title">Eliminați “%s” din lista blocărilor</string>
-    <string name="block_list_summary">Vizualizați dispozitivele care nu au permisiunea de a se conecta la acest hotspot</string>
+    <string name="block_list_summary">"Vizualizați dispozitivele care nu au permisiunea de a se conecta la acest hotspot"</string>
     <string name="block_list_title">Lista blocărilor</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectat la profilul pentru conţinut media audio</string>
