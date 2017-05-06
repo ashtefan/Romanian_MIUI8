@@ -1714,7 +1714,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_title_addblacklist">Adăugați în lista blocărilor</string>
     <string name="st_title_addwhitelist">Adăugați la excepții</string>
     <string name="st_title_adress">Adăugați locații</string>
-    <string name="st_title_adress_num">%d selectate/string>
+    <string name="st_title_adress_num">%d selectate</string>
     <string name="st_title_anticomintcall_backsound_setting">Mesajul redat la apelurile de la numerele blocate</string>
     <string name="st_title_antispam_mode">Reguli</string>
     <string name="st_title_back_sound_busy">Ocupat</string>
