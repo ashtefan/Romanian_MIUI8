@@ -26,7 +26,8 @@
     <string name="account_setting_message_body_load_text">Doar conținutul</string>
     <string name="account_settings_action">Setări cont</string>
     <string name="account_settings_background_attachments_label">Descărcaţi ataşamentele</string>
-    <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin WLAN</string>
+    <string name="account_settings_background_attachments_summary_inter">Descărcaţi ataşamentele prin Wi-Fi</string>
     <string name="account_settings_data_usage">Setări sincronizare</string>
     <string name="account_settings_description_label">Numele contului</string>
     <string name="account_settings_edit_quick_responses_label">Răspunsuri rapide</string>
@@ -513,11 +514,12 @@ Actualizaţi acum?"</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="hint_quick_reply_all">Răspundeţi tuturor</string>
     <string name="imap_name">IMAP</string>
+    <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Parola pentru serverul de intrare este incorectă</string>
     <string name="import_button_text">Importați</string>
     <string name="import_from_other_account">Importați din alte conturi</string>
     <string name="info_actionbar_normal_detail">Promoție</string>
-    <string name="info_item_hide">Ascundeți</string>
+    <string name="info_item_hide">Ștergeți</string>
     <string name="info_switch_summary">Vedeți promoțiile deasupra mesajelor primite</string>
     <string name="info_switch_title">Promoții</string>
     <string name="inline_picture_deleted">Se descărcă imaginea ce lipsește…</string>
@@ -773,7 +775,8 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="policy_dont_allow_text_messaging">Se interzic mesaje text</string>
     <string name="policy_dont_allow_unsigned_apps">Se interzic aplicații nesemnate</string>
     <string name="policy_dont_allow_unsigned_installers">"Se interzice instalarea aplicațiilor nesemnate"</string>
-    <string name="policy_dont_allow_wifi">"Se interzice Wi-Fi"</string>
+    <string name="policy_dont_allow_wifi">"Se interzice WLAN"</string>
+    <string name="policy_dont_allow_wifi_inter">"Se interzice Wi-Fi"</string>
     <string name="policy_email_age">Se limitează numărul de e-mailuri sincronizate</string>
     <string name="policy_html_truncation">Se restricţionează dimensiunea e-mail HTML</string>
     <string name="policy_password_expiration">Setare expirare parole</string>

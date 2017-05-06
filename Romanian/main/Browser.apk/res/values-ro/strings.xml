@@ -63,11 +63,12 @@
     <string name="add_new_quicklink">Adăugaţi la pagina de pornire</string>
     <string name="add_ql_bm_title">Adăugaţi</string>
     <string name="add_quicklink_to_popular">Adăugaţi la pagina de pornire</string>
-    <string name="add_quicklinks">Adăugaţi la pagina de pornire</string>
+    <string name="add_quicklinks">Adăugaţi</string>
     <string name="add_shortcut">Adăugați o scurtătură</string>
     <string name="add_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="add_to_bookmark">La marcaje</string>
     <string name="add_to_desk">Plasaţi pe ecranul de pornire</string>
+    <string name="add_to_desk_lite_mode_toast">"Nu s-a putut adăuga la ecranul de pornire în modul Lite"</string>
     <string name="add_to_desk_success">Plasaţi pe ecranul de pornire</string>
     <string name="add_to_quicklink">Pagina de pornire</string>
     <string name="added_to_bookmarks">Marcaje</string>
@@ -85,6 +86,7 @@
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_pure">Excelent</string>
     <string name="aqi_quality_index_unhealthy">Rău</string>
+    <string name="autoSwithcingSearchEngineTips">S-a modificat motorul de căutare conform obiceiurilor dumneavoastră</string>
     <string name="autofill_keyboard_accessory_content_description">Sugestii disponibile</string>
     <string name="autofill_popup_content_description">Arată sugestii de completare automată</string>
     <string name="autologin_bar_error">Imposibil de conectat</string>
@@ -92,6 +94,7 @@
     <string name="autologin_bar_login_text">Conectare</string>
     <string name="autologin_bar_text">Conectaţi-vă ca</string>
     <string name="back_button_label">Înapoi</string>
+    <string name="back_description">Înapoi</string>
     <string name="block">Blocaţi</string>
     <string name="block_ads_choice_block">Blocaţi</string>
     <string name="block_ads_choice_continue">Continuaţi</string>
@@ -163,6 +166,7 @@
     <string name="color_picker_hue">Nuanță</string>
     <string name="color_picker_saturation">Saturaţie</string>
     <string name="comment_app_menu">Comentariu</string>
+    <string name="comment_description">Comentariu</string>
     <string name="comment_hint">Comentariu</string>
     <string name="comment_menu">Comentariu</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
@@ -312,10 +316,12 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
+  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
     <string name="fling_on_border_gesture_hint">Puteți selecta funcția acestui gest din Setări</string>
     <string name="force_quick_search_title">Căutați</string>
     <string name="force_touch_bookmark_history_title">Marcaje și istoric</string>
     <string name="force_touch_infoflow_title">Știri</string>
+    <string name="forward_description">Înainte</string>
     <string name="geolocation_permissions_prompt_dont_share">Refuzaţi</string>
     <string name="geolocation_permissions_prompt_message">%s doreşte să vă cunoască locaţia</string>
     <string name="geolocation_permissions_prompt_remember">Memoraţi preferinţele</string>
@@ -335,6 +341,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
     <string name="hint">Indiciu</string>
     <string name="history_saved_webpage">Pagini salvate</string>
+    <string name="home_description">Acasă</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_delete_card_menu">Ştergeţi</string>
     <string name="homepage_get_location">Obţineţi locaţia</string>
@@ -458,6 +465,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Cardul SD este necesar pentru a putea modifica această cale.</string>
     <string name="month_picker_dialog_title">Setaţi luna</string>
+    <string name="more_description">Meniu</string>
     <string name="more_option">Mai multe opțiuni</string>
     <string name="nav_bottom_bar_back">Înapoi</string>
     <string name="nav_bottom_bar_close_all">Închideţi tot</string>
@@ -509,6 +517,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_adblock_counts">%d blocate</string>
     <string name="pref_adblock_title">Blocare anunţuri</string>
     <string name="pref_auto_update_under_wifi">Actualizaţi utilizând Wi-Fi</string>
+    <string name="pref_automatic_matching_searchengines_title">Comutare automată a motorului de căutare conform obiceiurilor</string>
     <string name="pref_category_hint">Categorie</string>
     <string name="pref_check_security_url_summary">Trimiteţi URL-ul către serverele MI pentru a verifica dacă este sigur</string>
     <string name="pref_check_security_url_title">Verificare securitate URL</string>
@@ -610,6 +619,8 @@ Părăsiţi această pagină?"</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
     <string name="qr_code_title">Cod QR</string>
     <string name="quicklink_bookmark_save">LOCAŢIE MARCAJ</string>
+    <string name="quicklink_cannot_save_url">"Nu se poate adăuga acest URL."</string>
+    <string name="quicklink_folder_text">Aplicații de top</string>
     <string name="quicklink_not_saved">Nu s-a putut adăuga la pagina de start</string>
     <string name="quicklink_saved">Salvat pe pagina de pornire</string>
     <string name="quicklink_saved_before">Acest site web a fost adăugat</string>
@@ -727,6 +738,7 @@ Părăsiţi această pagină?"</string>
     <string name="ssl_warnings_header">Există unele probleme legate de certificatul de securitate al acestui site.</string>
     <string name="start_save_page_capture">Se salvează captura de ecran…</string>
     <string name="storage_internal">Stocare internă</string>
+    <string name="storage_permission_request_toast">Aplicația de descărcare are nevoie de acces la stocare; acordați această permisiune din Setări</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="suggest_access_appstore">Magazin Mi</string>
@@ -742,11 +754,13 @@ Părăsiţi această pagină?"</string>
     <string name="suggest_access_music">Muzică Mi</string>
     <string name="suggest_item_delete_text">Ștergeți</string>
     <string name="suggest_open_app_failed">Nu s-a putut deschide această aplicație</string>
+    <string name="switchText">DA</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
     <string name="switch_proxy_dialog_title">Fraudare rețea</string>
     <string name="tab_hotpage">News Feed</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
     <string name="tab_yellowpage">Link-uri</string>
+    <string name="tabs_description">File</string>
     <string name="tae_sdk_login_qr_icon_close"></string>
     <string name="tae_sdk_login_qr_icon_taobao"></string>
     <string name="tae_sdk_qr_login_icon_password"></string>
@@ -760,6 +774,8 @@ Părăsiţi această pagină?"</string>
     <string name="title_bar_loading">Se încarcă…</string>
     <string name="too_many_windows_dialog_message">Browser-ul nu poate deschide o filă nouă până când nu închideţi alta.</string>
     <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file deschise</string>
+    <string name="unSwitchText">NU</string>
+    <string name="undo">Anulează acțiunea</string>
     <string name="unknown_title">Necunoscut</string>
     <string name="unsecurity_url_toast">"Acest site nu este sigur"</string>
     <string name="up_to_loading_tips">Eliberați pentru a actualiza</string>

@@ -56,8 +56,8 @@
         <item quantity="one">Eliminaţi %d melodie?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Ștergeți %d melodii din Mi Cloud?</item>
-        <item quantity="one">Ștergeți %d melodie din Mi Cloud?</item>
+        <item quantity="other">Ștergeți %d melodii din Mi Cloud? Ele vor fi șterse de asemenea și din lista locală de redare</item>
+        <item quantity="one">Ștergeți %d melodie din Mi Cloud? Ea va fi ștearsă de asemenea și din lista locală de redare</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d melodii au fost adăugate în lista de redare</item>

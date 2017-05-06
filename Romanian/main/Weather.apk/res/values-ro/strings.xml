@@ -78,9 +78,19 @@
  
     <string name="daily_forecast_no_data">"Nu s-au putut obține informațiile despre starea vremii
 Glisați în jos pentru a actualiza sau verificați setările de rețea"</string>
+     <string name="data_provided_by">Date furnizate de</string>
     <string name="edit_alert_city_title">Gestionați alertele</string>
     <string name="edit_city">Gestionați locațiile</string>
     <string name="empty">" "</string>
+    <string name="feedback_heavy_rain">Ploaie torențială</string>
+    <string name="feedback_heavy_snow">Ninsoare</string>
+    <string name="feedback_light_rain">Ploaie ușoară</string>
+    <string name="feedback_overcast">Înnorat</string>
+    <string name="feedback_result_fail_no_choice">Vă rugăm selectați tipul de vreme pe care îl resimțiți</string>
+    <string name="feedback_result_interval_time_too_short">%1$s secunde după feedback</string>
+    <string name="feedback_result_success">Trimis cu succes. Vă mulțumim pentru feedback</string>
+    <string name="feedback_sand">Furtună de nisip</string>
+    <string name="feedback_sunny">Însorit</string>
     <string name="first_start_network_msg">Această aplicație trebuie să se conecteze la internet și să acceseze locația dvs. pentru a funcţiona in mod normal.</string>
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>
     <string name="global_aqi">ICA: %1$s %2$s</string>
@@ -135,8 +145,20 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="lunar_calendar"/>
     <string name="menu_add_city">Editați locațiile</string>
     <string name="menu_location">Locaţii</string>
+    <string name="menu_minute_rain">Prognoza de precipitații pentru două ore</string>
     <string name="menu_speeker">Suport vocal</string>
     <string name="mi_pad2">latte</string>
+    <string name="minute_rain_after_an_hour">Cu o oră mai târziu</string>
+    <string name="minute_rain_after_two_hour">Cu două ore mai târziu</string>
+    <string name="minute_rain_feedback_subtitle">Spune-mi doar ce vreme este</string>
+    <string name="minute_rain_feedback_text">Feedback</string>
+    <string name="minute_rain_feedback_title">"Starea vremii nu pare a fi corectă.."</string>
+    <string name="minute_rain_let_go_refresh">Reîmprospătați</string>
+    <string name="minute_rain_no_data">Nicio dată</string>
+    <string name="minute_rain_now">Acum</string>
+    <string name="minute_rain_progress_indicator_original_time">- -</string>
+    <string name="minute_rain_pull_down_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="minute_rain_refreshing_now">Reîmprospătare</string>
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
@@ -147,7 +169,13 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="open_browser">Deschideți în browser</string>
     <string name="open_now">Deschideți</string>
     <string name="other">Altele</string>
+    <string name="precipitation_degree_five">furtună</string>
+    <string name="precipitation_degree_four">torențială</string>
+    <string name="precipitation_degree_one">nu plouă</string>
+    <string name="precipitation_degree_three">moderată</string>
+    <string name="precipitation_degree_two">ușoară</string>
     <string name="pressure_connect">%1$s mb</string>
+  <string name="radar_cloud_image_title">Radar Map</string>
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
     <string name="realtime_temperature_no_data">N/A</string>
@@ -172,6 +200,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Nu s-a putut efectua captura de ecran"</string>
+    <string name="some_where_on_earth">Undeva pe Pământ</string>
     <string name="sunrise">Răsărit</string>
     <string name="sunset">Apus</string>
     <string name="temperature_unit">%1$s°C</string>

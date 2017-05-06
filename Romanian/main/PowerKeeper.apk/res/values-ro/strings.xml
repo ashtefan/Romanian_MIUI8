@@ -15,7 +15,6 @@
     <string name="alter_message_switch_mode_message">Când comutați modurile, setările anterioare nu se vor mai regăsi la această aplicație.</string>
     <string name="app_invisible_title">Aplicații invizibile</string>
     <string name="app_list_title">Selectați aplicațiile</string>
-    <string name="app_list_total">%d aplicații</string>
     <string name="app_name">Economisire acumulator</string>
     <string name="background">Aplicaţia se execută în fundal</string>
     <string name="config_description">"MIUI poate identifica aplicațiile cu procese specifice de fundal(de ex. aplicațiile de navigare și cele de mesagerie, media playere, etc.), și să aplice economisirea acumulatorului fără a le afecta activitățile importante din fundal."</string>
@@ -60,7 +59,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="mode_import">Import</string>
     <string name="mode_settings">Setări</string>
     <string name="movie">Film</string>
-    <string name="new_group_name">Mod Client</string>
+    <string name="new_group_name">Mod personalizat</string>
     <string name="no_applications">Gol</string>
     <string name="none">Niciun proces</string>
     <string name="normal">Mod Prestabilit</string>
@@ -159,7 +158,6 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="screen_off">Ecranul este oprit</string>
     <string name="screen_off_10_min">Ecranul este oprit de peste 10 minute</string>
     <string name="screen_on">Ecranul este pornit</string>
-    <string name="select_items">%d selectate</string>
     <string name="set_brightness">Luminozitate maximă a ecranului</string>
     <string name="set_cpu_powermode">Utilizare procesor</string>
     <string name="set_cpufreq_max">Frecvenţă maximă a procesorului</string>

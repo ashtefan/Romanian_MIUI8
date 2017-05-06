@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d applicații</item>
+        <item quantity="one">%d aplicație</item>
+    </plurals>
     <plurals name="power_config_ultimate_on_count">
         <item quantity="other">%1$d pași pentru activarea modului Ultimate</item>
         <item quantity="one">%1$d pas pentru activarea modului Ultimate</item>

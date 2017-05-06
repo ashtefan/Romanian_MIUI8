@@ -995,6 +995,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="sum_cfu_disabled">Dezactivat</string>
     <string name="sum_cfu_enabled">Se redirecţionează toate apelurile către {0}</string>
     <string name="sum_cfu_enabled_indicator">Se redirecţionează toate apelurile</string>
+    <string name="sum_cfu_enabled_indicator_by_sim">Toate apelurile de pe cartela SIM %s vor fi redirecționate</string>
     <string name="sum_cfu_enabled_no_number">Numărul nu este disponibil</string>
     <string name="sum_cw_disabled">Doresc să fiu notificat despre apelurile de intrare, inclusiv în timpul unui apel</string>
     <string name="sum_cw_enabled">Doresc să fiu notificat despre apelurile de intrare, inclusiv în timpul unui apel</string>
@@ -1060,6 +1061,7 @@ Următoarea perioadă începe în %4$d zile (%5$s)"</string>
     <string name="throttle_time_frame">Perioada de utilizare a datelor</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ din ciclul trecut
 Perioada următoare începe în %2$d zile (%3$s)"</string>
+    <string name="title_cfu_enabled">Redirecționarea apelurilor este activă</string>
     <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
     <string name="transport_title">Tip de transport</string>
     <string name="tty_mode_option_summary">Setaţi modul TTY</string>

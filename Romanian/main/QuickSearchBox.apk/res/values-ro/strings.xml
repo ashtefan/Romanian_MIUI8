@@ -107,6 +107,7 @@ Puteți modifica acest lucru în Setări&gt; Aplicații instalate &gt; Căutare"
     <string name="switch_application">Aplicații</string>
     <string name="switch_browser">Browser</string>
     <string name="switch_contacts">Contacte</string>
+    <string name="switch_email">E-mail</string>
     <string name="switch_file">Fișiere</string>
     <string name="switch_mms">Mesaje</string>
     <string name="switch_notes">Note</string>

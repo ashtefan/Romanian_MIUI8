@@ -51,8 +51,6 @@
     <string name="birthday_event_description_today">Astăzi este</string>
     <string name="birthday_event_description_tomorrow">Mâine este</string>
     <string name="birthday_event_description_yesterday">Ieri a fost</string>
-    <string name="birthday_metric">-ani</string>
-    <string name="birthday_notification_age_term">%1$s%2$s</string>
     <string name="birthday_notification_text_days_later">%1$s zile până la %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">"Nu uitaţi să-i urați "La Mulţi Ani!""</string>
     <string name="birthday_notification_title_days_later">"Se apropie %2$s a lui %1$s."</string>
@@ -227,6 +225,8 @@
     <string name="gadget_no_events">Niciun eveniment viitor în calendar</string>
     <string name="gadget_title">Calendar</string>
     <string name="global_action_text_card_manager">Un calendar mult mai interesant</string>
+    <string name="global_cricket_no_match">Nu există nicio competiție de cricket astăzi; puteți revizui rezultatele meciurilor anterioare sau să încercați alt meci. E un eveniment minunat ce merită așteptarea!</string>
+    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="guide_card_hint_text">Importați zilele de naștere din Agendă</string>
     <string name="hint_attendees">Invitaţi</string>
     <string name="hint_description">Descriere</string>
@@ -237,6 +237,7 @@
   <string name="horoscope_card_comprehensive">Complet:</string>
   <string name="horoscope_card_financial">Bani:</string>
   <string name="horoscope_card_love">Dragoste:</string>
+  <string name="horoscope_card_set_bazi">点击设置星座运势</string>
   <string name="horoscope_card_working">Carieră:</string>
     <string name="horoscope_select_activity_label">Selectați semnul zodiacal</string>
   <string name="huangli_bad_type">Evitaţi</string>
@@ -291,6 +292,7 @@
   <string name="match_ed">S-a încheiat</string>
   <string name="match_ing">În curs de desfășurare</string>
   <string name="match_not_started">nu a început</string>
+    <string name="match_select_activity_label">Selectați meciurile</string>
     <string name="menu_general_preferences">Setări generale</string>
     <string name="menu_preferences">Setări</string>
     <string name="menu_reminder_preferences">Setări pentru memento</string>
@@ -371,8 +373,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="repeat_end_label">Nu se mai repetă după</string>
     <string name="repeat_end_times_unit">" ori"</string>
     <string name="repeat_interval_dialog_title">În fiecare %1$s</string>
-    <string name="repeat_interval_frequency">%1$d %2$s</string>
-    <string name="repeat_interval_frequency_single">%1$s</string>
+    <string name="repeat_interval_frequency_day_single">zi</string>
+    <string name="repeat_interval_frequency_month_single">lună</string>
+    <string name="repeat_interval_frequency_week_single">săptămână</string>
+    <string name="repeat_interval_frequency_year_single">an</string>
     <string name="repeat_label_choose_day">Selectaţi ziua</string>
     <string name="repeat_label_choose_month">Selectaţi luna</string>
     <string name="repeat_label_choose_time">Selectaţi zilele din săptămână</string>

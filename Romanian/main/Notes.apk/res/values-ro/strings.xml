@@ -17,6 +17,7 @@
     <string name="app_widget">Note</string>
     <string name="call_folder_name">Note apel</string>
     <string name="cloud_trash_bin_title">Ștergeți notițele din Mi Cloud</string>
+    <string name="cta_reminder">Această aplicație trebuie să se conecteze la internet pentru a sincroniza notițele în Mi Cloud, și de asemenea să poate citi contactele pentru a eticheta notițele pe care le faceți în timpul apelurilor.</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
     <string name="dlg_btn_set_password">Setați parola</string>

@@ -37,7 +37,7 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="confirmCloseSpaceDes">"Nu veți mai putea accesa Spațiul Secundar după ce îl veți elimina. Toate datele vor fi mutate sau vor fi șterse."</string>
     <string name="confirmDelete">Eliminați</string>
     <string name="confirmSecondSpacePassword">Confirmați parola pentru Spațiul Secundar</string>
-    <string name="confirm_airspace_password">Confirmați parola pentru Spațiul pentru Servici</string>
+    <string name="confirm_airspace_password">Confirmați parola pentru %s</string>
     <string name="confirm_main_space_password">Confirmați parola pentru Spațiul Principal</string>
     <string name="confirm_restore">"Nu arăta"</string>
     <string name="contactData">Contacte</string>
@@ -53,6 +53,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="create_space_loading">Se crează Spațiul Secundar…</string>
     <string name="create_work_space">Creați Spațiul pentru Servici</string>
     <string name="creating_app_icon">Se crează pictograma…</string>
+    <string name="current_space">Spațiul curent</string>
     <string name="dataSafe">Utilizarea Spațiului Secundar este ca și cum ați avea două telefoane.</string>
     <string name="declare_dialog_title">Despre aplicațiile clonate</string>
     <string name="deleteAll">Ștergeți tot</string>
@@ -85,6 +86,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="finger_print_num">Amprenta %d</string>
     <string name="finger_print_of_use">Utilizați amprenta</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta"</string>
+    <string name="function_not_support">Nesuportat în acest spațiu de lucru</string>
     <string name="goToSecondSpacce">Mergeți în Spațiul Secundar</string>
     <string name="go_on_import">Importați</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.
@@ -217,7 +219,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="start_new_fingerprint_tips">"Utilizați amprenta pentru Spațiul secundar
 pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="start_setting_guide_desc_title">Sunt câteva lucruri de setat</string>
-    <string name="summary_switch_apps_settings">Selectați aplicațiile utilizate în Spațiul Secundar</string>
+    <string name="summary_switch_apps_settings">Selectați aplicațiile utilizate în Spațiul curent</string>
     <string name="sure_to_use">Confirmați</string>
     <string name="switchDataSummary">Mutați elemente dintr-un spațiu de lucru în altul</string>
     <string name="switch_apps_settings">Setări pentru aplicații</string>
@@ -228,12 +230,12 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="switch_file_success">Fișierele au fost mutate cu succes</string>
     <string name="switch_in_contacts">Importați contacte</string>
     <string name="switch_in_files">Importați fișiere</string>
-    <string name="switch_in_hidden_space">Importați în Spațiul Secundar</string>
+    <string name="switch_in_hidden_space">Importați în Spațiul de lucru curent</string>
     <string name="switch_in_photos">Importați fotografii</string>
     <string name="switch_in_privacy_contacts">Importați contacte private</string>
     <string name="switch_out_contacts">Exportați contacte</string>
     <string name="switch_out_files">Exportați fișiere</string>
-    <string name="switch_out_hidden_space">Exportați date din Spațiul Secundar</string>
+    <string name="switch_out_hidden_space">Exportați date din Spațiul de lucru curent</string>
     <string name="switch_out_photos">Exportați fotografii</string>
     <string name="switch_out_privacy_contacts">Exportați contacte private</string>
     <string name="switch_success">Mutate cu succes</string>

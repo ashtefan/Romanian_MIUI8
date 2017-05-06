@@ -37,6 +37,8 @@
     <string name="app_install_tips_go_to">Lansați</string>
     <string name="app_install_tips_install_success">%1$s instalată cu succes</string>
     <string name="app_name">Curățare</string>
+    <string name="app_usage_never">Neutilizată recent</string>
+    <string name="app_usage_recently">Utilizată recent</string>
     <string name="apps_sort_type_item_size">Dimensiune</string>
     <string name="apps_sort_type_item_time">Utilizate frecvent</string>
     <string name="apps_sort_type_title">Sortare</string>
@@ -175,7 +177,7 @@
     <string name="empty_title_ad">Nu s-a găsit nciun fișier inutil</string>
     <string name="empty_title_apk">Niciun pachet de instalare</string>
     <string name="empty_title_garbage_cache">Nimic de curăţat</string>
-    <string name="empty_title_garbage_white_list">Apăsați și mențineți apăsat elementele pe care doriți să le adăugați la excepții</string>
+    <string name="empty_title_garbage_white_list">Nicio excepție.</string>
     <string name="empty_title_installed_apps">Gol</string>
     <string name="empty_title_large_files">Gol</string>
     <string name="empty_title_photos">Nicio fotografie găsită</string>
@@ -280,10 +282,15 @@
     <string name="low_memory_warning_dialog_msg">Ștergeți câteva fișiere pentru a putea continua</string>
     <string name="low_memory_warning_dialog_ok_button">Curățați</string>
     <string name="low_memory_warning_dialog_title">Spațiul de stocare de pe telefon este epuizat</string>
+    <string name="main_title_filesize">%1$s gunoi</string>
     <string name="mainbtn_text_quick_cleanup">Curăţaţi %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Curățare</string>
     <string name="megabyteShort"> MB</string>
     <string name="memeory_check_content">%1$d aplicaţii, memorie %2$s</string>
+    <string name="menu_add_to_white_list">Adăugați în lista excepțiilor</string>
+    <string name="menu_clear">Goliți</string>
+    <string name="menu_install">Instalați aplicația</string>
+    <string name="menu_view">Vizualizați dosarul</string>
     <string name="month_day_format">dd MMM</string>
     <string name="msg_cleanup_db_update_checking">Verificare actualizări...</string>
     <string name="msg_cleanup_db_update_time_unknown">Ultima actualizare: necunoscută</string>

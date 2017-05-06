@@ -132,6 +132,12 @@
         <item>1980-01-08</item>
         <item>1982-01-10</item>
     </string-array>
+    <string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>Internațional</item>
+        <item>Local</item>
+        <item>Liga T20</item>
+    </string-array>
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Fundal alb</item>
@@ -171,12 +177,6 @@
         <item>lună</item>
         <item>an</item>
      </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>zile</item>
-        <item>săptămâni</item>
-        <item>luni</item>
-        <item>ani</item>
-    </string-array>
     <string-array name="repeat_choose_day">
         <item>pe întâi</item>
         <item>pe doi</item>

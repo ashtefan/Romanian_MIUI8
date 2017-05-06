@@ -162,4 +162,9 @@
         <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
+    <string-array name="minute_rain_array">
+        <item>Torențială</item>
+        <item>Moderată</item>
+        <item>Ușoară</item>
+    </string-array>
 </resources>

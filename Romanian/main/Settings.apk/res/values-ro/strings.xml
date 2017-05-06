@@ -2068,6 +2068,9 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_mi_effect_summary">Se utilizează Amplificatorul Mi Sound, atunci când se utilizează difuzorul</string>
     <string name="music_mi_effect_title">Amplificatorul Mi Sound</string>
+    <string name="music_notification_headset_custom">Revocați</string>
+    <string name="music_notification_headset_info">Atingeți pentru a vedea setările.</string>
+    <string name="music_notification_headset_settings">Căști conectate</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Căștile USB nu sunt suportate"</string>
     <string name="musicfx_title">Efecte muzicale</string>
