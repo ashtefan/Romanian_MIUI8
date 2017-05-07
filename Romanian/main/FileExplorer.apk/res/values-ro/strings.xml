@@ -433,6 +433,7 @@
     <string name="other_user_liked_topic_tip">Niciun subiect</string>
     <string name="other_user_no_follow_tip">"Nu ați urmărit pe nimeni până acum."</string>
     <string name="other_user_no_liked_video_tip">Niciun videoclip apreciat.</string>
+    <string name="overwrite_msg">\"%s\" există deja. Atingeți pentru a înlocui cu noul fișier.</string>
     <string name="partial_cancel_successful">"Nu s-au putut elimina unele fișiere. Restul au fost mutate în %s."</string>
     <string name="partial_delete_failure">"Nu s-au putut șterge unele fișiere; reîncercați"</string>
     <string name="partial_encrypt_success">"Nu s-au putut ascunde unele fișiere; reîncercați"</string>
@@ -608,6 +609,7 @@
     <string name="shortcut_exists">Scurtătura există deja</string>
     <string name="shortcut_hotvideos">Videoclipuri populare</string>
     <string name="shortcut_msg">Adăugați o scurtătură pe ecranul principal pentru videoclipurile populare</string>
+    <string name="skip_file">Omiteți</string>
     <string name="smb_loading">Doar o secundă…</string>
     <string name="sort_size_asc">De la mic la mare</string>
     <string name="sort_size_desc">De la mare la mic</string>
@@ -710,7 +712,7 @@
     <string name="user_guide_continue_use">OK</string>
     <string name="user_guide_more_login">Alte modalități de conectare</string>
     <string name="user_icon">Fotografie de profil</string>
-    <string name="user_id_tip">ID: </string>
+    <string name="user_id_tip">ID: %1$s</string>
     <string name="user_info_setting">Editați informațiile</string>
     <string name="user_liked_video_title">Videoclipurile la care am dat like</string>
     <string name="user_login_dialog_cancle">Renunțare</string>

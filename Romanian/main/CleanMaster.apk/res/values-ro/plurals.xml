@@ -101,4 +101,7 @@
         <item quantity="other">"Nu a fost utilizată de %d ani"</item>
         <item quantity="one">"Nu a fost utilizată de %d an"</item>
     </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplicații nu au fost utilizate de mult timp; aruncați o privire."&lt;/Data></item>
+    </plurals>
 </resources>

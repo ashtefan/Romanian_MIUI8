@@ -214,6 +214,16 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
     <string name="app_version">Versiune</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="applock_add_account">Adăugați</string>
+    <string name="applock_add_account_info">"Adăugați contul Mi pentru a vă putea reseta parola
+în caz că o veți uita"</string>
+    <string name="applock_add_account_setting">Cont și confidențialitate</string>
+    <string name="applock_close_dialog_summary">Aplicațiile nu vor mai fi protejate iar parola va fi ștearsă după ce veți dezactiva Blocarea aplicațiilor.</string>
+    <string name="applock_close_dialog_title">Dezactivați Blocarea aplicațiilor?</string>
+    <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>
+    <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
+    <string name="applock_not_add_account">Nu acum</string>
+    <string name="applock_not_login_account">"Nu sunteți conectat"</string>
     <string name="apps_item_sign_dialog_content">"Semnătura %s este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației."</string>
     <string name="apps_item_sign_dialog_title">Instalați versiunea oficială a aplicației</string>
     <string name="apps_item_sign_install_button_text">Înlocuiți</string>
@@ -904,7 +914,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="main_daily_package">Plan de date zilnic</string>
     <string name="main_leisure_remained">Trafic de date rămas</string>
     <string name="main_month_total_used">Utilizat în luna aceasta</string>
-    <string name="main_month_used">Utilizat în luna aceasta</string>
+    <string name="main_month_used">Plan de date</string>
     <string name="main_no_info">Nu există date</string>
     <string name="main_normal_data_usage">Date mobile utilizate</string>
     <string name="main_open_traffic_ctrl_button">Restricționați utilizarea datelor</string>

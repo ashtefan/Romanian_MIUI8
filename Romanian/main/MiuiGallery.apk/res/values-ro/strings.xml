@@ -101,8 +101,8 @@
     <string name="auto_upload_before_share_message">Acest album trebuie salvat în MiCloud înainte de a fi partajat</string>
     <string name="auto_upload_before_share_title">Sugestie</string>
     <string name="auto_upload_disable_tip">Sincronizarea cu Mi Cloud este dezactivată</string>
-    <string name="auto_upload_disable_toast_long_press_menu">Sincronizarea cu Mi Cloud este dezactivată; mergeți la alte albume pentru a vizualiza</string>
-    <string name="auto_upload_enable_toast_long_press_menu">Sincronizarea cu Mi Cloud este activată; mergeți la Albume pentru a vizualiza</string>
+    <string name="auto_upload_disable_toast_long_press_menu">Sincronizarea cu Mi Cloud este dezactivată</string>
+    <string name="auto_upload_enable_toast_long_press_menu">Sincronizarea cu Mi Cloud este activată</string>
     <string name="baby_album">Albumele copiilor</string>
     <string name="baby_album_change_background">Modificați imaginea de fundal</string>
     <string name="baby_album_needs_auto_backup_tip">Nu se poate dezactiva salvarea automată a albumului copilului</string>
@@ -282,7 +282,7 @@
     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
     <string name="detail_ms">%1$02d:%2$02d</string>
     <string name="detail_title">Informații detaliate</string>
-    <string name="disable_auto_upload_tip">"Fotografiile recente și cele șterse nu vor fi sincronizate în Mi Cloud. Acest album va fi mutat în \"Alte albume\"."</string>
+    <string name="disable_auto_upload_tip">Dezactivați sincronizarea în MiCloud pentru acest album?</string>
     <string name="disable_auto_upload_title">Dezactivați sincronizarea cu Mi Cloud</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="doodle">Mâzgălitură</string>
@@ -306,7 +306,7 @@
     <string name="empty_recommend_back">Înapoi</string>
     <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
     <string name="empty_relation">"Numele grupului nu poate fi necompletat"</string>
-    <string name="enable_auto_upload_tip">Acest album va fi eliminat din  \"Alte albume\" după activare.</string>
+    <string name="enable_auto_upload_tip">Activați sincronizarea cu MiCloud pentru acest album?</string>
     <string name="enable_auto_upload_title">Activați sincronizarea cu Mi Cloud</string>
     <string name="enable_cloud_for_sharing">Activați albumele Mi Cloud pentru a vedea fotografiile partajate.</string>
     <string name="enable_face_album_summary">Sortați în mod automat fotografiile în funcție de persoanele pe care le conțin</string>
@@ -480,7 +480,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="more_album_hint">, etc.</string>
     <string name="more_face">Mai multe persoane care seamănă</string>
     <string name="more_face_album_name">Mai multe persoane</string>
-    <string name="move_to_other_albums_tip">Sincronizarea cu Mi Cloud va fi oprită dacă veți muta acest album în lista Alte albume. Îl mutați acum?</string>
+    <string name="move_to_other_albums_tip">Mutați acest album în Alte albume?</string>
     <string name="must_pick_file">Selectaţi o fotografie</string>
     <string name="name_split">, </string>
     <string name="need_to_turn_on_network">Nu aveţi o conexiune la internet</string>
@@ -605,7 +605,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="remove_from_album_message">Această fotografie nu va mai fi afișată aici</string>
     <string name="remove_from_album_title">Eliminați din acest album</string>
     <string name="remove_from_current_album">Eliminați din acest album</string>
-    <string name="remove_from_other_albums_tip">Porniți sincronizarea cu Mi Cloud pentru a muta elemente din Alte albume. Mutați acum?</string>
+    <string name="remove_from_other_albums_tip">Mutați acest album din Alte albume?</string>
     <string name="remove_from_secret_fail">"Nu s-a putut elimina din albumul secret"</string>
     <string name="remove_from_secret_failed_with_reason">"Nu se poate elimina din albumul secret. %1$s."</string>
     <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elemente nu au putut fi eliminate din albumul secret. %1$s."</string>
@@ -702,6 +702,8 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="share_with_family">Partajați cu cei din familie</string>
     <string name="sharer_quota_fulfiled">Aţi distribuit deja acest album unui număr maxim de persoane.</string>
     <string name="show_hidden_album_title">Arată albumele secrete</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Mutat cu succes. Mergeți la Alte albume pentru a-l vedea</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Mutat cu succes. Mergeți la Albume pentru a-l vedea</string>
     <string name="slideshow_interval_dialog_title">Introduceți intervalul</string>
     <string name="slideshow_interval_invalid">Intervalul trebuie să fie cuprins între 1 şi 3600 secunde</string>
     <string name="slideshow_interval_title">Arată fiecare imagine timp de</string>

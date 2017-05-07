@@ -181,6 +181,7 @@
     <string name="allow_check_website_security">Arată notificări despre verificarea securității site-urilor</string>
     <string name="app_details">Aplicația:</string>
     <string name="app_name">Scaner</string>
+    <string name="back">Înapoi</string>
     <string name="barcode_into_rectangle">Plasați codul în interiorul cadrului</string>
     <string name="birthday">Zi de naștere:</string>
     <string name="camera_error_title">Eroare de cameră</string>
@@ -372,6 +373,7 @@
     <string name="view_study_report">Vizualizați raportul</string>
     <string name="web">Site:</string>
     <string name="website_details">Website:</string>
+    <string name="weixin_code_tip">Utilizați WeChat pentru a scana acest cod QR</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_open_fail">"Nu se poate activa Wi-Fi-ul"</string>
     <string name="wifi_pwd">Parola:</string>

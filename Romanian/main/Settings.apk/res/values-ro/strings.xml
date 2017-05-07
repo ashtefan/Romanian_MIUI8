@@ -2244,7 +2244,15 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="page_layout_page2_title">Previzualizaţi</string>
     <string name="page_layout_small_title">Foarte mic</string>
     <string name="palm_enabled">Acoperiți ecranul pentru a o dezactiva</string>
+    <string name="paper_mode_auto_twilight_summary">comutare mod lectură în funcție de perioada din zi</string>
+    <string name="paper_mode_auto_twilight_title">Mod crepuscular</string>
+    <string name="paper_mode_customize_time_summary">comutare personalizată mod lectură</string>
+    <string name="paper_mode_customize_time_title">interval personalizate</string>
     <string name="paper_mode_end_time_title">Oră sfârșit</string>
+    <string name="paper_mode_get_location_dlg_msg">Obținerea precisă a orelor de răsărit și apus necesită localizarea în funcție de rețea; accesați setările de localizare?</string>
+    <string name="paper_mode_get_location_dlg_negative_btn_text">Renunțați</string>
+    <string name="paper_mode_get_location_dlg_positive_btn_text">Setări</string>
+    <string name="paper_mode_get_location_dlg_title">Setare locație</string>
     <string name="paper_mode_start_time_title">Oră de început</string>
     <string name="passwordIncorrect">Parola introdusă este incorectă</string>
     <string name="password_entrance_title">Blocare ecran</string>
@@ -2416,6 +2424,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="privacy_password_settings_titles_second_space">Parola de protecție a confidențialității vă protejează mesajele, fotografiile și notițele.</string>
     <string name="privacy_password_title">Parola de protejare a confidențialității</string>
     <string name="privacy_password_transparent_tiltle"/>
+    <string name="privacy_password_use_finger_dialog_mess">Puteți utiliza de asemenea amprenta cu parola de protecție a confidențialității.</string>
+    <string name="privacy_password_use_finger_dialog_open">Setări</string>
+    <string name="privacy_password_use_finger_dialog_title">Deblocare cu amprentă</string>
+    <string name="privacy_password_use_finger_success">Activat</string>
     <string name="privacy_password_visible_pattern">Arată modelul de deblocare</string>
     <string name="privacy_protect_title">Protecţie confidențialitate</string>
     <string name="privacy_relative">Legate de confidențialitate</string>
@@ -2647,7 +2659,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_button_tips">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
     <string name="screen_cells_config_title">Dispunerea Ecranului principal</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
-    <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Citire"</string>
+    <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Lectură"</string>
     <string name="screen_color_temperature">Temperatură</string>
     <string name="screen_color_temperature_and_saturation">Temperatură de culoare şi saturaţie</string>
     <string name="screen_compatibility_label">Compatibilitate ecran</string>
@@ -2684,7 +2696,8 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_paper_mode_range_title">Setări</string>
     <string name="screen_paper_mode_set_apps_title">Aplicaţiile modului lectură</string>
     <string name="screen_paper_mode_summary">Se reduc reflexiile ecranului</string>
-    <string name="screen_paper_mode_time_title">Programat</string>
+    <string name="screen_paper_mode_time_summary">comutare mod lectură în funcție de intervalul setat</string>
+    <string name="screen_paper_mode_time_title">Program personalizat</string>
     <string name="screen_paper_mode_title">Mod lectură</string>
     <string name="screen_paper_mode_turn_off">Oprit</string>
     <string name="screen_paper_mode_turn_on">Pornit</string>

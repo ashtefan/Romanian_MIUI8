@@ -5,6 +5,7 @@
     <string name="cal_convert_to_word_figure">Convertiți în caractere financiare</string>
     <string name="cal_copy">Copiați</string>
     <string name="cal_edit_mode">Mod editare</string>
+    <string name="cal_paste">Lipiți</string>
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Text copiat</string>
     <string name="choose_currency">Selectați moneda</string>
@@ -32,6 +33,7 @@
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">zi</string>
     <string name="del">DEL</string>
+    <string name="deleteDesc">ștergeți</string>
     <string name="devided_by_zero_reminder_message">"Nu se poate împărți la zero"</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
@@ -109,6 +111,7 @@
     <string name="loan_pay_years">Perioada creditului</string>
   <string name="loan_payback_way">Rambursare</string>
     <string name="loan_unit">×10K</string>
+    <string name="menuDesc">meniu</string>
     <string name="minus">−</string>
     <string name="minusDesc">minus</string>
     <string name="month"/>
@@ -148,6 +151,7 @@
     <string name="mulDesc">înmulţire</string>
     <string name="network_confirm_content">"Convertorul valutar și calculatorul de taxe și credit trebuie să poată utiliza conexiunea la internet și serviciul de localizare a telefonului pentru a funcționa în mod normal."</string>
     <string name="network_confirm_title">Este necesară acordarea unor permisiuni</string>
+    <string name="percentDesc">procent</string>
     <string name="percentage">%</string>
     <string name="pi">π</string>
     <string name="piDesc">pi</string>
@@ -177,6 +181,7 @@
     <string name="rate_data_provider">Ratele dobânzilor sunt furnizate de către hexun.com</string>
     <string name="rightParen">)</string>
     <string name="rightParenDesc">paranteză dreapta</string>
+    <string name="settingsDesc">setări</string>
     <string name="sin">sin</string>
     <string name="sinDesc">sinus</string>
     <string name="social_security"/>

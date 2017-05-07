@@ -724,6 +724,8 @@ Părăsiţi această pagină?"</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="snapshot_failed">Nu s-a putut salva pentru citire offline</string>
     <string name="snapshot_successed">Salvare pentru lectură offline</string>
+    <string name="ssl_bad_clock_date_settings">Setare dată</string>
+    <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>
     <string name="ssl_certificate_is_valid">Acest certificat este valabil.</string>
     <string name="ssl_continue">Continuaţi</string>

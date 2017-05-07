@@ -46,6 +46,7 @@
     <string name="aqi_detail_subtitle">ICA %1$s</string>
     <string name="aqi_detail_title">Indicele de Calitate a Aerului</string>
     <string name="aqi_detail_unit">Unitatea de măsură: µg/m3 (CO:mg/m3)</string>
+  <string name="aqi_display_exp">exp_%1$s</string>
     <string name="aqi_publish_source">Actualizat la %1$s de CNEMC</string>
     <string name="aqi_publish_time">Actualizat la %1$s</string>
     <string name="aqi_short_desc">ICA %1$s</string>
@@ -97,6 +98,9 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="gps_hint">Locaţie actuală</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Acum</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+    <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title">Prognoză orară</string>
     <string name="index_item_experience_now">Instalați acum</string>
     <string name="index_item_install_dialog"/>
@@ -219,8 +223,10 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="tts_report_city_name"/>
     <string name="tts_report_defautl_head"/>
     <string name="tts_report_split"/>
-    <string name="tts_report_temperature_high"/>
-    <string name="tts_report_temperature_low"/>
+    <string name="tts_report_temperature_high_centigrade"/>
+    <string name="tts_report_temperature_high_fahrenheit"/>
+    <string name="tts_report_temperature_low_centigrade"/>
+    <string name="tts_report_temperature_low_fahrenheit"/>
     <string name="tts_report_weather_desc"/>
     <string name="tts_report_wind"/>
     <string name="twc_logo_title"/>

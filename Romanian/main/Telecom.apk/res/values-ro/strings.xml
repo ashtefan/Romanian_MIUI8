@@ -9,6 +9,7 @@
     <string name="incall_error_call_failed">"Nu s-a putut efectua apelul."</string>
     <string name="no_vm_number">Lipsește numărul mesageriei vocale</string>
     <string name="no_vm_number_msg">Nu există niciun număr al mesageriei vocale pe cartela SIM.</string>
+    <string name="notification_AllMissedCallTitle">Toate apelurile pierdute</string>
     <string name="notification_missedCallTicker">Apel ratat de la %s</string>
     <string name="notification_missedCallTitle">Apel ratat</string>
     <string name="notification_missedCall_call_back">Sunați înapoi</string>
