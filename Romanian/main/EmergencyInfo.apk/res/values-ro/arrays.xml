@@ -88,66 +88,66 @@
         <item>Animație la scara 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Niciunul</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (securizat)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (securizat)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (securizat)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (securizat)</item>
+        <item>4K (scalat)</item>
+        <item>4K (scalat, securizat)</item>
+        <item>720p, 1080p (ecran dual)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Niciunul</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
     </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Dezactivat</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
      <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
+        <item>Dezactivat</item>
+        <item>Pe ecran ca bare</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
      <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Dezactivat</item>
         <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Arată zonele cu deuteranomalie</item>
     </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Limita standard</item>
+        <item>Niciun proces în fundal</item>
+        <item>Cel mult un proces</item>
+        <item>Cel mult 2 procese</item>
+        <item>Cel mult 3 procese</item>
+        <item>Cel mult 4 procese</item>
     </string-array>
      <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>Încărcare</item>
+        <item>MTP (Protocol transfer media)</item>
+        <item>PTP (Protocol transfer imagini)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Sursă audio</item>
         <item>MIDI</item>
     </string-array>
       <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Foarte lent</item>
+        <item>Lent</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
         <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Mai rapid</item>
+        <item>Foarte rapid</item>
+        <item>Rapid</item>
+        <item>Foarte rapid</item>
+        <item>Cel mai rapid</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -157,28 +157,19 @@
         <item>Este es un ejemplo de síntesis de voz en español.</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (default)</item>
         <item>Natural</item>
         <item>Standard</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Culori aprinse</item>
+        <item>Culori naturale așa cum sunt văzute de către ochi</item>
+        <item>Culori optimizate pentru conținut digital</item>
     </string-array>
     <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
-           </string-array>
 </resources>
