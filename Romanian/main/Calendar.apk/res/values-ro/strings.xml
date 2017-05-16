@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_add_attendee">Adăugaţi un participant</string>
     <string name="accessibility_all_day">Eveniment cotidian</string>
@@ -83,6 +83,9 @@
     <string name="change_response_title">Modificaţi răspunsul</string>
   <string name="check_reminded_text">Vezi memento-uri</string>
   <string name="chinese_leap">Intercalare</string>
+    <string name="chips_action_cancel">Renunțați</string>
+    <string name="chips_action_copy">Copiați</string>
+    <string name="chips_permission_text">Permiteți sugestia de persoane din agendă</string>
   <string name="chongsha">Fantome</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
@@ -146,6 +149,7 @@
   <string name="downloaded">Descărcat</string>
   <string name="downloading">Descărcați</string>
   <string name="downloading_wallpaper">Imagine de fundal</string>
+    <string name="dropdown_delete_button_desc">Eliminați %s din lista de destinatari</string>
     <string name="edit_date_calculate_days_backward_error_hint">"Nu se poate calcula înainte"</string>
     <string name="edit_date_calculate_days_empty_hint">Introduceți numărul de zile</string>
     <string name="edit_date_calculate_days_error_hint">Introduceți zilele până la %1$d</string>
@@ -301,24 +305,24 @@
     <string name="modify_all">Modificaţi toate evenimentele din serie</string>
     <string name="modify_all_following">Modificaţi acest eveniment şi pe cele viitoare.</string>
     <string name="modify_event">Modificaţi doar acest eveniment</string>
-    <string name="month_medium_april">Apr.</string>
-    <string name="month_medium_august">Aug.</string>
-    <string name="month_medium_december">Dec.</string>
-    <string name="month_medium_february">Febr.</string>
-    <string name="month_medium_january">Ian.</string>
-    <string name="month_medium_july">Iul.</string>
-    <string name="month_medium_june">Iun.</string>
-    <string name="month_medium_march">Mar.</string>
+    <string name="month_medium_april">Apr</string>
+    <string name="month_medium_august">Aug</string>
+    <string name="month_medium_december">Dec</string>
+    <string name="month_medium_february">Febr</string>
+    <string name="month_medium_january">Ian</string>
+    <string name="month_medium_july">Iul</string>
+    <string name="month_medium_june">Iun</string>
+    <string name="month_medium_march">Mar</string>
     <string name="month_medium_may">Mai</string>
-    <string name="month_medium_november">Noi.</string>
-    <string name="month_medium_october">Oct.</string>
-    <string name="month_medium_september">Sept.</string>
+    <string name="month_medium_november">Noi</string>
+    <string name="month_medium_october">Oct</string>
+    <string name="month_medium_september">Sept</string>
     <string name="month_view">Lună</string>
     <string name="monthly">Lunar</string>
     <string name="monthly_on_day">Lunar (în aceeași zi)</string>
     <string name="monthly_on_day_count">Lunar (%1$s zi de %2$s)</string>
   <string name="more_match">Mai multe evenimente</string>
-    <string name="more_string">+%1$s</string>
+    <string name="more_string">+%1$d</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="new_event_dialog_label">Eveniment nou</string>
     <string name="new_event_dialog_option">Eveniment nou</string>
@@ -329,7 +333,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="no_title_label">(Fără titlu)</string>
     <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont pentru a continua.</string>
     <string name="no_visiable_calendar_select_account">Selectare cont</string>
-    <string name="no_visiable_calendar_title">Setare Cont Calendar</string>
+    <string name="no_visiable_calendar_title">Selectați un cont pentru Calendar</string>
     <string name="not_synced">nesincronizat</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>
@@ -422,7 +426,6 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="setting_title_recommend_card_display">Afișaj Abonare recomandate</string>
   <string name="setting_title_yiji_display">Almanac spectacol Taboo</string>
   <string name="setting_toast_dump_mylog_done">Construi reușește, jurnal în managerul de fișiere\"telefon/MIUI/debug_log/com.android.calendar/dump\"Dosar</string>
-    <string name="settings_calendar">Calendar</string>
     <string name="show_day_view">Afişaţi ziua</string>
     <string name="show_newer_events">Atingeţi pentru a vedea evenimente după %1$s</string>
     <string name="show_older_events">Atingeţi pentru a vedea evenimente dinainte de %1$s</string>

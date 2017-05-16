@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_label">Managerul de descărcare</string>
     <string name="auto_restart_under_wifi">Acest fişier se va descărca automat prin Wi-Fi</string>
@@ -55,7 +55,7 @@
     <string name="permlab_downloadManager">Accesare manager de descărcare</string>
     <string name="permlab_downloadManagerAdvanced">Funcţii avansate ale managerului de descărcare</string>
     <string name="permlab_downloadWithoutNotification">Descărcare fişiere fără notificare</string>
-    <string name="permlab_seeAllExternal">Vizualizare desc. pe cardul SD</string>
+    <string name="permlab_seeAllExternal">Vizualizare desc. pe stocarea USB</string>
     <string name="privacy_notif_content">Atingeţi pentru a vizualiza detaliile.</string>
     <string name="privacy_notif_title">Accelerator Xunlei activat</string>
     <string name="privacy_tip_cancel">Anulaţi</string>

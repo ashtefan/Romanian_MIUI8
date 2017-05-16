@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_denied">Acces refuzat</string>
     <string name="account">Cont</string>
@@ -204,7 +204,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_dialog_sync_now_negative">Nu acum</string>
     <string name="micloud_dialog_sync_now_positive">Utilizare date mobile</string>
     <string name="micloud_dialog_sync_now_title">Conectați-vă la Wi-Fi pentru a sincroniza datele</string>
-    <string name="micloud_dspt">" Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul"</string>
+    <string name="micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul,</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_find_device_finish">Realizat</string>
     <string name="micloud_find_device_guide_button">Activați localizarea dispozitivului pe telefon</string>
@@ -400,7 +400,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="mx_dspt_provision_with_voip2">Politica de Confidențialitate</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
     <string name="mx_sub_dspt_provision_with_voip">Apelare prin internet</string>
-    <string name="mx_voip_dspt">>Mi Voice</string>
+    <string name="mx_voip_dspt">Mi Voice</string>
     <string name="network_unconnected">"Nu s-a putut conecta la rețea"</string>
     <string name="next">Înainte</string>
     <string name="noRemind">Nu-mi reaminti</string>

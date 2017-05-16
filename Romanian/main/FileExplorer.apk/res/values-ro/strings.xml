@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="a_week_share_rank">Evaluări săptămânale</string>
     <string name="action_mode_deselect_all">Deselectaţi tot</string>
@@ -14,7 +14,7 @@
     <string name="album_name">Selecția zilnică: %s</string>
     <string name="all_topic">Toate subiectele</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
-    <string name="app_name">Explorer fişiere</string>
+    <string name="app_name">Explorator fişiere</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Cameră</string>
     <string name="app_name_downloadedrom">Pachete</string>
@@ -443,7 +443,7 @@
     <string name="path_kuai_chuan">Transferuri de fișiere între dispozitive</string>
     <string name="path_recent_file">Gestionați fișierele de pe telefon</string>
     <string name="petabyteShort">PB</string>
-    <string name="phone">Telefon</string>
+    <string name="phone">Stocare internă</string>
     <string name="phone_bind_skip">Omiteți</string>
     <string name="phone_bind_tip">Adăugați numărul de telefon pentru a participa la evaluări și pentru a câștiga premii</string>
     <string name="phone_bind_title">Adăugați numărul de telefon</string>
@@ -501,9 +501,9 @@
     <string name="recommend_user">Profiluri recomandate</string>
     <string name="recommend_users">%1$s+</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
-    <string name="rename_alert">Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi.</string>
+    <string name="rename_alert">"Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi."</string>
     <string name="rename_alert2">Fișierul nu va mai fi vizibil.</string>
-    <string name="rename_failed">Nu se poate redenumi %1$s</string>
+    <string name="rename_failed">"Nu se poate redenumi %1$s"</string>
     <string name="repair_done">Restaurate</string>
     <string name="repair_error">"Nu s-au putut restaura"</string>
     <string name="repair_file">Restaurați fișierele criptate</string>
@@ -786,7 +786,7 @@
     <string name="video_recommend_upload">Recomandat</string>
     <string name="video_status_reject">Respins</string>
     <string name="video_status_review">În curs de revizuire</string>
-    <string name="video_tag">\#%s#</string>
+    <string name="video_tag">\# %s #</string>
     <string name="video_tag_search_hint">Personalizați conținutul</string>
     <string name="video_tag_search_lead">\#</string>
     <string name="video_tag_search_title">Selectați conținutul</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add_alarm">Adăugaţi o alarmă</string>
     <string name="alarm_alert_alert_silenced">Alarmă oprită după %d minute.</string>
@@ -62,7 +62,7 @@
     <string name="label">Setaţi o etichetă</string>
     <string name="label_pref_summary">Etichetă</string>
     <string name="lap">Circuit</string>
-    <string name="lap_num">circuit</string>
+    <string name="lap_num">Circuit</string>
     <string name="legal_off_day">Zile nelucrătoare legale</string>
     <string name="legal_off_day_message">" (Alarmă oprită în zilele lucrătoare)"</string>
     <string name="legal_workday">Zile de lucru legale</string>

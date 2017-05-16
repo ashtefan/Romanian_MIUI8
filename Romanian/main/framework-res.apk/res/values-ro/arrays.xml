@@ -37,11 +37,20 @@
         <item>Altele</item>
         <item>Personalizat</item>
     </string-array>
-    <string-array name="imAddressTypes">
-        <item>Domiciliu</item>
-        <item>Serviciu</item>
-        <item>Altele</item>
-        <item>Personalizat</item>
+    <string-array name="app_ops_labels">
+        <item>Încearcă să activeze Wi-Fi-ul</item>
+        <item>Încearcă să activeze BT</item>
+    </string-array>
+
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului activarea serviciului. Apoi reactivați apelarea prin Wi-Fi din Setări.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Înregistrați-vă cu operatorul dvs.</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s apelare prin Wi-Fi</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Încercați din nou</item>
@@ -69,7 +78,13 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>Mutați degetul încet</item>
+        <item>Mișcați degetul încet</item>
         <item>Această amprentă a fost adăugată, folosiți alt deget</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Domiciliu</item>
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
     </string-array>
 </resources>

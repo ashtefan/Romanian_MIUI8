@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="SMTP_independent_verification_text">Verificare independentă SMTP</string>
     <string name="SMTP_password_text">Parolă</string>
@@ -18,8 +18,8 @@
           unele caracteristici de securitate ale dispozitivului dvs. Android."</string>
     <string name="account_security_title">Securitatea dispozitivului</string>
     <string name="account_set_up_change_type_note">Dacă aveți nevoie să comutaţi între setările POP3 și IMAP, ștergeţi contul și creaţi unul nou cu setările dorite.</string>
-  <string name="account_setting">Setările contului</string>
-  <string name="account_setting_keywords">Conturi de poștă electronică; conturi de e-mail; e-mail prin setările contului de e-mail; Setările contului de e-mail;mail accounts</string>
+    <string name="account_setting">Conturi</string>
+    <string name="account_setting_keywords">Conturi;Conturi de poștă electronică; conturi de e-mail</string>
     <string name="account_setting_message_body_load_complete">E-mailul complet</string>
     <string name="account_setting_message_body_load_head_abstract">Sumarul e-mailului</string>
     <string name="account_setting_message_body_load_head_only">Doar titlul</string>
@@ -205,7 +205,7 @@ Actualizaţi acum?"</string>
     <string name="auto_advance_summary">Alegeți la ce mesaj se derulează după ștergerea unui e-mail</string>
     <string name="auto_mail_describe">Configurarea automată a serviciului de e-mail 139 vă poate ajuta să completați datele de conectare ale căsuței de e-mail. Doriți să activați această caracteristică?</string>
     <string name="auto_mail_disable_txt">Dezactivată</string>
-  <string name="auto_mail_enable_txt">Start Settings</string>
+    <string name="auto_mail_enable_txt">Setări start</string>
     <string name="auto_mail_go_email">Căsuță de e-mail</string>
     <string name="auto_mail_name">AutoMail</string>
     <string name="auto_mail_title_note">Găsiți opțiunea \"Configurare automată a căsuței de e-mail 139\", și atingeți pentru a porni.</string>
@@ -272,10 +272,10 @@ Actualizaţi acum?"</string>
     <string name="config_cancel">Renunțați</string>
     <string name="config_retry">Reîncercați</string>
     <string name="confirm">OK</string>
-  <string name="confirm_before_delete">Confirmați înainte de a șterge</string>
-  <string name="confirm_before_delete_keywords">confirmați înainte de a șterge;confirmați ștergerea</string>
-  <string name="confirm_before_send">Confirmați înainte de a trimite</string>
-  <string name="confirm_before_send_keywords">confirmați înainte de a trimite;confirmați trimiterea</string>
+    <string name="confirm_before_delete">Confirmați înainte de a șterge</string>
+    <string name="confirm_before_delete_keywords">confirmați înainte de a șterge;confirmați ștergerea</string>
+    <string name="confirm_before_send">Confirmați înainte de a trimite</string>
+    <string name="confirm_before_send_keywords">confirmați înainte de a trimite;confirmați trimiterea</string>
     <string name="confirm_delete_conversation_title">Ştergeţi</string>
     <string name="confirm_discard_text">Renunţaţi la acest mesaj?</string>
     <string name="confirm_response">Trimitere…</string>
@@ -324,8 +324,8 @@ Actualizaţi acum?"</string>
     <string name="conversation_quick_button_approve">OK</string>
     <string name="conversation_quick_button_disapprove">Renunțați</string>
     <string name="conversation_quick_button_received">Primite</string>
-  <string name="conversation_view">sesiunea de afișare</string>
-  <string name="conversation_view_keywords">vizualizare conversații;vizualizare e-mailuri</string>
+    <string name="conversation_view">Vizualizare conversație</string>
+    <string name="conversation_view_keywords">vizualizare conversații;vizualizare e-mailuri</string>
     <string name="copied">Copiat</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
@@ -344,8 +344,8 @@ Actualizaţi acum?"</string>
     <string name="default_signature">Trimis de pe Mi</string>
     <string name="del_account_questionnair_hint">"Ne puteți spune de ce ștergeți acest cont?"</string>
     <string name="delete">Ştergeţi</string>
-  <string name="delete_message_flow">sări în mod automat</string>
-  <string name="delete_message_flow_keywords">ștergeți fluxul de mesaje;delete redirect</string>
+    <string name="delete_message_flow">Ștergere flux de mesaje</string>
+    <string name="delete_message_flow_keywords">ștergere flux de mesaje;delete redirect</string>
     <string name="deleted">Ştearsă</string>
     <string name="device_activity_btn_str">Activare</string>
     <string name="device_activity_lint_str">Activați serviciile de e-mail și activaţi setările de securitate</string>
@@ -506,7 +506,7 @@ Actualizaţi acum?"</string>
     <string name="header_category_other">Feedback</string>
     <string name="header_label_general_preferences">Generale</string>
     <string name="help_and_info">Ajutor</string>
-  <string name="help_config">Configurare automată?</string>
+    <string name="help_config">Configurare automată</string>
     <string name="hide_atts_remaining">Ascundeţi %1$d ataşamente</string>
     <string name="hide_elided">▼ Ascundeți textul citat</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -890,6 +890,10 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="reply_all">Răs. tuturor</string>
     <string name="reply_attribution" formatted="false">Pe %s, %s a scris:</string>
     <string name="report_phishing">Raportaţi phishing</string>
+    <string name="report_rendering_improvement">Arată bine</string>
+    <string name="report_rendering_improvement_desc">Acest mesaj arată bine.</string>
+    <string name="report_rendering_problem">Arată rău</string>
+    <string name="report_rendering_problem_desc">Acest mesaj arată rău.</string>
     <string name="report_spam">Raportaţi ca spam</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="request_permission_activity">Solicitare permisiune</string>
@@ -922,8 +926,8 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="select_no_file">Niciun ataşament selectat</string>
     <string name="send">Trimiteţi</string>
     <string name="send_failed">Mesaj netrimis.</string>
-  <string name="send_feed_back">trimiteţi feedback</string>
-  <string name="send_feed_back_keywords">trimiteţi feedback</string>
+    <string name="send_feed_back">Trimiteţi feedback</string>
+    <string name="send_feed_back_keywords">trimiteţi feedback</string>
     <string name="send_mail">Trimiteți</string>
     <string name="sender_whitelist_cleared">Imaginile nu vor fi afișate în mod automat.</string>
     <string name="senders_elided">..</string>

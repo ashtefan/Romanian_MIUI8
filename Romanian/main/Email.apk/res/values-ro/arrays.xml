@@ -22,7 +22,7 @@
         <item>Luna viitoare</item>
         <item>Alegeți o dată</item>
     </string-array>
-     <string-array name="compose_modes">
+    <string-array name="compose_modes">
         <item>Răspundeţi</item>
         <item>Răspundeţi la toate</item>
         <item>Redirecţionaţi</item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="DOWNLOAD_UNIT_BIT">B</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -24,8 +24,8 @@
     <string name="app_label">Descărcări</string>
     <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Cont Xunlei</string>
-    <string name="auth_fail">Nu s-a putut obţine autorizarea</string>
-    <string name="bind_xunlei_account">Legaţi contul xunlei ></string>
+    <string name="auth_fail">"Nu s-a putut obţine autorizarea"</string>
+    <string name="bind_xunlei_account">Adăugați contul Xunlei ></string>
     <string name="bt_download">Descărcaţi</string>
     <string name="bt_path_not_exit">"Această cale nu există"</string>
     <string name="bt_restart_dialog_message">Reporniți toate descărcările din dosarul bluetooth?</string>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="action_cancel">Anulaţi</string>
     <string name="action_submit">Trimiteţi</string>
     <string name="announcement">Atenţie</string>
-    <string name="app_empty">Nu ați descărcat nicio aplicaţie.</string>
+    <string name="app_empty">"Nu ați descărcat nicio aplicaţie."</string>
     <string name="app_label">Raportare probleme</string>
     <string name="app_name">Raportare probleme</string>
     <string name="btn_send">Trimiteţi</string>
@@ -21,17 +21,17 @@
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="cta_dialog_title">Conexiune internet</string>
-    <string name="cta_not_show_again">Memorare preferinţă</string>
+    <string name="cta_not_show_again">"Nu arăta din nou"</string>
     <string name="description">Descrieţi problema sau introduceţi descrierea dvs. aici</string>
     <string name="dialog_ask_delete">Ștergeți</string>
     <string name="dialog_ask_quit">Ieșire</string>
-    <string name="discard_draft_dialog_button_cancel">Anulaţi</string>
+    <string name="discard_draft_dialog_button_cancel">Rămâneți aici</string>
     <string name="discard_draft_dialog_button_discard">Renunţaţi</string>
-    <string name="discard_draft_dialog_content">Orice modificări pe care le-ați făcut în acest raport vor fi pierdute.</string>
+    <string name="discard_draft_dialog_content">"Orice modificări pe care le-ați făcut în acest raport vor fi pierdute."</string>
     <string name="discard_draft_dialog_title">Renunţaţi la schiţă?</string>
     <string name="err_type">Tipul problemei</string>
     <string name="err_type_app">Aplicaţii</string>
-    <string name="err_type_appstore">App Store</string>
+    <string name="err_type_appstore">Magazinul de aplicații</string>
     <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Cameră</string>
     <string name="err_type_hardware">Hardware</string>
@@ -45,7 +45,7 @@
     <string name="err_type_system">Sistem</string>
     <string name="err_type_system_summary">Memorie, performanţă, etc.</string>
     <string name="err_type_systemapp">Aplicaţii MIUI</string>
-    <string name="err_type_translate">Limba</string>
+    <string name="err_type_translate">Limbă</string>
     <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">Familia Mi</string>
     <string name="err_type_xiaomi_service">Serviciu clienți</string>
@@ -199,7 +199,7 @@
     <string name="module_security">Securitate și Mi Cloud</string>
     <string name="module_system">Sistem</string>
     <string name="module_tools">Unelte de sistem</string>
-    <string name="modules">Selectați</string>
+    <string name="modules">Selectați elementul</string>
     <string name="multi_graph_more">Total elemente: %d</string>
     <string name="network_err">"Nu se poate conecta la rețea."</string>
     <string name="network_errorbtntip_custom">Încercați din nou</string>
@@ -217,8 +217,8 @@
     <string name="network_errortip_timeout">Conexiunea a expirat; încercați din nou mai târziu</string>
     <string name="network_errortip_unknow">"Ne străduim să rezolvăm problema…"</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
-    <string name="network_unavailable_dialog_content">Nu se poate conecta la rețea. Mesajul dvs. va fi trimis atunci când veţi avea o conexiune de date</string>
-    <string name="network_unavailable_dialog_title">Verificați conexiunea de date</string>
+    <string name="network_unavailable_dialog_content">Mesajul dvs. va fi trimis atunci când veţi avea o conexiune de date</string>
+    <string name="network_unavailable_dialog_title">"Nu s-a putut conecta la rețea"</string>
     <string name="non_system_app_select">Aplicaţii descărcate</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">Mai multe</string>
@@ -226,7 +226,7 @@
     <string name="permission_granted">%1$s permisiune acceptată</string>
     <string name="pic_not_exist">"Această imagine nu există"</string>
     <string name="pic_view_format">%1$s/%2$s</string>
-    <string name="plus_one_submit_dialog_content">Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi, atunci când dispozitivul este conectat la Wi-Fi.</string>
+    <string name="plus_one_submit_dialog_content">"Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
     <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>
     <string name="pull_to_refresh_pull_label">Glisați în jos pentru a împrospăta</string>
@@ -268,21 +268,21 @@
     <string name="title_system_app">Aplicaţii MIUI</string>
     <string name="toast_description_required">Descrierea este necesară</string>
     <string name="toast_feedback_collect_store">Colectare jurnale…</string>
-    <string name="toast_feedback_network_unavailable">Nu se poate conecta la rețea</string>
-    <string name="toast_feedback_pending_wlan">Mesajul dvs. va fi trimis atunci când veţi fi conectat la Wi-Fi</string>
+    <string name="toast_feedback_network_unavailable">"Nu se poate conecta la rețea"</string>
+    <string name="toast_feedback_pending_wlan">"Raportul dvs. va fi trimis atunci când veţi fi conectat la Wi-Fi"</string>
     <string name="toast_feedback_submitted">Raportul dvs. a fost trimis</string>
     <string name="toast_feedback_submitting">Trimitere…</string>
     <string name="toast_feedbackservice_in_submit">Manipulare feedback precedent…</string>
     <string name="toast_fill_brackets">Din raportul dvs. lipsesc câteva informaţii</string>
     <string name="toast_log_not_exists">"Jurnalul solicitat a fost șters sau nu există"</string>
     <string name="toast_module_required">Selectați elementul</string>
-    <string name="toast_network_unavailable">Nu s-a putut trimite raportul. Nu se poate conecta la rețea.</string>
+    <string name="toast_network_unavailable">"Nu s-a putut trimite raportul. Nu se poate conecta la rețea."</string>
     <string name="toast_pending_log_collection">Colectare jurnale…</string>
     <string name="toast_pic_not_exists">Imaginea a fost ștearsă din memoria cache</string>
     <string name="toast_post_deleted">"Acest subiect nu există, a fost șters sau editat."</string>
     <string name="toast_problem_class_required">Selectați categoria</string>
     <string name="toast_report_copied_to_clipboard">Raportul a fost copiat în clipboard</string>
-    <string name="toast_report_sent_failed">Imposibil de trimis raportul</string>
+    <string name="toast_report_sent_failed">"Imposibil de trimis raportul"</string>
     <string name="toast_report_sent_succeed">Raportul a fost trimis</string>
     <string name="toast_third_packagename_required">Introduceți numele aplicației</string>
     <string name="toast_title_required">Descrieți problema</string>

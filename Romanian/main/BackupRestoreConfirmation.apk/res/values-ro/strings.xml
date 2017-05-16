@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="allow_backup_button_label">Creaţi copii de rezervă pentru datele dvs.</string>
-    <string name="allow_restore_button_label">Restabiliţi datele dvs.</string>
+    <string name="allow_backup_button_label">Fă o copie de rezervă pentru datele mele</string>
+    <string name="allow_restore_button_label">Restabilește datele mele</string>
     <string name="backup_confirm_text">"S-a solicitat crearea unei copii de rezervă complete a tuturor datelor pe un computer desktop conectat. Permiteţi acest lucru?
 
 Dacă nu aţi solicitat dvs. crearea unei copii de rezervă, nu permiteţi ca operaţiunea să continue."</string>

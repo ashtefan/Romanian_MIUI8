@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_calllog_detail">Detalii jurnal apeluri</string>
     <string name="account_container_title">Importat din</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Numai pe telefon, nesincronizat</string>
     <string name="account_sim">Cartela SIM</string>
-    <string name="account_sim2">Cartela SIM%d</string>
+    <string name="account_sim2">Cartela SIM %d</string>
     <string name="account_type_format">Contact din %1$s</string>
     <string name="actionIncomingCall">Apeluri de intrare</string>
     <string name="action_menu_overflow_description">Mai multe opţiuni</string>
@@ -13,13 +13,13 @@
     <string name="activity_title_contacts_filter">Contacte de afişat</string>
     <string name="activity_title_settings">Setări</string>
     <string name="addPeopleToGroup">Pentru a adăuga contacte, editaţi grupul.</string>
-    <string name="add_2sec_pause">Pauză de 2 secunde</string>
+    <string name="add_2sec_pause">Adăugați o pauză de 2 secunde</string>
     <string name="add_account">Adăugaţi un cont</string>
     <string name="add_blacklist">Adăugaţi la lista blocărilor</string>
-    <string name="add_blacklist_dialog_message">Blocaţi acest număr?</string>
-    <string name="add_blacklist_dialog_title">Blocaţi</string>
+    <string name="add_blacklist_dialog_message">Blocaţi apelurile și mesajele de la acest număr?</string>
+    <string name="add_blacklist_dialog_title">Blocaţi acest număr de telefon?</string>
     <string name="add_connection_button">Adăugaţi o conexiune</string>
-    <string name="add_contact_dlg_message_fmt">Adăugaţi „%s” la contacte?</string>
+    <string name="add_contact_dlg_message_fmt">Adăugaţi \"%s\" la contacte?</string>
     <string name="add_display_photo_entry">Adăugaţi fotografia de profil</string>
     <string name="add_field">Adăugaţi alt câmp</string>
     <string name="add_incall_show_entry">Adăugaţi un videoclip</string>
@@ -55,7 +55,7 @@
     <string name="caching_vcard_message">Fişierele vCard se stochează în memoria telefonului…</string>
     <string name="caching_vcard_title">Se stochează în cache</string>
     <string name="callAgain">Apelaţi din nou</string>
-    <string name="callBack">Apelaţi din nou</string>
+    <string name="callBack">Apelaţi înapoi</string>
     <string name="callDetailTitle">Detaliile apelului</string>
     <string name="callDetailsDurationFormat" formatted="false">%s min și %s sec</string>
     <string name="callShortcutActivityTitle">Selectaţi un număr pentru apelare</string>
@@ -332,7 +332,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="description_minus_button">minus</string>
     <string name="description_plus_button">plus</string>
     <string name="description_quick_contact_for">Contact rapid pentru %1$s</string>
-    <string name="description_search_button">căutare</string>
+    <string name="description_search_button">Căutare</string>
     <string name="description_send_message">Trimiteţi un mesaj la %1$s</string>
     <string name="description_send_text_message">Trimiteţi un mesaj text către %1$s</string>
     <string name="description_star">preferate</string>
@@ -515,7 +515,7 @@ Motivul: „%s”"</string>
     <string name="help_url_people_main" />
     <string name="hint_distance"></string>
     <string name="hint_findContacts">Găsiţi contacte</string>
-    <string name="hint_more_contact">Îmbinarea contactelor dublate</string>
+    <string name="hint_more_contact">Îmbinația contactele dublate</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_locating_fail">"Nu s-a putut găsi locația dumneavoastră"</string>
@@ -599,7 +599,7 @@ Motivul: „%s”"</string>
     <string name="livetalk_left">Minute disponibile</string>
     <string name="livetalk_switch_on">Activați</string>
     <string name="livetalk_title">Pachet de suplimentare</string>
-    <string name="loading_accounts">Doar o secundă...</string>
+    <string name="loading_accounts">Doar o secundă…</string>
     <string name="loading_group_members">Doar o secundă…</string>
     <string name="loading_groups">Doar o secundă…</string>
     <string name="loading_recent">Doar o secundă…</string>
@@ -662,7 +662,7 @@ Motivul: „%s”"</string>
     <string name="menu_new_favorite_action_bar">Nou</string>
     <string name="menu_new_group_action_bar">Nou</string>
     <string name="menu_not_redirect_calls_to_vm">Nu se utilizează mesageria vocală</string>
-    <string name="menu_redirect_calls_to_vm">Toate apel. către mesag. voc.</string>
+    <string name="menu_redirect_calls_to_vm">Toate apelurile către mesageria vocală</string>
     <string name="menu_removeStar">Eliminaţi din lista de favorite</string>
     <string name="menu_search">Căutaţi</string>
     <string name="menu_select_all">Selectaţi-le pe toate</string>
@@ -1093,7 +1093,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="select_groups">Selectaţi grupurile</string>
     <string name="select_none">Nimic selectat</string>
     <string name="select_show_contacts">Listă contacte</string>
-    <string name="select_vcard_title">Alegeţi fişier vCard</string>
+    <string name="select_vcard_title">Alegeţi fişierul vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Adăugată pe ecranul de pornire</string>
     <string name="send_to_voicemail_checkbox">Trimiteţi apelurile direct către mesageria vocală</string>
     <string name="separatorJoinAggregateAll">Toate contactele din agendă</string>
@@ -1105,7 +1105,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="set_default">Setaţi ca prestabilit</string>
     <string name="set_photo_failed_msg">Setare avatar eşuată</string>
     <string name="share_error">Acest contact nu poate fi distribuit</string>
-    <string name="share_over_limit">Mai mult decât 1000, nu poate fi partajat</string>
+    <string name="share_over_limit">Nu se pot partaja mai mult de 1000 de contacte</string>
     <string name="share_via">Trimiteţi utilizând</string>
     <string name="share_visible_contacts">Distribuiţi contactele vizibile din agendă</string>
     <string name="shortcutActivityTitle">Alegeţi un contact din agendă pentru a crea o comandă rapidă</string>
@@ -1279,8 +1279,8 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="websiteLabelsGroup">Site web</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ştergeţi datele</string>
-    <string name="yellowPageNavigationIconLabel">Registru</string>
-    <string name="yellowPageNavigationLabel">Registru</string>
+    <string name="yellowPageNavigationIconLabel">Pagini Aurii</string>
+    <string name="yellowPageNavigationLabel">Pagini Aurii</string>
     <string name="yellowpage_fc_toast">"Nu se poate utiliza această caracteristică deoarece aplicația Pagini Aurii nu mai funcționează."</string>
     <string name="yellowpage_navigation_ad_hint">Reclamă</string>
     <string name="yellowpage_navigation_balance_refresh_failed">"Nu s-au putut verifica balanța și datele mobile; încercați din nou."</string>

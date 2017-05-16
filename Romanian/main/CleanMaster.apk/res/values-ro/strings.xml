@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="RF_DalvikCacheLeftovers">Reziduuri de sisteme software (Dalvik-Cache)</string>
     <string name="activity_title_ad">Anunțuri</string>
@@ -376,7 +376,7 @@
     <string name="set_immediately">Setați</string>
     <string name="seton_immediately">Porniți</string>
     <string name="share">Partajați</string>
-    <string name="similar_image_desc">Ştergeţi fotografiile dublatee</string>
+    <string name="similar_image_desc">Ştergeţi fotografiile dublate</string>
     <string name="similar_image_empty">Nu există fotografii dublate</string>
     <string name="similar_image_scaning">Verificare…</string>
     <string name="similar_image_title">Fotografii</string>
