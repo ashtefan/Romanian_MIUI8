@@ -890,10 +890,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="reply_all">Răs. tuturor</string>
     <string name="reply_attribution" formatted="false">Pe %s, %s a scris:</string>
     <string name="report_phishing">Raportaţi phishing</string>
-    <string name="report_rendering_improvement">Arată bine</string>
-    <string name="report_rendering_improvement_desc">Acest mesaj arată bine.</string>
-    <string name="report_rendering_problem">Arată rău</string>
-    <string name="report_rendering_problem_desc">Acest mesaj arată rău.</string>
     <string name="report_spam">Raportaţi ca spam</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="request_permission_activity">Solicitare permisiune</string>

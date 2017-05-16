@@ -250,9 +250,6 @@ utilizând %s"</string>
      <string name="date_time_set">Setaţi</string>
      <string name="day">zi</string>
      <string name="days">zile</string>
-     <string name="db_default_journal_mode">PERSIST</string>
-     <string name="db_default_sync_mode">COMPLET</string>
-     <string name="db_wal_sync_mode">COMPLET</string>
      <string name="decline">Refuzaţi</string>
      <string name="decline_remote_bugreport_action">REFUZAȚI</string>
      <string name="def_wifi_direct_name"/>
