@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="__leak_canary_analysis_failed">Analiza erorilor a eșuat</string>
     <string name="__leak_canary_class_has_leaked">%s a eșuat</string>
@@ -9,7 +9,7 @@
 "</string>
     <string name="__leak_canary_leak_list_title">Erori în %s</string>
     <string name="__leak_canary_notification_message">Apăsați aici pentru mai multe detalii</string>
-  <string name="__leak_canary_share_heap_dump">Share heap dump</string>
+  <string name="__leak_canary_share_heap_dump">Partajați raportul de eroare</string>
     <string name="__leak_canary_share_leak">Partajați informațiile</string>
     <string name="__leak_canary_share_with">Partajați cu…</string>
     <string name="__leak_canary_toast_heap_dump">Golirea memoriei va bloca aplicația. Brrrr.</string>
@@ -30,7 +30,7 @@
     <string name="add_to_secret_failed_with_reason_and_count">"%2$s elemente nu au putut fi adăugate în albumul secret. %1$s."</string>
     <string name="add_to_secret_successful">Adăugată în albumul secret</string>
     <string name="add_to_share_album_not_delete">"Nu se poate șterge fotografia din Albumul Partajat"</string>
-    <string name="adding">Adăugare...</string>
+    <string name="adding">Adăugare…</string>
     <string name="adding_recipients">Adăugare destinatari…</string>
     <string name="adding_to_album">Adăugare fotografii…</string>
     <string name="adjust">Intensificare</string>
@@ -271,7 +271,7 @@
     <string name="delete_from_web">Albumele Web</string>
     <string name="delete_in_album">Când veți șterge fotografii sau un videoclipuri dintr-un album, ele vor fi șterse și din:</string>
     <string name="delete_in_home_page">Când veți șterge fotografii sau videoclipuri din Galerie, ele vor fi șterse și din:</string>
-    <string name="delete_in_process">Ștergere...</string>
+    <string name="delete_in_process">Ștergere…</string>
     <string name="delete_origin">Ștergeți imaginile din albumul original</string>
     <string name="delete_other_shared_images">"Nu puteți șterge fotografiile partajate de alte persoane"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d șterse，%2$d menținute</string>
@@ -445,7 +445,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="limit_height">Înâlțimea trebuie să fie &gt; 0</string>
     <string name="limit_width">Lățimea trebuie să fie &gt; 0</string>
     <string name="load_relations">Doar o secundă…</string>
-    <string name="loading_dual_tip">Încărcare fotografie duală...</string>
+    <string name="loading_dual_tip">Încărcare fotografie duală…</string>
     <string name="loading_fail">Nu s-a putut descărca</string>
     <string name="loading_fail_sync_off">Activați sincronizarea cu Mi Cloud pentru a descărca</string>
     <string name="loading_fail_sync_off_message">"Nu s-au putut încărca fotografiile; sincronizarea cu Mi Cloud este oprită."</string>
@@ -513,7 +513,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="operation_detail">Detalii</string>
     <string name="operation_disable_auto_upload">Dezactivați sincronizarea cu Mi Cloud</string>
     <string name="operation_do_delete_local_thumnail">Ștergeți din telefon</string>
-    <string name="operation_download">Descărcați fotografia (%s)</string>
+    <string name="operation_download">Descărcați fotografia originală (%s)</string>
     <string name="operation_edit">Editați</string>
     <string name="operation_edit_video">Editați</string>
     <string name="operation_enable_auto_upload">Activați sincronizarea cu Mi Cloud</string>
@@ -526,7 +526,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="operation_not_show_in_photos_tab">"Nu arăta în Fotografii"</string>
     <string name="operation_projection">Distribuiți</string>
     <string name="operation_remove_face">Eliminați</string>
-    <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
+    <string name="operation_remove_from_face_album">Eliminaţi din album</string>
     <string name="operation_remove_from_other_albums">Mutați din Alte albume</string>
     <string name="operation_remove_secret">Afișați</string>
     <string name="operation_rename">Redenumiți</string>
@@ -555,7 +555,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo">Fotografii</string>
     <string name="photo_edit_file_not_exits_tip">Descărcați mai întâi fotografia pentru a o putea edita</string>
     <string name="photo_editor_label">Editați</string>
-    <string name="photo_editor_saving">Se salvează...</string>
+    <string name="photo_editor_saving">Se salvează…</string>
     <string name="photo_page_save_uri_image_fail">"Nu s-a putut salva în Galerie"</string>
     <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Galerie</string>
     <string name="pick_from_contact">Alegeţi din Contacte</string>

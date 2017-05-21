@@ -5,8 +5,8 @@
         <item quantity="one">1 aplicaţie recentă</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Ascundeţi notificările a %d aplicaţii?</item>
-        <item quantity="one">Ascundeţi notificările acestei aplicaţii?</item>
+        <item quantity="other">"Ascundeţi notificările de la %d aplicaţii?"</item>
+        <item quantity="one">"Ascundeţi notificările acestei aplicaţii?"</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Senin</item>

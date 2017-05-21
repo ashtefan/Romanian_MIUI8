@@ -37,7 +37,7 @@
     <string name="context_menu_add_to_browser_favorite">Adăugați la marcajele browserului</string>
     <string name="context_menu_browse_web">Parcurgeți</string>
     <string name="context_menu_call">Apelați</string>
-    <string name="context_menu_copy">Copie</string>
+    <string name="context_menu_copy">Copiați</string>
     <string name="context_menu_copy_notice">Copiat în clipboard</string>
     <string name="context_menu_new_contact">Creați un contact nou în agendă</string>
     <string name="context_menu_send_mail">Trimite e-mail</string>

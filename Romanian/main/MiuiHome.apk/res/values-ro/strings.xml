@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="activity_not_found">"Aplicaţia nu este instalată"</string>
+    <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="add_screen">Adăugați un ecran</string>
     <string name="app_already_exist">Aplicaţia există deja</string>
     <string name="app_being_backup_message">Aplicația este în curs de rezervare</string>
@@ -77,7 +77,7 @@
     <string name="editing_set_transition_effect_tips">Selectaţi efectul de tranziţie</string>
     <string name="editing_set_wallpaper_tips">Selectaţi imaginea de fundal</string>
     <string name="editing_tips">Editaţi ecranul de pornire</string>
-    <string name="emptyplaylist">Apăsaţi pt. a adăuga melodii</string>
+    <string name="emptyplaylist">Apăsaţi pentru a adăuga melodii</string>
     <string name="enable_wallpaper_scroll">Activare derulare fundal</string>
     <string name="encryption">Criptare</string>
     <string name="failed_to_delete_temporary">"Nu s-a putut elimina"</string>
@@ -105,12 +105,12 @@
     <string name="gadget_calendar_label">Calendar</string>
     <string name="gadget_clear_button_label">Golire memorie</string>
     <string name="gadget_clock_12_label">Ceas 2x1</string>
-    <string name="gadget_clock_22_label">Ceas 4x1</string>
+    <string name="gadget_clock_14_label">Ceas 4x1</string>
     <string name="gadget_clock_24_label">Ceas 4x2</string>
     <string name="gadget_clock_label">Ceas</string>
     <string name="gadget_error_text">"Nu s-a putut încărca obiectul widget"</string>
     <string name="gadget_google_search_label">Căutare Google</string>
-    <string name="gadget_load_error">Încărcare obiect widget…</string>
+    <string name="gadget_load_error">Încărcare…</string>
     <string name="gadget_mtz_label">Gadget-uri</string>
     <string name="gadget_notes_label">Note</string>
     <string name="gadget_photo_22_label">Imagine 2x2</string>
@@ -125,7 +125,7 @@
     <string name="gadget_weather_download_start">Descărcare</string>
     <string name="gadget_weather_download_title">Descărcare</string>
     <string name="gadget_weather_downloading">Conținutul aplicaţiei se descarcă. Reporniți aplicația după descărcare.</string>
-    <string name="gadget_weather_loading">Datele meteo lipsesc</string>
+    <string name="gadget_weather_loading">Lipsesc datele meteo</string>
     <string name="gadget_weather_low_temp">Temperatura minimă</string>
     <string name="gadget_weather_theme_type">Tip gadget</string>
     <string name="gadget_weather_time_format">EEEE, d MMMM</string>
@@ -137,12 +137,12 @@
     <string name="group_live_folders">Dosare</string>
     <string name="group_shortcuts">Comenzi rapide</string>
     <string name="guide_install_app_msg">"Aplicaţia nu este instalată pe telefonul dvs. Căutaţi şi descărcaţi aplicaţia acum?"</string>
-    <string name="guide_install_app_title">Instalaţi aplicaţia</string>
+    <string name="guide_install_app_title">Căutați și instalaţi aplicaţia?</string>
     <string name="guide_tips_editing_mode">Atingeți și mențineți apăsat pentru a plasa un widget pe ecran</string>
     <string name="home_screen">Ecranul principal</string>
     <string name="image_too_small_message">"Imaginea originală nu este destul de mare"</string>
     <string name="install">Instalaţi</string>
-    <string name="invalid_contact_shortcut">Contact greşit</string>
+    <string name="invalid_contact_shortcut">Contact nevalid</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
@@ -152,13 +152,13 @@
     <string name="loading_wallpaper">Doar o secundă…</string>
     <string name="local_wallpaper">Descărcate</string>
     <string name="lock_screen">Blocarea ecranului</string>
-    <string name="lock_screen_failed_message">"Aplicare eşuată"</string>
+    <string name="lock_screen_failed_message">"Nu se poate seta imaginea de fundal"</string>
     <string name="lock_screen_success_message">Aplicată</string>
     <string name="lock_screen_wallpaper">Imagine de fundal în blocarea ecranului</string>
     <string name="menu_add">Adăugaţi</string>
     <string name="menu_back_desktop">Înapoi la ecranul de pornire</string>
     <string name="menu_customize">Setări</string>
-    <string name="menu_edit">Editare ecran</string>
+    <string name="menu_edit">Editați Ecranul principal</string>
     <string name="menu_exit_scene">Ieşire din Mi Space</string>
     <string name="menu_item_add_item">Plasaţi pe ecranul de pornire</string>
     <string name="menu_launcher_setting">Setări lansator de sistem</string>
@@ -191,7 +191,7 @@
     <string name="photo_adjust">Previzualizare</string>
     <string name="photo_confirm">Aplicaţi</string>
     <string name="photo_load_failed">"Încărcarea fotografiei a eşuat"</string>
-    <string name="pref_cell_layout_size">Aspect pictograme</string>
+    <string name="pref_cell_layout_size">Dispunere pictograme aplicații</string>
     <string name="pref_enable_drawing_cache_summary">Dezactivaţi pentru a elibera memoria. Poate reduce performanța.</string>
     <string name="pref_enable_drawing_cache_title">Cache desenare</string>
     <string name="pref_icon_shadow_summary">Activaţi efectul de umbră pentru pictogramele de pe ecran</string>
@@ -199,7 +199,7 @@
     <string name="pref_keep_in_memory_summary">MIUI va continua să funcţioneze atunci când memoria este redusă</string>
     <string name="pref_keep_in_memory_title">Blocaţi MIUI în memorie</string>
     <string name="pref_keep_layout_summary">"Modificarea ecranului de pornire nu va afecta poziţia relativă a pictogramelor una faţă de cealaltă"</string>
-    <string name="pref_keep_layout_title">Blocaţi aspectul pictogramelor</string>
+    <string name="pref_keep_layout_title">Blocaţi dispunerea pictogramelor aplicațiilor</string>
     <string name="pref_render_in_truecolor_summary">Dezactivarea acestei caracteristici îmbunătățește performanța de desenare</string>
     <string name="pref_render_in_truecolor_title">Grafică de înaltă calitate</string>
     <string name="pref_screen_transformation_type_title">Efect de tranziţie</string>
@@ -229,7 +229,7 @@
     <string name="sort_by_frequency">Sortare după utilizare</string>
     <string name="sort_by_not_defined">Sortare automată</string>
     <string name="start_activity_failed">"Nu se poate porni lansatorul de sistem"</string>
-    <string name="starting_preset_app">Pornire...</string>
+    <string name="starting_preset_app">Pornire…</string>
     <string name="status_downloaded">Descărcate</string>
     <string name="status_downloading">Descărcare</string>
     <string name="status_installing">Instalare</string>
@@ -250,7 +250,7 @@
     <string name="transformation_type_stack">Cascadă</string>
     <string name="uninstall">Dezinstalaţi</string>
     <string name="uninstall_dialog_message">Dezinstalarea va elimina toate datele asociate aplicaţiei</string>
-    <string name="uninstall_dialog_title_format">Dezinstalaţi %s</string>
+    <string name="uninstall_dialog_title_format">Dezinstalaţi %s?</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Dezinstalaţi %s şi alte %d aplicaţii?</string>
     <string name="uninstall_result_failed">"Nu se poate dezinstala %s"</string>
     <string name="uninstall_result_multi_succeeded">%1$d aplicaţii dezinstalate</string>

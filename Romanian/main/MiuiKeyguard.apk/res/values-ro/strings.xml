@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide Caruselul de imagini de fundal</string>
     <string name="click_to_enter_text">Apăsaţi pentru a vizualiza</string>
@@ -9,7 +9,7 @@
     <string name="emergency_call_string">Apel de urgenţă</string>
     <string name="experimental_try_string">Încercaţi</string>
     <string name="experimental_validate">Validaţi</string>
-    <string name="experimental_validate_fail">Conectare eşuată</string>
+    <string name="experimental_validate_fail">"Conectare eşuată"</string>
     <string name="experimental_validate_password">Parola</string>
     <string name="experimental_validate_progress">Logare…</string>
     <string name="experimental_validate_thanks">Mulţumesc!</string>
@@ -23,7 +23,7 @@
     <string name="fingerprint_enter_second_psw_title">Introduceți parola pentru Spațiul Secundar</string>
     <string name="fingerprint_lockout_msg">Așteptați un minut apoi încercați din nou să deblocați utilizând amprenta</string>
     <string name="fingerprint_not_identified_msg">"Nu s-a putut verifica amprenta; introduceți parola."</string>
-    <string name="fingerprint_not_identified_title">"Nu se poate citi amprenta"</string>
+    <string name="fingerprint_not_identified_title">Introduceți parola</string>
     <string name="fingerprint_try_again_msg">"Nu s-a putut verifica amprenta; încercați din nou."</string>
     <string name="fingerprint_try_again_text">Încercați din nou</string>
     <string name="forget_password_string">Am uitat parola</string>
@@ -31,25 +31,25 @@
     <string name="incorrect_pincode_remaining_attempts">Cod PIN incorect, au rămas %d încercări</string>
     <string name="incorrect_pukcode">Cod PUK incorect</string>
     <string name="incorrect_pukcode_remaining_attempts">Cod PUK incorect, au rămas %d încercări</string>
-    <string name="input_password_after_boot_msg">"Introduceți parola pentru a debloca telefonul"</string>
+    <string name="input_password_after_boot_msg">Pentru a debloca telefonul introduceți parola</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul Principal după ce telefonul repornește</string>
     <string name="input_password_hint_text">Introduceţi parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
     <string name="input_pin_code">Introduceţi codul PIN</string>
     <string name="input_puk_code">Introduceţi codul PUK</string>
-    <string name="invalid_confirm_pin_hint">Codurile PIN nu se potrivesc</string>
+    <string name="invalid_confirm_pin_hint">"Codurile PIN nu se potrivesc"</string>
     <string name="invalid_sim_pin_hint">Codul PIN trebuie să conțină între 4 și 8 cifre</string>
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
-    <string name="left_action_default_hint_text">telecomandă Mi</string>
+    <string name="left_action_default_hint_text">Telecomandă Mi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_wallpaper_enter">Accesați</string>
     <string name="lock_wallpaper_learn_more">Mai multe</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
-    <string name="lockscreen_access_pattern_detected">Finalizat</string>
-    <string name="lockscreen_access_pattern_start">Început</string>
+    <string name="lockscreen_access_pattern_detected">Model finalizat</string>
+    <string name="lockscreen_access_pattern_start">Model început</string>
     <string name="lockscreen_charging_msg">Se încarcă</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi introdus incorect parola dvs. de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul datelor de conectare la contul Mi.
@@ -60,7 +60,7 @@
     <string name="lockscreen_glogin_invalid_input">Nume de utilizator sau parolă incorecte</string>
     <string name="lockscreen_glogin_password_hint">Parolă</string>
     <string name="lockscreen_glogin_submit_button">Conectaţi-vă</string>
-    <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi i.xiaomi.com.</string>
+    <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi www.mi.com/micloud</string>
     <string name="missed_call_text">%d apeluri pierdute</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de un dispozitiv Bluetooth</string>
     <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide %s</string>
@@ -74,7 +74,7 @@ Nu veți putea face acest lucru dacă nu sunteți conectat la contul Mi de pe ac
 Conectați-vă la i.mi.com, mergeți la “Găsire dispozitiv”, selectați dispozitivul și atingeți Șterge dispozitiv."</string>
     <string name="phone_locked_foget_password_header">Ce trebuie să fac dacă uit parola?</string>
     <string name="phone_locked_foget_password_ok">Am înțeles</string>
-    <string name="phone_locked_string">Telefon blocat</string>
+    <string name="phone_locked_string">Telefonul a fost blocat</string>
     <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>
     <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %s secunde</string>
     <string name="symbol_colon">:</string>

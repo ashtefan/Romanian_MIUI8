@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Acasă</string>
     <string name="abc_action_bar_up_description">În sus</string>
@@ -341,8 +341,8 @@
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">Sincronizarea a fost dezactivată din cauza unor probleme cu contul dvs. Mi.</string>
-    <string name="error_not_acceptable">din cauza unor probleme cu contul dvs. Mi.</string>
-    <string name="error_title">Nu a reuşit sincronizarea</string>
+    <string name="error_not_acceptable">Sincronizarea a fost dezactivată.</string>
+    <string name="error_title">"Sincronizarea a eșuat"</string>
     <string name="error_unauthorized">Sincronizarea a fost dezactivată din cauza prea multor încercări de autentificare.</string>
     <string name="evening">PM</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -398,7 +398,7 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Vineri</string>
-    <string name="friday_short">Vi</string>
+    <string name="friday_short">Vin</string>
     <string name="friday_shortest">V</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
@@ -416,7 +416,7 @@
     <string name="label">MIUI SDK</string>
     <string name="midnight">AM</string>
     <string name="monday">Luni</string>
-    <string name="monday_short">Lu</string>
+    <string name="monday_short">Lun</string>
     <string name="monday_shortest">L</string>
     <string name="month_april">Aprilie</string>
     <string name="month_april_short">Apr.</string>
@@ -473,7 +473,7 @@
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="sar">Informații expunere la radiații(SAR)</string>
     <string name="saturday">Sâmbătă</string>
-    <string name="saturday_short">Sâ</string>
+    <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">S</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_item">Selectare elemente</string>
@@ -519,7 +519,7 @@
     <string name="solar_term_winter_begins">Winter Begins</string>
     <string name="solar_term_winter_solstice">Winter Solstice</string>
     <string name="sunday">Duminică</string>
-    <string name="sunday_short">Du</string>
+    <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">D</string>
     <string name="sync_one_time_sync">Atingeți pentru a sincroniza ( %1$s )</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -563,7 +563,7 @@
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="thursday">Joi</string>
-    <string name="thursday_short">Jo</string>
+    <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">J</string>
     <string name="time_picker_dialog_title">Setaţi ora</string>
     <string name="time_picker_label_hour">H</string>
@@ -580,7 +580,7 @@
     <string name="website">Website</string>
     <string name="webview_reload">Reîncercați</string>
     <string name="wednesday">Miercuri</string>
-    <string name="wednesday_short">Mi</string>
+    <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">M</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="yesterday">Ieri</string>
