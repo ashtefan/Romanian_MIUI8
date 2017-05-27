@@ -13,7 +13,6 @@
     <string name="check_config_hint">Dispozitivul nu este configurat corect; vă rugăm să vă configurați mai întâi dispozitivul.</string>
     <string name="choose_config_hit">Opțiuni configurare</string>
     <string name="confirm">Confirmați</string>
-    <string name="cur_value">Curent:</string>
     <string name="current_config">Configurație MBN curentă</string>
     <string name="data_roaming">Date în roaming: Oprite</string>
     <string name="default_protocol">IP</string>
@@ -49,7 +48,6 @@
     <string name="qc_mbn">Referință MBN</string>
     <string name="quit">Părăsiți</string>
   <string name="read_only">read_only</string>
-    <string name="ref_value">Ref:</string>
     <string name="rule1">ar trebui setată la</string>
     <string name="rule2">pentru sub principal ar trebui setată la</string>
     <string name="rule3">pentru sub secundar ar trebui setată la</string>
