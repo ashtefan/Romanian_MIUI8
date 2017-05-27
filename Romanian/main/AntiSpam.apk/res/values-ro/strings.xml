@@ -195,7 +195,7 @@
     <string name="nickname">Pseudonim</string>
     <string name="note">Notă</string>
     <string name="note_call_none">Niciun apel</string>
-    <string name="note_keyword_none">Niciun cuvînt cheie</string>
+    <string name="note_keyword_none">Niciun cuvânt cheie</string>
     <string name="note_list_none">Lista este goală</string>
     <string name="note_preference_delete">"Regula este în uz, nu poate fi ștearsă"</string>
     <string name="note_sms_none">Niciun mesaj</string>

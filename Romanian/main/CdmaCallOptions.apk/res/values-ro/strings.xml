@@ -22,7 +22,7 @@
     <string name="labelCFB">Când este ocupat</string>
     <string name="labelCFDeactAll">Dezactivați tot</string>
     <string name="labelCFNRc">Când este indisponibil</string>
-    <string name="labelCFNRc_cdma">Implicitly redirecționare</string>
+    <string name="labelCFNRc_cdma">redirecționare implicită</string>
     <string name="labelCFNRy">Când nu răspunde</string>
     <string name="labelCFU">Redirecționare permanentă</string>
     <string name="labelCW">Apel în așteptare</string>

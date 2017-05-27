@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add_account_desc">Sincronizaţi notele cu contul dvs. Xiaomi?</string>
     <string name="alarm_bar_title">Memento</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_smart_sms_title">Partener mesagerie inteligentă</string>
     <string name="action_firewall_setting">Listă blocări</string>
@@ -7,14 +7,14 @@
     <string name="addBlackList">Blocați</string>
     <string name="add_attachment">Adăugaţi ataşamente</string>
     <string name="add_contact">vCard</string>
-    <string name="add_festival">Răspunsuri rapide</string>
+    <string name="add_festival">Salutări</string>
     <string name="add_music">Adăugaţi muzică</string>
     <string name="add_nickname">Pseudonim</string>
     <string name="add_nickname_title">Editaţi pseudonimul</string>
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
     <string name="add_private_contact">Adăugați un contact privat</string>
-    <string name="add_slide">Adăugaţi diapozitiv</string>
+    <string name="add_slide">Adăugaţi diapozitiv (după)</string>
     <string name="add_slide_before">Adăugați diapozitiv</string>
     <string name="add_slide_hint">Atingeţi pentru a crea un diapozitiv nou</string>
     <string name="add_smiley">Emoticon</string>
@@ -144,7 +144,7 @@
     <string name="duration_sec">Durată (%s s)</string>
     <string name="duration_selector_title">"Durata diapozitivului "</string>
     <string name="duration_zero">Durata trebuie să fie mai mare de 0 secunde</string>
-    <string name="edit">Modificaţi</string>
+    <string name="edit">Editaţi</string>
     <string name="edit_nickname_for_nocontact">Adăugaţi un destinatar mai întâi</string>
     <string name="edit_nickname_for_nocontact_by_robot">Adăugaţi un destinatar mai întâi</string>
     <string name="edit_phrase">Editaţi răspunsurile rapide</string>
@@ -299,9 +299,9 @@
     <string name="mx_activate_dlg_title">Activaţi Mesagerie Mi</string>
     <string name="mx_activate_dlg_title_ex">Activaţi Mesaj şi Voce Mi</string>
     <string name="mx_activate_error_malformed_info">Trebuie să reactivaţi Mesagerie Mi.</string>
-    <string name="mx_activate_error_server">Nu a putut fi activat</string>
-    <string name="mx_activate_error_sim_change">Se pare că aţi schimbat cartelele SIM. Trebuie să reactivaţi Mesagerie Mi.</string>
-    <string name="mx_activate_error_title">Nu a putut fi activat</string>
+    <string name="mx_activate_error_server">"Nu s-a putut activa"</string>
+    <string name="mx_activate_error_sim_change">"Se pare că aţi schimbat cartelele SIM. Trebuie să reactivaţi Mesagerie Mi."</string>
+    <string name="mx_activate_error_title">"Nu a putut fi activat"</string>
     <string name="mx_activate_hint_malformed_info">Operatorul dvs. poate percepe taxe pentru un mesaj SMS trimis pentru a reactiva Mesagerie Mi.</string>
     <string name="mx_activate_hint_server">Operatorul dvs. poate percepe taxe pentru un mesaj SMS trimis pentru a reactiva Mesagerie Mi.</string>
     <string name="mx_activate_hint_sim_change">Operatorul dvs. poate percepe taxe pentru un mesaj SMS trimis pentru a reactiva Mesagerie Mi.</string>
@@ -366,11 +366,11 @@
     <string name="no_block_button_msg">Nu se blochează mesajele de la acest număr</string>
     <string name="no_conversations">Nicio conversaţie</string>
     <string name="no_delivery_report">Niciun raport de livrare</string>
-    <string name="no_subject">(niciun subiect)</string>
-    <string name="no_subject_view">(niciun subiect)</string>
+    <string name="no_subject">(Niciun subiect)</string>
+    <string name="no_subject_view">(Niciun subiect)</string>
     <string name="non_english_subject_limit">Limită: 13 caractere</string>
-    <string name="nosend_message">Nu trimiteţi</string>
-    <string name="notification_failed_multiple">%s mesaje nu au putut fi trimise</string>
+    <string name="nosend_message">"Nu trimiteţi"</string>
+    <string name="notification_failed_multiple">"%s mesaje nu au putut fi trimise"</string>
     <string name="notification_failed_multiple_title">Mesajele nu au fost trimise</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Mesaje noi</string>
@@ -386,7 +386,7 @@
     <string name="phrase_list_title">Răspunsuri rapide</string>
     <string name="pick_too_many_recipients">Prea mulţi destinatari</string>
     <string name="play">Redaţi</string>
-    <string name="playing_failed">Nu se poate reda</string>
+    <string name="playing_failed">"Nu se poate reda"</string>
     <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_advanced_settings_title">Setări avansate</string>
     <string name="pref_allow_network_access_summary">Obțineți rapoarte de trimitere actualizate și alte servicii.</string>
@@ -400,7 +400,7 @@
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
     <string name="pref_msg_trash_bin_title">Mesaje șterse recent</string>
     <string name="pref_notification_settings_title">Notificări</string>
-    <string name="pref_other_title">Altele</string>
+    <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
     <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
@@ -410,7 +410,7 @@
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
-    <string name="pref_summary_hide_festival">Ascundeţi fila \"Recomandate\" pentru limbile non-Chineze</string>
+    <string name="pref_summary_hide_festival">Ascundeţi caracteristicile specifice doar pentru China pentru limbile non-Chineze</string>
     <string name="pref_summary_manage_sim_messages">Gestionaţi mesajele stocate pe cartela SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Descărcați fotografiile și videoclipurile din mesaje în mod automat</string>
     <string name="pref_summary_mms_read_reports">Arată o notificare atunci când destinatarul a descărcat conținutul mesajului MMS</string>
@@ -433,7 +433,7 @@
     <string name="pref_title_delivery_reports">Rapoarte de livrare</string>
     <string name="pref_title_festival_networking">Conexiune internet</string>
     <string name="pref_title_fwd_sender_info">Redirecţionaţi informaţia despre expeditor</string>
-    <string name="pref_title_hide_festival">Ascundeţi fila \"Recomandate\"</string>
+    <string name="pref_title_hide_festival">Ascundeţi caracteristicile destinate doar pentru China"</string>
     <string name="pref_title_manage_sim_messages">Gestionaţi mesajele de pe cartela SIM</string>
     <string name="pref_title_miui_card">Trimiteţi prin card</string>
     <string name="pref_title_mms_auto_retrieval">Preluare automată a conținutului mesajelor MMS</string>
@@ -507,10 +507,10 @@
     <string name="save">Salvaţi</string>
     <string name="save_ringtone">Salvaţi ca ton de apel</string>
     <string name="save_to_sim">Salvaţi pe cartela SIM</string>
-    <string name="save_to_sim_failed">Salvarea a eşuat</string>
+    <string name="save_to_sim_failed">"Salvarea a eşuat"</string>
     <string name="saved_label">"Salvat: "</string>
     <string name="saved_ringtone">Ton de apel salvat</string>
-    <string name="saved_ringtone_fail">Tonul de apel nu a putut fi salvat</string>
+    <string name="saved_ringtone_fail">"Tonul de apel nu a putut fi salvat"</string>
     <string name="saved_to_sim">Salvat</string>
     <string name="sdcard_has_not_enough_space">Spațiu insuficient pe cardul SD</string>
     <string name="search">Mesagerie</string>
@@ -584,7 +584,7 @@
     <string name="sms_full_title">Memoria pentru mesaje text este plină</string>
     <string name="sms_rejected_body">Un mesaj text primit a fost respins.</string>
     <string name="sms_rejected_title">Mesaj text respins</string>
-    <string name="sms_report_failed">Nu s-a putut trimite raportul</string>
+    <string name="sms_report_failed">"Nu s-a putut trimite raportul"</string>
     <string name="sms_report_success">Raport trimis</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[imagine]</string>

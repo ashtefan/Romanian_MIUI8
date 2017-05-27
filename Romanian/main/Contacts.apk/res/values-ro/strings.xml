@@ -515,7 +515,7 @@ Motivul: „%s”"</string>
     <string name="help_url_people_main" />
     <string name="hint_distance"></string>
     <string name="hint_findContacts">Găsiţi contacte</string>
-    <string name="hint_more_contact">Îmbinația contactele dublate</string>
+    <string name="hint_more_contact">Îmbinați contactele dublate</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_locating_fail">"Nu s-a putut găsi locația dumneavoastră"</string>

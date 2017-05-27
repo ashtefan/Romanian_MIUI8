@@ -70,7 +70,7 @@
     <string name="incoming_file_confirm_Notification_content">%1$s este gata să trimită %2$s</string>
     <string name="incoming_file_confirm_Notification_title">Bluetooth: se primeşte fişierul</string>
     <string name="incoming_file_confirm_cancel">Refuzaţi</string>
-    <string name="incoming_file_confirm_content">Accetați fișierul?</string>
+    <string name="incoming_file_confirm_content">Acceptați fișierul?</string>
     <string name="incoming_file_confirm_ok">Acceptaţi</string>
     <string name="incoming_file_confirm_timeout_content">A fost atins timpul limită pentru acceptarea unui fişier primit de la \"%1$s\"</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>

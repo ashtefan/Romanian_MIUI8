@@ -32,7 +32,7 @@
     <string name="cell_broadcast_settings_not_available">Setările Cell Broadcast nu sunt disponibile pentru acest utilizator</string>
     <string name="channel_list">Listă canale</string>
     <string name="close_dialog">OK</string>
-    <string name="cmas_amber_alert">Child abduction (Amber alert)</string>
+    <string name="cmas_amber_alert">Răpire copii (Alertă Amber)</string>
     <string name="cmas_category_cbrne">Chimic/Biologic/Nuclear/Exploziv</string>
     <string name="cmas_category_env">Mediu</string>
     <string name="cmas_category_fire">Incendiu</string>
