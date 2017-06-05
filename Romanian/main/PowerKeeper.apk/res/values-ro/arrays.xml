@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="group_name">
-        <item>normal</item>
-        <item>ascuns</item>
-        <item>citire</item>
-        <item>multimedia</item>
-    </string-array>
-    <string-array name="group_name_translate">
+     <string-array name="group_name_translate">
         <item>Prestabilit</item>
         <item>Mod Ascuns</item>
         <item>Mod Citire</item>

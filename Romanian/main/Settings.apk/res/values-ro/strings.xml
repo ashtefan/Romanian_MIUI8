@@ -111,7 +111,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="accessibility_toggle_master_mono_summary">Combinare canale la redarea audio</string>
     <string name="accessibility_toggle_master_mono_title">Mono</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizare mărire ecran la tranziția între aplicații</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualiz. mărirea ecran. la tranziţia între aplic.</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizare automată a măririi ecranului</string>
     <string name="accessibility_toggle_speak_password_preference_title">Rostiţi parolele</string>
     <string name="accessibility_wifi_off">Wi-Fi oprit.</string>
     <string name="accessibility_wifi_one_bar">Semnal Wi-Fi: o linie.</string>
@@ -1107,7 +1107,7 @@ Unele conturi pot să copie, de asemenea, în mod automat toate modificările pe
     <string name="data_usage_auto_sync_on_dialog_title">Activaţi sinc. autom. a datelor?</string>
     <string name="data_usage_background_label">În fundal:</string>
     <string name="data_usage_cellular_data">Date mobile</string>
-    <string name="data_usage_change_cycle">Modificaţi data ciclului de utilizare a datelor…</string>
+    <string name="data_usage_cellular_data_summary">Oprit la atingerea limitei</string>
     <string name="data_usage_change_cycle">Modificați ciclul…</string>
     <string name="data_usage_cycle">Ciclul de util. a datelor</string>
     <string name="data_usage_cycle_editor_positive">Setaţi</string>
@@ -1951,7 +1951,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="keywords_spell_checker">ortografie</string>
     <string name="keywords_storage">spațiu disc HDD</string>
     <string name="keywords_sync">Sinc;Sincronizare;Cloud</string>
-    <string name="keywords_text_to_speech_output">rată limbă implicit rostire</string>
+    <string name="keywords_system_alert_window">alertă sistem, fereastră de dialog, afișare peste alte aplicații</string>
     <string name="keywords_text_to_speech_output">rată, limbă, implicit, rostire, vorbire, tts, accesibilitate, citire ecran, orb</string>
     <string name="keywords_torch">Lanternă;Bliț</string>
     <string name="keywords_unification">profil Servici, profil gestionat, unificare, unificați, servici, profil</string>
@@ -2095,7 +2095,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="lock_screen_intro_skip_dialog_text">Caracteristicile de protectie a dispozitivului nu vor fi activate. Nu veți putea împiedica alte persoane să utilizeze acest telefon dacă îl veți pierde sau dacă vă va fi furat.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Caracteristicile de protectie a dispozitivului nu vor fi activate. Nu veți putea împiedica alte persoane să utilizeze acest telefon dacă îl veți pierde, dacă vă va fi furat sau dacă va fi șters.</string>
     <string name="lock_screen_notifications_interstitial_message">Când telefonul este blocat, cum doriți să fie afișate notificările?</string>
-    <string name="lock_screen_notifications_interstitial_message">Cum doriți să fie afișate notificările atunci când dispozitivul este blocat?</string>
+    <string name="lock_screen_notifications_interstitial_message_profile">Cum doriți să fie afișate notificările atunci când dispozitivul este blocat?</string>
     <string name="lock_screen_notifications_interstitial_title">Notificări</string>
     <string name="lock_screen_notifications_interstitial_title_profile">Notificări profil</string>
     <string name="lock_screen_notifications_summary_disable">"Nu afișa notificările"</string>
@@ -2981,7 +2981,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="process_stats_summary">Statistici inteligente despre procesele care rulează</string>
     <string name="process_stats_summary_title">Statistici de proces</string>
     <string name="process_stats_total_duration">%1$s din %2$s utilizat în ultimele %3$s</string>
-    <string name="process_stats_total_duration">Aplicații de tip %1$s în %2$s</string>
+    <string name="process_stats_total_duration_percentage">%1$s din memoria RAM utilizată în %2$s</string>
     <string name="process_stats_type_background">În fundal</string>
     <string name="process_stats_type_cached">În cache</string>
     <string name="process_stats_type_foreground">În prim-plan</string>
@@ -3997,7 +3997,7 @@ Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8
     <string name="storage_unmount_failure">Nu s-a putut elimina în siguranță %1$s</string>
     <string name="storage_unmount_success">%1$s este eliminat în siguranță</string>
     <string name="storage_usb">Stocare USB</string>
-    <string name="storage_usb">Stocare USB</string>
+    <string name="storage_usb_settings">Stocare</string>
     <string name="storage_used">Stocare utilizată</string>
     <string name="storage_volume_summary">%1$s utilizat din %2$s</string>
     <string name="storage_volume_used">Utilizat din %1$s</string>
@@ -4338,7 +4338,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="upload_debug_log_summary">Informațiile pe care le colectăm pot include informații personale. Datele vor fi utilizate pentru localizarea și analizarea sistemului și nu vor fi folosite niciodată pentru identificarea dumneavoastră.</string>
     <string name="upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="usage">Utilizare</string>
-    <string name="usage_access_title">Aplicaţii cu acces la utilizare</string>
+    <string name="usage_access">Acces la utilizare</string>
     <string name="usage_access_description">Accesul la utilizare permite unei aplicații să monitorizeze ce alte aplicații utilizați și cât de des, precum și operatorul, setările de limbă și alte detalii.</string>
     <string name="usage_access_title">Aplicații cu acces la utilizare</string>
     <string name="usage_log">Statistici utilizare aplicaţii</string>
@@ -4423,7 +4423,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="user_account_title">Cont pentru conţinut</string>
     <string name="user_add_max_count">Puteți adăuga până la %1$d utilizatori</string>
     <string name="user_add_on_lockscreen_menu">Adăugați utilizatori</string>
-    <string name="user_add_on_lockscreen_menu">Adăugați utilizatori când dispozitivul este blocat</string>
+    <string name="user_add_on_lockscreen_menu_summary">când dispozitivul este blocat</string>
     <string name="user_add_profile_item_summary">Puteţi restricţiona accesul la aplicaţiile si conţinutul contului dvs.</string>
     <string name="user_add_profile_item_title">Profil limitat</string>
     <string name="user_add_user_item_summary">Utilizatorii dețin aplicații și materiale proprii</string>
