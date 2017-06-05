@@ -214,52 +214,21 @@
         <item>Uriaș</item>
         <item>Enorm</item>
      </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Foarte încet</item>
-        <item>Încet</item>
-        <item>Normal</item>
-        <item>Rapid</item>
-        <item>Mai repede</item>
-        <item>Foarte repede</item>
-        <item>Rapid</item>
-        <item>Foarte rapid</item>
-        <item>Cel mai repede</item>
-     </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>Foarte scăzută</item>
-        <item>Redusă</item>
-        <item>Normală</item>
-        <item>Ridicată</item>
-        <item>Foarte ridicată</item>
-     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>În curs de scanare…</item>
-        <item>Se conectează…</item>
-        <item>În curs de autentificare…</item>
-        <item>Se obţine adresa IP…</item>
-        <item>Conectat</item>
-        <item>Suspendat</item>
-        <item>În curs de deconectare…</item>
-        <item>Deconectat</item>
-        <item>Nereuşit</item>
-        <item>Blocat</item>
-        <item>Evitarea temporară a conexiunii slabe</item>
-     </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>În curs de scanare…</item>
-        <item>Se conectează la %1$s…</item>
-        <item>Se autentifică cu %1$s…</item>
-        <item>Se obţine adresa IP de la %1$s…</item>
-        <item>Conectat la %1$s</item>
-        <item>Suspendată</item>
-        <item>În curs de deconectare de la %1$s…</item>
-        <item>Deconectată</item>
-        <item>Nereuşit</item>
-        <item>Blocat</item>
-        <item>Evitarea temporară a conexiunii slabe</item>
-     </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Buton WPS</item>
         <item>Codul PIN de la dispozitivul asociat</item>
@@ -298,15 +267,6 @@
         <item>Ultimele 30 de zile</item>
         <item>Setați ciclul de utilizare...</item>
     </string-array>	 
-    <string-array name="sim_card_data_range">
-        <item>Ultimele 4 cifre</item>
-        <item>Primele 4 cifre</item>
-    </string-array>	 
-    <string-array name="wifi_frequency_band_entries">
-        <item>Automat</item>
-        <item>Numai pe 5 GHz</item>
-        <item>Numai pe 2,4 GHz</item>
-     </string-array>	 
     <string-array name="usage_stats_display_order_types">
         <item>Durată de utilizare</item>
         <item>Ultima utilizare</item>
@@ -380,18 +340,12 @@
         <item>Card SD</item>
         <item>Permiteţi sistemului să decidă</item>
      </string-array>
-    <string-array name="app_ops_permissions">
-        <item>Permite</item>
-        <item>Ignoră</item>
-        <item>Întreabă întotdeauna</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Locație</item>
         <item>Personal</item>
         <item>Mesagerie</item>
         <item>Media</item>
         <item>Dispozitiv</item>
-        <item>Bootare</item>
      </string-array>
     <string-array name="app_ops_summaries">
         <item>locație imprecisă</item>
@@ -442,18 +396,22 @@
         <item>afișare fereastră plutitoare</item>
         <item>proiectare fișier media</item>
         <item>activare VPN</item>
-        <item>modificare stare Wi-Fi</item>
-        <item>modificare stare bluetooth</item>
-        <item>trimite MMS</item>
-        <item>citește MMS</item>
-        <item>scrie MMS</item>
-        <item>pornire automată</item>
-        <item>modificare stare NFC</item>
-        <item>șterge SMS</item>
-        <item>șterge MMS</item>
-        <item>șterge contacte</item>
-        <item>șterge istoricul de apelare</item>
-        <item>modificare date</item>
+        <item>modificare imagine de fundal</item>
+        <item>asistent structură</item>
+        <item>asistent captură de ecran</item>
+        <item>citește starea telefonului/item>
+        <item>adăugare căsuță vocală</item>
+        <item>utilizare sip</item>
+        <item>procesare apeluri</item>
+        <item>amprentă</item>
+        <item>senzori corporali</item>
+        <item>citire celule mobile</item>
+        <item>locație fictivă</item>
+        <item>citire stocare</item>
+        <item>scriere în stocare</item>
+        <item>pornire ecran</item>
+        <item>obține conturile</item>
+        <item>rulează în fundal</item>
      </string-array>
     <string-array name="app_ops_labels">
         <item>Locație</item>
@@ -504,18 +462,22 @@
         <item>Afișare fereastră plutitoare</item>
         <item>Proiectare fișier media</item>
         <item>Activare VPN</item>
-        <item>Modificare stare Wi-Fi</item>
-        <item>Modificare stare bluetooth</item>
-        <item>Trimitere MMS</item>
-        <item>Citire MMS</item>
-        <item>Scriere MMS</item>
-        <item>Pornire automată</item>
-        <item>Modificare stare NFC</item>
-        <item>Ștergere SMS</item>
-        <item>Ștergere MMS</item>
-        <item>Ștergere contacte</item>
-        <item>Șterge istoricul de apelare</item>
-        <item>Modificare date</item>
+        <item>Write wallpaper</item>
+        <item>Assist structure</item>
+        <item>Assist screenshot</item>
+        <item>Read phone state</item>
+        <item>Add voicemail</item>
+        <item>Use sip</item>
+        <item>Process outgoing call</item>
+        <item>Fingerprint</item>
+        <item>Body sensors</item>
+        <item>Read cell broadcasts</item>
+        <item>Mock location</item>
+        <item>Read storage</item>
+        <item>Write storage</item>
+        <item>Turn on screen</item>
+        <item>Get accounts</item>
+        <item>Run in background</item>
      </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Scurtă</item>
@@ -562,101 +524,6 @@
         <item>Galben pe albastru</item>
         <item>Personalizat</item>
      </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>16 M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64K per jurnal tampon</item>
-        <item>256K per jurnal tampon</item>
-        <item>1M per jurnal tampon</item>
-        <item>4M per jurnal tampon</item>
-        <item>16M per jurnal tampon</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Nu verificaţi niciodată</item>
-        <item>Verificaţi doar pentru conţinut DRM</item>
-        <item>Verificaţi întotdeauna</item>
-     </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Nu utilizaţi niciodată verificarea HDCP</item>
-        <item>Utilizaţi verificarea HDCP numai pentru conţinut DRM</item>
-        <item>Utilizaţi întotdeauna verificarea HDCP</item>
-     </string-array>	
-    <string-array name="window_animation_scale_entries">
-        <item>Animaţie dezactivată</item>
-        <item>Animaţie la scara 0,5x</item>
-        <item>Animaţie la scara 1x</item>
-        <item>Animaţie la scara 1,5x</item>
-        <item>Animaţie la scara 2x</item>
-        <item>Animaţie la scara 5x</item>
-        <item>Animaţie la scara 10x</item>
-     </string-array>	
-    <string-array name="transition_animation_scale_entries">
-        <item>Animaţie dezactivată</item>
-        <item>Animaţie la scara 0,5x</item>
-        <item>Animaţie la scara 1x</item>
-        <item>Animaţie la scara 1,5x</item>
-        <item>Animaţie la scara 2x</item>
-        <item>Animaţie la scara 5x</item>
-        <item>Animaţie la scara 10x</item>
-     </string-array>	
-    <string-array name="animator_duration_scale_entries">
-        <item>Animaţie dezactivată</item>
-        <item>Animaţie la scara 0,5x</item>
-        <item>Animaţie la scara 1x</item>
-        <item>Animaţie la scara 1,5x</item>
-        <item>Animaţie la scara 2x</item>
-        <item>Animaţie la scara 5x</item>
-        <item>Animaţie la scara 10x</item>
-     </string-array>	
-    <string-array name="overlay_display_devices_entries">
-        <item>Niciuna</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (securizat)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (securizat)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (securizat)</item>
-        <item>1280x720 tvdpi şi 1920x1080 xhdpi</item>
-     </string-array>	
-    <string-array name="enable_opengl_traces_entries">
-        <item>Niciuna</item>
-        <item>Logcat</item>
-        <item>Systrace (imagini)</item>
-        <item>Apelaţi stiva pentru glGetError</item>
-     </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Dezactivat</item>
-        <item>Zonă decupare non-rectangulară albastră</item>
-        <item>Controale de desenare testate, cu verde</item>
-     </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Dezactivat</item>
-        <item>Pe ecran ca bare</item>
-        <item>În adb shell dumpsys gfxinfo</item>
-     </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Dezactivată</item>
-        <item>Afișați zonele cu suprapunere</item>
-        <item>Afișați zonele de deuteranomalie</item>
-     </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Limita standard</item>
-        <item>Fără procese în fundal</item>
-        <item>Cel mult 1 proces</item>
-        <item>Cel mult 2 procese</item>
-        <item>Cel mult 3 procese</item>
-        <item>Cel mult 4 procese</item>
-     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
         <item>L2TP/IPSec PSK</item>
@@ -698,11 +565,6 @@
         <item>moderată</item>
         <item>scăzută</item>
         <item>critică</item>
-    </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Oprit</item>
-        <item>Întreruperi limitate</item>
-        <item>Nicio întrerupere</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
@@ -983,10 +845,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>Reporniți telefonul pentru a aplica această setare?</item>
         <item>Reporniți telefonul pentru a aplica această setare?</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Foarte înaltă (2K)</item>
-        <item>Normală (720p)</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
