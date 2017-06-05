@@ -72,9 +72,9 @@
         <item>Niciodată</item>
     </string-array>
     <string-array name="lock_mode">
-        <item>Blochează când telefonul este inactiv</item>
-        <item>Blochează după ieșirea din aplicație</item>
-        <item>Blochează după un minut de la părăsirea aplicației</item>
+        <item>Când telefonul este inactiv</item>
+        <item>Când telefonul este blocat sau după ieșirea din aplicație</item>
+        <item>Când telefonul este blocat sau după un minut de la părăsirea aplicației</item>
     </string-array>
     <string-array name="long_add_menu">
         <item>Adăugați în lista excepțiilor</item>

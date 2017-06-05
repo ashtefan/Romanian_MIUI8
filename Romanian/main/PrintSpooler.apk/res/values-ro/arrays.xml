@@ -4,6 +4,11 @@
         <item>Alb-negru</item>
         <item>Color</item>
     </string-array>
+    <string-array name="duplex_mode_labels">
+        <item>Niciunul</item>
+        <item>Latura lungă</item>
+        <item>Latura scurtă</item>
+    </string-array>
     <string-array name="orientation_labels">
         <item>Portret</item>
         <item>Peisaj</item>

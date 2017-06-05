@@ -4,8 +4,8 @@
         <item quantity="other">%1$s imprimante găsite</item>
         <item quantity="one">%1$s imprimantă găsită</item>
     </plurals>
-    <plurals name="composite_notification_title_template">
-        <item quantity="other">Sarcini de printare %1$d</item>
-        <item quantity="one">Sarcină de printare %1$d</item>
+    <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Instalați pentru a descoperi %1$s imprimante</item>
+        <item quantity="one">Instalați pentru a descoperi %1$s imprimantă</item>
     </plurals>
 </resources>

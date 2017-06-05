@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="Call_ADRESS">Lista blocărilor locale</string>
     <string name="Call_BLACKLIST">Lista blocărilor apelurilor</string>
@@ -646,8 +646,8 @@ Dacă reactivați conexiunea de date mobile, este posibil să fiți taxați supl
     <string name="domestic_roaming_setting">Roaming național</string>
     <string name="download">Descărcați</string>
     <string name="downloading">Se descarcă</string>
-    <string name="dual_setting_simcard1">SIM1</string>
-    <string name="dual_setting_simcard2">SIM2</string>
+    <string name="dual_setting_simcard1">SIM 1</string>
+    <string name="dual_setting_simcard2">SIM 2</string>
     <string name="email">E-mail</string>
     <string name="empty_activity_title">" "</string>
     <string name="empty_app">Nicio aplicație</string>
@@ -1297,7 +1297,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="power_save_mode_ontime_enabled">Programați comutarea modurilor</string>
     <string name="power_save_mode_start_time">Start</string>
     <string name="power_save_mode_summary" formatted="false">Monitorizează procesele în fundal și dezactivează sincronizarea. Economisirea acumulatorului se va dezactiva în mod automat atunci când capacitatea acumulatorului este peste 60%.</string>
-    <string name="power_save_on_time_end_time_summary">Sfârşit</string>
+    <string name="power_save_on_time_end_time_summary_na">La</string>
     <string name="power_save_on_time_start_time_summary_na">De la</string>
     <string name="power_save_summary_text">"Activați Economisirea acumulatorului pentru a reduce activitatea în fundal a aplicațiilor, opriți sincronizarea și ascundeți animațiile de sistem."</string>
     <string name="power_save_title_text">Economisire acumulator</string>
@@ -1904,7 +1904,7 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
     <string name="text_button">Am înțeles</string>
     <string name="text_cycle_day">%s</string>
-    <string name="text_day"></string>
+    <string name="text_day"/>
     <string name="text_lock_info">Desenați modelul de deblocare</string>
     <string name="there_is_no">Totul arată bine, reveniți mai târziu</string>
     <string name="third_application">Aplicații instalate</string>
@@ -1915,8 +1915,8 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="timeshow_m">%d m</string>
     <string name="timeshow_m_s">%1$d m și %2$d s</string>
     <string name="timeshow_s">%d s</string>
-    <string name="tips_dialog_title">Nu cunoaşteţi limita</string>
-    <string name="tips_message">Pentru a vizualiza detalii ale planului de date, apelaţi %2$s (%1$s).</string>
+    <string name="tips_dialog_title">"Nu cunoaşteţi limita"</string>
+    <string name="tips_message">"Pentru a vizualiza detalii ale planului de date, apelaţi %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Ștergeți aplicațiile rar utilizate pentru a elibera spațiu de stocare</string>
     <string name="tips_of_auto_launch_manage">Preveniți pornirea automată a aplicațiilor rar utilizate</string>
     <string name="tips_of_operators_set">Ajustați în mod automat starea utilizării datelor mobile</string>
