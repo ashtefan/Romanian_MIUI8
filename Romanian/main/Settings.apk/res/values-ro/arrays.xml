@@ -62,16 +62,16 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animație oprită</item>
-        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara  0,5x</item>
         <item>Animație la scara  1x</item>
         <item>Animație la scara  1,5x</item>
-        <item>Animație la scara 2x</item>
+        <item>Animație la scara  2x</item>
         <item>Animație la scara  5x</item>
         <item>Animație la scara  10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animație oprită</item>
-        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara  0,5x</item>
         <item>Animație la scara  1x</item>
         <item>Animație la scara  1,5x</item>
         <item>Animație la scara  2x</item>
@@ -102,10 +102,10 @@
         <item>720p, 1080p (ecran scindat)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Niciunul</item>
+        <item>Niciuna</item>
         <item>Logcat</item>
         <item>Systrace (Grafică)</item>
-        <item>Call stack on glGetError</item>
+        <item>Apelați stiva pentru glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Oprit</item>
@@ -115,7 +115,7 @@
     <string-array name="track_frame_time_entries">
         <item>Oprit</item>
         <item>Pe ecran, ca bare</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>În adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Oprit</item>
@@ -124,7 +124,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limita standard</item>
-        <item>Niciun proces de fundal</item>
+        <item>Niciun proces în fundal</item>
         <item>Cel mult 1 proces</item>
         <item>Cel mult 2 procese</item>
         <item>Cel mult 3 procese</item>
@@ -132,8 +132,8 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Încărcare</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>MTP (Protocol de Transfer Multimedia)</item>
+        <item>PTP (Protocol de Transfer Fotografiil)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Sursă audio</item>
         <item>MIDI</item>
@@ -148,6 +148,14 @@
         <item>Rapid</item>
         <item>Foarte rapid</item>
         <item>Cel mai rapid</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (implicit)</item>
@@ -208,11 +216,10 @@
         <item>30 de minute</item>
      </string-array>
     <string-array name="entries_font_size">
-        <item>Normal</item>
-        <item>Mediu</item>
+        <item>Mic</item>
+        <item>Implicit</item>
         <item>Mare</item>
-        <item>Uriaș</item>
-        <item>Enorm</item>
+        <item>Cel mai mare</item>
      </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -239,7 +246,7 @@
         <item>Invitat</item>
         <item>Nereuşit</item>
         <item>Disponibil</item>
-        <item>Fără acoperire</item>
+        <item>Înafara razei de acoperire</item>
      </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 minute</item>
@@ -360,8 +367,8 @@
         <item>editează calendarul</item>
         <item>scanează Wi-Fi</item>
         <item>notificare</item>
-        <item>scanează semnal mobil</item>
-        <item>iniţiază apel</item>
+        <item>scanează celule mobile</item>
+        <item>iniţiază apeluri</item>
         <item>citește mesaje SMS</item>
         <item>scrie mesaje SMS</item>
         <item>primește mesaje SMS</item>
@@ -374,42 +381,42 @@
         <item>modifică setările</item>
         <item>desenează deasupra</item>
         <item>accesează notificări</item>
-        <item>cameră foto</item>
+        <item>accesează camera foto</item>
         <item>înregistrează conținut audio</item>
         <item>redă conținut audio</item>
         <item>citește clipboardul</item>
         <item>modifică clipboardul</item>
-        <item>butoane media</item>
-        <item>focalizare audio</item>
+        <item>accesează butoanele media</item>
+        <item>utilizează focalizarea audio</item>
         <item>volum principal</item>
         <item>volum voce</item>
         <item>volum sonerie</item>
         <item>volum media</item>
         <item>volum alarmă</item>
         <item>volum notificări</item>
-        <item>volumul Bluetooth</item>
-        <item>mențineți activ</item>
-        <item>monitorizarea locației</item>
-        <item>monitorizarea localizării cu un consum ridicat de energie</item>
-        <item>obțineți date despre utilizare</item>
-        <item>opriți/porniți microfonul</item>
-        <item>afișare fereastră plutitoare</item>
-        <item>proiectare fișier media</item>
-        <item>activare VPN</item>
-        <item>modificare imagine de fundal</item>
+        <item>volum Bluetooth</item>
+        <item>menține telefonul activ</item>
+        <item>monitorizează locația</item>
+        <item>monitorizează localizarea cu un consum ridicat de energie</item>
+        <item>obține date despre utilizare</item>
+        <item>oprește/pornește microfonul</item>
+        <item>afișează ferestre plutitoare</item>
+        <item>proiectează fișiere media</item>
+        <item>activează VPN</item>
+        <item>modifică imaginea de fundal</item>
         <item>asistent structură</item>
         <item>asistent captură de ecran</item>
         <item>citește starea telefonului</item>
-        <item>adăugare căsuță vocală</item>
-        <item>utilizare sip</item>
-        <item>procesare apeluri</item>
+        <item>adaugă căsuță vocală</item>
+        <item>utilizează sip</item>
+        <item>procesează apeluri</item>
         <item>amprentă</item>
         <item>senzori corporali</item>
-        <item>citire celule mobile</item>
+        <item>citește celule mobile</item>
         <item>locație fictivă</item>
-        <item>citire stocare</item>
-        <item>scriere în stocare</item>
-        <item>pornire ecran</item>
+        <item>citește mediul de stocare</item>
+        <item>scrie în mediul de stocare</item>
+        <item>pornește ecranul</item>
         <item>obține conturile</item>
         <item>rulează în fundal</item>
      </string-array>
@@ -427,26 +434,26 @@
         <item>Locație</item>
         <item>Postează o notificare</item>
         <item>Locație</item>
-        <item>Apelează un telefon</item>
-        <item>Citiți mesaje SMS/MMS</item>
-        <item>Scrieți mesaje SMS/MMS</item>
+        <item>Apelează</item>
+        <item>Citește mesaje SMS/MMS</item>
+        <item>Scrie mesaje SMS/MMS</item>
         <item>Primește mesaje SMS/MMS</item>
         <item>Primește mesaje SMS/MMS</item>
         <item>Primește mesaje SMS/MMS</item>
         <item>Primește mesaje SMS/MMS</item>
         <item>Trimite mesaje SMS/MMS</item>
-        <item>Citiți mesaje SMS/MMS</item>
-        <item>Scrieți mesaje SMS/MMS</item>
+        <item>Citește mesaje SMS/MMS</item>
+        <item>Scrie mesaje SMS/MMS</item>
         <item>Modifică setările</item>
         <item>Desenează deasupra</item>
         <item>Accesează notificări</item>
-        <item>Cameră foto</item>
+        <item>Accesează Camera foto</item>
         <item>Înregistrează conținut audio</item>
         <item>Redă conținut audio</item>
         <item>Citește clipboardul</item>
         <item>Modifică clipboardul</item>
-        <item>Butoane media</item>
-        <item>Focalizare audio</item>
+        <item>Accesează butoanele media</item>
+        <item>Utilizează focalizarea audio</item>
         <item>Volum principal</item>
         <item>Volum voce</item>
         <item>Volum sonerie</item>
@@ -454,30 +461,30 @@
         <item>Volum alarmă</item>
         <item>Volum notificări</item>
         <item>Volum Bluetooth</item>
-        <item>Păstrare în activitate</item>
+        <item>Păstrează telefonul activ</item>
         <item>Locație</item>
         <item>Locație</item>
-        <item>Obținere date despre utilizare</item>
-        <item>Oprire/Pornire a microfonului</item>
-        <item>Afișare fereastră plutitoare</item>
-        <item>Proiectare fișier media</item>
-        <item>Activare VPN</item>
-        <item>Write wallpaper</item>
-        <item>Assist structure</item>
-        <item>Assist screenshot</item>
-        <item>Read phone state</item>
-        <item>Add voicemail</item>
-        <item>Use sip</item>
-        <item>Process outgoing call</item>
-        <item>Fingerprint</item>
-        <item>Body sensors</item>
-        <item>Read cell broadcasts</item>
-        <item>Mock location</item>
-        <item>Read storage</item>
-        <item>Write storage</item>
-        <item>Turn on screen</item>
-        <item>Get accounts</item>
-        <item>Run in background</item>
+        <item>Obține date despre utilizare</item>
+        <item>Oprește/Pornește microfonul</item>
+        <item>Afișează ferestre plutitoare</item>
+        <item>Proiectează fișiere media</item>
+        <item>Activează VPN</item>
+        <item>Modifică imaginea de fundal</item>
+        <item>Asistent structură</item>
+        <item>Asistent captură de ecran</item>
+        <item>Citește starea telefonului</item>
+        <item>Adaugă o căsuță vocală</item>
+        <item>Utilizează sip</item>
+        <item>Procesează apeluri</item>
+        <item>Amprentă</item>
+        <item>Senzori corporali</item>
+        <item>Citește celule mobile</item>
+        <item>Locație fictivă</item>
+        <item>Citește mediul de stocare</item>
+        <item>Scrie în mediul de stocare</item>
+        <item>Pornește ecranul</item>
+        <item>Obține conturile</item>
+        <item>Rulează în fundal</item>
      </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Scurtă</item>
@@ -545,7 +552,7 @@
         <item>Se iniţializează…</item>
         <item>Se conectează…</item>
         <item>Conectată</item>
-        <item>Timp limită</item>
+        <item>Timp limită expirat</item>
         <item>Nereuşită</item>
      </string-array>
     <string-array name="user_content_ratings_entries">
@@ -561,10 +568,11 @@
         <item>Permiteţi întotdeauna</item>
      </string-array>
     <string-array name="ram_states">
-        <item>normală</item>
-        <item>moderată</item>
-        <item>scăzută</item>
-        <item>critică</item>
+        <item>Normală</item>
+        <item>Moderată</item>
+        <item>Scăzută</item>
+        <item>Critică</item>
+        <item>\?</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
@@ -585,8 +593,30 @@
         <item>Acasă</item>
         <item>Ultima activitate</item>
         <item>În cache (activitate)</item>
-        <item>În cache (client activitate)</item>
+        <item>În cache (activitate client)</item>
         <item>În cache (gol)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Turcoaz</item>
+        <item>Albastru</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+        <item>Roz</item>
+        <item>Roșu</item>
+    </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Conectare automată</item>
+        <item>Conectare manuală</item>
+        <item>Întreabă întotdeauna</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>De preferat Wi-Fi</item>
+        <item>c</item>
+        <item>Doar Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>De preferat Wi-Fi</item>
+        <item>De preferat Wi-Fi</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Oprită</item>
@@ -599,10 +629,6 @@
         <item>Medie</item>
         <item>Slabă</item>
      </string-array>
-    <string-array name="ap_identify">
-        <item>implicit</item>
-        <item>iPhone</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafic</item>
         <item>Procent</item>
@@ -652,6 +678,14 @@
         <item>SIM</item>
         <item>AKA</item>
      </string-array>	
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Butonul Meniu în stânga, butonul Înapoi în dreapta</item>
+        <item>Butonul Înapoi în stânga, butonul Meniu în dreapta</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Afişare aplicaţii recente</item>
         <item>Afişare meniu</item>
@@ -722,9 +756,9 @@
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Crează un director: mkdir /media/mtp</item>
-        <item>Confirm user group permissions in the current fuse user group</item>
+        <item>Confirmă permisiunile grupului de utilizatori în amalgamul curent de grupuri de utilizatori</item>
         <item>Reconectare</item>
-        <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>Accesează dispozitivul montat: mtpfs /media/mtp prin exploratorul de fișiere; la fel ca directorul local</item>
         <item>"Dezinstalare dispozitiv: fusermount -u /media/mtp
 Notă: Doar pentru Ubuntu 8.04!"</item>
      </string-array>
@@ -744,7 +778,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
      </string-array>
     <string-array name="screen_optimize_summary">
         <item>Optimizare contrast pentru lumina disponibilă</item>
-        <item>Creșterea contrastului ecranului</item>
+        <item>"Crește contrastul ecranului"</item>
         <item>Contrastul va rămâne constant</item>
      </string-array>
     <string-array name="perm_hips_action">
@@ -761,8 +795,8 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Nativ</item>
      </string-array> 
     <string-array name="phone_call_noise_suppression_title">
-        <item>Un microfon</item>
-        <item>Microfon dublu</item>
+        <item>Eliminare zgomot pentru un microfon</item>
+        <item>Eliminare zgomot pentru microfon dublu</item>
      </string-array> 
     <string-array name="change_security_lock_picker">
         <item>Deblocare facială</item>
@@ -788,7 +822,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Galerie</item>
         <item>Muzică</item>
         <item>E-mail</item>
-        <item>Rulare videoclip</item>
+        <item>Redare videoclip</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Viteza rețelei este scăzută datorită traficului intens</item>
@@ -804,7 +838,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Lentă</item>
         <item>Normală</item>
         <item>Rapidă</item>
-        <item>Foarte rapidă</item>
+        <item>Cea mai rapidă</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Oprit</item>
@@ -815,6 +849,14 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="agps_network_entries">
         <item>Rețeaua de acasă</item>
         <item>Toate rețelele</item>
+    </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>FIERBINTE</item>
@@ -854,6 +896,15 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Nelimitat</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>Blocare ecran</item>
         <item>Parolă de protecție a confidențialității</item>
@@ -861,6 +912,21 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Explorator fișiere</item>
         <item>Blocare aplicație</item>
         <item>Spațiul secundar</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Pentru stângaci</item>
+        <item>Pentru dreptaci</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automat</item>
+        <item>Doar 5 GHz</item>
+        <item>Doar 2,4 GHz</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Ajustarea clicului - Declanșator dublu clic</item>
+        <item>Aliniați alunecarea - declanșa de alunecare</item>
+        <item>Ajustare clic - clic pe declanșator</item>
+        <item>Ajustarea clicului - declanșator cu clic lung</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -1468,8 +1534,8 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="standard_configuration_version">
         <item>3 GB</item>
-        <item>16 GB</item>
-        <item>Quad-core 2,5 GHz</item>
+        <item>32 GB</item>
+        <item>Quad-core de până la 1,8 GHz</item>
     </string-array>
     <string-array name="high_configuration_version">
         <item>3 GB</item>
@@ -1482,19 +1548,19 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Quad-core 2,15 GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
-        <item>Versiune Android</item>
         <item>Procesor</item>
         <item>Capacitate baterie</item>
-        <item>Dimensiune ecran</item>
-        <item>Rezoluție ecran</item>
         <item>Cameră posterioară</item>
+        <item>Dimensiune ecran</item>
+        <item>Cameră posterioară</item>
+        <item>Versiune Android</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>MediaTek Helio X10</item>
-        <item>3060 mAh(typ)</item>
-        <item>13 MP</item>
-        <item>5,5 inci</item>
+        <item>Qualcomm 820</item>
+        <item>3000 mAh(typ)</item>
+        <item>16 MP</item>
+        <item>5,15 inci</item>
         <item>1920 x 1080 pixeli</item>
-        <item>Android 4.4</item>
+        <item>6.0.1</item>
     </string-array>
 </resources>
