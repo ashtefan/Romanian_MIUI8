@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="alert_message_clear_records">Ștergeți înregistrările selectate?</string>
     <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Mi Cloud. Ştergeți înregistrările selectate oricum?</string>
@@ -42,8 +42,8 @@
     <string name="head_set_tip_dialog_ok">Am înțeles</string>
     <string name="head_set_tip_dialog_title">Utilizați microfonul intern</string>
     <string name="invalid_argument">Argument invalid</string>
-  <string name="keywords_search_call_record">Înregistrare apeluri;Înregistrare apel;Call recording;Call recordings</string>
-  <string name="keywords_search_record">Înregistrare nouă;Adăugați o înregistrare;Înregistrare;Înregistrări;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
+    <string name="keywords_search_call_record">Înregistrare apeluri;Înregistrare apel;Call recording;Call recordings</string>
+    <string name="keywords_search_record">Înregistrare nouă;Adăugați o înregistrare;Înregistrare;Înregistrări;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
   <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
     <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>
     <string name="low_battery_error_confirm">OK</string>
@@ -151,6 +151,6 @@
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
     <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
     <string name="wifi_recommended_body" formatted="false">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
-    <string name="wifi_recommended_title">Memento utilizare date</string>
+    <string name="wifi_recommended_title">Avertisment utilizare date</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -22,13 +22,13 @@
     <string name="messaging">Mesagerie</string>
     <string name="received_label">"Recepționat: "</string>
     <string name="repayment_network_error">Ceva a mers prost cu rețeaua dumneavoastră</string>
-  <string name="repayment_title">Repayment</string>
-  <string name="repayment_way">Repayment method</string>
+    <string name="repayment_title">Reluare plată</string>
+    <string name="repayment_way">Metoda de reluare plată</string>
     <string name="sent_label">"Trimis: "</string>
     <string name="smart_messages_network_allow_message">Mesagerie Mi trebuie să se conecteze la internet pentru ca serviciile sale să funcționeze în mod normal. Permiteți acum?</string>
     <string name="smart_messages_network_allow_title">Este necesară conexiunea la rețea</string>
-  <string name="sms_card_partner_label">"SMS card partner: "</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="text_message">Mesaj text</string>
     <string name="view_message_details">Vizualizați detaliile</string>
 </resources>

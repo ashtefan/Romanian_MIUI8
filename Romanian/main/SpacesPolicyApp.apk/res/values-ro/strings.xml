@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="admin_receiver_status_disable_warning">Secure Spaces device admin va fi reactivat dacă și când va fi necesar ulterior.</string>
-  <string name="app_name">Secure Spaces Agent</string>
+    <string name="app_name">Agent Spații securizate</string>
     <string name="btn_title_cancel">Renunțați</string>
     <string name="btn_title_force">Forțați</string>
     <string name="choice_no">Nu</string>
