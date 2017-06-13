@@ -583,7 +583,6 @@
     <string name="disable_sim_pin">Dezactivaţi codul PIN al cartelei SIM</string>
     <string name="disabled_by_admin">Dezactivat de administrator</string>
     <string name="disabled_by_admin_summary_text">Controlată de administrator</string>
-  <string name="display_name">DisplayName</string>
     <string name="display_name_summary">&lt;Identic cu numele de utilizator&gt;</string>
     <string name="display_name_title">Numele afişat</string>
     <string name="domain_address_title">Server</string>
@@ -1009,7 +1008,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="other_settings_category">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecran secundar</string>
     <string name="overseas_roaming_setting">Date mobile în roaming</string>
-    <string name="password">Parolă</string>
     <string name="password_changed">Parolă modificată cu succes</string>
     <string name="password_title">Parolă</string>
     <string name="path_answer_state_setting_title">Aplicații de sistem/Telefon/Setările apelurilor primite</string>
@@ -1094,7 +1092,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="pin_progress_unlock_icc">Deblocare cartelă SIM…</string>
     <string name="pointer_location">Locația indicatorului</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
-    <string name="port">Port</string>
     <string name="port_title">Numărul portului</string>
     <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
@@ -1290,10 +1287,8 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="select_webview_provider_title">Implementare WebView</string>
     <string name="select_webview_provider_toast_text">Această opțiune nu mai este validă. Încercați din nou.</string>
     <string name="send_button">Trimiteţi</string>
-    <string name="send_keepalive">Trimiteți tonuri de salvare</string>
     <string name="send_keepalive_title">Trimiteţi mesaje keep-alive</string>
     <string name="set_primary">Setați ca principal</string>
-    <string name="set_primary_summary">Utilizat pentru apelurile de ieşire</string>
     <string name="set_primary_title">Setaţi drept cont principal</string>
     <string name="set_smsc_address_error">Nu a reușit setarea numărului</string>
     <string name="set_smsc_address_timeout">Conexiune expirată</string>
@@ -1428,7 +1423,6 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="telocation_number_type_mob">Telefon mobil</string>
     <string name="telocation_number_type_tel">Telefon fix</string>
     <string name="telocation_setting">Setări locaţie</string>
-    <string name="telocation_show_settings">Setări ecran</string>
     <string name="tether_settings_title_all">Tethering și hotspot portabil</string>
     <string name="tether_settings_title_bluetooth">Tethering prin Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering prin USB</string>
@@ -1464,7 +1458,6 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
     <string name="track_frame_time">Profil randare GPU</string>
     <string name="transition_animation_scale_title">Scală animație de tranziție</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Tip de transport</string>
 <string name="tts_default_lang_summary">Setează vocea în funcție de configurarea regională pentru textul rostit</string>
     <string name="tts_default_lang_title">Limbă</string>

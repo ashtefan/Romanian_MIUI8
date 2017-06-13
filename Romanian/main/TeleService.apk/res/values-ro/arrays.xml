@@ -181,7 +181,6 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
-    <string-array name="preferred_network_mode_values_world_mode">
     <string-array name="clir_display_values">
         <item>Setat de rețea</item>
         <item>Ascunde numărul</item>

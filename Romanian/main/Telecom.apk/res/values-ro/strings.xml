@@ -150,7 +150,6 @@
     <string name="development_settings_title">Opțiuni dezvoltator</string>
     <string name="dial_conference_fail_prompt">"Nu se poate apela direct conferința deoarece rețeaua curentă nu suportă VoLTE."</string>
     <string name="dial_vt_fail_prompt">"Rețeaua curentă nu suportă VoLTE. Comutați la apelarea vocală obișnuită?"</string>
-    <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
     <string name="disable_overlays">Dezactivați suprascrierile HW</string>
     <string name="disable_overlays_summary">Utilizați GPU întotdeauna pentru compunerea imaginii ecranului</string>
     <string name="disabled_by_admin">Dezactivată de către administrator</string>
@@ -189,7 +188,6 @@
     <string name="inactive_app_active_summary">Activă. Atingeți pentru a comuta.</string>
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
-    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
     <string name="incall_error_call_failed">"Nu s-a putut efectua apelul."</string>
     <string name="incoming_call_failed_low_battery">Apelul primit a eșuat datorită nivelului redus al acumulatorului.</string>
     <string name="keep_screen_on">Ecran activ la încărcare</string>
@@ -349,8 +347,6 @@
     <string name="tts_status_ok">%1$s este complet suportat</string>
     <string name="tts_status_requires_network">%1$s necesită conexiune la rețea</string>
     <string name="tts_status_title">Stare limbă implicită</string>
-    <string name="ui_default_package">com.android.incallui</string>
-    <string name="ui_default_package_dialer">com.android.contacts</string>
     <string name="unblock_button">Deblocați</string>
     <string name="unblock_dialog_body">Deblocați %1$s?</string>
     <string name="unknown">Necunoscut</string>
