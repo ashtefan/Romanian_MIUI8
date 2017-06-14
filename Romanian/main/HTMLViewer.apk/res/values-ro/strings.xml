@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="ad_service">Serviciul de reclame</string>
-    <string name="app_label">Ecran de vizualizare HTML</string>
-    <string name="app_name_which_call">Aplicația:%s</string>
-    <string name="app_version_which_call">Versiunea aplicației:%s</string>
-    <string name="ime_privacy_policy">Selectați tastatura</string>
-    <string name="license_host_unreachable">"Nu se poate conecta la rețea. Pentru a vedea informația acum, 
+  <string name="ad_service">Serviciul de reclame</string>
+  <string name="app_label">Ecran de vizualizare HTML</string>
+  <string name="app_name_which_call">Aplicația:%s</string>
+  <string name="app_version_which_call">Versiunea aplicației:%s</string>
+  <string name="ime_privacy_policy">Selectați tastatura</string>
+  <string name="license_host_unreachable">"Nu se poate conecta la rețea. Pentru a vedea informația acum, 
 accesați %s"</string>
-    <string name="loading">Încărcare…</string>
-    <string name="mibi_license">Termenii si condițiile serviciului Mi Credit</string>
-    <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
-    <string name="open_wifi_connect_title">Conectați-vă la %1$s</string>
-    <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>
-    <string name="policy_name">Politica de confidențialitate: %s</string>
-    <string name="settings_ad_loading">Se încarcă…</string>
-    <string name="settings_ad_loading_unavailable">A apărut o problemă în timpul încărcării.</string>
-    <string name="settings_license_activity_loading">Încărcare…</string>
-    <string name="settings_license_activity_title">Licențe open-sourse</string>
-    <string name="settings_license_activity_unavailable">A apărut o problemă la încărcarea licențelor.</string>
-    <string name="settings_safetylegal_activity_loading">Încărcare…</string>
-    <string name="settings_safetylegal_activity_title">Informații de securitate</string>
-    <string name="settings_safetylegal_activity_unreachable">"Nu aveți o conexiune de date activă. Pentru a vizualiza această informație acum, accesați %s de pe un computer conectat la internet."</string>
-    <string name="settings_safetylegal_title">Informații de securitate</string>
+  <string name="loading">Încărcare…</string>
+  <string name="mibi_license">Termenii si condițiile serviciului Mi Credit</string>
+  <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
+  <string name="open_wifi_connect_title">Conectați-vă la %1$s</string>
+  <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>
+  <string name="policy_name">Politica de confidențialitate: %s</string>
+  <string name="settings_ad_loading">Se încarcă…</string>
+  <string name="settings_ad_loading_unavailable">A apărut o problemă în timpul încărcării.</string>
+  <string name="settings_license_activity_loading">Încărcare…</string>
+  <string name="settings_license_activity_title">Licențe open-sourse</string>
+  <string name="settings_license_activity_unavailable">A apărut o problemă la încărcarea licențelor.</string>
+  <string name="settings_safetylegal_activity_loading">Încărcare…</string>
+  <string name="settings_safetylegal_activity_title">Informații de securitate</string>
+  <string name="settings_safetylegal_activity_unreachable">"Nu aveți o conexiune de date activă. Pentru a vizualiza această informație acum, accesați %s de pe un computer conectat la internet."</string>
+  <string name="settings_safetylegal_title">Informații de securitate</string>
 </resources>
