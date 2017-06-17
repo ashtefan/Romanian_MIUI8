@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="permission_description">Utilizați serviciul Smart card</string>
+  <string name="permission_description">Utilizați serviciul Smart card</string>
 </resources>

@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="service_name">Serviciu de verificare filtrare intenție</string>
+  <string name="service_name">Serviciu de verificare filtrare intenție</string>
 </resources>
