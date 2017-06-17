@@ -127,7 +127,7 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
     <string name="settings_menu_item">Setări</string>
     <string name="submit">Salvați</string>
     <string name="success_copy_to_clipboard">A fost copiat în clipboard</string>
-    <string name="success_reset_password">Parolă resetată</string>
+    <string name="success_reset_password">Parolă resetată cu succes</string>
     <string name="success_set_password">Parolă creată</string>
     <string name="summary_lockpattern">Solicitați un model unic de deblocare pentru MiCredit</string>
     <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>

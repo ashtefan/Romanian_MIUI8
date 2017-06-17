@@ -151,7 +151,7 @@
     <string name="comment_good">Bun</string>
     <string name="commit_done">Acțiune completată</string>
     <string name="commit_thanks">Vă mulțumim pentru feedback.</string>
-    <string name="common_use">comun</string>
+    <string name="common_use">Utilizate fracvent</string>
     <string name="confirm">OK</string>
     <string name="confirm_on">﻿OK</string>
     <string name="connect_to_retry">"Nu se poate conecta la rețea. Verificați conexiunea si reîncercați."</string>
@@ -240,9 +240,9 @@
     <string name="epg_have_no_fav_channel">Nu aveți canale favorite</string>
   <string name="epg_home_sliding_down">Restrângeți</string>
   <string name="epg_home_sliding_up">Extindeți</string>
-    <string name="epg_hot_channels">Canale populare</string>
+    <string name="epg_hot_channels">Canale</string>
     <string name="epg_hot_comment_list_title">Cele mai bune comentarii</string>
-    <string name="epg_hot_programs">Programe populare</string>
+    <string name="epg_hot_programs">Programe</string>
     <string name="epg_latest_comment_list_title">Comentarii recente（%1$d）</string>
     <string name="epg_load_comment">Se preiau cele mai recente comentarii</string>
     <string name="epg_load_more_latest_comment">Se obțin mai multe recenzii</string>
@@ -315,7 +315,7 @@
     <string name="get_backup_succeed">Recuperarea este completă. Total: %1$d | Curent: %2$d | Restaurate: %3$d </string>
     <string name="get_data_fail_tips">"Obținerea datelor a eșuat; reîncercați"</string>
     <string name="get_info_failed">"Nu s-au putut obține informații"</string>
-  <string name="get_location_fail_tip">Nu s-a putut obține locația în mod automat, încercați manual</string>
+    <string name="get_location_fail_tip">Nu s-a putut obține locația în mod automat, încercați manual</string>
     <string name="guid_one">· Conectați decodorul la aceeași rețea Wi-Fi la care este conectat telefonul</string>
     <string name="guid_three">"· Unele comenzi pot lipsi dacă decodorul nu rulează Android"</string>
     <string name="guid_two">· Dispozitivele vor fi detectate și afișate pe această pagină</string>
@@ -414,12 +414,12 @@
     <string name="match_ac_intro_power">Eliberați când A/C se oprește</string>
     <string name="match_ac_name_mode">Răcire</string>
     <string name="match_ac_name_power">Oprire</string>
-    <string name="match_ch_inc">A trecut la programul următor？</string>
-    <string name="match_chl_dec">A trecut la programul anterior？</string>
+    <string name="match_ch_inc">A trecut la programul următor?</string>
+    <string name="match_chl_dec">A trecut la programul anterior?</string>
     <string name="match_count_frame">Împerecheat cu %1$d/%2$d telecomandă</string>
     <string name="match_count_tip_frame">butoanele funcționează (%1$d/%2$d)</string>
     <string name="match_data">Informații despre sincronizare</string>
-    <string name="match_data_error_tips">"Nu s-au putut obține informații
+    <string name="match_data_error_tips">"Nu s-au putut obține informațiile
 Mergeți înapoi pentru a continua"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Butoanele pentru direcție funcționează?</string>
@@ -524,7 +524,7 @@ vă rog așteptați"</string>
     <string name="my_notification">Notificări</string>
     <string name="my_room">Camera mea</string>
     <string name="my_room_underline"><u>Camera mea</u></string>
-    <string name="my_setting">Setările mele</string>
+    <string name="my_setting">Setări</string>
     <string name="nearby">În apropiere</string>
     <string name="network_diagnosis">Testare rețea</string>
     <string name="network_no_connection">"Nu se poate conecta la rețea. Verificați conexiunea și reîncercați."</string>
@@ -995,7 +995,7 @@ direct din Blocarea ecranului"</string>
     <string name="upgrade_found_new_version">Actualizare disponibilă (%1s)</string>
     <string name="upgrade_later">Mai târziu</string>
     <string name="upgrade_loading">Descărcare…</string>
-    <string name="upgrade_log">"Detalii despre actualizare"</string>
+    <string name="upgrade_log">"Ce este nou"</string>
     <string name="upgrade_now">Actualizează</string>
     <string name="upgrade_title_frame">%1s</string>
     <string name="upgrading">Actualizare…</string>

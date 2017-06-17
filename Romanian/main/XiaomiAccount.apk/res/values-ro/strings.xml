@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device_info">Vizualizați detaliile dispozitivului</string>
     <string name="access_token_expired_warning">Contul Weibo a expirat</string>
@@ -97,8 +97,8 @@
     <string name="delete_browser">Eliminați browser-ul</string>
     <string name="delete_device">Eliminați dispozitivul</string>
     <string name="delete_device_btn">Eliminaţi</string>
-    <string name="delete_device_failed">Nu se poate elimina dispozitivul</string>
-    <string name="delete_device_notice">După ce dispozitivul este eliminat, va fi deconectat din contul dvs. Mi în mod automat. Nu veţi putea utiliza acest dispozitiv pentru a accesa fotografiile, mesajele sau alt conținut stocat în contul dvs.</string>
+    <string name="delete_device_failed">"Nu s-a putut elimina dispozitivul"</string>
+    <string name="delete_device_notice">"După ce dispozitivul este eliminat, va fi deconectat din contul dvs. Mi în mod automat. Nu veţi putea utiliza acest dispozitiv pentru a accesa fotografiile, mesajele sau alt conținut stocat în contul dvs."</string>
     <string name="delete_lock_device_success">Eliminat cu succes</string>
     <string name="device_delete_success_message">Dacă nu v-ați conectat de pe acest dispozitiv, schimbaţi parola imediat.</string>
     <string name="device_delete_success_title">Deconectat</string>
@@ -131,7 +131,7 @@
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
     <string name="find_device_unknown_error">"Nu s-a putut obține starea dispozitivului; așteptați un minut sau două și reîncercați"</string>
     <string name="first_login_time">Prima tentativă de conectare: %s</string>
-    <string name="get_device_list_failed">Nu se poate obține lista dispozitivelor</string>
+    <string name="get_device_list_failed">"Nu se poate obține lista dispozitivelor"</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="guest_account_label">Cont gazdă Mi</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru verificarea contului"</string>

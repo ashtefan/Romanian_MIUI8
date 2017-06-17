@@ -6,7 +6,7 @@
     <string name="applications">Aplicații</string>
     <string name="category_others">Altele</string>
     <string name="category_setting">Setări</string>
-    <string name="close_panel">Inchideți meniul de asistentului</string>
+    <string name="close_panel">Dezactivați Asistentul ecran</string>
     <string name="customize_entries">Personalizați funcțiile</string>
     <string name="enable_touch_assistant">Activați Asistentul ecran</string>
     <string name="enabled_for_pad_hint">Funcționează atunci când \"Blochează butoanele de navigare în orientarea Peisaj\" este activat</string>
