@@ -369,11 +369,7 @@
     <string name="theme_current_using_has_update">Este disponibilă o actualizare</string>
     <string name="theme_description_title_customized">Personalizat</string>
     <string name="theme_description_title_default">Prestabilit</string>
-<<<<<<< HEAD
     <string name="theme_empty_redirect">Înapoi la Magazin Teme</string>
-=======
-    <string name="theme_empty_redirect">Înapoi la Magazinul de Teme</string>
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="theme_favorite_add_fail">Nu se poate adăuga tema la favorite</string>
     <string name="theme_favorite_add_success">Temă adăugată la favorite</string>
     <string name="theme_favorite_delete">Eliminaţi din favorite</string>
@@ -431,8 +427,6 @@
     <string name="wallpaper_settings_desktop_text">Ecranul principal</string>
     <string name="wallpaper_settings_lockscreen_text">Blocarea ecranului</string>
     <string name="wallpaper_settings_page_title">Imagine de fundal</string>
-<<<<<<< HEAD
-=======
   <string name="sdcard_not_mounted_dialog_title">Cardul SD nu a fost detectat</string>
   <string name="search_hint_header_text">Expresii frecvente</string>
   <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
@@ -537,5 +531,4 @@
   <string name="wallpaper_settings_desktop_text">Ecranul principal</string>
   <string name="wallpaper_settings_lockscreen_text">Blocarea ecranului</string>
   <string name="wallpaper_settings_page_title">Imagine de fundal</string>
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
 </resources>
