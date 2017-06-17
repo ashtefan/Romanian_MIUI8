@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="SDCard">SD Card extern</string>
-  <string name="SD_INTERNAL_SDCard_mounted">Detectare card SD intern</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">Card SD intern nedetectat</string>
-  <string name="SD_SDCard_available_szie">Stocare disponibilă</string>
-  <string name="SD_SDCard_mounted">SDCard detectat</string>
-  <string name="SD_SDCard_total_size">Dimensiune totală</string>
-  <string name="SD_SDCard_unmounted">SDCard indisponibil</string>
+    <string name="SDCard">SD Card extern</string>
+    <string name="SD_INTERNAL_SDCard_mounted">Detectare card SD intern</string>
+    <string name="SD_INTERNAL_SDCard_unmounted">Card SD intern nedetectat</string>
+    <string name="SD_SDCard_available_szie">Stocare disponibilă</string>
+    <string name="SD_SDCard_mounted">SDCard detectat</string>
+    <string name="SD_SDCard_total_size">Dimensiune totală</string>
+    <string name="SD_SDCard_unmounted">SDCard indisponibil</string>
   <string name="button_cancel">Renunțați</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">Informații despre cameră</string>
