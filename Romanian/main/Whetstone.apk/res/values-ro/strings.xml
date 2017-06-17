@@ -1,8 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Whetstone</string>
     <string name="permstep_description">"Permiteți aplicației să citească informațiile despre telefon"</string>
     <string name="permstep_label">Citire informații</string>
     <string name="whetstone_accessibility_desc">Funcția de asistență Whetstone</string>
     <string name="whetstone_accessibility_label">Serviciul de asistență Whetstone</string>
+=======
+<<<<<<< HEAD
+    <string name="app_name">Whetstone</string>
+    <string name="permstep_description">"Permiteți aplicației să citească informațiile despre telefon"</string>
+    <string name="permstep_label">Citire pași</string>
+    <string name="whetstone_accessibility_desc">Funcția de asistență Whetstone</string>
+    <string name="whetstone_accessibility_label">Serviciul de asistență Whetstone</string>
+=======
+  <string name="app_name">Whetstone</string>
+  <string name="permstep_description">"Permiteți aplicației să citească informațiile despre telefon"</string>
+  <string name="permstep_label">Citire informații</string>
+  <string name="whetstone_accessibility_desc">Funcția de asistență Whetstone</string>
+  <string name="whetstone_accessibility_label">Serviciul de asistență Whetstone</string>
+>>>>>>> origin/master
+>>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
 </resources>

@@ -115,6 +115,10 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
 Înainte de a-l elimina:
 — Dezactivați autentificarea în 2 pași pentru acest cont, sau
 — Asigurați-vă că dispuneți de alt mecanism de generare coduri."</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="remove_account_dialog_title">Eliminați contul?</string>
     <string name="rename">Redenumiți</string>
     <string name="rename_message">Redenumiți %1$s</string>
@@ -127,7 +131,11 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
     <string name="settings_menu_item">Setări</string>
     <string name="submit">Salvați</string>
     <string name="success_copy_to_clipboard">A fost copiat în clipboard</string>
+<<<<<<< HEAD
     <string name="success_reset_password">Parolă resetată</string>
+=======
+    <string name="success_reset_password">Parolă resetată cu succes</string>
+>>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="success_set_password">Parolă creată</string>
     <string name="summary_lockpattern">Solicitați un model unic de deblocare pentru MiCredit</string>
     <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
@@ -146,6 +154,42 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_details">"Ceasul intern al Autentificatorului nu a fost reglat deoarece se realizează sincronizarea cu serverele."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_title">Ora a fost reglată deja</string>
     <string name="timesync_sync_now_time_corrected_dialog_details">"Ceasul intern al Autentificatorului a fost reglat pentru a se potrivi cu ora furnizată de către servere. 
+<<<<<<< HEAD
+=======
+=======
+  <string name="remove_account_dialog_title">Eliminați contul?</string>
+  <string name="rename">Redenumiți</string>
+  <string name="rename_message">Redenumiți %1$s</string>
+  <string name="resetbtn_patternforgotten">Resetați</string>
+  <string name="save_key_message">Salvați cheia pentru</string>
+  <string name="scan_barcode">Scanați identificatorul Mi</string>
+  <string name="scan_barcode_info">Introduceți în interiorul chenarului codul de bare și scanați-l.</string>
+  <string name="secret_saved">Secret salvat</string>
+  <string name="security_setting">Setări de securitate</string>
+  <string name="settings_menu_item">Setări</string>
+  <string name="submit">Salvați</string>
+  <string name="success_copy_to_clipboard">A fost copiat în clipboard</string>
+  <string name="success_reset_password">Parolă resetată</string>
+  <string name="success_set_password">Parolă creată</string>
+  <string name="summary_lockpattern">Solicitați un model unic de deblocare pentru MiCredit</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_preference_title">Termenii serviciului</string>
+  <string name="timesync_about_feature_preference_title">Despre această caracteristică</string>
+  <string name="timesync_about_feature_screen_details">"Dacă apăsați &amp;quot;Sincronizați acum&amp;quot;, Autentificatorul va încerca să-și sincronizeze ceasul intern cu cel al serverelor Google. Data și ora &amp; dispozitivului nu vor fi modificate. &lt;p&gt; Aplicația Autentificator nu transmite date personale sau informații despre cont în timpul sincronizării ceasului intern cu al serverelor Google. &lt;p&gt; &lt;b&gt;De ce este util acest lucru&lt;/b&gt; &lt;p&gt; Autentificatorul generează coduri de verificare în 2 pași bazându-se pe 1) ora curentă, și 2) un număr secret cunoscut de aplicație și de server. &lt;p&gt; Dacă ora Autentificatorului diferă de cea a serverului, codurile generate de către aplicație pot să nu fie acceptate atunci când încercați să vă conectați. &lt;p&gt; Implicit, Autentificatorul utilizează data &amp; și ora sistemului, și, în cele mai multe cazuri, veți putea genera coduri valide dacă ora, data și fusul orar sunt setate corect. Totuși, dacă apar diferențe de oră, acestea sunt greu de identificat, mai ales dacă utilizați ora și data setate de către rețea."</string>
+  <string name="timesync_about_feature_screen_title">Despre această caracteristică</string>
+  <string name="timesync_preference_screen_summary">"Sincronizați ceasul intern al Autentificatorului cu cel al serverelor Google"</string>
+  <string name="timesync_preference_screen_title">Corecție de timp pentru coduri</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"A apărut o problemă în timpul conectării la server. Verificați conexiunea la rețea și reîncercați."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Sincronizați acum</string>
+  <string name="timesync_sync_now_preference_title">Sincronizați acum</string>
+  <string name="timesync_sync_now_progress_dialog_details">Se conectează la server…</string>
+  <string name="timesync_sync_now_progress_dialog_title">Sincronizați acum</string>
+  <string name="timesync_sync_now_screen_title">Sincronizați acum</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Ceasul intern al Autentificatorului nu a fost reglat deoarece se realizează sincronizarea cu serverele."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Ora a fost reglată deja</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Ceasul intern al Autentificatorului a fost reglat pentru a se potrivi cu ora furnizată de către servere. 
+>>>>>>> origin/master
+>>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
 
 Data &amp; și ora dispozitivului nu au fost modificate."</string>
     <string name="timesync_sync_now_time_corrected_dialog_title">Ora a fost reglată</string>

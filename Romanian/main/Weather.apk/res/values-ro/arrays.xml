@@ -13,17 +13,17 @@
         <item>Braila</item>
         <item>Barlad</item>
         <item>London</item>
+        <item>Singapore</item>
         <item>Berlin</item>
-        <item>Madrid</item>
         <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
         <item>Paris</item>
-        <item>Vienna</item>
-        <item>Istanbul</item>
         <item>Beijing</item>
         <item>Prague</item>
-        <item>New York</item>
-        <item>Moscow</item>
-        <item>Budapest</item>
+        <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
