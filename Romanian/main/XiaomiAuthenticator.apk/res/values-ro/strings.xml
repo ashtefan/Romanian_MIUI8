@@ -115,10 +115,6 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
 Înainte de a-l elimina:
 — Dezactivați autentificarea în 2 pași pentru acest cont, sau
 — Asigurați-vă că dispuneți de alt mecanism de generare coduri."</string>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="remove_account_dialog_title">Eliminați contul?</string>
     <string name="rename">Redenumiți</string>
     <string name="rename_message">Redenumiți %1$s</string>
@@ -131,11 +127,8 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
     <string name="settings_menu_item">Setări</string>
     <string name="submit">Salvați</string>
     <string name="success_copy_to_clipboard">A fost copiat în clipboard</string>
-<<<<<<< HEAD
     <string name="success_reset_password">Parolă resetată</string>
-=======
     <string name="success_reset_password">Parolă resetată cu succes</string>
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="success_set_password">Parolă creată</string>
     <string name="summary_lockpattern">Solicitați un model unic de deblocare pentru MiCredit</string>
     <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
@@ -154,9 +147,6 @@ Conectați-vă la account.xiaomi.com și apăsați Reactivare."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_details">"Ceasul intern al Autentificatorului nu a fost reglat deoarece se realizează sincronizarea cu serverele."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_title">Ora a fost reglată deja</string>
     <string name="timesync_sync_now_time_corrected_dialog_details">"Ceasul intern al Autentificatorului a fost reglat pentru a se potrivi cu ora furnizată de către servere. 
-<<<<<<< HEAD
-=======
-=======
   <string name="remove_account_dialog_title">Eliminați contul?</string>
   <string name="rename">Redenumiți</string>
   <string name="rename_message">Redenumiți %1$s</string>

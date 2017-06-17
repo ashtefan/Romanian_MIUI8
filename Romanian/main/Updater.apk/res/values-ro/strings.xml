@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="about_device">Despre telefon</string>
     <string name="active_xiaomi_account">Activaţi</string>
     <string name="active_xiaomi_account_msg">"Pentru activarea contului dvs. Mi, accesaţi https://account.xiaomi.com/pass/serviceLogin"</string>
@@ -48,11 +46,8 @@
     <string name="check_local_package_wipe_msg">"Sunteți pe cale să reveniți la versiunea MIUI %s. Datele personale vor fi șterse. Asigurați-vă că ați făcut copii de rezervă pentru elementele importante înainte de a porni procesul."</string>
     <string name="check_local_package_wipe_title">Ștergeți datele</string>
     <string name="check_new_version">Verificaţi</string>
-<<<<<<< HEAD
     <string name="check_update_policy">Setări actualizări</string>
-=======
     <string name="check_update_policy">Setări</string>
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="check_update_when_wifi_available">Utilizaţi doar Wi-Fi pentru verificarea actualizărilor</string>
     <string name="check_update_when_wifi_available_sum">"Se verifică pentru actualizări doar atunci când este conexiune la internet prin Wi-Fi"</string>
     <string name="clean_up_button">Curăţare</string>
@@ -88,11 +83,8 @@
     <string name="edit_comment">"  Adăugaţi un comentariu"</string>
     <string name="edit_comment_title">Editaţi comentariul</string>
     <string name="edit_text_default">Scrieți un comentariu</string>
-<<<<<<< HEAD
     <string name="emegency_build">Build:</string>
-=======
     <string name="emegency_build">"Build "</string>
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="expect">Așteptări</string>
     <string name="experimental_build">Experimental</string>
     <string name="finish">Finalizaţi</string>
@@ -185,7 +177,6 @@
     <string name="reboot">Reporniţi</string>
     <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_msg">"Dispozitivul nu are suficientă memorie pentru a intra în modul Recuperare și pentru a actualiza sistemul dvs. Încercați să folosiți Mi PC Suite:
-<<<<<<< HEAD
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_notification_msg">Nu se poate intra în modul Recuperare</string>
     <string name="recovery_failed_title">Utilizaţi Mi PC Suite pentru a actualiza sistemul</string>

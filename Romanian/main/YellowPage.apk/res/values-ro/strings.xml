@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<<<<<<< HEAD
     <string name="about_fraud_num_online_identification">Despre identificarea online a atacurilor de tip phishing</string>
     <string name="about_phone_event">Despre mesajele de serviciu</string>
     <string name="about_smart_antispam_summary">Despre identificarea numerelor necunoscute</string>
-=======
-<<<<<<< HEAD
     <string name="about_fraud_num_online_identification">Despre această caracteristică</string>
     <string name="about_phone_event">Despre mesajele de serviciu</string>
     <string name="about_smart_antispam_summary">Despre această caracteristică</string>
->>>>>>> 36ccafc6410d8439b042200315f632951d31fd1a
     <string name="about_telephone_fraud">Fiți atenți la fraude</string>
     <string name="account_address">Adrese</string>
     <string name="account_order">Istoric comenzi</string>
@@ -53,7 +49,6 @@
     <string name="confirm_to_add_blacklist">Blocați acest număr?</string>
     <string name="confirm_to_remove_blacklist">Deblocați acest număr?</string>
     <string name="confirm_to_send_to_desktop">Plasați %s pe ecranul principal?</string>
-<<<<<<< HEAD
   <string name="contact_detail_calllog_call_note_tips">Call notes</string>
     <string name="contact_detail_calllog_call_record_tips">Apeluri înregistrate</string>
     <string name="content_desc_send_sms">Trimiteți SMS</string>
