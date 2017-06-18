@@ -42,7 +42,6 @@
     <string name="account_user_gender">Sex</string>
     <string name="account_user_id">ID cont Mi</string>
     <string name="account_user_income">Venit lunar</string>
-    <string name="account_user_info">Informații utilizator</string>
     <string name="account_user_location">Locație</string>
     <string name="account_user_location_title">Selectați locația curentă</string>
     <string name="account_user_name">Nume</string>
@@ -192,18 +191,6 @@
     <string name="passport_checking_account">Verificare parolă…</string>
     <string name="passport_checking_input">Verificare…</string>
     <string name="passport_click_email_to_valid">"
-  <string name="passport_activing_account">Activare…</string>
-  <string name="passport_area_code_hot">UTILIZAT FRECVENT</string>
-  <string name="passport_area_code_title">Codul ţării</string>
-  <string name="passport_auto_generate_pwd">Generați o parolă sigură</string>
-  <string name="passport_back">Înapoi</string>
-  <string name="passport_bad_authentication">Nume de utilizator sau parolă greşite</string>
-  <string name="passport_barcode_add_account_prompt">Pentru a conecta un cont, scanați codul QR din nou după ce vă conectați.</string>
-  <string name="passport_change_account">Schimbaţi contul</string>
-  <string name="passport_change_phone_number">Comutare numere</string>
-  <string name="passport_checking_account">Verificare parolă…</string>
-  <string name="passport_checking_input">Verificare…</string>
-  <string name="passport_click_email_to_valid">"
     
 Pentru a vă activa contul, accesați
 link-ul din e-mailul pe care vi l-am trimis."</string>

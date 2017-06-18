@@ -28,6 +28,7 @@
     <string name="ads_extension"/>
     <string name="ads_install_num"/>
     <string name="ads_score_title"/>
+    <string name="alert_detail_title">Detalii alertă</string>
     <string name="alert_warning">Avertizări meteo</string>
     <string name="already_voted">Votat</string>
     <string name="already_voted_toast">"Ați votat deja astăzi"</string>
@@ -218,7 +219,6 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="traffic_control_daty_after_tomorrow_numbers">Poimâine: %1$s</string>
     <string name="traffic_control_today_numbers">Astăzi: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Mâine: %1$s</string>
-Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
     <string name="traffic_controls">Restricții de trafic</string>
     <string name="tts_report_aqi"/>
     <string name="tts_report_city_name"/>
