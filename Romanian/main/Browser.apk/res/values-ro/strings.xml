@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Mergeți la pagina de start</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
@@ -67,9 +67,9 @@
     <string name="add_shortcut">Adăugați o scurtătură</string>
     <string name="add_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="add_to_bookmark">La marcaje</string>
-    <string name="add_to_desk">Plasaţi pe ecranul de pornire</string>
-    <string name="add_to_desk_lite_mode_toast">"Nu s-a putut adăuga la ecranul de pornire în modul Lite"</string>
-    <string name="add_to_desk_success">Plasat pe ecranul de pornire</string>
+    <string name="add_to_desk">Adăugați pe ecranul de pornire</string>
+    <string name="add_to_desk_lite_mode_toast">"Nu se poate adăuga la ecranul de pornire în modul Lite"</string>
+    <string name="add_to_desk_success">Adăugat pe ecranul de pornire</string>
     <string name="add_to_quicklink">Pagina de pornire</string>
     <string name="added_to_bookmarks">Adăugat la marcaje</string>
     <string name="adjust_text_zoom_toast">Modificarea dimensiunii textului poate provoca afișarea incorectă a unor site-uri</string>
@@ -86,7 +86,7 @@
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_pure">Excelent</string>
     <string name="aqi_quality_index_unhealthy">Rău</string>
-    <string name="autoSwithcingSearchEngineTips">S-a modificat motorul de căutare conform obiceiurilor dumneavoastră</string>
+    <string name="autoSwithcingSearchEngineTips">S-a schimbat motorul de căutare utilizat cel mai des</string>
     <string name="autofill_keyboard_accessory_content_description">Sugestii disponibile</string>
     <string name="autofill_popup_content_description">Arată sugestii de completare automată</string>
     <string name="autologin_bar_error">"Imposibil de conectat"</string>
@@ -107,7 +107,7 @@
     <string name="bookmark_folder_needs_title">Introduceţi numele grupului</string>
     <string name="bookmark_group_lable">Grup</string>
     <string name="bookmark_needs_title">Marcajul trebuie să poarte un nume</string>
-    <string name="bookmark_needs_url">Marcajul trebuie să conţină un URL.</string>
+    <string name="bookmark_needs_url">Marcajul trebuie să conţină un URL</string>
     <string name="bookmark_not_saved">"Marcajul nu a putut fi salvat"</string>
     <string name="bookmark_rename_group">Redenumiţi grupul</string>
     <string name="bookmark_saved">Marcajul a fost salvat</string>
@@ -115,7 +115,7 @@
     <string name="bookmark_title_lable">Titlu</string>
     <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">"Aţi adăugat deja acest URL la marcaje"</string>
-    <string name="bookmark_url_can_not_null">Introduceți adresa URL.</string>
+    <string name="bookmark_url_can_not_null">Introduceți adresa URL</string>
     <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">"Această adresă URL nu este validă"</string>
     <string name="bookmarks_content_is_null">Niciun marcaj</string>
@@ -316,7 +316,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
-  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
+    <string name="firstUsingSearchEngineTips">Schimbați motorul de căutare?</string>
     <string name="fling_on_border_gesture_hint">Puteți selecta funcția acestui gest din Setări</string>
     <string name="force_quick_search_title">Căutați</string>
     <string name="force_touch_bookmark_history_title">Marcaje și istoric</string>
@@ -517,7 +517,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_adblock_counts">%d blocate</string>
     <string name="pref_adblock_title">Blocare anunţuri</string>
     <string name="pref_auto_update_under_wifi">Actualizaţi utilizând Wi-Fi</string>
-    <string name="pref_automatic_matching_searchengines_title">Comutare automată a motorului de căutare conform obiceiurilor</string>
+    <string name="pref_automatic_matching_searchengines_title">Comutare la motorul de căutare utilizat cel mai des</string>
     <string name="pref_category_hint">Categorie</string>
     <string name="pref_check_security_url_summary">"Trimiteţi URL-ul către serverele MI pentru a verifica dacă este sigur"</string>
     <string name="pref_check_security_url_title">Verificare securitate URL</string>
@@ -618,7 +618,7 @@ Părăsiţi această pagină?"</string>
     <string name="pull_to_refresh_pull_label">Trageți în jos pentru actualizare</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
     <string name="qr_code_title">Cod QR</string>
-    <string name="quicklink_bookmark_save">LOCAŢIE MARCAJ</string>
+    <string name="quicklink_bookmark_save">Salvați la</string>
     <string name="quicklink_cannot_save_url">"Nu se poate adăuga acest URL."</string>
     <string name="quicklink_folder_text">Aplicații de top</string>
     <string name="quicklink_not_saved">"Nu s-a putut adăuga la pagina de start"</string>
@@ -724,7 +724,7 @@ Părăsiţi această pagină?"</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="snapshot_failed">"Nu s-a putut salva pentru citire offline"</string>
     <string name="snapshot_successed">Salvați pentru lectură offline</string>
-    <string name="ssl_bad_clock_date_settings">Setare dată</string>
+    <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>
     <string name="ssl_certificate_is_valid">Acest certificat este valabil.</string>
@@ -740,7 +740,7 @@ Părăsiţi această pagină?"</string>
     <string name="ssl_warnings_header">Există unele probleme legate de certificatul de securitate al acestui site.</string>
     <string name="start_save_page_capture">Se salvează captura de ecran…</string>
     <string name="storage_internal">Stocare internă</string>
-    <string name="storage_permission_request_toast">Aplicația de descărcare are nevoie de acces la stocare; vă rugăm să o deschideți</string>
+    <string name="storage_permission_request_toast">"Aplicația de descărcare solicită accesul la stocarea dispozitivului"</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="suggest_access_appstore">Magazin Mi</string>

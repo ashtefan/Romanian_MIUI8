@@ -270,6 +270,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_sync_exception">Eroare de sincronizare</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
     <string name="micloud_main_sync_need_charge">Încărcați acumulatorul</string>
+    <string name="micloud_main_sync_need_charge_or_sleep">Încărcați acumulatorul telefonului și închideți ecranul</string>
     <string name="micloud_main_sync_now">Sincronizaţi acum</string>
     <string name="micloud_main_sync_on">Activați sincronizarea</string>
     <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>

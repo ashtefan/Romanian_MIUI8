@@ -186,12 +186,12 @@
         <item>Toate</item>
      </string-array>
     <string-array name="screen_timeout_entries">
-        <item>După 15 secunde</item>
-        <item>După 30 de secunde</item>
-        <item>După 1 minut</item>
-        <item>După 2 minute</item>
-        <item>După 5 minute</item>
-        <item>După 10 minute</item>
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
         <item>Niciodată</item>
      </string-array>
     <string-array name="dream_timeout_entries">
@@ -722,7 +722,7 @@
     <string-array name="wfd_status">
         <item>Pornire sesiune…</item>
         <item>Sesiune pornită</item>
-        <item>Terminare sesiune…</item>
+        <item>Terminare serviciu…</item>
         <item>"Nu s-a putut porni sesiunea"</item>
         <item>Sesiune expirată, reîncercare…</item>
         <item>Dispozitiv conectat</item>

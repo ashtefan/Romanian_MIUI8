@@ -18,11 +18,11 @@
     <string name="find_device_turn_off_flight_mode">Dezactivaţi modul Avion.</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>
+    <string name="fingerprint_again_identified_msg">Amprenta este activă acum. Utilizați-o pentru a debloca telefonul sau introduceți parola.</string>
     <string name="fingerprint_enter_second_psw_msg">Introduceți parola pentru Spațiul Secundar după repornirea telefonului pentru a putea utiliza deblocarea cu amprentă</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"Nu se poate accesa Spațiul Secundar în modul Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduceți parola pentru Spațiul Secundar</string>
-    <string name="fingerprint_lockout_msg">Așteptați un minut apoi încercați din nou să deblocați utilizând amprenta</string>
-    <string name="fingerprint_not_identified_msg">"Nu s-a putut verifica amprenta; introduceți parola."</string>
+    <string name="fingerprint_not_identified_msg">Prea multe încercări nereușite. Introduceți parola acum sau încercați să utilizați amprenta în câteva secunde.</string>
     <string name="fingerprint_not_identified_title">Introduceți parola</string>
     <string name="fingerprint_try_again_msg">"Nu s-a putut verifica amprenta; încercați din nou."</string>
     <string name="fingerprint_try_again_text">Încercați din nou</string>

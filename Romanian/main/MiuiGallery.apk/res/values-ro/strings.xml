@@ -48,6 +48,7 @@
     <string name="album_detail_page_empty">Nu există fotografii sau videoclipuri</string>
     <string name="album_faces_name">Persoane</string>
     <string name="album_from_format">Din %s</string>
+    <string name="album_jump_failed">Așteptați sincronizarea albumelor în Mi Cloud și încercați din nou</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_name">Nume album</string>
     <string name="album_name_recent_discovery">Recente</string>
@@ -188,6 +189,7 @@
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
     <string name="change_to_face_mode">Afișați doar chipul</string>
     <string name="change_to_photo_mode">Afișați previzualizarea completă</string>
+    <string name="change_to_visible">Restaurați detaliile despre această persoană?</string>
     <string name="choose_baby_sexy">Sex</string>
     <string name="choose_owner_relation">Relaţie</string>
     <string name="choose_people">"Selectați albumul unei persoane"</string>
@@ -267,6 +269,7 @@
     <string name="delete_from_devices">De pe toate dispozitivele cu sincronizare automată</string>
     <string name="delete_from_devices_album">De pe toate dispozitivele pe care s-a sincronizat acest album</string>
     <string name="delete_from_homepage_album">Din albumele din Galerie</string>
+    <string name="delete_from_local_and_cloud">de pe acest dispozitiv și din Mi Cloud</string>
     <string name="delete_from_this_album_and_cloud">din acest album și din Mi Cloud</string>
     <string name="delete_from_web">Albumele Web</string>
     <string name="delete_in_album">Când veți șterge fotografii sau un videoclipuri dintr-un album, ele vor fi șterse și din:</string>
@@ -278,6 +281,7 @@
     <string name="delete_third_party_photo">Ștergeți această fotografie?</string>
     <string name="delete_third_party_video">Ștergeți acest videoclip?</string>
     <string name="delete_to_trash_tips">Puteți vedea fotografiile sincronizate șterse recent în Setări/Coș de gunoi</string>
+    <string name="delete_unsynced">Ștergeți elementele pentru care nu a fost creată o copie de rezervă</string>
     <string name="deny">Nu</string>
     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
     <string name="detail_ms">%1$02d:%2$02d</string>
@@ -411,8 +415,9 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="hybrid_service_unavailiable">Serviciu indisponibil</string>
     <string name="hybrid_try_again">Încercaţi din nou</string>
     <string name="ignore_album">Nu se afişează</string>
-    <string name="ignore_alert_title">Ascundeţi acest album?</string>
+    <string name="ignore_alert_title">"Ascundeţi acest album? Atingeți colțul din dreapta sus pentru a vedea fotografiile pe care le-ați ignorat"</string>
     <string name="ignore_face">Ignoraţi această persoană</string>
+    <string name="ignore_faces_title">Ignorate</string>
     <string name="image_decode_failed">"Nu s-a putut decoda imaginea"</string>
     <string name="image_download_item_title">Descărcaţi fișierul original (%s)</string>
     <string name="image_invalid_path">Cale invalidă</string>
@@ -444,7 +449,11 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="kilobyteShort">KB</string>
     <string name="limit_height">Înâlțimea trebuie să fie &gt; 0</string>
     <string name="limit_width">Lățimea trebuie să fie &gt; 0</string>
+    <string name="load_complete">Niciun element în plus aici</string>
+    <string name="load_failed">"Nu s-au putut încărca informațiile; atingeți pentru a încerca din nou"</string>
     <string name="load_relations">Doar o secundă…</string>
+    <string name="loading">Doar o secundă</string>
+    <string name="loading_dots">Doar o secundă…</string>
     <string name="loading_dual_tip">Încărcare fotografie duală…</string>
     <string name="loading_fail">Nu s-a putut descărca</string>
     <string name="loading_fail_sync_off">Activați sincronizarea cu Mi Cloud pentru a descărca</string>
@@ -496,6 +505,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="new_relation_invalid_prefix">"Numele grupului nu poate începe cu “.” sau “_”"</string>
     <string name="next">Următorul</string>
     <string name="no">Nu</string>
+    <string name="no_ignore_faces">Nicio persoană</string>
     <string name="no_map_app">Aplicaţia pentru hărţi lipseşte</string>
     <string name="no_network_connected">Reţeaua nu este conectată</string>
     <string name="not_ask_any_more">Nu se întreabă din nou pentru \"%s\" răspunsuri</string>
@@ -547,6 +557,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="other_album">Alte albume</string>
     <string name="other_settings">Setări suplimentare</string>
     <string name="owner_album_subtitle">Distribuit către %1$s persoane</string>
+    <string name="people_jump_failed">Așteptați până când fotografiile conținând persoane sunt sincronizate în Mi Cloud și încercați din nou</string>
     <string name="people_page_label">Persoane</string>
     <string name="people_page_unname">Fără nume</string>
     <string name="percent_sign">%</string>
@@ -591,6 +602,10 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recommanded_face_abandon_tip">Eliminat din sugestii</string>
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
+    <string name="recovery_merge">Îmbinați</string>
+    <string name="recovery_merge_or_rename">Îmbinați albumele</string>
+    <string name="recovery_merge_or_rename_message">"Există un album cu acest nume. Le îmbinați acum?"</string>
+    <string name="recovery_rename">Redenumiți</string>
     <string name="relation_text_empty_alert">Adăugaţi informaţia despre relaţie</string>
     <string name="relation_text_family">Membru al familiei</string>
     <string name="relation_text_father">Tată</string>
@@ -638,16 +653,13 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_backup_now">Activați</string>
     <string name="search_backup_sub_title">Activați pentru a găsi mai multe imagini</string>
     <string name="search_backup_title">Sincronizate în Mi Cloud</string>
+    <string name="search_clear_histories">Goliți</string>
     <string name="search_connection_error">"Nu s-a putut conecta la rețea"</string>
     <string name="search_connection_error_and_set">Atingeți pentru a verifica setările de rețea</string>
     <string name="search_error">A apărut o eroare</string>
     <string name="search_error_and_retry">A apărut o eroare, atingeți pentru a încerca din nou</string>
     <string name="search_hint">Căutați imagini​</string>
     <string name="search_image_result_title">Căutați rezultate</string>
-    <string name="search_load_complete">Nu mai există alte elemente aici</string>
-    <string name="search_load_failed">"Nu s-au putut încărca informațiile, atingeți pentru a încerca din nou"</string>
-    <string name="search_loading">Doar o secundă</string>
-    <string name="search_loading_dots">Doar o secundă…</string>
     <string name="search_login_now">Conectați-vă</string>
     <string name="search_login_sub_title">Conectați-vă pentru a găsi mai multe fotografii</string>
     <string name="search_login_title">Cont Mi</string>
@@ -656,6 +668,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_result_empty">"Nu s-a găsit nimic"</string>
     <string name="search_retry">Încercați din nou</string>
     <string name="search_set_network_connection">Setări de rețea</string>
+    <string name="search_title_history">Căutați în istoric</string>
     <string name="search_title_location">Locații</string>
     <string name="search_title_others">Toate rezultatele</string>
     <string name="search_title_people">Persoane</string>
@@ -677,6 +690,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="secret_reason_too_large">Fișierul este prea mare</string>
     <string name="secret_reason_type_not_support">"Acest tip de fișier nu este suportat"</string>
     <string name="secret_reason_unknow_reasons">Eroare necunoscută</string>
+    <string name="see_ignore_faces">"Vedeți persoanele pe care le-ați ignorat"</string>
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
     <string name="send_multiple_files_hint_format">Trimiteţi (%s)</string>

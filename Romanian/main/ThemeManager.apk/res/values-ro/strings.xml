@@ -408,6 +408,7 @@
     <string name="third_party_pickers_activity_title">Adăugați %1$s</string>
     <string name="title_component">Personalizați tema</string>
     <string name="title_my_audio_resource">Sunetele mele de apel</string>
+    <string name="title_my_wallpaper_resource">Imaginile mele de fundal live</string>
     <string name="title_my_wallpaper_resource">Imaginile mele de fundal</string>
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>

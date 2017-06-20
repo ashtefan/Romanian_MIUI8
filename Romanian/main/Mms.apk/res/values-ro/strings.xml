@@ -7,10 +7,7 @@
     <string name="addBlackList">Blocați</string>
     <string name="add_attachment">Adăugaţi ataşamente</string>
     <string name="add_contact">vCard</string>
-    <string name="add_festival">Salutări</string>
     <string name="add_music">Adăugaţi muzică</string>
-    <string name="add_nickname">Pseudonim</string>
-    <string name="add_nickname_title">Editaţi pseudonimul</string>
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
     <string name="add_private_contact">Adăugați un contact privat</string>
@@ -64,7 +61,6 @@
     <string name="card_insert_to_contact">Importați contactul</string>
     <string name="change_duration_activity">Modificaţi durata</string>
     <string name="check_all">Selectaţi tot</string>
-    <string name="chenghu_disable_mms">Nu puteţi utiliza porecle în MMS</string>
     <string name="class_0_message_activity">Mesaje clasa 0</string>
     <string name="close">Închideţi</string>
     <string name="cloud_recommend_msg">Atingeţi pentru a sincroniza mesajele cu Mi Cloud.</string>
@@ -118,7 +114,6 @@
     <string name="copy_to_sdcard">Salvaţi ataşamentul</string>
     <string name="copy_to_sdcard_fail">Ataşamentul nu a fost salvat</string>
     <string name="copy_to_sdcard_success">Ataşamentul a fost salvat ca %s</string>
-    <string name="database_corruption">Recreare…</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_bookmark">Eliminaţi din favorite</string>
     <string name="delete_message">Ştergeţi</string>
@@ -145,8 +140,6 @@
     <string name="duration_selector_title">"Durata diapozitivului "</string>
     <string name="duration_zero">Durata trebuie să fie mai mare de 0 secunde</string>
     <string name="edit">Editaţi</string>
-    <string name="edit_nickname_for_nocontact">Adăugaţi un destinatar mai întâi</string>
-    <string name="edit_nickname_for_nocontact_by_robot">Adăugaţi un destinatar mai întâi</string>
     <string name="edit_phrase">Editaţi răspunsurile rapide</string>
     <string name="edit_slide_activity">Modificaţi diapozitivul</string>
     <string name="edit_slideshow_activity">Modificaţi prezentarea</string>
@@ -172,16 +165,9 @@
     <string name="fake_cell_safe_hint">Acest mesaj este sigur</string>
     <string name="fake_cell_timeout_hint">"Nu s-a putut verifica securitatea"</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
-    <string name="festival">Salutări</string>
-    <string name="festival_continue">OK</string>
-    <string name="festival_networking_desc">Această caracteristică necesită conectarea la internet pentru a funcţiona în mod normal.</string>
-    <string name="festival_networking_title">Remarcă</string>
-    <string name="festival_never_remind">Nu se afişează din nou</string>
-    <string name="festival_sms_category_count_format">%s</string>
     <string name="festival_sms_loading">Încărcare…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creat:</string>
-    <string name="file_share_message_description">Vreau să-ţi distribui câteva fișiere.</string>
     <string name="file_size">Dimensiune:</string>
     <string name="file_title">Nume:</string>
     <string name="file_width_height">Dimensiune:</string>
@@ -361,7 +347,6 @@
     <string name="new_message_arrived">Aveţi un mesaj nou</string>
     <string name="new_phrase">Adăugaţi un răspuns</string>
     <string name="new_phrase_hint">Introduceţi un răspuns nou</string>
-    <string name="nickname_placeholder">Pseudonim</string>
     <string name="no">Anulaţi</string>
     <string name="no_block_button_msg">Nu se blochează mesajele de la acest număr</string>
     <string name="no_conversations">Nicio conversaţie</string>
@@ -410,7 +395,6 @@
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
-    <string name="pref_summary_hide_festival">Ascundeţi caracteristicile specifice doar pentru China pentru limbile non-Chineze</string>
     <string name="pref_summary_manage_sim_messages">Gestionaţi mesajele stocate pe cartela SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Descărcați fotografiile și videoclipurile din mesaje în mod automat</string>
     <string name="pref_summary_mms_read_reports">Arată o notificare atunci când destinatarul a descărcat conținutul mesajului MMS</string>
@@ -431,9 +415,7 @@
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
     <string name="pref_title_card_format">Formatare card partajare</string>
     <string name="pref_title_delivery_reports">Rapoarte de livrare</string>
-    <string name="pref_title_festival_networking">Conexiune internet</string>
     <string name="pref_title_fwd_sender_info">Redirecţionaţi informaţia despre expeditor</string>
-    <string name="pref_title_hide_festival">Ascundeţi caracteristicile destinate doar pentru China"</string>
     <string name="pref_title_manage_sim_messages">Gestionaţi mesajele de pe cartela SIM</string>
     <string name="pref_title_miui_card">Trimiteţi prin card</string>
     <string name="pref_title_mms_auto_retrieval">Preluare automată a conținutului mesajelor MMS</string>
@@ -483,8 +465,6 @@
     <string name="recipients_over_size">Prea mulţi destinatari.</string>
     <string name="recording_failed">Nu se poate înregistra</string>
     <string name="refill_now">Completaţi din nou acum</string>
-    <string name="refresh">Reîmprospătaţi</string>
-    <string name="refresh_failed">Reîmprospătare eşuată</string>
     <string name="refreshing">Se actualizează…</string>
     <string name="release_cancel">Eliberați pentru a anula</string>
     <string name="remove">Eliminaţi</string>

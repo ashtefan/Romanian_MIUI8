@@ -349,15 +349,11 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="search_account_security">Securitate cont</string>
     <string name="search_account_security_desc">Setări cont</string>
     <string name="search_account_security_key_words">Schimbare telefon,Schimbare adresă de e-mail,Protecție cont,Conturi,Sina Weibo,QQ,Autorizare,Dispozitive</string>
-    <string name="search_account_security_path">Setări/Contul Mi/Setări cont</string>
+    <string name="search_account_security_path">Setări/Contul Mi/Securitate cont</string>
     <string name="search_app_name">Contul Mi</string>
-    <string name="search_logout_account">Deconectare</string>
-    <string name="search_logout_account_desc">Contul Mi</string>
-    <string name="search_logout_account_key_words">Deconectare</string>
-    <string name="search_logout_account_path">Contul Mi/Setări cont,Setări/Contul Mi/Setări cont</string>
     <string name="search_mi_account">Contul Mi</string>
     <string name="search_mi_account_desc">Contul Mi</string>
-    <string name="search_mi_account_key_words">Contul Mi,Conectare,creare cont,Mi Cloud,Setare cont,Gestionare cont, Informații Plăți Mi</string>
+    <string name="search_mi_account_key_words">Mi Cloud,Setare cont,Informații Plăți Mi,Deconectare</string>
     <string name="search_mi_account_path">Setări/Contul Mi</string>
     <string name="search_user_detail">Informaţii personale</string>
     <string name="search_user_detail_bottom_key_words">Modificare venit, Modificare nivel educație, Modificare locație, Modificare regiune</string>

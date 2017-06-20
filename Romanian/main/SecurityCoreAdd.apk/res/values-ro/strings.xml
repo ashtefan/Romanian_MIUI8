@@ -86,7 +86,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="finger_print_num">Amprenta %d</string>
     <string name="finger_print_of_use">Utilizați amprenta</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta"</string>
-    <string name="function_not_support">Nesuportat în acest spațiu de lucru</string>
+    <string name="function_not_support">Nesuportată pe acest dispozitiv</string>
     <string name="goToSecondSpacce">Mergeți în Spațiul Secundar</string>
     <string name="go_on_import">Importați</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.

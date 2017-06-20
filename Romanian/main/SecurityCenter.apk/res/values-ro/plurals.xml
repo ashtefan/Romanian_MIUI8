@@ -2,11 +2,15 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d apeluri</item>
-        <item quantity="one">1 apel</item>
+        <item quantity="one">%d apel</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d SMS-uri</item>
-        <item quantity="one">1 SMS</item>
+        <item quantity="other">%d mesaje</item>
+        <item quantity="one">%d mesaj</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d alți utilizatori l-au marcat ca</item>
+        <item quantity="one">%d utilizator l-a marcat ca</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Nu se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
@@ -16,9 +20,21 @@
         <item quantity="other">Se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
         <item quantity="one">Se urmăreşte utilizarea datelor pentru %d aplicaţie</item>
     </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">Utilizat cu %d zile în urmă</item>
-        <item quantity="one">Utilizat ieri</item>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d aplicații</item>
+        <item quantity="one">%d aplicație</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"Ați utilizat deja %s din limita zilnică de date."</item>
+        <item quantity="one">"Ați utilizat deja %s din limita zilnică de date."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Ați utilizat deja %s din limita zilnică de date.
+
+Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic suplimentar."</item>
+        <item quantity="one">"Ați utilizat deja %s din limita zilnică de date.
+
+Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic suplimentar."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Căutaţi %d aplicaţii</item>
@@ -149,29 +165,9 @@
         <item quantity="other">%d aplicații cu risc de încălcare a confidențialității</item>
         <item quantity="one">%d aplicație cu risc de încălcare a confidențialității</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Parola trebuie să conțină cel puțin %d litere.</item>
-        <item quantity="one">Parola trebuie să conțină cel puțin o literă.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Parola trebuie să conțină cel puțin %d litere mici.</item>
-        <item quantity="one">Parola trebuie să conțină măcar o literă mică.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Parola trebuie să conțină cel puțin %d majuscule.</item>
-        <item quantity="one">Parola trebuie să conțină cel puțin o literă mare.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Parola trebuie să conțină cel puțin %d cifre.</item>
-        <item quantity="one">Parola trebuie să conțină cel puțin o cifră.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Parola trebuie să conțină cel puțin %d caractere speciale.</item>
-        <item quantity="one">Parola trebuie să conțină cel puțin un caracter special.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Parola trebuie să conțină cel puțin %d caractere înafară de litere.</item>
-        <item quantity="one">Parola trebuie să conțină cel puțin un caracter înafară de litere.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Ațteptați %d secunde și încercați din nou. "</item>
+        <item quantity="one">"Așteptați %d secundă și încercați din nou. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicații blocate</item>
@@ -265,5 +261,17 @@
     <plurals name="app_manager_reject_count">
         <item quantity="other">Blocată de %d ori</item>
         <item quantity="one">Blocată %d dată</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">"Neutilizată de %d zile"</item>
+        <item quantity="one">"Neutilizată de %d zi"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"Neutilizată de %d luni"</item>
+        <item quantity="one">"Neutilizată de %d lună"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"Neutilizată de %d ani"</item>
+        <item quantity="one">"Neutilizată de %d an"</item>
     </plurals>
 </resources>

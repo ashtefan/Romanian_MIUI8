@@ -71,7 +71,7 @@
     <string name="can_not_modify_allday_event">"Nu se poate modifica evenimentul de o zi"</string>
     <string name="can_not_modify_event">"Nu se poate schimba evenimentul"</string>
     <string name="can_not_modify_repeating_acrossing_days_event">"Nu se poate modifica evenimentul de mai multe zile"</string>
-    <string name="card_detail_dialog_message">“%1$s se va actualiza în fiecare zi. Abonați-vă pentru a primi actualizări zilnice.</string>
+    <string name="card_detail_dialog_message">%1$s se va actualiza în fiecare zi. Abonați-vă pentru a primi actualizări zilnice.</string>
     <string name="card_detail_dialog_negative">Abonați-vă mai târziu</string>
     <string name="card_detail_dialog_positive">Abonați-vă acum</string>
     <string name="card_detail_dialog_title">Vă abonați acum?</string>
@@ -238,6 +238,7 @@
     <string name="hint_what">Numele evenimentului</string>
     <string name="hint_where">Locaţie</string>
     <string name="holiday_card_title">Concediu</string>
+    <string name="holiday_detail_read_more">Mai multe</string>
   <string name="homepage_today">azi</string>
   <string name="horoscope_card_comprehensive">Complet:</string>
   <string name="horoscope_card_financial">Bani:</string>

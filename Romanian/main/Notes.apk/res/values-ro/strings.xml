@@ -20,6 +20,9 @@
     <string name="cta_reminder">Această aplicație trebuie să se conecteze la internet pentru a sincroniza notițele în Mi Cloud, și de asemenea să poate citi contactele pentru a eticheta notițele pe care le faceți în timpul apelurilor.</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
+    <string name="dialog_share_as_pic">Partajați nota ca și fotografie</string>
+    <string name="dialog_share_as_text"> Partajați nota catext</string>
+    <string name="dialog_share_title">Partajați nota</string>
     <string name="dlg_btn_set_password">Setați parola</string>
     <string name="dlg_check_reminder">"Nu arăta din nou"</string>
     <string name="dlg_delete_message">Ștergere…</string>
@@ -36,6 +39,7 @@
     <string name="dlg_title_set_password">Setați parola</string>
     <string name="dlg_title_use_privacy_password">Utilizați parola de protejare a confidențialității</string>
     <string name="dlg_unhide_message">Se afișează…</string>
+    <string name="done">Finalizat</string>
     <string name="enable_sync">Sincronizaţi</string>
     <string name="enable_sync_desc">Sincronizaţi notele cu contul dvs. Mi (%1$s)?</string>
     <string name="error_contact_not_exist">Contact inexistent</string>
@@ -49,6 +53,8 @@
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="folder_exist">Un dosar cu acelaşi număr există deja</string>
     <string name="force_touch_menu_add">Adăugați o notiță</string>
+    <string name="format_move_note_out_folder">Această notiță a fost mutată</string>
+    <string name="format_move_note_to_folder">Mutată în %1$s</string>
     <string name="format_move_notes_out_folder">%1$s mutat</string>
     <string name="format_move_notes_to_folder">Au fost mutate %1$s în %2$s</string>
     <string name="hidden_notes_fragment_title">Notițe ascunse</string>
@@ -57,6 +63,8 @@
     <string name="info_note_enter_desktop">Adăugată pe desktop</string>
     <string name="loading_text">Doar o secundă…</string>
     <string name="login_sync">Conectare şi sincronizare</string>
+    <string name="menu_add_folder">Adăugați în dosar</string>
+    <string name="menu_add_folder_description">Adăugați un dosar</string>
     <string name="menu_create_folder">Dosar nou</string>
     <string name="menu_delete">Ştergeţi</string>
     <string name="menu_delete_forever">Ștergeți definitiv</string>

@@ -167,4 +167,13 @@
         <item>Moderată</item>
         <item>Ușoară</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelent</item>
+        <item>Bun</item>
+        <item>Poluat ușor</item>
+        <item>Poluat moderat</item>
+        <item>Poluat grav</item>
+        <item>Poluat sever</item>
+        <item>Peste indice</item>
+    </string-array>
 </resources>

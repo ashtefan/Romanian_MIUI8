@@ -216,6 +216,7 @@ Actualizaţi acum?"</string>
     <string name="auto_remind_text">Memento automat</string>
     <string name="auto_remind_unbind">Opriți</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
+    <string name="automatic_remind_text">memento</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
     <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">Economisire acumulator</string>
@@ -241,6 +242,7 @@ Actualizaţi acum?"</string>
     <string name="calendar_remind_gridview_pick_date">Alegeți o dată</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
+    <string name="cancel_pop3_attchemt_downloading">Oprirea descărcării atașamentelor nu este disponibilă pentru conturile de tip POP3.</string>
     <string name="cant_move_or_change_labels">"Nu se pot muta elemente din mai multe conturi."</string>
     <string name="cc">CC</string>
     <string name="cc_attribution">CC: %1$s\n</string>
@@ -385,7 +387,7 @@ Actualizaţi acum?"</string>
     <string name="download_message_failed_for_too_large">Mesajul este prea mare pentru a putea fi descărcat.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">Declarații bancare</string>
-    <string name="drawer_bill_title">Facturi</string>
+    <string name="drawer_classification">Clasificare inteligentă</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
     <string name="drawer_contacts">Contacte</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
@@ -676,6 +678,8 @@ Actualizaţi acum?"</string>
     <string name="no_filtrable_email_account">Niciun cont de filtrat</string>
     <string name="no_mails">Niciun e-mail.</string>
     <string name="no_matched_attachment">Niciun rezultat.</string>
+    <string name="no_recognize_describe">"Nu s-a găsit niciun e-mail care să conțină bilete sau rezervări.
+Încercați cu altă căsuță de e-mail."</string>
     <string name="no_remind">Nu-mi mai aminti</string>
     <string name="not_subject">(Niciun subiect)</string>
     <string name="not_synced_title">Cont nesincronizat</string>
@@ -724,6 +728,7 @@ Actualizaţi acum?"</string>
     <string name="overlays_title">Deschideți fereastra plutitoare de permisiuni</string>
     <string name="parase_setup_data">Obţinere date…</string>
     <string name="parse_bill_discribe">Procesare facturi card de credit…</string>
+    <string name="parse_recognize_describe">Analizare e-mail…</string>
     <string name="password_expire_warning_content_title">Parola de blocare a ecranului expiră</string>
     <string name="password_expire_warning_dialog_content_fmt">Este necesar să modificaţi în curând codul PIN sau parola de blocare a ecranului. În caz contrar, datele pentru %s vor fi şterse. Modificaţi acum?</string>
     <string name="password_expire_warning_dialog_title">Parola de blocare ecran expiră în curând</string>
@@ -874,6 +879,32 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="read_string">conversație citită</string>
     <string name="recipient_needed">Adăugaţi cel puţin un destinatar.</string>
     <string name="recipient_needed_title">Avertizare</string>
+    <string name="recognize_hotel_check_in_date">Ora de sosire</string>
+    <string name="recognize_hotel_hotel_money">Preț %1$s</string>
+    <string name="recognize_hotel_notification_content">Bucurați-vă de ședere!</string>
+    <string name="recognize_hotel_notification_title">Ați rezervat o cameră la %1$s începând din %2$s/%3$s. Verificați de două ori rezervarea înainte de sosirea acolo.</string>
+    <string name="recognize_hotel_order_money">Total</string>
+    <string name="recognize_hotel_other_money">Alte cheltuieli %1$s</string>
+    <string name="recognize_hotel_reverse_date">Sosiți înainte de %1$s:%2$s %3$s</string>
+    <string name="recognize_hotel_room_type">Camera</string>
+    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+    <string name="recognize_hotel_title">Rezervare la hotel</string>
+    <string name="recognize_hotel_user_names">Gazdă</string>
+    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+    <string name="recognize_setting_title">Setări călătorie</string>
+    <string name="recognize_ticket_air_notification_content">Bucurați-vă de zbor!</string>
+    <string name="recognize_ticket_air_notification_title">Zborul %3$s (%1$s/%2$s) va decola în curând. Verificați de două ori detaliile zborului.</string>
+    <string name="recognize_ticket_air_state_stopover">Oprire</string>
+    <string name="recognize_ticket_air_state_transfer">Transfer</string>
+    <string name="recognize_ticket_air_user_name">Pasager:</string>
+    <string name="recognize_ticket_title">Bilete de avion și de tren</string>
+    <string name="recognize_ticket_train_alter">Modificat</string>
+    <string name="recognize_ticket_train_depart_date">Pleacă la %3$s:%4$s pe %1$s/%2$s</string>
+    <string name="recognize_ticket_train_notification_content">Drum bun!</string>
+    <string name="recognize_ticket_train_notification_title">Trenul %3$s (%1$s/%2$s) va pleca în curând. Verificați de două ori biletul.</string>
+    <string name="recognize_ticket_train_return">Returnat</string>
+    <string name="recognize_ticket_train_user_name">Călător: %1$s</string>
+    <string name="recognize_title">Informații despre călătorie</string>
     <string name="reduce_the_receiving_frequencye_summary">Se sincronizează inbox-ul mai rar în timp ce Nu deranjați este activat</string>
     <string name="reduce_the_receiving_frequencye_title">Se sincronizează mai rar</string>
     <string name="refresh">Actualizaţi</string>
@@ -1023,7 +1054,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
           între web, alte dispozitive ale dvs. și %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activaţi</string>
     <string name="turn_auto_sync_on_dialog_title">Activaţi sincronizarea automată?</string>
-    <string name="unbind_dialog_text">"Nu veți mai putea primi notificări după ce veți opri analizarea facturilor.
+    <string name="unbind_dialog_text">"Nu veți mai putea primi notificări după ce veți opri analizarea.
 Opriți acum?"</string>
     <string name="undo">Anulaţi</string>
     <string name="unknow">Necunoscut</string>
