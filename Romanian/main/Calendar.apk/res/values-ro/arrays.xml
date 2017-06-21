@@ -22,7 +22,7 @@
         <item>Niciodată</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Codul implicit al regiunii</item>
+        <item>Codul prestabilit al regiunii</item>
         <item>Sâmbătă</item>
         <item>Duminică</item>
         <item>Luni</item>
@@ -119,35 +119,31 @@
         <item>Fiji</item>
         <item>Tonga</item>
      </string-array>
-	  <string-array name="aquarius_info">
+    <string-array name="aquarius_info">
         <item>vărsător</item>
         <item>Vărsător</item>
         <item>20.01 - 18.02</item>
     </string-array>
-	<string-array name="aries_info">
+    <string-array name="aries_info">
         <item>berbec</item>
         <item>Berbec</item>
         <item>21.03 - 19.04</item>
     </string-array>
-	<string-array name="cancer_info">
+    <string-array name="cancer_info">
         <item>rac</item>
         <item>Rac</item>
         <item>22.06 - 22.07</item>
     </string-array>
-	<string-array name="capricorn_info">
+    <string-array name="capricorn_info">
         <item>capricorn</item>
         <item>Capricorn</item>
         <item>22.12 - 19.01</item>
     </string-array>
-	<string-array name="date_calculate_spinner">
+    <string-array name="date_calculate_spinner">
         <item>Înainte</item>
         <item>Înapoi</item>
     </string-array>
-    <string-array name="change_response_labels">
-        <item>Doar acest eveniment</item>
-        <item>Toate evenimentele din serie</item>
-     </string-array>
-	 <string-array name="default_reminder_labels">
+    <string-array name="default_reminder_labels">
         <item>La momentul evenimentului</item>
         <item>Cu 5 minute înainte de eveniment</item>
         <item>Cu 10 minute înainte de eveniment</item>
@@ -158,27 +154,27 @@
         <item>Cu 2 zile înainte de eveniment</item>
         <item>Cu o săptămână înainte de eveniment</item>
     </string-array>
-	<string-array name="gemini_info">
+    <string-array name="gemini_info">
         <item>gemeni</item>
         <item>Gemeni</item>
         <item>21.05 - 21.06</item>
     </string-array>
-	<string-array name="leo_info">
+    <string-array name="leo_info">
         <item>leu</item>
         <item>Leu</item>
         <item>23.07 - 22.08</item>
     </string-array>
-	<string-array name="libra_info">
+    <string-array name="libra_info">
         <item>balanță</item>
         <item>Balanță</item>
         <item>23.09 - 23.10</item>
     </string-array>
-	<string-array name="pisces_info">
+    <string-array name="pisces_info">
         <item>pești</item>
         <item>Pești</item>
         <item>19.02 - 20.03</item>
     </string-array>
-	<string-array name="repeat_choose_day">
+    <string-array name="repeat_choose_day">
         <item>pe întâi</item>
         <item>pe doi</item>
         <item>pe trei</item>
@@ -211,12 +207,12 @@
         <item>pe treizeci</item>
         <item>pe treizecișiunu</item>
     </string-array>
-	<string-array name="repeat_choose_end">
+    <string-array name="repeat_choose_end">
         <item>Niciodată</item>
         <item>Timp</item>
         <item>Frecvenţă</item>
      </string-array>
-	  <string-array name="repeat_choose_month">
+    <string-array name="repeat_choose_month">
         <item>Ian</item>
         <item>Feb</item>
         <item>Mar</item>
@@ -230,7 +226,7 @@
         <item>Noi</item>
         <item>Dec</item>
      </string-array>
-	 <string-array name="repeat_choose_week_left">
+    <string-array name="repeat_choose_week_left">
         <item>prima</item>
         <item>a doua</item>
         <item>a treia</item>
@@ -271,7 +267,7 @@
         <item>scorpion</item>
         <item>Scorpion</item>
         <item>24.10 - 22.11</item>
-    </string-array>
+	    </string-array>
     <string-array name="taurus_info">
         <item>taur</item>
         <item>Taur</item>
@@ -284,12 +280,12 @@
         <item>cu 6 ore înainte</item>
         <item>cu o zi înainte</item>
     </string-array>
-	<string-array name="virgo_info">
+    <string-array name="virgo_info">
         <item>fecioară</item>
         <item>Fecioară</item>
         <item>23.08 - 22.09</item>
     </string-array>
-	<string-array name="week_header_name">
+    <string-array name="week_header_name">
         <item>Dum</item>
         <item>Lun</item>
         <item>Mar</item>
@@ -333,15 +329,4 @@
     </string-array>
     
     
-    <string-array name="preferences_week_start_day_labels">
-        <item>Codul local prestabilit</item>
-        <item>Sâmbătă</item>
-        <item>Duminică</item>
-        <item>Luni</item>
-     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Întotdeauna</item>
-        <item>Doar în modul Silențios</item>
-        <item>Niciodată</item>
-    </string-array>
  </resources>
