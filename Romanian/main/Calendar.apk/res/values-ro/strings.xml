@@ -257,6 +257,8 @@
     <string name="insert_event_dialog_title">Atenție</string>
     <string name="insert_event_toast_add_failed">"Nu s-a putut adăuga"</string>
     <string name="insert_event_toast_add_success">Eveniment creat</string>
+  <string name="install_weather_app_error">应用加载失败.</string>
+  <string name="install_weather_app_loading">加载中...</string>
     <string name="item_num_selected">%1$d selectate</string>
   <string name="joke_card_click_toast">Apăsați lung pentru a copia bancuri</string>
   <string name="joke_card_icon_text">clovn %1$s</string> 
@@ -303,6 +305,7 @@
     <string name="menu_preferences">Setări</string>
     <string name="menu_reminder_preferences">Setări pentru memento</string>
     <string name="missing_name">(Niciun nume)</string>
+  <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
     <string name="modify_all">Modificaţi toate evenimentele din serie</string>
     <string name="modify_all_following">Modificaţi acest eveniment şi pe cele viitoare.</string>
     <string name="modify_event">Modificaţi doar acest eveniment</string>
@@ -513,7 +516,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="weekly">Săptămânal (în fiecare zi de %s)</string>
     <string name="when_label">Când</string>
     <string name="widget_events">Următoarele evenimente</string>
-    <string name="widget_get_weather_info">Obțineți informații despre starea vremii &gt;</string>
+    <string name="widget_get_weather_info">Obțineți informații despre starea vremii</string>
     <string name="widget_no_events">Niciun eveniment</string>
     <string name="widget_select_style">Selectaţi un stil</string>
     <string name="work_day_indication">: (</string>

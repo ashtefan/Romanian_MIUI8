@@ -261,7 +261,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contacts_setting_title">Setări Contacte</string>
     <string name="contacts_unavailable_add_account">Conectaţi-vă la un cont</string>
     <string name="contacts_unavailable_create_contact">Creaţi o intrare nouă în Agendă</string>
-    <string name="contacts_unavailable_import_contacts">Importaţi contactele dintr-un fişier</string>
+    <string name="contacts_unavailable_import_contacts">Importaţi dintr-un fişier</string>
     <string name="convenient_service">Servicii</string>
     <string name="copy_number">Copiați</string>
     <string name="copy_text">Copiaţi în clipboard</string>
@@ -987,6 +987,8 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preview_incall_show_entry">Previzualizare videoclip</string>
     <string name="previous">Înapoi</string>
     <string name="private_num">Număr privat</string>
+    <string name="profileSavedErrorToast">"Nu s-au putut salva modificările profilului meu"</string>
+    <string name="profileSavedToast">Profil salvat</string>
     <string name="profile_binded_numbers">%s</string>
     <string name="profile_display_name">Configuraţi profilul</string>
     <string name="profile_name">Profilul meu</string>

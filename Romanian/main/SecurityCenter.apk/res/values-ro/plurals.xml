@@ -12,6 +12,14 @@
         <item quantity="other">%d alți utilizatori l-au marcat ca</item>
         <item quantity="one">%d utilizator l-a marcat ca</item>
     </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d cuvinte cheie</item>
+        <item quantity="one">%d cuvânt cheie</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numere</item>
+        <item quantity="one">%d număr</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Nu se urmăreşte utilizarea datelor pentru %d aplicaţii</item>
         <item quantity="one">Nu se urmăreşte utilizarea datelor pentru %d aplicaţie</item>

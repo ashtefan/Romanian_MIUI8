@@ -192,8 +192,6 @@
     <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s&gt;</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
     <string name="hint_search_sms">%d mesaje</string>
-    <string name="hms_add_image_progress_message">În lucru…</string>
-    <string name="hms_first_use_tips">Pentru a recepţiona mesaje de serviciu, trebuie să vă conectaţi la o reţea Wi-Fi</string>
     <string name="hms_uri_param_err">URL-ul nu poate fi gol</string>
     <string name="hold_to_talk">Mențineți pentru a vorbi</string>
     <string name="hybrid_check_network">Setări de rețea</string>
@@ -239,7 +237,6 @@
     <string name="menu_send_as_common">Trimiteţi ca SMS</string>
     <string name="menu_unlock">Eliminaţi din favorite</string>
     <string name="menu_view_contact">Vizualizaţi persoana din agendă</string>
-    <string name="menu_yellowpage">Vizualizaţi %s</string>
     <string name="message_class_label">"Clasa de mesaj: "</string>
     <string name="message_contact">Contact:</string>
     <string name="message_details_title">Detalii mesaj</string>
@@ -262,15 +259,12 @@
     <string name="message_too_big_for_video">Mesajul este prea mare pentru a ataşa un videoclip.</string>
     <string name="message_type_label">"Tip: "</string>
     <string name="messagelist_sender_self">Eu</string>
-    <string name="mipub_messaging_entry_title">Mesaj Mi</string>
     <string name="mms">MMS</string>
     <string name="move_down">Mutaţi în jos</string>
     <string name="move_up">Mutaţi în sus</string>
     <string name="msg_type_hint_mms">Mesaj multimedia (MMS)</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Mesagerie Mi</string>
-    <string name="msg_type_hint_mx_b2c">Notificare de rețea</string>
-    <string name="msg_type_hint_mx_b2c_omit">Notificare de rețea</string>
     <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_sms">Mesaj text</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
@@ -309,9 +303,6 @@
     <string name="mx_auto_resend_mms_summary">Se trimite ca MMS prin conexiunea de date mobile atunci când nu sunteți conectat la Wi-Fi (se aplică tarife normale de utilizare a datelor).</string>
     <string name="mx_auto_resend_sms">Trimiteţi ca SMS</string>
     <string name="mx_auto_resend_sms_summary">Se trimite ca mesaj text prin conexiunea de date mobile atunci când nu sunteți conectat la Wi-Fi (se aplică tarife normale de utilizare a datelor).</string>
-    <string name="mx_b2c_message_desc">Notificări de reţea</string>
-    <string name="mx_b2c_message_resend_not_online">"Nu se poate retrimite mesajul. Mesaje Mi lucrează off-line."</string>
-    <string name="mx_b2c_message_server">Server</string>
     <string name="mx_btn_enable">Activare</string>
     <string name="mx_btn_enable_now">Activaţi</string>
     <string name="mx_count_dspt">Aţi trimis %1$d mesaje text şi %2$d MMS-uri gratuit</string>
@@ -387,6 +378,8 @@
     <string name="pref_notification_settings_title">Notificări</string>
     <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
+    <string name="pref_show_list_avatar_summary">Arată fotografiile de profil și informațiile de contact în lista de mesaje</string>
+    <string name="pref_show_sms_template_entry_summary">Detectează parolele de unică utilizare în SMS-uri</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
     <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
     <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
@@ -483,7 +476,6 @@
     <string name="restore_blocked_message">Restabilire</string>
     <string name="restore_to_phone_memory_failed">Restabilirea a eşuat</string>
     <string name="restored_to_phone_memory">Restabilit</string>
-    <string name="retrive_hms_tips">Recepţionare…</string>
     <string name="save">Salvaţi</string>
     <string name="save_ringtone">Salvaţi ca ton de apel</string>
     <string name="save_to_sim">Salvaţi pe cartela SIM</string>
@@ -521,7 +513,6 @@
     <string name="select_recipient">Selectaţi destinatari</string>
     <string name="select_top_text">Text în partea de sus</string>
     <string name="send">Trimiteţi</string>
-    <string name="send_hms_editor_hints">Mesagerie Mi</string>
     <string name="send_message_dlg_check_hint">Nu se afișează din nou</string>
     <string name="send_message_dlg_mgs">Notă: Trebuie să vă inregistrăm telefonul în platforma de administrare a dispozitivelor pentru a vă furniza ulterior alte servicii în mod gratuit. Un mesaj gratuit conținând datele dispozitivului va fi trimis pentru înregistrare. Acest mesaj va fi trimis doar odată și nu va conține datele personale. Selectați “OK” pentru a vă inregistra și pentru a utiliza serviciul. Selectați “Revocare” pentru a renunța la serviciile CMCC.</string>
     <string name="send_message_dlg_title">Gestionare dispozitiv</string>
@@ -609,6 +600,7 @@
     <string name="title_collapse_sp_messages">Grupaţi notificările</string>
     <string name="title_hide_verification_code">Ascundere automată a OTP în Blocarea ecranului</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
+    <string name="title_show_list_avatar">Arată fotografiile de profil</string>
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
     <string name="title_timed_message_dialog">Setaţi mesajul temporizat</string>
@@ -654,8 +646,6 @@
     <string name="user_agreement5">Prin atingerea butonului OK, sunteți de acord cu Termenii de utilizare și Politica de confidențialitate.</string>
     <string name="view">Vizualizaţi</string>
     <string name="view_bookmark">Vizualizaţi mesajul original</string>
-    <string name="view_hms_attachment_fail">Nu se poate descărca imaginea</string>
-    <string name="view_hms_details">Detalii</string>
     <string name="view_message_details">Afişaţi detaliile</string>
     <string name="voip_enable">Mesaje şi Voce Mi</string>
     <string name="voip_enable_popup_msg">Efectuaţi apeluri către alți utilizatori de telefoane MIUI fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
@@ -664,7 +654,6 @@
     <string name="warning_show">Trimitere în %d s</string>
     <string name="wild_msg_processing">Procesare...</string>
     <string name="wild_msg_title">Selectați numerele de telefon pentru sincronizare</string>
-    <string name="xiaomi_service_number">Număr de serviciu</string>
     <string name="yellowpage_recommend_msg">"Descoperiți caracteristicile serviciului de mesagerie MIUI"</string>
     <string name="yes">OK</string>
 </resources>

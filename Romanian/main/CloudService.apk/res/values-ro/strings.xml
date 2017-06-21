@@ -185,7 +185,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_detail_force_sync">Sincronizați acum</string>
     <string name="micloud_detail_lastest">Sincronizat</string>
     <string name="micloud_detail_lastest_with_off">Sincronizat</string>
-    <string name="micloud_detail_need_charge">Conectați încărcătorul pentru a relua sincronizarea</string>
+    <string name="micloud_detail_need_charge_or_sleep">Conectați încărcătorul și închideți ecranul pentru a relua sincronizarea</string>
     <string name="micloud_detail_not_sync">%d așteaptă sincronizarea</string>
     <string name="micloud_detail_not_synced">Nesincronizat</string>
     <string name="micloud_detail_ok">OK</string>

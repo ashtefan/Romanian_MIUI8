@@ -7,14 +7,6 @@
     <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
     <string name="delete">Ştergeţi</string>
     <string name="emergency_call_string">Apel de urgenţă</string>
-    <string name="experimental_try_string">Încercaţi</string>
-    <string name="experimental_validate">Validaţi</string>
-    <string name="experimental_validate_fail">"Conectare eşuată"</string>
-    <string name="experimental_validate_password">Parola</string>
-    <string name="experimental_validate_progress">Logare…</string>
-    <string name="experimental_validate_thanks">Mulţumesc!</string>
-    <string name="experimental_validate_username">Nume utilizator</string>
-    <string name="experimental_validate_warning">Mulţumim pentru că ajutaţi MIUI să devină mai bun!</string>
     <string name="find_device_turn_off_flight_mode">Dezactivaţi modul Avion.</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>
@@ -40,6 +32,39 @@
     <string name="invalid_confirm_pin_hint">"Codurile PIN nu se potrivesc"</string>
     <string name="invalid_sim_pin_hint">Codul PIN trebuie să conțină între 4 și 8 cifre</string>
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
+    <string name="keyguard_charging_info_battery_temperature_text">Temperatura acumulatorului</string>
+    <string name="keyguard_charging_info_battery_used_time_text">Pe acumulator</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Aproximativ %dhr până la încărcarea completă</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">Aproximativ  %dmin până la încărcarea completă​</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Aproximativ %dhr și %dmin până la încărcarea completă</string>
+    <string name="keyguard_charging_info_charging_text">Încărcare</string>
+    <string name="keyguard_charging_info_charging_voltage_text">Voltaj</string>
+    <string name="keyguard_charging_info_click_to_detail">Vizualizați detaliile</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">Aproximativ %dhr rămase</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">Aproximativ %dmin rămase</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Aproximativ %dhr și %dmin rămase</string>
+    <string name="keyguard_charging_info_current_now_text">Monitorizare în timp real</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%dhr</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr și %dmin</string>
+    <string name="keyguard_charging_info_finished_charging_text">Încărcat complet</string>
+    <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
+    <string name="keyguard_charging_info_last_charge_today_time">Astăzi %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
+    <string name="keyguard_charging_info_last_charged_time_text">Ultima încărcare</string>
+    <string name="keyguard_charging_info_tip_text1">Mențineți telefonul încărcat la cel puțin 10% pentru a extinde durata de viață a acumulatorului.</string>
+    <string name="keyguard_charging_info_tip_text2">"Nu supraîncărcați telefonul. Mai multe încărcări de scurtă durată sunt mai benefice decât o încărcare peste noapte."</string>
+    <string name="keyguard_charging_info_tip_text3">Evitați încărcarea telefonului când temperatura mediului înconjurător este sub 0℃.</string>
+    <string name="keyguard_charging_info_tip_text4">"Nu utilizați telefonul în timpul încărcării pentru a evita supraîncălzirea."</string>
+    <string name="keyguard_charging_info_tip_text5">Acumulatorii se încarcă mai greu atunci când se încălzesc mai mult decât de obicei.</string>
+    <string name="keyguard_charging_info_tip_text6">Închideți ecranul și lăsați telefonul din mână pentru a se putea răci.</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">Încărcare rapidă. Atingeți pentru a vedea detaliile.</string>
+    <string name="keyguard_quickly_charging_info_charging_text">Încărcare rapidă…</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
     <string name="left_action_default_hint_text">Telecomandă Mi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
@@ -61,7 +86,6 @@
     <string name="lockscreen_glogin_password_hint">Parolă</string>
     <string name="lockscreen_glogin_submit_button">Conectaţi-vă</string>
     <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi www.mi.com/micloud</string>
-    <string name="missed_call_text">%d apeluri pierdute</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de un dispozitiv Bluetooth</string>
     <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide %s</string>
     <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a deschide %s</string>
@@ -78,7 +102,6 @@ Conectați-vă la i.mi.com, mergeți la “Găsire dispozitiv”, selectați dis
     <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>
     <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %s secunde</string>
     <string name="symbol_colon">:</string>
-    <string name="unlock_sim_string">Deblocare cartelă SIM</string>
     <string name="unlock_string">OK</string>
     <string name="unlocking_sim_card">Deblocare cartelă SIM</string>
     <string name="unlockscreen_low_battery">Conectaţi încărcătorul</string>

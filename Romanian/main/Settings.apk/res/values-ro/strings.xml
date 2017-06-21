@@ -1885,14 +1885,14 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="key_position_cat">Poziția butoanelor</string>
     <string name="key_settings">Butoane</string>
     <string name="key_settings_title">Butoane</string>
-    <string name="keyboard_and_input_methods_category">Tastatură și metode de introducere</string>
+    <string name="keyboard_and_input_methods_category">Tastatură</string>
     <string name="keyboard_assistance_category">Asistență tastatură</string>
     <string name="keyboard_layout_default_label">Prestabilit</string>
     <string name="keyboard_layout_dialog_setup_button">Configuraţi aspectul tastaturii</string>
     <string name="keyboard_layout_dialog_switch_hint">Pentru comutare, apăsaţi pe Control-Space</string>
     <string name="keyboard_layout_dialog_title">Alegeţi aspectul tastaturii</string>
     <string name="keyboard_layout_picker_title">Aspecte tastatură</string>
-    <string name="keyboard_settings_category">Tastatură şi metode de introducere</string>
+    <string name="keyboard_settings_category">Metode de introducere</string>
     <string name="keyboard_settings_title">Tastatură Android</string>
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
@@ -3103,6 +3103,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="remove_account_failed">Acest cont este necesar pentru unele aplicaţii. Puteţi elimina contul numai prin resetarea telefonului la setările prestabilite din fabrică (acţiune care şterge toate datele personale), din Setări > Creaţi copie de rezervă şi resetaţi.</string>
     <string name="remove_account_label">Eliminaţi contul</string>
     <string name="remove_and_uninstall_device_admin">Dezactivați și dezinstalați</string>
+    <string name="remove_continue">Dezinstalați</string>
     <string name="remove_device_admin">Dezactivaţi</string>
     <string name="remove_from_frequently_fragment">Eliminaţi %s din setările generale?</string>
     <string name="remove_managed_profile_label">Eliminați profilul Servici</string>
@@ -3275,7 +3276,6 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_pinning_unlock_password">Solicită parola înainte de anularea fixării</string>
     <string name="screen_pinning_unlock_pattern">Solicită modelul de deblocare înainte de anularea fixării</string>
     <string name="screen_pinning_unlock_pin">Solicită codul PIN înainte de anularea fixării</string>
-    <string name="screen_recorder">Înregistrare ecran</string>
     <string name="screen_resolution_dialog_title">Schimbați rezoluția</string>
     <string name="screen_resolution_high_format">Înaltă (%1$s)</string>
     <string name="screen_resolution_normal_format">Normală (%1$s)</string>
@@ -4258,6 +4258,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="uninstall_device_admin">Dezinstalați aplicația</string>
     <string name="uninstall_dlg_msg">Dezinstalarea va șterge toate datele aplicației.</string>
     <string name="uninstall_dlg_title">Dezinstalați acum?</string>
+    <string name="uninstall_protected_dlg_msg">Dezinstalarea aplicațiilor de sistem poate împiedica funcționarea corectă a unor componente MIUI. Dezinstalați oricum?</string>
+    <string name="uninstall_protected_dlg_title">Dezinstalare aplicații de sistem</string>
     <string name="uninstall_text">Dezinstalaţi</string>
     <string name="uninstall_wifi_master_key">Dezinstalați cheia master Wi-Fi</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele acestora.</string>
