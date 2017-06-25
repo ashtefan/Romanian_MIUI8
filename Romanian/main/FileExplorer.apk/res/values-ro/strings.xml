@@ -624,6 +624,7 @@
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="storage_warning">Imposibil de utilizat stocarea externă</string>
+    <string name="support_mtp">MTP va fi suportat în curând</string>
     <string name="swap_tip_1">Glisați spre stânga sau spre dreapta</string>
     <string name="swap_tip_2">pentru a vedea alte videoclipuri</string>
     <string name="sys_size_enable">" disponibil"</string>

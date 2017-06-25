@@ -28,7 +28,6 @@
     <string name="add_to_secret_fail">Nu s-a putut adăuga în albumul secret</string>
     <string name="add_to_secret_failed_with_reason">"Nu se poate adăuga în albumul secret. %1$s."</string>
     <string name="add_to_secret_failed_with_reason_and_count">"%2$s elemente nu au putut fi adăugate în albumul secret. %1$s."</string>
-    <string name="add_to_secret_successful">Adăugată în albumul secret</string>
     <string name="add_to_share_album_not_delete">"Nu se poate șterge fotografia din Albumul Partajat"</string>
     <string name="adding">Adăugare…</string>
     <string name="adding_recipients">Adăugare destinatari…</string>
@@ -41,7 +40,8 @@
     <string name="adjust_saturation">Saturație</string>
     <string name="adjust_sharpen">Accentuare</string>
     <string name="adjust_vignette">Vignetare</string>
-    <string name="album_already_exists">Un album cu același nume există deja</string>
+    <string name="album_already_exists_check">Vizualizați</string>
+    <string name="album_already_exists_msg">Albumul \"%s\" există deja</string>
     <string name="album_already_forced_top">Este deja în top</string>
     <string name="album_camera_name">Cameră</string>
     <string name="album_detail_clear_local_page_empty">Nu există fotografii sau videoclipuri sincronizate care să fie șterse</string>
@@ -78,7 +78,7 @@
     <string name="album_type_system">Albume de sistem</string>
     <string name="album_videos_name">Videoclipuri</string>
     <string name="alert_secret_album_enter">Am înțeles</string>
-    <string name="alert_secret_album_message">Glisați în jos din partea superioară a paginii Albume pentru a vedea albumul secret.</string>
+    <string name="alert_secret_album_message">Glisați în jos în fila Albume pentru a vedea albumul secret.</string>
     <string name="alert_secret_album_title">Vizualizare album secret</string>
     <string name="all_faces">Fotografiile cu această persoană</string>
     <string name="all_items_synced">Toate albumele au fost sincronizate în Mi Cloud</string>
@@ -214,11 +214,14 @@
     <string name="cloud_storage_video_title">Videoclipuri</string>
     <string name="cloud_storage_warn_desc">Achiziționați pachetul VIP pentru a beneficia de spațiu de stocare suplimentar</string>
     <string name="cloud_storage_warn_title">Spațiu de stocare insuficient în Mi Cloud</string>
+    <string name="cloud_sync_card_description">Sincronizați fotografiile și videoclipurile în Mi Cloud pentru a le putea accesa de pe mai multe dispozitive</string>
+    <string name="cloud_sync_card_title">Activați sincronizarea în Mi Cloud</string>
     <string name="cloudfolder_cannot_start_with">"Numele dosarului nu poate începe cu '%s'"</string>
     <string name="cloudfolder_contain_invalidate_char">"Numele dosarului nu poate conţine '%s'"</string>
     <string name="cloudfolder_name_cannot_empty">Introduceţi numele albumului</string>
     <string name="cloudfolder_name_reserved">Numele albumului este rezervat</string>
     <string name="collaps_people">Ascundeți</string>
+    <string name="comma_separator">,</string>
     <string name="confirm">OK</string>
     <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
     <string name="confirm_download_video_title">Descărcaţi videoclipul</string>
@@ -676,6 +679,8 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_title_tag">Obiecte</string>
   <string name="search_transition_element_icon">search_icon</string>
   <string name="search_transition_element_input">search_input</string>
+    <string name="secret_album_card_description">Cel mai bun loc pentru toate micile dumneavoastră secrete</string>
+    <string name="secret_album_card_title">Încercați albumele secrete</string>
     <string name="secret_album_display_name">Album ascuns</string>
     <string name="secret_album_password_first_use_msg">Se va utiliza parola pentru protecția confidențialității. Aceasta este utilizată pentru fotografii, notițe, dosare ascunse, etc.</string>
     <string name="secret_album_password_first_use_title">Parola de protecție a confidențialității</string>
@@ -729,7 +734,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="slim_now">Optimizați acum</string>
     <string name="slim_result_size">Salvat %1$s</string>
     <string name="slim_result_title">Au fost redimensionate cu succes</string>
-    <string name="slim_tip_msg">Dimensiunea fișierelor va fi redusă în mod automat atunci când veți fi conectat la Wi-Fi. Pentru a descărca fișierele la rezoluție maximă din Mi Cloud, apăsați \"Descărcare fișier\" în pagina de detalii a fotografiei.</string>
+    <string name="slim_tip_msg">Dimensiunea fișierelor va fi redusă în mod automat atunci când veți fi conectat la Wi-Fi. Pentru a descărca fișierele la rezoluție maximă din Mi Cloud, apăsați \"Descărcare fișier original\" în pagina de detalii a fotografiei.</string>
     <string name="slim_tip_title">Optimizare spațiu de stocare</string>
     <string name="slimming">Optimizare…</string>
     <string name="start_debug">Reparare Galerie</string>
@@ -775,6 +780,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="to_enable_sync_dialog_message">Activați întâi sincronizarea</string>
     <string name="to_enable_sync_dialog_positive_button_text">Mergeți la Setări</string>
     <string name="to_enable_sync_dialog_title">Sincronizare</string>
+    <string name="today">Astăzi</string>
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
     <string name="trash_bin">Coș de gunoi</string>
     <string name="trash_bin_summary">Vedeți fotografiile salvate care au fost șterse recent</string>
@@ -864,5 +870,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="who_is_this">Cine este?</string>
     <string name="xiaomi_account_not_exists_toast">"Contul Mi nu există"</string>
     <string name="yes">Da</string>
+    <string name="yesterday">Ieri</string>
     <string name="you_are">"Sunteți pentru copil"</string>
 </resources>

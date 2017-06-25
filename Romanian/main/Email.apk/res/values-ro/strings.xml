@@ -7,6 +7,7 @@
     <string name="accessibility_guide_second">Apoi apăsați butonul din partea din dreapta sus și atingeți \"Confirmare\" pentru a continua.</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
+    <string name="account_failure">Eșuare cont</string>
     <string name="account_name_toast">Un cont cu același nume există deja</string>
     <string name="account_options_sync_title">Sincronizare</string>
     <string name="account_password_spaces_error">"Această parolă începe sau se termină cu unul sau mai multe
@@ -251,6 +252,7 @@ Actualizaţi acum?"</string>
     <string name="change_folders_selection_dialog_title">Modificaţi dosarele</string>
     <string name="change_sync_settings">Modificaţi setările de sincronizare</string>
     <string name="changepw_dialog_tips">Reintroduceţi parola pentru %s</string>
+    <string name="changepw_dialog_tips_please_clikc_btn">Priviți %s codul de verificare și autentificați-vă din nou</string>
     <string name="chat_item_msg_people_unit">persoane</string>
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Se validează setările serverului…"</string>
@@ -355,12 +357,13 @@ Actualizaţi acum?"</string>
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">Gestionarea dispozitivului nu este activată</string>
     <string name="device_not_activiey_lint2">Serviciile de e-mail nu funcționează cu Exchange</string>
-    <string name="dialog_account_auto_sync_setting_no_open">Nu se pot primi mesaje noi. Sincronizarea dezactivată.</string>
-    <string name="dialog_auto_sync_setting_no_open">Nu se pot primi mesaje noi. Sincronizare dezactivată.</string>
+    <string name="dialog_account_auto_sync_setting_no_open">Ați modificat sincronizarea manual; trebuie să reîmprospătați manual pentru a primi mesaje noi.</string>
     <string name="dialog_change_sync_lookback">E-mailul primit cu %s în urmă va fi șters în mod automat. Apăsați pentru a modifica acțiunea.</string>
     <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
     <string name="dialog_insufficient_space_on_external">Nu se poate descărca ataşamentul. Spațiu insuficient în stocarea externă.</string>
     <string name="dialog_insufficient_space_on_internal">Spațiu insuficient în stocarea internă.</string>
+    <string name="dialog_system_auto_sync_account_no_open">Sincronizarea contului nu este activată și mesajele nu pot fi sincronizate în mod automat</string>
+    <string name="dialog_system_auto_sync_master_no_open">Sincronizarea nu este activată și mesajele nu pot fi sincronizate în mod automat</string>
     <string name="disable_admin_warning">"AVERTISMENT: dacă dezactivaţi permisiunea aplicaţiei E-mail de administrare a dispozitivului dvs. se şterg toate conturile de e-mail care au nevoie de aceasta, împreună cu e-mailurile, agenda, evenimentele din calendar şi alte date pe care aceste conturi le conţin."</string>
     <string name="discard">Renunţaţi</string>
     <string name="discard_drafts">Renunţaţi la mesajul nefinalizat</string>
@@ -387,7 +390,7 @@ Actualizaţi acum?"</string>
     <string name="download_message_failed_for_too_large">Mesajul este prea mare pentru a putea fi descărcat.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">Declarații bancare</string>
-    <string name="drawer_classification">Clasificare inteligentă</string>
+    <string name="drawer_classification">Categorii</string>
     <string name="drawer_close">Închideți panoul de navigare</string>
     <string name="drawer_contacts">Contacte</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
@@ -546,6 +549,8 @@ Actualizaţi acum?"</string>
     <string name="long_string">luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuung</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">Acest e-mail este prea mare pentru a fi încărcat, se afișează doar o parte din el. Pentru a-l vizualiza în întregime deschideţi-l pe un PC mai târziu.</string>
+    <string name="mail_description_content">Aplicația de e-mail este un client de e-mail care poate gestiona mai multe căsuțe de e-mail, suportă trimiterea și primirea, etichetarea e-mailurilor și care furnizează servicii cum ar fi modul sesiune, mailuri cu facturi, sortare e-mailuri precum și alte servicii. După ce veți dezinstala aplicația de E-mail, datele acesteia vor fi șterse.</string>
+    <string name="mail_description_title">Introducere aplicație de E-mail</string>
     <string name="mail_header_network_not_available">Nu aveți o conexiune la rețea.</string>
     <string name="mailbox_list_account_selector_combined_view">Toate conturile de e-mail</string>
     <string name="mailbox_name_display_ad">Reclame</string>
@@ -1013,6 +1018,9 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="subject_hint">Subiect</string>
     <string name="sync_error">Sincronizarea a eşuat.</string>
     <string name="sync_error_message">Dispozitivul dvs. nu are suficient spaţiu de stocare pentru a se efectua sincronizarea.</string>
+    <string name="syncing_wait_restart">Atingeți Reîncercare</string>
+  <string name="syncing_wait_restart_title">"Timpul de conectare la server a expirat 
+ nu se poate încărca mesajul"</string>
     <string name="system_account_create_failed">Contul nu a putut fi creat. Încercaţi din nou.</string>
     <string name="system_folders_sent_dlg">Selectaţi dosarul mesajelor trimise al serverului</string>
     <string name="system_folders_sent_summary">Selectaţi dosarul mesajelor trimise al serverului</string>
@@ -1021,6 +1029,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="system_folders_trash_dlg">Selectați coşul de gunoi al serverului</string>
     <string name="system_folders_trash_summary">Selectați coşul de gunoi al serverului</string>
     <string name="system_folders_trash_title">Dosarul Coş de gunoi</string>
+    <string name="system_setup_open_error">"Nu se poate seta sincronizarea contului; activați 'setare' în sincronizarea contului de e-mail"</string>
     <string name="tablet">tabletă</string>
     <string name="tap_to_configure">Atingeţi pentru a configura.</string>
     <string name="tap_to_enable_sync">Atingeți pentru a activa.</string>

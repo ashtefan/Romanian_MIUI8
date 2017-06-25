@@ -288,6 +288,7 @@ Centrul de relații clienți： 400-100-5678"</string>
     <string name="mibi_web_login_app_description">Conectare %1$s</string>
     <string name="mibi_web_login_description">Conectare</string>
     <string name="mibi_web_login_waiting">Așteptați vă rog…</string>
+    <string name="mibi_web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="passport_access_denied">Acces nepermis</string>
     <string name="passport_account_hint_text">Adresa de e-mail sau ID-ul contului Mi</string>
     <string name="passport_account_identity_title">Verificați-vă identitatea</string>

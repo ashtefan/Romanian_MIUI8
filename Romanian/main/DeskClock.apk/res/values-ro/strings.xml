@@ -58,6 +58,8 @@
     <string name="hour">1 oră</string>
     <string name="hour_unit">h</string>
     <string name="hours">%d ore</string>
+    <string name="install_weather_app_error">"Nu s-a putut încărca aplicația"</string>
+    <string name="install_weather_app_loading">Doar o secundă…</string>
     <string name="keep_screen_on">Menține ecranul activ</string>
     <string name="label">Setaţi o etichetă</string>
     <string name="label_pref_summary">Etichetă</string>

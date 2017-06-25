@@ -62,6 +62,8 @@
     <string name="card_title_conf_call">Teleconferinţă</string>
     <string name="card_title_dialing">Apelare</string>
     <string name="card_title_hanging_up">Se încheie apelul</string>
+    <string name="card_title_hanging_up_restart">"Nu s-a putut încheia apelul. Reporniți telefonul."</string>
+    <string name="card_title_hanging_up_weak_signal">Semnal slab al rețelei mobile. Se încheie apelul</string>
     <string name="card_title_in_call">În timpul apelului</string>
     <string name="card_title_in_call_short">Apel</string>
     <string name="card_title_in_video">Video </string>
@@ -223,9 +225,9 @@
     <string name="onscreen_close_preview_camera">Închideți</string>
     <string name="onscreen_hold_text">Menţinere</string>
     <string name="onscreen_merge_calls_text">Îmbinare apeluri</string>
+    <string name="onscreen_message_text">Mesaje</string>
     <string name="onscreen_mute_text">Mut</string>
     <string name="onscreen_note_calls_text">Notă</string>
-    <string name="onscreen_rcs_text">Mesaje</string>
     <string name="onscreen_swap_calls_text">Schimbare</string>
     <string name="onscreen_switch_camera">Comutați</string>
     <string name="pause_prompt_no">Nu</string>
@@ -234,6 +236,7 @@
     <string name="phone_info_divider">" ｜ "</string>
     <string name="picking_participant">Se obțin informațiile despre contact…</string>
     <string name="private_num">Număr privat</string>
+    <string name="remind_unlock_message">Telefonul dumneavoastră este blocat acum. \"%s\" va fi disponibilă după ce veți debloca telefonul. Îl deblocați acum?</string>
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
     <string name="select_audio_dialog_title">Selectați modul de răspuns</string>
     <string name="select_one_sim_title">Se poate utiliza doar SIM %1$d</string>
@@ -244,6 +247,7 @@
     <string name="suspect_info">Fiți atenți cui furnizați datele personale.</string>
     <string name="time_left_livetalk">(%ds)</string>
     <string name="unknown">Necunoscut</string>
+    <string name="unlock_phone">Deblocați telefonul</string>
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
     <string name="video_call_not_allowed_if_tty_enabled">Opriți mai întâi modul TTY</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>

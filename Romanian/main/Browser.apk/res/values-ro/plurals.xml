@@ -10,6 +10,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Ultimele %d zile</item>
+        <item quantity="one">În ultima zi</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d din %2$d</item>

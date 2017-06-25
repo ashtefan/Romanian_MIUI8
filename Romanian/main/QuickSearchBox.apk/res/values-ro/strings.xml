@@ -24,8 +24,8 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
     <string name="clear_shortcuts_summary">Eliminaţi istoricul tuturor căutărilor</string>
     <string name="common_setting">Setări generale</string>
     <string name="connect_and_retry">Conectați-vă la internet și reîncercați</string>
-    <string name="corpus_description_apps">Numele aplicaţiilor instalate</string>
-    <string name="corpus_description_web">Căutare web şi marcaje</string>
+    <string name="corpus_description_apps">Aplicaţii instalate</string>
+    <string name="corpus_description_web">Marcaje</string>
     <string name="corpus_hint_apps">Căutare aplicaţii</string>
     <string name="corpus_label_apps">Aplicaţii</string>
     <string name="corpus_label_global">Tot</string>

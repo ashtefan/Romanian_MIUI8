@@ -79,7 +79,7 @@
     <string name="confirm_delete_message">Ştergeţi mesajul?</string>
     <string name="confirm_dialog_locked_title">Ştergeţi mesajul blocat?</string>
     <string name="confirm_dialog_title">Ştergeţi?</string>
-    <string name="confirm_dlg__msg">Remarcă CMCC: serviciile de poștă gratuită CMCC nu vor fi furnizate dacă anulați serviciul. Sigur doriți să anulați?</string>
+    <string name="confirm_dlg__msg">Remarcă CMCC: Serviciile și suportul gratuite CMCC nu vor fi furnizate dacă anulați serviciul. Anulați oricum?</string>
     <string name="confirm_dlg_title">Gestionarea dispozitivului</string>
     <string name="confirm_export_dialog_description">Conversațiile anterioare cu acest contact nu vor mai fi ascunse</string>
     <string name="confirm_export_dialog_title">Eliminaţi din contacte private</string>
@@ -119,12 +119,15 @@
     <string name="delete_message">Ştergeţi</string>
     <string name="delete_phrase">Ştergeţi răspunsul</string>
     <string name="delete_unlocked">Ştergeţi mesajele blocate</string>
+    <string name="delete_verification_code_sms_message">Ștergeți toate parolele de unică utilizare?</string>
+    <string name="delete_verification_code_sms_title">Curățați parolele de unică utilizare</string>
     <string name="delete_wild_sims">Ștergeți numerele de telefon</string>
     <string name="delete_wild_sims_confirm">Toate mesajele de la numerele de telefon selectate vor fi șterse de pe telefon. Le veți putea restaura accesând i.mi.com.</string>
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
     <string name="delivery_report_activity">Raport de expediere</string>
     <string name="delivery_toast_body">Mesaj primit de %s</string>
     <string name="disable_notifications_dialog_message">Opriţi duplicarea notificărilor prin mesaje text din aplicaţia prestabilită Mesagerie?</string>
+    <string name="disabled">Oprit</string>
     <string name="discard">Renunţaţi</string>
     <string name="discard_message">Renunţaţi</string>
     <string name="discard_message_reason">Mesajul dvs. va fi eliminat deoarece destinatarii săi nu sunt valizi.</string>
@@ -139,10 +142,12 @@
     <string name="duration_sec">Durată (%s s)</string>
     <string name="duration_selector_title">"Durata diapozitivului "</string>
     <string name="duration_zero">Durata trebuie să fie mai mare de 0 secunde</string>
+    <string name="earlier">Mai devreme</string>
     <string name="edit">Editaţi</string>
     <string name="edit_phrase">Editaţi răspunsurile rapide</string>
     <string name="edit_slide_activity">Modificaţi diapozitivul</string>
     <string name="edit_slideshow_activity">Modificaţi prezentarea</string>
+    <string name="enabled">Pornit</string>
     <string name="english_subject_limit">Limită de 40 de caractere</string>
     <string name="enter_edit_mode">Editaţi mesajele</string>
     <string name="error_code_label">"Cod de eroare: "</string>
@@ -164,6 +169,7 @@
     <string name="fake_cell_detection_entry">Detectare stație de bază falsă</string>
     <string name="fake_cell_safe_hint">Acest mesaj este sigur</string>
     <string name="fake_cell_timeout_hint">"Nu s-a putut verifica securitatea"</string>
+    <string name="favorite_at_time">Adăugat la favorite la: %1s</string>
     <string name="fdn_check_failure">Puteţi trimite mesaje numai la numerele cu apelări restricţionate.</string>
     <string name="festival_sms_loading">Încărcare…</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -186,13 +192,13 @@
     <string name="group_message">Mesaje de grup</string>
     <string name="group_message_failed_title">Trimiterea la %d contacte a eşuat</string>
     <string name="group_resend_message">Retrimiteţi (%d)</string>
+    <string name="group_verification_codes_summary">Grupează în mod automat toate parolele de unică utilizare</string>
+    <string name="group_verification_codes_title">Grupare mesaje OTP</string>
     <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte elemente</string>
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
     <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s&gt;</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
-    <string name="hint_search_sms">%d mesaje</string>
-    <string name="hms_uri_param_err">URL-ul nu poate fi gol</string>
     <string name="hold_to_talk">Mențineți pentru a vorbi</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
@@ -309,7 +315,7 @@
     <string name="mx_current_status">Setări</string>
     <string name="mx_dspt">Trimiteți mesaje SMS și MMS oricărui utilizator de telefon MIUI fără a fi taxat, atunci când sunteți conectat la o rețea Wi-Fi.</string>
     <string name="mx_dspt_listview">Trimiteți mesaje altor utilizatori de telefoane MIUI fără a fi taxat</string>
-    <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje prin internet altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
+    <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje prin internet altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu. În plus, acest serviciu trebuie să aibă acces la datele mobile pentru a funcționa în mod normal.</string>
     <string name="mx_dspt_provision_ex">"Trimiteţi mesaje și efectuaţi apeluri prin internet către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui."</string>
     <string name="mx_dspt_provision_ex2">Politica de Confidențialitate</string>
     <string name="mx_enable">Mesagerie Mi</string>
@@ -379,7 +385,7 @@
     <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="pref_show_list_avatar_summary">Arată fotografiile de profil și informațiile de contact în lista de mesaje</string>
-    <string name="pref_show_sms_template_entry_summary">Detectează parolele de unică utilizare în SMS-uri</string>
+    <string name="pref_show_sms_template_entry_summary">Detectează parolele de unică utilizare din SMS-uri</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
     <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
     <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
@@ -397,13 +403,9 @@
     <string name="pref_summary_off_system_mms_priority">Utilizaţi alte aplicaţii pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_on_system_mms_priority">Utilizaţi aplicaţia Mesagerie Mi ca aplicaţie prestabilită pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
-    <string name="pref_summary_show_recent_contacts">Afişarea contactelor recente la compunerea unui mesaj text</string>
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
     <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
-    <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală a fontului</string>
-    <string name="pref_time_auto_group_summary">Grupaţi mesajele după oră</string>
-    <string name="pref_time_auto_group_title">Grupare mesaje</string>
     <string name="pref_title_about_smart_sms">Despre partenerul Mesagerie inteligentă</string>
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
     <string name="pref_title_card_format">Formatare card partajare</string>
@@ -420,7 +422,6 @@
     <string name="pref_title_ringtone_repeat">Sunet</string>
     <string name="pref_title_ringtone_repeat_summary">Redă un sunet de notificare la primirea unui mesaj SMS în timp ce ecranul este oprit</string>
     <string name="pref_title_send_delivery_reports">Trimiteţi mesaje de livrare</string>
-    <string name="pref_title_show_recent_contacts">Afişaţi contactele recente</string>
     <string name="pref_title_sms_delete">Limită mesaj text</string>
     <string name="pref_title_sms_validity_period">Expirare SMS</string>
     <string name="pref_title_storage_status">Starea stocării mesajelor</string>
@@ -452,6 +453,7 @@
     <string name="prvate_contact">Contacte private</string>
     <string name="quick_reply">Răspuns</string>
     <string name="rate_limit_surpassed">Confirmaţi</string>
+    <string name="received_at_time">Primit la: %1s</string>
     <string name="received_label">"Primit: "</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Destinatar: "</string>
@@ -511,10 +513,11 @@
     <string name="select_local_video">Selectaţi un fişier video</string>
     <string name="select_message_send_sim">Selectați cartela SIM</string>
     <string name="select_recipient">Selectaţi destinatari</string>
+    <string name="select_sim">Selectați cartela SIM</string>
     <string name="select_top_text">Text în partea de sus</string>
     <string name="send">Trimiteţi</string>
     <string name="send_message_dlg_check_hint">Nu se afișează din nou</string>
-    <string name="send_message_dlg_mgs">Notă: Trebuie să vă inregistrăm telefonul în platforma de administrare a dispozitivelor pentru a vă furniza ulterior alte servicii în mod gratuit. Un mesaj gratuit conținând datele dispozitivului va fi trimis pentru înregistrare. Acest mesaj va fi trimis doar odată și nu va conține datele personale. Selectați “OK” pentru a vă inregistra și pentru a utiliza serviciul. Selectați “Revocare” pentru a renunța la serviciile CMCC.</string>
+    <string name="send_message_dlg_mgs">Remarcă CMCC: Trebuie să vă inregistrăm telefonul în platforma de administrare a dispozitivelor pentru a vă furniza servicii gratuite de suport și relații clienți. Această platformă CMCC gestionează dispozitivele și vă permite să modificați setările și să aplicați actualizările de la distanță. Un mesaj gratuit conținând detaliile dispozitivului va fi trimis pentru înregistrare. Mesajul va fi trimis doar o dată și nu va conține datele personale. Acest mesaj nu poate fi trimis de către clienții din Hong Kong, Macao și din alte țări. Selectați \"OK\" pentru a vă inregistra și pentru a utiliza serviciul. Selectați \"Renunțați\" dacă nu sunteți de acord. Serviciul nu vă va fi furnizat în acest caz.</string>
     <string name="send_message_dlg_title">Gestionare dispozitiv</string>
     <string name="send_message_notification_msg">Apăsați pentru a vizualiza detalii solicitare.</string>
     <string name="send_message_notification_tickerText">Dispozitivul solicită permisiune</string>
@@ -525,6 +528,7 @@
     <string name="send_to">"Către: "</string>
     <string name="send_to_count">Au fost trimise %1$s mesaje</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
+    <string name="sent_at_time">Trimis la: %1s</string>
     <string name="sent_label">"Trimis: "</string>
     <string name="service_message_not_found">Mesajul a expirat sau nu este disponibil</string>
     <string name="service_network_problem">Mesajul nu s-a putut trimite din cauza unei probleme de reţea</string>
@@ -555,18 +559,18 @@
     <string name="sms_full_title">Memoria pentru mesaje text este plină</string>
     <string name="sms_rejected_body">Un mesaj text primit a fost respins.</string>
     <string name="sms_rejected_title">Mesaj text respins</string>
+    <string name="sms_report_dialog_content">"Nu s-a putut trimite raportul; încercați din nou."</string>
+    <string name="sms_report_dialog_retry">Încercați din nou</string>
+    <string name="sms_report_dialog_title">Încercați din nou</string>
     <string name="sms_report_failed">"Nu s-a putut trimite raportul"</string>
-    <string name="sms_report_success">Raport trimis</string>
+    <string name="sms_report_success">Raport trimis cu succes</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[imagine]</string>
     <string name="sp_category_all">Toate mesajele de serviciu</string>
     <string name="sp_category_bank">Mesaje servicii bancare</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Notificări</string>
-    <string name="sp_mark_as_read">Marcați toate mesajele ca fiind citite?</string>
     <string name="sp_mark_as_read_menu_title">Marcare ca citite</string>
-    <string name="sp_mark_as_read_progress">Marcat ca citit…</string>
-    <string name="sp_mark_as_read_title">Marcați toate notificările ca citite?</string>
     <string name="status_failed">Nereuşit</string>
     <string name="status_label">"Stare: "</string>
     <string name="status_pending">În aşteptare</string>
@@ -590,6 +594,8 @@
     <string name="storage_unavailable">Spaţiu indisponibil</string>
     <string name="subject_hint">Subiect</string>
     <string name="subject_label">"Subiect: "</string>
+    <string name="switch_to_editor">Mod Editare</string>
+    <string name="switch_to_menu">Mod Meniu</string>
     <string name="text_in_popup_saved_to_clipboard">Copiat în clipboard</string>
     <string name="text_message">Mesaj text</string>
     <string name="timed_message_expired_title">%d mesaje temporizate nu au fost trimise</string>
@@ -609,6 +615,7 @@
     <string name="to_count">%d destinatari</string>
     <string name="to_label">"Pentru "</string>
     <string name="to_send_wrapper">Se va trimite la %s</string>
+    <string name="today">Astăzi</string>
     <string name="too_many_attachments">Nu se pot depăși %1$s ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi de %2$s destinatari.</string>
     <string name="too_many_unsent_mms">Mesajul nu poate fi trimis acum. Există prea multe mesaje multimedia netrimise.</string>
@@ -644,6 +651,8 @@
     <string name="user_agreement3">" şi "</string>
     <string name="user_agreement4">Politica de confidențialitate</string>
     <string name="user_agreement5">Prin atingerea butonului OK, sunteți de acord cu Termenii de utilizare și Politica de confidențialitate.</string>
+    <string name="verification_code_icon_name">V</string>
+    <string name="verification_code_list_title">Coduri de verificare</string>
     <string name="view">Vizualizaţi</string>
     <string name="view_bookmark">Vizualizaţi mesajul original</string>
     <string name="view_message_details">Afişaţi detaliile</string>
@@ -656,4 +665,5 @@
     <string name="wild_msg_title">Selectați numerele de telefon pentru sincronizare</string>
     <string name="yellowpage_recommend_msg">"Descoperiți caracteristicile serviciului de mesagerie MIUI"</string>
     <string name="yes">OK</string>
+    <string name="yesterday">Ieri</string>
 </resources>

@@ -5,6 +5,8 @@
     <string name="app_name">Localizare dispozitiv</string>
     <string name="captcha">Cod de verificare</string>
     <string name="change_find_device_status_failed">"Nu s-a putut debloca. %s."</string>
+    <string name="default_debt_msg_words">"Acest telefon este blocat din cauza unei plăți neefectuate la timp. 
+Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="default_lock_msg_words">Acest telefon este asociat unui cont Mi existent. Din motive de siguranță, trebuie să introduceți parola pentru verificarea acestui dispozitiv.</string>
     <string name="default_lock_msg_words_with_phone">Salut! Mi-am pierdut telefonul. Mă poți contacta tu? Mulțumesc!</string>
     <string name="device_locked">Acest telefon este blocat</string>

@@ -15,6 +15,8 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="appData">Aplicații instalate</string>
     <string name="app_name">Componentă de bază de securitate</string>
     <string name="back">Înapoi</string>
+    <string name="can_not_delete_when_calling">"Nu se pot șterge Spațiile de lucru în timpul unui apel"</string>
+    <string name="can_not_switch_when_calling">"Nu se pot comuta Spațiile de lucru în timpul unui apel"</string>
     <string name="cancelClosePassword">"Nu opri"</string>
     <string name="cancel_button">Renunțați</string>
     <string name="changePassword">Modificați parola</string>

@@ -135,7 +135,6 @@
     <string name="auto_answer_scenario_enteries_headset_only">Doar căşti</string>
     <string name="auto_answer_scenario_title">Setările pentru răspuns automat</string>
     <string name="auto_answer_setting_title">Setările pentru răspuns automat</string>
-    <string name="auto_answer_summary_delay">" (întârziere: %s secunde)"</string>
     <string name="auto_answer_summary_not_enabled">Dezactivat</string>
     <string name="auto_record_yellowpage">Registru</string>
     <string name="auto_redial_pref_summary">Se reîncearcă automat dacă linia este ocupată</string>
@@ -332,8 +331,6 @@
     <string name="call_record_auto_unknown_number">Numere necunoscute</string>
     <string name="call_record_auto_whitelist">Listă personalizată</string>
     <string name="call_record_auto_whitelist_no_item">Adăugaţi un număr prin atingerea butonului (+)</string>
-    <string name="call_record_auto_whitelist_summary">%d numere</string>
-    <string name="call_record_auto_whitelist_summary_for_one">1 număr</string>
     <string name="call_record_loading_content">Încărcare…</string>
     <string name="call_record_off_summary">Înregistrarea apelurilor dezactivată</string>
     <string name="call_record_on_summary">Apelurile vor fi înregistrate în mod automat</string>
@@ -347,7 +344,6 @@
     <string name="call_recording_notification_title_error">Apelul nu a putut fi înregistrat</string>
     <string name="call_recording_notification_toggle_title">Notificare înregistrare apel</string>
     <string name="call_recording_setting">Înregistrare apel</string>
-    <string name="call_remove_exception_numbers_confirm">%d numere vor fi șterse.</string>
     <string name="call_settings">Telefon</string>
     <string name="call_settings_admin_user_only">Setările de apelare pot fi modificate doar de către administrator.</string>
     <string name="call_settings_primary_user_only">Setările pentru apeluri pot fi modificate doar de către utilizatorul principal.</string>
@@ -937,6 +933,7 @@ Se va utiliza rețeaua preferată."</string>
     <string name="new_pin_label">Cod PIN nou</string>
     <string name="no_application">Nicio aplicație</string>
     <string name="no_change">Nicio schimbare efectuată.</string>
+    <string name="no_checked_network">"Nu veți mai putea efectua apeluri și nici nu vă veți putea conecta la rețeaua mobilă. Selectați altă rețea?"</string>
     <string name="no_internet_available">Pentru a efectua un apel prin internet, verificaţi mai întâi conexiunea la internet.</string>
     <string name="no_mobile_data">Datele mobile nu sunt disponibile</string>
     <string name="no_mobile_data_roaming">Datele mobile în roaming nu sunt disponibile</string>
@@ -1079,8 +1076,6 @@ Au mai rămas %d încercări."</string>
 Funcţiile legate de codul PIN2 vor fi blocate după o altă încercare greşită."</string>
     <string name="pin2_or_fdn_invalid">Numărul FDN nu a fost actualizat. Codul PIN2 a fost incorect sau numărul de telefon a fost respins.</string>
     <string name="pin2_unblocked">Codul PIN2 a fost deblocat!</string>
-    <string name="pin_attempts">"
-%d încercări rămase."</string>
     <string name="pin_changed">Codul PIN pentru SIM a fost modificat.</string>
     <string name="pin_failed">Codul PIN introdus a fost incorect.</string>
     <string name="pin_lock_warning">"
@@ -1538,6 +1533,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="volte_provision_notification_activate">Activați</string>
     <string name="volte_provision_text">Apelurile VoLTE asigură o calitate mai bună decât a apelurilor obișnuite. Trimiteți un SMS pentru activare?</string>
     <string name="volte_provision_title">Activare apeluri VoLTE</string>
+    <string name="volte_switch_not_support_summary">"Apelurile VoLTE nu sunt suportate de către datele mobile ale cartelei SIM."</string>
     <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunătățirea calității apelurilor video și vocale</string>
     <string name="volte_switch_title">VoLTE activat</string>
     <string name="vpn_settings_not_available">Setările VPN nu sunt disponibile pentru acest utilizator</string>

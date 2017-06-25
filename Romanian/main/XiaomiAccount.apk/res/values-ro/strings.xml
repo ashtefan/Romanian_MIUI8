@@ -77,12 +77,14 @@
     <string name="cloud_service">Mi Cloud</string>
     <string name="completed">Finalizat</string>
     <string name="confirm_activate_email">Verificată</string>
+    <string name="confirm_bundled_phone_dialog_title">Confirmați numărul de telefon asociat</string>
     <string name="confirm_delete_app_message">"După ce veți elimina această aplicație, va trebui să vă verificați numărul de telefon când vă veți conecta din nou la contul Mi din aplicație."</string>
     <string name="confirm_delete_browser_message">"După ce veți elimina acest browser, va trebui să vă verificați numărul de telefon când vă veți conecta din nou la contul Mi cu ajutorul său."</string>
     <string name="confirm_delete_device_message">"După ce veți elimina acest dispozitiv, va trebui să vă verificați numărul de telefon când vă veți conecta din nou la contul Mi de pe el."</string>
-    <string name="confirm_phone_number_dialog_message">Codul de verificare va fi trimis la: %s.</string>
+    <string name="confirm_phone_number_dialog_message">Codul de verificare va fi trimis la %s.</string>
     <string name="confirm_phone_number_dialog_title">Confirmaţi numărul de telefon</string>
     <string name="confirm_unbind">Eliminați acest cont?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Numărul de telefon %1$s este asociat contului Mi %2$s，Nu va mai fi asociat contului %3$s dacă veți continua，Sunteți sigur că doriți să continuați?</string>
     <string name="continue_action">Continuaţi</string>
     <string name="cta_declaration_agree_and_continue">De acord</string>
     <string name="cta_declaration_exit">Ieșire</string>
@@ -131,6 +133,7 @@
     <string name="find_device_unknown_error">"Nu s-a putut obține starea dispozitivului; așteptați un minut sau două și reîncercați"</string>
     <string name="first_login_time">Prima tentativă de conectare: %s</string>
     <string name="get_device_list_failed">"Nu se poate obține lista dispozitivelor"</string>
+    <string name="get_phone_bind_exceed_limit">"Puteți asocia cel mult 3 conturi Mi cu un număr de telefon. Nu se pot adăuga conturi noi</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="guest_account_label">Cont gazdă Mi</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru verificarea contului"</string>
@@ -206,7 +209,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_error_device_id">Nu se poate obține ID-ul dispozitivului</string>
     <string name="passport_error_dup_email">Această adresă de e-mail este deja asociată cu un alt cont.</string>
     <string name="passport_error_email">Adresa de e-mail introdusă este greşită</string>
-    <string name="passport_error_empty_captcha_code">Introduceţi codul passport_captcha</string>
+    <string name="passport_error_empty_captcha_code">Introduceţi codul captcha</string>
     <string name="passport_error_empty_email">Introduceţi adresa dvs. de e-mail</string>
     <string name="passport_error_empty_phone_num">Introduceţi numărul de telefon</string>
     <string name="passport_error_empty_pwd">Introduceţi parola</string>

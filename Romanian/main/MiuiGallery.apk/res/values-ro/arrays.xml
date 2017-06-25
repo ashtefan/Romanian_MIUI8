@@ -12,6 +12,14 @@
         <item>Bunic din partea mamei</item>
         <item>Bunică din partea mamei</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Tată</item>
+        <item>Mamă</item>
+        <item>Bunic din partea tatălui</item>
+        <item>Bunică din partea tatălui</item>
+        <item>Bunic din partea mamei</item>
+        <item>Bunică din partea mamei</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Eu însumi</item>
         <item>Copil</item>

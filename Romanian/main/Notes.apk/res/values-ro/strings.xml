@@ -16,6 +16,7 @@
     <string name="app_name">Note</string>
     <string name="app_widget">Note</string>
     <string name="call_folder_name">Note apel</string>
+    <string name="cancel_alarm_description">Anulați alarma</string>
     <string name="cloud_trash_bin_title">Ștergeți notițele din Mi Cloud</string>
     <string name="cta_reminder">Această aplicație trebuie să se conecteze la internet pentru a sincroniza notițele în Mi Cloud, și de asemenea să poate citi contactele pentru a eticheta notițele pe care le faceți în timpul apelurilor.</string>
     <string name="default_folder_name">Dosar fără nume</string>
@@ -40,6 +41,8 @@
     <string name="dlg_title_use_privacy_password">Utilizați parola de protejare a confidențialității</string>
     <string name="dlg_unhide_message">Se afișează…</string>
     <string name="done">Finalizat</string>
+    <string name="edit_header_done_description">Finalizat</string>
+    <string name="edit_header_home_description">Înapoi</string>
     <string name="enable_sync">Sincronizaţi</string>
     <string name="enable_sync_desc">Sincronizaţi notele cu contul dvs. Mi (%1$s)?</string>
     <string name="error_contact_not_exist">Contact inexistent</string>
@@ -63,6 +66,7 @@
     <string name="info_note_enter_desktop">Adăugată pe desktop</string>
     <string name="loading_text">Doar o secundă…</string>
     <string name="login_sync">Conectare şi sincronizare</string>
+    <string name="menu_add_description">Adăugați o notă</string>
     <string name="menu_add_folder">Adăugați în dosar</string>
     <string name="menu_add_folder_description">Adăugați un dosar</string>
     <string name="menu_create_folder">Dosar nou</string>
@@ -86,6 +90,8 @@
     <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Nu acum</string>
     <string name="note_alert_expired">Expirată</string>
+    <string name="note_description_content">Aplicația Note este o unealtă utilă pentru a vă înregistra ideile. Incorporează funcția de memento și vă sincronizează elementele în Mi Cloud pentru a le putea accesa de oriunde, oricând. Asigurați-vă că puteți trăi fără aceste caracterisitici înainte de a șterge aplicația.</string>
+    <string name="note_description_title">Despre aplicația Note</string>
     <string name="note_link_email">Trimiteţi e-mail</string>
     <string name="note_link_other">Deschideţi utilizând aplicația de localizare</string>
     <string name="note_link_select">Selectaţi text</string>
@@ -116,12 +122,13 @@
     <string name="search_path_notes">Aplicații de sistem/Note</string>
     <string name="search_setting_description">Căutare text în notele dvs.</string>
     <string name="select_account_prompt">Activaţi sincronizarea notelor</string>
-    <string name="sina_share_fail">Trimitere eşuată</string>
-    <string name="sina_share_fail_content_repeat">Nu se poate distribui, conținutul există deja…</string>
+    <string name="set_alarm_description">Setați alarma</string>
+    <string name="sina_share_fail">"Nu s-a putut trimite"</string>
+    <string name="sina_share_fail_content_repeat">"Ați distribuit deja acest conținut."</string>
     <string name="sina_share_pendding">Trimitere…</string>
     <string name="sina_share_success">Trimis</string>
-    <string name="sina_token_expired_warning">Contul Weibo a expirat: reconectaţi-vă</string>
-    <string name="sina_token_invalid_warning">Cont Weibo nevalid: reconectaţi-vă</string>
+    <string name="sina_token_expired_warning">Contul Weibo a expirat; adăugați contul din nou</string>
+    <string name="sina_token_invalid_warning">Cont Weibo nevalid; adăugați contul din nou</string>
     <string name="snippet_image_stub">[Imagine]</string>
     <string name="snippet_image_template">[Imagine %1$s]</string>
     <string name="sns_action_send">Trimiteţi</string>
@@ -140,6 +147,9 @@
     <string name="sns_toast_empty">"Nu se poate trimite o postare fără conținut"</string>
     <string name="sns_toast_over_limit">Trimis ca imagine</string>
     <string name="sync_tips">Apăsați pentru a sincroniza notele cu Mi Cloud.</string>
+    <string name="theme_blue_description">Albastru</string>
+    <string name="theme_green_description">Verde</string>
+    <string name="theme_red_description">Roșu</string>
     <string name="theme_title_antique">Toamnă</string>
     <string name="theme_title_arty">Floral</string>
     <string name="theme_title_blue">Albastru</string>
@@ -151,6 +161,8 @@
     <string name="theme_title_red">Roșu</string>
     <string name="theme_title_star">Steluțe</string>
     <string name="theme_title_yellow">Galben</string>
+    <string name="theme_white_description">Alb</string>
+    <string name="theme_yellow_description">Galben</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_notes_delete_success">Eliminată cu succces</string>
     <string name="toast_notes_hidden">Ascunsă cu succes</string>
@@ -159,6 +171,14 @@
     <string name="toast_notes_unhidden_count">%1$s nu mai sunt ascunse</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
+    <string name="toolbar_check_description">Adăugați o căsuță de verificare</string>
+    <string name="toolbar_delete_description">Ștergeți această notiță</string>
+    <string name="toolbar_gallery_description">Adăugați o imagine</string>
+    <string name="toolbar_more_description">Mai multe</string>
+    <string name="toolbar_redo_description">Refă</string>
+    <string name="toolbar_share_description">Distribuiți această notiță</string>
+    <string name="toolbar_theme_description">Selectați o temă</string>
+    <string name="toolbar_undo_description">Anulați</string>
     <string name="trash_folder_name">Gunoi</string>
     <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în 30 de zile.</string>
     <string name="undo">Anulaţi</string>

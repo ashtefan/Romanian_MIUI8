@@ -73,6 +73,7 @@
     <string name="add_to_quicklink">Pagina de pornire</string>
     <string name="added_to_bookmarks">Adăugat la marcaje</string>
     <string name="adjust_text_zoom_toast">Modificarea dimensiunii textului poate provoca afișarea incorectă a unor site-uri</string>
+    <string name="agree">De acord</string>
     <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
@@ -87,7 +88,7 @@
     <string name="aqi_quality_index_pure">Excelent</string>
     <string name="aqi_quality_index_unhealthy">Rău</string>
     <string name="autoSwithcingSearchEngineTips">S-a schimbat motorul de căutare utilizat cel mai des</string>
-    <string name="autofill_keyboard_accessory_content_description">Sugestii disponibile</string>
+    <string name="autofill_keyboard_accessory_content_description">Sugestii disponibile…</string>
     <string name="autofill_popup_content_description">Arată sugestii de completare automată</string>
     <string name="autologin_bar_error">"Imposibil de conectat"</string>
     <string name="autologin_bar_hide_text">Ascundeţi</string>
@@ -304,6 +305,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="error_not_acceptable">Sincronizarea este dezactivată.</string>
     <string name="error_title">"Nu se poate sincroniza"</string>
     <string name="error_unauthorized">Sincronizarea cu contul dvs. Mi a fost dezactivată din cauza prea multor încercări de conectare.</string>
+    <string name="exit">Ieșire</string>
     <string name="exit_browser_warning">Ieşiţi din browser acum?</string>
     <string name="file_dir">Modificați dosarul</string>
     <string name="file_name">"Nume: "</string>
@@ -476,8 +478,8 @@ Părăsiţi această pagină?"</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
     <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Conectaţi-vă la această rețea</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Rețea Wi-Fi deschisă disponibilă</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">S-a găsit un hotspot Wi-Fi în apropiere. Încercați să vă conectați?</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
     <string name="new_folder_name_lable">Nume grup</string>
     <string name="next_button_label">Înainte</string>
     <string name="no_app_open_document">Nu a fost găsită nicio aplicație pentru a finaliza această acțiune</string>
@@ -720,7 +722,7 @@ Părăsiţi această pagină?"</string>
     <string name="senddesktop">Ecranul principal</string>
     <string name="sendstartpage">Pagina de pornire</string>
     <string name="share_image_text">Uite ce am găsit!</string>
-    <string name="share_page_text">Uite ce am găsit %1$s | %2$s</string>
+    <string name="share_page_text">Uite ce am găsit: %1$s | %2$s</string>
     <string name="show_check_security_url_check_tip_dialog_description">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a îmbunătăți securitatea și pentru a primi recomandări mai relevante, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
     <string name="show_check_security_url_check_tip_dialog_description_international">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a primi recomandări mai relevante, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
     <string name="show_security_tip_dialog_title">Termenii serviciului</string>
@@ -728,8 +730,8 @@ Părăsiţi această pagină?"</string>
     <string name="sign_in_to" formatted="false">Conectaţi-vă la %s1 \"%s2\"</string>
     <string name="skip_button_label">Omiteţi</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
-    <string name="snapshot_failed">"Nu s-a putut salva pentru citire offline"</string>
-    <string name="snapshot_successed">Salvați pentru lectură offline</string>
+    <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
+    <string name="snapshot_successed">Pagină salvată cu succes</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>
@@ -788,7 +790,7 @@ Părăsiţi această pagină?"</string>
     <string name="unsecurity_url_toast">"Acest site nu este sigur"</string>
     <string name="up_to_loading_tips">Eliberați pentru a actualiza</string>
     <string name="update_no_network_toast">"Nu se poate conecta la reţea"</string>
-    <string name="updating_chrome">Actualizare Chrome...</string>
+    <string name="updating_chrome">Actualizare Chrome…</string>
     <string name="uploads_disabled">Încărcarea fişierelor este dezactivată</string>
     <string name="url_copy_done">URL copiat în clipboard</string>
     <string name="url_find_on_page_result">Vizualizaţi în Browser</string>
@@ -831,7 +833,7 @@ Părăsiţi această pagină?"</string>
     <string name="video_download_error">Eroare</string>
     <string name="video_download_error_http_gone">"Nu s-a găsit fișierul"</string>
     <string name="video_download_exists">Sarcina de descărcare există deja.</string>
-    <string name="video_download_fail">Eşuat</string>
+    <string name="video_download_fail">"Nu s-a putut descărca"</string>
     <string name="video_download_failed">"Nu s-a putut descărca"</string>
     <string name="video_download_finding_address">Se obține adresa de descărcare</string>
     <string name="video_download_pause">Întrerupt</string>

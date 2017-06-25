@@ -12,4 +12,26 @@
         <item quantity="other">Acţiunea selectată nu este disponibilă în modul Apelare inversă de urgenţă. Telefonul va rămâne în acest mod pentru %s minute. Doriţi să ieşiţi acum?</item>
         <item quantity="one">Acţiunea selectată nu este disponibilă în modul Apelare inversă de urgenţă. Telefonul va rămâne în acest mod pentru %s minut. Doriţi să ieşiţi acum?</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numere</item>
+        <item quantity="one">%d număr</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numere vor fi șterse.</item>
+        <item quantity="one">%d număr va fi șters.</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Puteți adăuga până la %s persoane, selectați din nou.</item>
+        <item quantity="one">Puteți adăuga %s persoană, selectați din nou.</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">întârziere: %s secunde</item>
+        <item quantity="one">întârziere: %s secundă</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d încercări rămase."</item>
+        <item quantity="one">"
+%d încercare rămasă."</item>
+    </plurals>
 </resources>

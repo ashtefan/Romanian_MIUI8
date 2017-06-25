@@ -59,8 +59,8 @@
         <item>Recent</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Blochează modul Deep Sleep</item>
-        <item>Blochează modul Sleep</item>
+        <item>Blocare mod Deep Sleep</item>
+        <item>Blocare mod Sleep</item>
         <item>Căutare Wi-Fi</item>
         <item>Utilizare GPS</item>
         <item>Utilizare CPU</item>

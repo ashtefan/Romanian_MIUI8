@@ -55,8 +55,6 @@
     <string name="data_error">A apărut o eroare</string>
     <string name="data_error_show">A apărut o eroare</string>
     <string name="delete">Ștergeți</string>
-    <string name="didi_back">Înapoi</string>
-    <string name="didi_close">Închideți</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="dont_enable">Dezactivați</string>
     <string name="download_completed">Descărcare salvată în %s</string>
@@ -297,11 +295,9 @@ Verificați numărul de urmărire."</string>
     <string name="menu_delete_call_log">Ștergeți istoricul apelurilor</string>
     <string name="menu_delete_one">Eliminați din istoricul apelurilor</string>
     <string name="menu_enroll_in_yellow_page">Înscrieți-vă la Pagini Aurii</string>
-    <string name="menu_follow_yellow_page">Urmăriți</string>
     <string name="menu_remove_black_list">Eliminați din lista blocărilor</string>
     <string name="menu_remove_from_favorite">Eliminați din favorite</string>
     <string name="menu_save_contact">Salvați numărul în contacte</string>
-    <string name="menu_unfollow_yellow_page">Nu mai urmăriți</string>
     <string name="minimum_price">%d RMB/min</string>
     <string name="mishop_web_payment_title">Verificare Magazin Mi</string>
     <string name="miuishare_account_activate_confirmation">Activați contul Mi</string>
@@ -429,12 +425,12 @@ Total: %3$s RMB"</string>
     <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="sim1">SIM 1</string>
     <string name="sim2">SIM 2</string>
-    <string name="sina_share_fail">Nu s-a putut trimite</string>
-    <string name="sina_share_fail_content_repeat">"Nu s-a putut partaja; conținutul există deja…"</string>
+    <string name="sina_share_fail">"Nu s-a putut trimite"</string>
+    <string name="sina_share_fail_content_repeat">"Ați partajat deja acest conținut."</string>
     <string name="sina_share_pendding">Se trimite…</string>
     <string name="sina_share_success">Trimis</string>
-    <string name="sina_token_expired_warning">Contul Weibo a expirat: reconectați-vă</string>
-    <string name="sina_token_invalid_warning">Contul Weibo nu este valid: reconectați-vă</string>
+    <string name="sina_token_expired_warning">Cont Weibo expirat; adăugați contul din nou</string>
+    <string name="sina_token_invalid_warning">Cont Weibo nevalid; adăugați contul din nou</string>
     <string name="smart_antispam">Identificare numere necunoscute</string>
     <string name="tag_follow_status">tag_follow_status</string>
     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
@@ -446,7 +442,7 @@ Total: %3$s RMB"</string>
     <string name="turn_off_phone_event_hint">"Dacă dezactivați această caracteristică, nu veți mai primi rapoarte despre numerele necunoscute."</string>
     <string name="turn_off_smart_antispam_hint">Dezactivați protecția împotriva apelurilor de la persoane necunoscute?</string>
     <string name="turn_on_phone_event_dialog_title">Actualizați baza de date pentru identificarea numerelor</string>
-    <string name="turn_on_phone_event_summary">Încărcați starea numerelor pentru servicii</string>
+    <string name="turn_on_phone_event_summary">Permiteți aplicației Pagini Aurii să primească și să încarce informațiile serviciului operatorilor de servicii verificați</string>
     <string name="turn_on_phone_event_title">Primiți informații despre serviciu</string>
     <string name="turn_on_smart_antispam_hint">Identificați apelurile provenite de la persoane necunoscute</string>
     <string name="turn_on_smart_antispam_summary_off">Caută doar numerele salvate pe acest telefon</string>

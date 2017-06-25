@@ -106,7 +106,7 @@
     <string name="err_version_too_old">Fișierul copiei de rezervă este prea vechi.</string>
     <string name="err_version_unsupported">"Versiunea copiei de rezervă nu este susţinută."</string>
     <string name="every_day">În fiecare zi</string>
-    <string name="exchange_account">Schimbați contul</string>
+    <string name="exchange_account">Comutați conturile</string>
     <string name="fail">Eşuat</string>
     <string name="feature_title_account">Cont Mi</string>
     <string name="feature_title_antispam">Lista blocărilor</string>
@@ -250,6 +250,7 @@
     <string name="task_service_not_launched">"Procesul nu a pornit încă"</string>
     <string name="task_stopped_exception">Restabilire anulată</string>
     <string name="total_num">%d elemente,</string>
+    <string name="total_size">, %s</string>
     <string name="trans_backingup">Creare copie de rezervă…</string>
     <string name="trans_backingup_no_items">Sincronizare…</string>
     <string name="trans_calculating">Calculare…</string>

@@ -34,6 +34,8 @@
     <string name="apk_status_installed_old">Versiune veche</string>
     <string name="apk_status_uninstalled">Neinstalat</string>
   <string name="apk_title_alipay_plugin">Alipay plugin</string>
+    <string name="app_description_content">Aplicația Curățare găsește fișiere inutile din telefon și eliberează spațiul de stocare. Asigurați-vă că nu aveți nevoie de aceste caracteristici înainte de a dezinstala aplicația.</string>
+    <string name="app_description_title">Despre aplicația Curățare</string>
     <string name="app_install_tips_go_to">Lansați</string>
     <string name="app_install_tips_install_success">%1$s instalată cu succes</string>
     <string name="app_name">Curățare</string>
@@ -181,6 +183,8 @@
     <string name="empty_title_photos">Nicio fotografie găsită</string>
     <string name="empty_title_residual">Niciun reziduu</string>
     <string name="empty_title_video">Nu există videoclipuri ce trebuie șterse​</string>
+    <string name="engine_cm">Clean Master</string>
+    <string name="engine_tm">Tencent</string>
     <string name="file">Fișiere</string>
     <string name="file_not_found">Fișier negăsit</string>
     <string name="flow_rank_title">Utilizare date</string>
@@ -212,12 +216,6 @@
     <string name="hints_garbage_handle_item_content">%1$d elemente, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Gol</string>
     <string name="hints_header_left">%d</string>
-    <string name="hints_install_apps_else">Utilizat %s</string>
-    <string name="hints_install_apps_interval">Utilizată cu %d zile în urmă</string>
-    <string name="hints_install_apps_new">Nu a fost deschisă</string>
-    <string name="hints_install_apps_risk">risc detectat</string>
-    <string name="hints_install_apps_today">Utilizată astăzi</string>
-    <string name="hints_install_apps_virus">virus detectat</string>
     <string name="hints_installed_app_fewer">Utilizată rar</string>
     <string name="hints_installed_app_near">Utilizată recent</string>
     <string name="hints_installed_app_never">Neutilizată</string>

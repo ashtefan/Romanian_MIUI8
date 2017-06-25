@@ -76,6 +76,7 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
+    <string name="city_exceeded_warning">Puteți adăuga până la 10 orașe</string>
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="connect_fail">"Nu s-a putut conecta la rețea; încercați din nou"</string>
@@ -262,5 +263,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_miles_unit">%1$s mph</string>
     <string name="wind_unit">%1$s km/h</string>
+    <string name="xiaomi_weather_description_content">"Aplicația Meteo vă furnizează date meteo precise. Fără această aplicație bara de stare și widgetul meteo de pe ecranul principal nu vor mai funcționa corect. Asigurați-vă că puteți trăi fără aceste caracteristici înainte de a dezinstala aplicația."</string>
+    <string name="xiaomi_weather_description_title">Despre aplicația Meteo</string>
     <string name="yes_vote_ratio">Pro %1$s%%</string>
 </resources>

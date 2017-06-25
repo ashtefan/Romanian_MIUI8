@@ -26,6 +26,11 @@
         <item quantity="other">Ștergeți %1$s mesaje?</item>
         <item quantity="one">Ștergeți %1$s mesaj?</item>
     </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d mesaje</item>
+        <item quantity="zero">%d mesaje</item>
+        <item quantity="one">%d mesaj</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mesaje</item>
         <item quantity="zero">%d mesaje</item>

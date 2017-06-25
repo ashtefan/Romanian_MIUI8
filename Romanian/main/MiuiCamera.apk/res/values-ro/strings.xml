@@ -276,11 +276,15 @@ expresie facială de sintetizat într-o fotografie"</string>
     <string name="pref_camera_show_gender_age_entry_alias">Afişare vârstă când înfrumusețarea este activată</string>
     <string name="pref_camera_show_gender_age_entry_off">Oprit</string>
     <string name="pref_camera_show_gender_age_entry_on">Afişare vârstă şi sex când înfrumusețarea este activată</string>
+    <string name="pref_camera_show_gender_age_label_alias">Vârstă</string>
+    <string name="pref_camera_show_gender_age_label_on">Vârstă și sex</string>
     <string name="pref_camera_show_gender_age_title">Vârstă și sex</string>
     <string name="pref_camera_snap_enable_title">Mod captură instantanee</string>
     <string name="pref_camera_snap_entry_off">Oprit</string>
     <string name="pref_camera_snap_entry_take_movie">Mod captură rapidă(videoclip).</string>
     <string name="pref_camera_snap_entry_take_picture">Mod captură rapidă(fotografie).</string>
+    <string name="pref_camera_snap_label_take_movie">Videoclip</string>
+    <string name="pref_camera_snap_label_take_picture">Fotografie</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Nu se poate utiliza modul captură instantanee în timp  ce  \"Utilizarea butoanelor de volum pentru trezire\" este activă."</string>
     <string name="pref_camera_sound_title">Sunete cameră</string>
     <string name="pref_camera_square_mode_title">Pătrat</string>
@@ -320,6 +324,7 @@ expresie facială de sintetizat într-o fotografie"</string>
     <string name="pref_front_mirror_entry_auto">Când este detectată fața</string>
     <string name="pref_front_mirror_entry_off">Oprit</string>
     <string name="pref_front_mirror_entry_on">Pornit</string>
+    <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Oglindă cameră frontală</string>
   <string name="pref_groupshot_with_primitive_title">Salvați, de asemenea, și fotografiile originale</string>
     <string name="pref_manual_exposure_title">Timp expunere</string>

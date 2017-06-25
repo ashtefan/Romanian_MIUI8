@@ -145,9 +145,29 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
         <item quantity="other">%1$d aplicații au permisiunea de utilizare nerestricționată a datelor când Economisirea datelor este activă</item>
         <item quantity="one">1 aplicație are permisiunea de utilizare nerestricționată a datelor când Economisirea datelor este activă</item>
     </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d riscuri găsite</item>
+        <item quantity="one">%d risc găsit</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d aplicații pot porni în mod automat</item>
+        <item quantity="one">%d aplicație poate porni în mod automat</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">Codul PIN trebuie să conțină %d cifre</item>
+        <item quantity="one">Codul PIN trebuie să conțină %d cifră</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Au fost partajate %d rețele</item>
+        <item quantity="one">A fost partajată %d rețea</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispozitive</item>
         <item quantity="one">%d dispozitiv</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d persoane conectate</item>
+        <item quantity="one">%1$d persoană conectată</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a vizualiza informaţiile despre telefon.</item>

@@ -274,6 +274,11 @@
         <item>Ultimele 30 de zile</item>
         <item>Setați ciclul de utilizare...</item>
     </string-array>	 
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automat</item>
+        <item>Doar 5 GHz</item>
+        <item>Doar 2,4 GHz</item>
+    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Durată de utilizare</item>
         <item>Ultima utilizare</item>
@@ -813,6 +818,15 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Conectare automată</item>
         <item>Conectare manuală</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+        <item>mod comtible?</item>
+        <item>mod agresiv</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>închis</item>
+        <item>modul normal</item>
+        <item>modul extrem</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Lansator de sistem</item>
         <item>Apelare</item>
@@ -916,11 +930,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>Pentru stângaci</item>
         <item>Pentru dreptaci</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_entries">
-        <item>Automat</item>
-        <item>Doar 5 GHz</item>
-        <item>Doar 2,4 GHz</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
         <item>Ajustarea clicului - Declanșator dublu clic</item>
@@ -1535,7 +1544,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="standard_configuration_version">
         <item>3 GB</item>
         <item>32 GB</item>
-        <item>Quad-core de până la 1,8 GHz</item>
+        <item>Quad-core Max de 2,15 GHz</item>
     </string-array>
     <string-array name="high_configuration_version">
         <item>3 GB</item>
@@ -1552,11 +1561,11 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Capacitate baterie</item>
         <item>Cameră posterioară</item>
         <item>Dimensiune ecran</item>
-        <item>Cameră posterioară</item>
+        <item>Rezoluție</item>
         <item>Versiune Android</item>
     </string-array>
     <string-array name="standard_configuration_version_description_secondary">
-        <item>Qualcomm 820</item>
+        <item>Snapdragon 820</item>
         <item>3000 mAh(typ)</item>
         <item>16 MP</item>
         <item>5,15 inci</item>

@@ -139,6 +139,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="micloud_battery_low_notification_message">Conectați încărcătorul pentru a putea sincroniza</string>
     <string name="micloud_battery_low_notification_title">Nivel scăzut al acumulatorului</string>
     <string name="micloud_buy_member">Cumpărați titlu de membru Mi Cloud</string>
+    <string name="micloud_buy_member_safe">Cumpărați titlul de membru Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Se pare că aţi schimbat cardurile SIM. Conectaţi-vă
 la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reactivare Mi Cloud</string>
@@ -185,7 +186,7 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_detail_force_sync">Sincronizați acum</string>
     <string name="micloud_detail_lastest">Sincronizat</string>
     <string name="micloud_detail_lastest_with_off">Sincronizat</string>
-    <string name="micloud_detail_need_charge_or_sleep">Conectați încărcătorul și închideți ecranul pentru a relua sincronizarea</string>
+    <string name="micloud_detail_need_charge_or_sleep">Conectați încărcătorul și închideți ecranul pentru a sincroniza</string>
     <string name="micloud_detail_not_sync">%d așteaptă sincronizarea</string>
     <string name="micloud_detail_not_synced">Nesincronizat</string>
     <string name="micloud_detail_ok">OK</string>
@@ -270,7 +271,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_sync_exception">Eroare de sincronizare</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
     <string name="micloud_main_sync_need_charge">Încărcați acumulatorul</string>
-    <string name="micloud_main_sync_need_charge_or_sleep">Încărcați acumulatorul telefonului și închideți ecranul</string>
+    <string name="micloud_main_sync_need_charge_or_sleep">Conectați încărcătorul și închideți ecranul pentru a sincroniza</string>
     <string name="micloud_main_sync_now">Sincronizaţi acum</string>
     <string name="micloud_main_sync_on">Activați sincronizarea</string>
     <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>
@@ -357,6 +358,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_sync_alert_dialog_positive">OK</string>
     <string name="micloud_sync_alert_dialog_title">Utilizare Mi Cloud</string>
     <string name="micloud_sync_off">Sincronizarea cu Mi Cloud este oprită</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync">Contactele, Calendarul și Notele sunt sincronizate în mod automat. Pentru a sincroniza mai multe elemente accesați setările Mi Cloud.</string>
     <string name="micloud_title_dspt" formatted="false">"Total %s
  utilizat %s | rămas %s"</string>
     <string name="micloud_title_dspt_remain">Rămas: %s</string>
@@ -441,12 +443,12 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="share_weibo_not_installed">Weibo nu este instalat.</string>
     <string name="share_weixin_not_installed">Wechat nu este instalat.</string>
     <string name="short_cut_desc">Adăugați pictograma Mi Cloud pe ecranul principal?</string>
-    <string name="sina_share_fail">Trimitere eşuată</string>
-    <string name="sina_share_fail_content_repeat">Imposibil de partajat conținutul existent…</string>
+    <string name="sina_share_fail">"Nu s-a putut trimite"</string>
+    <string name="sina_share_fail_content_repeat">"Ați distribuit deja acest lucru."</string>
     <string name="sina_share_pendding">Trimitere…</string>
     <string name="sina_share_success">Trimis</string>
-    <string name="sina_token_expired_warning">Cont Weibo expirat: reconectaţi-vă</string>
-    <string name="sina_token_invalid_warning">Cont Weibo nevalid: reconectaţi-vă</string>
+    <string name="sina_token_expired_warning">Cont Weibo expirat; adăugați contul din nou.</string>
+    <string name="sina_token_invalid_warning">Cont Weibo nevalid; adăugați contul din nou.</string>
     <string name="sms">Mesaje</string>
     <string name="soundrecorder_sync_only_in_wifi">Utilizați doar Wi-Fi pentru sincronizare</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Aplicația Înregistrare nu va utiliza datele mobile pentru a descărca sau încărca înregistrări</string>

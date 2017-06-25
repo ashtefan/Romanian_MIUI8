@@ -6,6 +6,7 @@
     <string name="enable_wifi_message">Activați Wi-Fi-ul pentru a căuta și a vă conecta la dispozitivele din apropiere.</string>
     <string name="enable_wifi_title">Activați Wi-Fi</string>
     <string name="media_feature_projection">Proiectare ecran</string>
+    <string name="media_route_controller_disconnect">Deconectați</string>
     <string name="media_status_error">Eroare</string>
     <string name="media_status_started">Conectat</string>
     <string name="media_status_starting">Conectare…</string>

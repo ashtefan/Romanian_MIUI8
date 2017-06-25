@@ -117,7 +117,7 @@
     <string name="bluetooth_disable_absolute_volume_summary">Dezcativează caracteristica de volum absolut Bluetooth în cazul unor probleme cu dispozitivele de la distanță cum ar fi sunet inacceptabil de tare sau pierderea controlului.</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">Deconectare…</string>
-    <string name="bluetooth_dun_profile_summary_connected">Conectat la serverul Dun</string>
+    <string name="bluetooth_dun_profile_summary_connected">Conectat la serverul DUN</string>
     <string name="bluetooth_dun_profile_summary_use_for">Utilizat pentru acces în rețelele de tip Dial-up</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectat la sistemul audio al telefonului</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizat pentru sistemul audio al telefonului</string>
@@ -141,16 +141,16 @@
     <string name="bluetooth_pan_profile_summary_use_for">Utilizat pentru acces la Internet</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Conectat la dispozitiv pentru acces la Internet</string>
     <string name="bluetooth_profile_a2dp">Audio multimedia</string>
-    <string name="bluetooth_profile_dun">Acces la rețea prin Dial-up</string>
+    <string name="bluetooth_profile_dun">Utilizat pentru acces la rețelele de tip Dial-up</string>
     <string name="bluetooth_profile_headset">Audio telefon</string>
     <string name="bluetooth_profile_hid">Dispozitiv de intrare</string>
-    <string name="bluetooth_profile_map">Acces la mesaje</string>
+    <string name="bluetooth_profile_map">Utilizat pentru accesul la mesaje</string>
     <string name="bluetooth_profile_opp">Transfer de fișiere</string>
     <string name="bluetooth_profile_pan">Acces la internet</string>
-    <string name="bluetooth_profile_pan_nap">Partajare conexiune la internet</string>
+    <string name="bluetooth_profile_pan_nap">Utilizat pentru partajarea conexiunii la internet</string>
     <string name="bluetooth_profile_pbap">Partajare contacte</string>
     <string name="bluetooth_profile_pbap_summary">Utilizat pentru partajarea agendei</string>
-    <string name="bluetooth_profile_sap">Acces la cartela SIM</string>
+    <string name="bluetooth_profile_sap">Utilizat pentru accesul la cartela SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectat la SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utilizat pentru accesul la cartela SIM</string>
     <string name="bluetooth_tethered">Conectat prin tethering Bluetooth</string>
@@ -309,6 +309,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="legacy_dhcp_client_summary">Utilizați clientul DHCP din Lollipop în locul noului client Android DHCP.</string>
     <string name="list_delimeter">", "</string>
     <string name="lland">L Land</string>
+    <string name="loading_desktop">Doar o secundă…</string>
     <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă</string>
     <string name="local_backup_password_summary_none">Copiile de rezervă complete nu sunt protejate în prezent</string>
     <string name="local_backup_password_title">Parolă copie de rezervă completă</string>
@@ -349,7 +350,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="nav_guide_title">Ascundeți butoanele de pe ecran</string>
     <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Nicio aplicație</string>
-    <string name="no_multi_window_app">Nu există nicio aplicație care să poată lucra în modul Ecran scindat</string>
+    <string name="no_multi_window_app">Nu există nicio aplicație care suportă modul Ecran scindat</string>
     <string name="no_notification_tips">Nicio notificare</string>
     <string name="no_weather_description">Obțineți informații despre starea vremii &gt;</string>
     <string name="not_support_multi_window">"Aplicația curentă nu suportă modul Ecran scindat"</string>
@@ -419,6 +420,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
     <string name="recent_task_app_info_text">Informații</string>
+    <string name="recent_task_cleaning">Eliminare aplicații…</string>
     <string name="recent_task_lock_text">Blocați</string>
     <string name="recent_task_unlock_text">Deblocați</string>
     <string name="recents_launch_error_message">Nu s-a putut lansa %s.</string>
@@ -619,9 +621,9 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_connected_no_internet">Conectat, fără Internet</string>
     <string name="wifi_disabled_generic">Dezactivat</string>
-    <string name="wifi_disabled_network_failure">Configurarea IP-ului a eșuat</string>
+    <string name="wifi_disabled_network_failure">"Nu s-a putut configura IP-ul"</string>
     <string name="wifi_disabled_password_failure">Problemă de autentificare</string>
-    <string name="wifi_disabled_wifi_failure">Conexiunea la Wi-Fi a eșuat</string>
+    <string name="wifi_disabled_wifi_failure">"Nu s-a putut conecta la Wi-Fi"</string>
     <string name="wifi_display_certification">Certificare ecran wireless</string>
     <string name="wifi_display_certification_summary">Arată opțiunile pentru certificarea ecranului wireless</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>

@@ -7,7 +7,6 @@
     <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
     <string name="delete">Ştergeţi</string>
     <string name="emergency_call_string">Apel de urgenţă</string>
-    <string name="find_device_turn_off_flight_mode">Dezactivaţi modul Avion.</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>
     <string name="fingerprint_again_identified_msg">Amprenta este activă acum. Utilizați-o pentru a debloca telefonul sau introduceți parola.</string>
@@ -24,6 +23,7 @@
     <string name="incorrect_pukcode">Cod PUK incorect</string>
     <string name="incorrect_pukcode_remaining_attempts">Cod PUK incorect, au rămas %d încercări</string>
     <string name="input_password_after_boot_msg">Pentru a debloca telefonul introduceți parola</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între Spațiile de lucru în timpul unui apel"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul Principal după ce telefonul repornește</string>
     <string name="input_password_hint_text">Introduceţi parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
@@ -34,24 +34,24 @@
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
     <string name="keyguard_charging_info_battery_temperature_text">Temperatura acumulatorului</string>
     <string name="keyguard_charging_info_battery_used_time_text">Pe acumulator</string>
-    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Aproximativ %dhr până la încărcarea completă</string>
-    <string name="keyguard_charging_info_charging_full_need_min_time__text">Aproximativ  %dmin până la încărcarea completă​</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Aproximativ %dhr și %dmin până la încărcarea completă</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Aproximativ %d ore până la încărcarea completă</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">Aproximativ  %d minute până la încărcarea completă​</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Aproximativ %d ore și %d min până la încărcarea completă</string>
     <string name="keyguard_charging_info_charging_text">Încărcare</string>
     <string name="keyguard_charging_info_charging_voltage_text">Voltaj</string>
     <string name="keyguard_charging_info_click_to_detail">Vizualizați detaliile</string>
-    <string name="keyguard_charging_info_could_use_hour_time_text">Aproximativ %dhr rămase</string>
-    <string name="keyguard_charging_info_could_use_min_time_text">Aproximativ %dmin rămase</string>
-    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Aproximativ %dhr și %dmin rămase</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">Aproximativ %d ore rămase</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">Aproximativ %d min rămase</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Aproximativ %d hr și %d min rămase</string>
     <string name="keyguard_charging_info_current_now_text">Monitorizare în timp real</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_ma">%smA</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
     <string name="keyguard_charging_info_data_v">%sV</string>
-    <string name="keyguard_charging_info_drained_hour_time_format">%dhr</string>
-    <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d ore</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
-    <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr și %dmin</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr și %d min</string>
     <string name="keyguard_charging_info_finished_charging_text">Încărcat complet</string>
     <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Astăzi %s</string>
@@ -81,15 +81,9 @@
 
  Încercaţi din nou peste %d secunde."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Acesta va fi acum resetat la setările prestabilite din fabrică.</string>
-    <string name="lockscreen_glogin_checking_password">Verificare…</string>
-    <string name="lockscreen_glogin_invalid_input">Nume de utilizator sau parolă incorecte</string>
-    <string name="lockscreen_glogin_password_hint">Parolă</string>
-    <string name="lockscreen_glogin_submit_button">Conectaţi-vă</string>
-    <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi www.mi.com/micloud</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de un dispozitiv Bluetooth</string>
     <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide %s</string>
     <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a deschide %s</string>
-    <string name="open_wifi_settings">Conexiune deschisă la reţea</string>
     <string name="phone_locked_foget_password">Ați uitat parola?</string>
     <string name="phone_locked_foget_password_content">"Vă puteți conecta la i.mi.com utilizând contul Mi asociat acestui telefon, și să ștergeți toate datele. Acest lucru va duce la ștergerea datelor personale stocate pe acest telefon. După aceea, puteți reporni telefonul și restaura contactele, mesajele și celelalte elemente din Mi Cloud. 
 
@@ -99,13 +93,12 @@ Conectați-vă la i.mi.com, mergeți la “Găsire dispozitiv”, selectați dis
     <string name="phone_locked_foget_password_header">Ce trebuie să fac dacă uit parola?</string>
     <string name="phone_locked_foget_password_ok">Am înțeles</string>
     <string name="phone_locked_string">Telefonul a fost blocat</string>
-    <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>
-    <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %s secunde</string>
+    <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %d minute</string>
+    <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %d secunde</string>
     <string name="symbol_colon">:</string>
     <string name="unlock_string">OK</string>
     <string name="unlocking_sim_card">Deblocare cartelă SIM</string>
     <string name="unlockscreen_low_battery">Conectaţi încărcătorul</string>
-    <string name="unlockscreen_quick_charging_message">Încărcare rapidă %d%%</string>
     <string name="unlockscreen_recharge_completed">Încărcare finalizată</string>
     <string name="unlockscreen_recharging_message">Încărcat: %d%%</string>
     <string name="wrong_password">Parolă incorectă</string>

@@ -107,9 +107,11 @@
     <string name="permdesc_bluetoothAvrcpDataManager">Permite aplicației să acceseze managerul BluetoothAvrcpData și să-l folosească pentru afișarea pe UI.</string>
     <string name="permdesc_bluetoothShareManager">Permite aplicaţiilor să acceseze managerul Distribuire prin Bluetooth şi să-l utilizeze la transferul fişierelor.</string>
     <string name="permdesc_bluetoothWhitelist">Permite aplicaţiei să treacă temporar pe lista albă un dispozitiv Bluetooth, permiţându-i să trimită fişiere la acest dispozitiv fără confirmare din partea utilizatorului.</string>
+    <string name="permdesc_handoverStatus">Permite primirea informațiilor despre preluarea transferului de la Bluetooth.</string>
     <string name="permlab_bluetoothAvrcpDataManager">Accesați metadatele avrcp.</string>
     <string name="permlab_bluetoothShareManager">Accesaţi managerul de descărcare.</string>
     <string name="permlab_bluetoothWhitelist">Acces la dispozitivele Bluetooth din lista albă.</string>
+    <string name="permlab_handoverStatus">Primire informații despre preluarea transferului prin BT.</string>
     <string name="process"/>
     <string name="sharedUserId"/>
     <string name="start_server">Porniţi serverul TCP</string>
