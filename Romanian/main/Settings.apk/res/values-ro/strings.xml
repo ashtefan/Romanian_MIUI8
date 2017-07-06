@@ -1513,6 +1513,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
   <string name="encryption_interstitial_message_pin_for_fingerprint">"În locul utilizării amprentei pentru deblocarea telefonului, puteți solicita codul PIN înainte de a porni. Până când telefonul nu pornește, nu se vor putea primi apeluri, mesaje sau notificări și nici alarma nu va suna.
 
 Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul sau dacă vă este furat."</string>
+    <string name="encryption_progress_summary">"Criptare, nu reporniți telefonul."</string>
     <string name="enhanced_4g_lte_mode_summary">Utilizați LTE pentru a spori calitatea serviciilor de voce și comunicații(Recomandat)</string>
     <string name="enhanced_4g_lte_mode_title">Mod 4G LTE avansat</string>
     <string name="enter_password">Introduceţi parola pentru a porni sistemul de operare Android</string>
@@ -2442,6 +2443,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="mtp_ptp_mode_summary">Funcţia MTP sau PTP este activă</string>
     <string name="multi_touch_points_category_title">Puncte multi-touch</string>
     <string name="multi_touch_points_preference">Reporniţi pentru a activa</string>
+    <string name="music_app_unavailable">În funcție de aplicația pentru muzică utilizată, asigurați-vă că este disponibilă</string>
     <string name="music_audio_effect_optimize">Setări audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, căşti şi alte setări audio</string>
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, căști și alte setări audio</string>
@@ -2492,9 +2494,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_mi_effect_summary">Se utilizează Amplificatorul Mi Sound, atunci când se utilizează difuzorul</string>
     <string name="music_mi_effect_title">Amplificatorul Mi Sound</string>
-    <string name="music_notification_headset_custom">Revocați</string>
-    <string name="music_notification_headset_info">Atingeți pentru a vedea setările.</string>
-    <string name="music_notification_headset_settings">Căști conectate</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Căștile USB nu sunt suportate"</string>
     <string name="musicfx_title">Efecte muzicale</string>
@@ -2702,6 +2701,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_title">Informații proprietar în Blocarea ecranului</string>
+    <string name="owner_space">Spațiul Secundar</string>
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="page_layout_1">Duminică 16 august</string>
     <string name="page_layout_10">Setări</string>
@@ -3759,6 +3759,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sim_lock_settings_category">Configuraţi blocarea cartelei SIM</string>
     <string name="sim_lock_settings_title">Blocare cartelă SIM</string>
     <string name="sim_management_title">Cartele SIM şi reţele mobile</string>
+    <string name="sim_management_title_cr_kolbi">Cartelă SIM și rețele mobile</string>
     <string name="sim_multi_sims_summary">Selectați cartela SIM utilizată pentru date mobile.</string>
     <string name="sim_multi_sims_title">Au fost găsite 2 cartele SIM</string>
     <string name="sim_name_hint">Introduceți numele cartelei SIM</string>

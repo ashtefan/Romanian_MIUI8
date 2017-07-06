@@ -4,7 +4,7 @@
     <string name="accessibility_all_day">Eveniment cotidian</string>
     <string name="accessibility_pick_start_date">Dată început</string>
     <string name="accessibility_pick_time_zone">Fus orar</string>
-    <string name="accessibility_reminder_time">Timp pentru memento</string>
+    <string name="accessibility_reminder_time">Oră memento</string>
     <string name="accessibility_remove_attendee">Eliminaţi participantul</string>
     <string name="accessibility_repeats">Repetare</string>
     <string name="accessibility_sync_cal">Sincronizaţi calendarul</string>
@@ -26,6 +26,7 @@
     <string name="add_anniversary">Adăugați aniversare</string>
     <string name="add_countdown">Adăugați numărătoare inversă</string>
     <string name="add_event">Adăugați un eveniment</string>
+    <string name="agenda_month_empty_hint">Niciun eveniment pentru azi</string>
     <string name="agenda_today">AZI, %1$s</string>
     <string name="agenda_tomorrow">MÂINE, %1$s</string>
     <string name="agenda_view">Evenimente</string>
@@ -287,6 +288,7 @@
   <string name="limit_tomorrow">mâine</string>
   <string name="live_text">vii</string>
   <string name="living_text">On Air</string>
+    <string name="load_more_hint">Reîmprospătați evenimentele %1$d</string>
     <string name="loading">Doar o secundă…</string>
     <string name="local_calendar_display_name">Calendar local</string>
     <string name="local_owner_account_name">Salvat pe telefon</string>
@@ -327,6 +329,7 @@
     <string name="new_event_dialog_label">Eveniment nou</string>
     <string name="new_event_dialog_option">Eveniment nou</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
+    <string name="no_events_hint">Niciun eveniment</string>
     <string name="no_network">"Nu s-a putut conecta la rețea.
 Verificați setările de rețea și încercați din nou."</string>
     <string name="no_network_btn">Reîncercați</string>
@@ -384,10 +387,12 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="preferences_use_home_tz_title">Utilizați fusul orar de acasă</string>
     <string name="preferences_week_start_day_dialog">Săptămâna începe</string>
     <string name="preferences_week_start_day_title">Săptămâna începe</string>
+    <string name="pull_to_refresh_hint">Glisați în jos pentru a împrospăta evenimentele %1$d</string>
   <string name="recommend_card_add">Abonează-te acum</string>
   <string name="recommend_card_adding">abonamentele</string>
   <string name="recommend_card_close_hint">Reduce abonamentul va recomanda similare</string>
     <string name="refresh">Reîmprospătaţi</string>
+    <string name="refreshing_hint">Reîmprospătare</string>
     <string name="repeat_activity_label">Repetare</string>
     <string name="repeat_custom_activity_label">Personalizat</string>
     <string name="repeat_custom_prompt">în fiecare zi de %2$s, %1$s</string>

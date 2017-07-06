@@ -36,8 +36,6 @@
   <string name="apk_title_alipay_plugin">Alipay plugin</string>
     <string name="app_description_content">Aplicația Curățare găsește fișiere inutile din telefon și eliberează spațiul de stocare. Asigurați-vă că nu aveți nevoie de aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="app_description_title">Despre aplicația Curățare</string>
-    <string name="app_install_tips_go_to">Lansați</string>
-    <string name="app_install_tips_install_success">%1$s instalată cu succes</string>
     <string name="app_name">Curățare</string>
     <string name="app_usage_never">Neutilizată recent</string>
     <string name="app_usage_recently">Utilizată recent</string>
@@ -252,7 +250,7 @@
     <string name="hints_video_download">Videoclipuri descărcate</string>
     <string name="hot">Populare</string>
     <string name="hot_today">Populare astăzi</string>
-    <string name="information_setting">Setări news feed</string>
+    <string name="information_setting">Recomandări</string>
     <string name="install_sucess">%s instalate cu succes</string>
     <string name="installed">Instalate</string>
     <string name="installing">Instalare</string>
@@ -264,7 +262,7 @@
     <string name="label_image_list_none">Niciuna</string>
     <string name="label_preserve_the_best_image">Păstrați fotografiile cele mai bune</string>
     <string name="last_check_canceled">Scanarea precedentă a fost anulată</string>
-    <string name="load_only_under_wlan">Încarcă doar în Wi-Fi</string>
+    <string name="load_only_under_wlan">Încarcă doar prin Wi-Fi</string>
     <string name="location_not_found">"Nu s-a putut găsi fișierul"</string>
     <string name="login_immediately">Conectare</string>
     <string name="long_click_dialog_summary">Apăsați lung pentru a adăuga în lista de excepții.</string>
@@ -359,7 +357,7 @@
     <string name="privacy_search_desc">Istoric căutare</string>
     <string name="privacy_search_type">Căutare Google</string>
     <string name="promotion">Reclame</string>
-    <string name="recommend_news">Surse recomandate</string>
+    <string name="recommend_news">Primiți recomandări</string>
     <string name="recommend_the_following">Efectuați următoarele pentru a obține mai multe de la telefonul dvs.</string>
     <string name="recommended">Recomandate</string>
     <string name="remain_item_name_n7p"/>

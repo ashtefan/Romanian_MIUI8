@@ -113,6 +113,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="few">%1$d vizualizări</item>
         <item quantity="many">%1$d vizualizări</item>
     </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">S-au găsit %d viruși și aplicații nesigure</item>
+        <item quantity="one">S-a găsit o aplicație virusată</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">S-au găsit %d aplicații neoficiale</item>
+        <item quantity="one">S-a găsit o aplicație neoficială</item>
+    </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d elemente</item>
         <item quantity="one">1 element</item>

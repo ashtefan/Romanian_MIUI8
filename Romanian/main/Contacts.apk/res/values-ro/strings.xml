@@ -949,10 +949,13 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_import_export">Import/Export</string>
     <string name="preference_import_export_title">Import/Export contacte</string>
     <string name="preference_key_trash_bin_title">Vedeți contactele sincronizate care au fost șterse recent</string>
+    <string name="preference_other">Altele</string>
     <string name="preference_others">Altele</string>
     <string name="preference_phone">Telefon</string>
     <string name="preference_phone_more_title">Setări pentru apeluri</string>
     <string name="preference_remove_duplicate">Îmbinaţi contactele dublate</string>
+    <string name="preference_show_yellowpage_tab_description">Închideți fila Pagini Aurii, funcția Pagini Aurii nu va funcționa corect</string>
+    <string name="preference_show_yellowpage_tab_title">Arată fila Pagini Aurii</string>
     <string name="preference_simple_mode_description">Se afişează fotografiile şi alte informaţii de contact în lista contactelor</string>
     <string name="preference_simple_mode_title">Afişare fotografii şi informaţii</string>
     <string name="preference_smart_group_company_summary">Grupare după companie</string>

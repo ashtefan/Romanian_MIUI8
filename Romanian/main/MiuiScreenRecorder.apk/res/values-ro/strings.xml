@@ -35,6 +35,7 @@
     <string name="low_battery_title">Acumulator descărcat</string>
     <string name="low_battery_warning">Acumulatorul este descărcat. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="low_memory">Aveți mai puțin de 200 MB spațiu de stocare disponibil. Mai puteți înregistra timp de 5 minute.</string>
+    <string name="low_memory_dior">Aveți mai puțin de 500 MB spațiu de stocare disponibil. Mai puteți înregistra doar pentru 12 minute.</string>
     <string name="low_memory_title">Spațiu de stocare insuficient</string>
     <string name="low_momery_warning">Spațiu de stocare insuficient. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="memory_not_allowed">Spațiu de stocare insuficient. Eliberați spațiu de stocare pentru a putea înregistra.</string>

@@ -249,7 +249,9 @@ expresie facială de sintetizat într-o fotografie"</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Ecran complet 16:9</string>
     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Cadru cameră</string>
-  <string name="pref_camera_raw_title">RAW</string>
+    <string name="pref_camera_proximity_lock_summary">Blocați atingerile când este în poșetă/buzunar</string>
+    <string name="pref_camera_proximity_lock_title">Mod poșetă/buzunar</string>
+    <string name="pref_camera_raw_title">RAW</string>
     <string name="pref_camera_recordlocation_entry_off">Dezactivat</string>
     <string name="pref_camera_recordlocation_entry_on">Activat</string>
     <string name="pref_camera_recordlocation_title">Stocaţi informaţia despre locaţie</string>

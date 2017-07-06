@@ -19,6 +19,8 @@
     <string name="cancel_alarm_description">Anulați alarma</string>
     <string name="cloud_trash_bin_title">Ștergeți notițele din Mi Cloud</string>
     <string name="cta_reminder">Această aplicație trebuie să se conecteze la internet pentru a sincroniza notițele în Mi Cloud, și de asemenea să poate citi contactele pentru a eticheta notițele pe care le faceți în timpul apelurilor.</string>
+    <string name="db_downgrade_clear_button">Ștergeți datele aplicației</string>
+    <string name="db_downgrade_clear_date_reminder">"Schimbarea versiunii MIUI necesită ștergerea datelor aplicației Note. Înainte de a face acest lucru, asigurați-vă că ați sincronizat notițele în Mi Cloud."</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
     <string name="dialog_share_as_pic">Partajați nota ca și fotografie</string>

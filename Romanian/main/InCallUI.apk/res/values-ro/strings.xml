@@ -249,6 +249,7 @@
     <string name="unknown">Necunoscut</string>
     <string name="unlock_phone">Deblocați telefonul</string>
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
+    <string name="user_locked_prompt">Deblocați telefonul pentru a accesa agenda.</string>
     <string name="video_call_not_allowed_if_tty_enabled">Opriți mai întâi modul TTY</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
     <string name="video_switch_to_voice_call_prompt">Comutați la apel vocal</string>
