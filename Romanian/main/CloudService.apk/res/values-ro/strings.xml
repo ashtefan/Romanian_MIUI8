@@ -22,7 +22,7 @@
     <string name="button_cancel">Anulaţi</string>
     <string name="buy_more_space_b_class">"Conectaţi-vă la mi.com/micloud pentru a obține mai mult spațiu de stocare.
 Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
-    <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
+    <string name="buy_more_space_c_class">"Această funcție necesită un card bancar din China.
 Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
     <string name="buy_space_expire">Spațiul achiziționat va expira în %s</string>
     <string name="buy_space_expire_concat">%1$s până la %2$s</string>
