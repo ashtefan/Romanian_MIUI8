@@ -910,7 +910,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
     <string name="close_gesture">Închideți utilizând gesturi</string>
-    <string name="close_install_and_connect">Nu, mulțumesc</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
     <string name="cmcc_hardware_version">Versiune hardware</string>
@@ -975,7 +974,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="confirm_erase">Confirmaţi ştergerea</string>
     <string name="confirm_fingerprint_icon_content_description">Utilizați amprenta pentru a continua.</string>
     <string name="confirm_fingerprint_msg">Puneți degetul pe scanerul de amprentă</string>
-    <string name="confirm_install_and_connect">Instalați și conectați-vă</string>
     <string name="confirm_new_backup_pw_prompt">Reintroduceţi aici noua parolă pentru copia de rezervă completă</string>
     <string name="confirm_privacy_password">Introduceți parola pentru protejarea confidențialității</string>
     <string name="confirm_privacy_password_fingerprint">Scanați amprenta sau introduceți parola pentru protejarea confidențialității</string>
@@ -1310,8 +1308,6 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="disable_service_message">Atingând OK veți opri %1$s.</string>
     <string name="disable_service_title">Opriți %1$s?</string>
     <string name="disable_text">Dezactivaţi</string>
-    <string name="disable_wifi_master_key_service">Dezactivați</string>
-    <string name="disable_wifi_master_key_service_first">Dezactivați</string>
     <string name="disabled">Dezactivată</string>
     <string name="disabled_because_no_backup_security">Pentru a putea utiliza, alegeți întâi un mod de blocare a ecranului</string>
     <string name="disabled_by_admin">Dezactivată de către administrator</string>
@@ -1478,8 +1474,6 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
     <string name="enable_webview_multiprocess_desc">Rulează randările WebView separat</string>
     <string name="enable_wifi_display">Ecran wireless</string>
-    <string name="enable_wifi_master_key_service">Activați cheia master Wi-Fi</string>
-    <string name="enable_wifi_master_key_service_first">Activați</string>
     <string name="enabled_by_admin">Activat de către administrator</string>
     <string name="encrypt_dont_require_password">Nu, mulțumesc</string>
     <string name="encrypt_dont_require_pattern">Nu, mulțumesc</string>
@@ -1723,7 +1717,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="got_it">Am înțeles</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
-    <string name="handy_mode_enter_ask">Se întreabă înainte de a intra în modul Operare cu o mână</string>
+    <string name="handy_mode_enable">Mod Operare cu o mână</string>
     <string name="handy_mode_size">Dimensiune ecran</string>
     <string name="handy_mode_tips">Glisați spre stânga sau spre dreapta de la butonul Home pentru a minimiza ecranul mai aproape de-o parte.</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
@@ -1848,7 +1842,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="install_all_warning">Telefonul şi datele dvs. personale sunt mai vulnerabile la un atac din partea aplicaţiilor ce provin din surse necunoscute. Sunteţi de acord că sunteţi singura persoană responsabilă pentru deteriorarea telefonului sau pierderea datelor ce pot avea loc ca urmare a utilizării acestor aplicaţii.</string>
     <string name="install_applications">Surse necunoscute</string>
     <string name="install_applications_title">Permiteți instalarea aplicațiilor provenite din orice sursă</string>
-    <string name="install_master_key_and_connect">Vă puteți conecta la această rețea utilizând cheia master Wi-Fi. Instalați această unealtă?</string>
     <string name="install_no_market_app_summary">Permiteţi instalarea aplicațiilor din alte surse decât Magazin Play</string>
     <string name="install_no_market_app_title">Surse necunoscute</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
@@ -2915,10 +2908,13 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="priority_storage_settings_summary">Dacă nu este detectat niciun card SD, datele de utilizator vor fi salvate în memoria internă a dispozitivului</string>
     <string name="priority_storage_summary">Selectaţi locaţia prestabilită pentru salvarea datelor de utilizator</string>
     <string name="priority_storage_title">Setări stocare</string>
+    <string name="privacy_close_dlg_button_ok">Dezactivați</string>
+    <string name="privacy_close_dlg_msg">Când parola de protejare a confidențialității este dezactivată, elementele dumneavoastră nu vor mai fi în siguranță.</string>
+    <string name="privacy_close_dlg_title">Atenție</string>
     <string name="privacy_delete_space_dlg_message">Pentru a modifica parola Spațiului Secundar, trebuie să ștergeți Spațiul Secundar actual și să creați unul nou.</string>
     <string name="privacy_dlg_button_cancel">Renunțați</string>
-    <string name="privacy_factory_reset_dlg_button_text">Salvați-vă datele</string>
-    <string name="privacy_factory_reset_dlg_message">"Salvați datele local și faceți o resetare la configurația din fabrică. După acesta vă veți putea modifica parola."</string>
+    <string name="privacy_factory_reset_dlg_button_text">Resetați</string>
+    <string name="privacy_factory_reset_dlg_message">"Dacă uitați parola, va trebui să faceți o resetare la valorile din fabrică pentru a seta o altă parolă."</string>
     <string name="privacy_factory_reset_dlg_title">Salvați-vă datele</string>
     <string name="privacy_file">Fișiere</string>
     <string name="privacy_gallery">Fotografii</string>
@@ -2955,6 +2951,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="privacy_password_settings_titles_elder_mode">Parola de protecție a confidențialității vă protejează fotografiile, fișierele și notițele.</string>
     <string name="privacy_password_settings_titles_second_space">Parola de protecție a confidențialității vă protejează mesajele, fotografiile și notițele.</string>
     <string name="privacy_password_title">Parola de protejare a confidențialității</string>
+    <string name="privacy_password_toggle_summary">Solicitați parola ori de câte ori se accesează elemente private.</string>
     <string name="privacy_password_transparent_tiltle"/>
     <string name="privacy_password_use_finger_dialog_mess">Puteți utiliza de asemenea amprenta cu parola de protecție a confidențialității.</string>
     <string name="privacy_password_use_finger_dialog_open">Setări</string>
@@ -3563,6 +3560,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="security_encryption_is_used">Pornită</string>
     <string name="security_encryption_progress_dialog_close">Decriptare…</string>
     <string name="security_encryption_progress_dialog_open">Criptare…</string>
+    <string name="security_encryption_rejected_via_home_manager">"Această caracteristică nu este suportată în versiunea demo."</string>
     <string name="security_encryption_title">Criptați telefonul utilizând parola de Blocare a ecranului</string>
     <string name="security_keyguard_category_name">Blocare ecran</string>
     <string name="security_password_category_name">Blocare ecran</string>
@@ -3714,8 +3712,6 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="show_touches">Afişaţi punctele atinse</string>
     <string name="show_touches_summary">Afişaţi feedback vizual pentru atingeri</string>
     <string name="show_user_info_on_lockscreen_label">Informații utilizator pe ecranul de blocare</string>
-    <string name="show_wifi_master_key_summary">Conectați-vă la rețelele partajate utilizând cheia master Wi-Fi</string>
-    <string name="show_wifi_master_key_title">Detectați rețelele Wi-Fi partajate</string>
     <string name="shut_down_find_device_failure_confirm">OK</string>
     <string name="shut_down_find_device_network_failure_content">"Nu s-a putut dezactiva Localizarea dispozitivului. Asigurați-vă că telefonul este conectat la internet."</string>
     <string name="shut_down_find_device_network_failure_title">"Nu se poate conecta la rețea"</string>
@@ -4128,7 +4124,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Actualizări de sistem</string>
     <string name="talkback_summary">Citire ecran în principal pentru persoane nevăzătoare sau cu acuitate vizuală scăzută</string>
-  <string name="talkback_title">Talkback</string>
+    <string name="talkback_title">Talkback</string>
     <string name="tap_to_wake">Atinge pentru a trezi</string>
     <string name="tap_to_wake_summary">Atingeți de două ori oriunde pe ecran pentru a trezi dispozitivul</string>
     <string name="terms_title">Termeni și condiții</string>
@@ -4266,7 +4262,6 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="uninstall_protected_dlg_msg">Dezinstalarea aplicațiilor de sistem poate împiedica funcționarea corectă a unor componente MIUI. Dezinstalați oricum?</string>
     <string name="uninstall_protected_dlg_title">Dezinstalare aplicații de sistem</string>
     <string name="uninstall_text">Dezinstalaţi</string>
-    <string name="uninstall_wifi_master_key">Dezinstalați cheia master Wi-Fi</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele acestora.</string>
     <string name="uninstall_xspace_app_dlg_msg">Dezinstalaea aplicațiilor clonate va elimina toate datele acestora.</string>
     <string name="uninstall_xspace_app_dlg_title">Dezinstalați aplicația clonată?</string>
@@ -4431,7 +4426,6 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="use_privacy_password_immediate">Utilizați</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizaţi limba sistemului</string>
     <string name="use_this_wlan">Stai conectat</string>
-    <string name="use_wifi_master_key_summary">Conectați-vă utilizând cheia master Wi-Fi</string>
     <string name="user_account_title">Cont pentru conţinut</string>
     <string name="user_add_max_count">Puteți adăuga până la %1$d utilizatori</string>
     <string name="user_add_on_lockscreen_menu">Adăugați utilizatori</string>
@@ -4858,12 +4852,6 @@ Asistent Wi-Fi"</string>
     <string name="wifi_ip_settings_menu_cancel">Anulaţi</string>
     <string name="wifi_ip_settings_menu_save">Salvaţi</string>
     <string name="wifi_limit_optimizations_summary">Limitați utilizarea acumulatorului de către Wi-Fi</string>
-    <string name="wifi_master_key_dialog_content_master_key">Cheie master Wi-Fi</string>
-    <string name="wifi_master_key_dialog_content_password">Parolă</string>
-    <string name="wifi_master_key_dialog_title">Conectați-vă utilizând</string>
-    <string name="wifi_master_key_name">Cheia master Wi-Fi</string>
-    <string name="wifi_master_key_service_dialog_content">"Cheia master Wi-Fi este un serviciu gratuit ce furnizează parolele rețelelor partajate. Cheia master Wi-Fi nu va partaja parola dvs. de rețea. Puteți de asemenea %1$s."</string>
-    <string name="wifi_master_key_service_dialog_title">Rețele Wi-Fi partajate</string>
     <string name="wifi_menu_advanced">Avansate</string>
     <string name="wifi_menu_configure">Configurați</string>
     <string name="wifi_menu_connect">Conectaţi-vă la reţea</string>

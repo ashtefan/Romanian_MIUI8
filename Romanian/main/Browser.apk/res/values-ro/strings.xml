@@ -101,6 +101,7 @@
     <string name="block_ads_choice_continue">Continuaţi</string>
     <string name="block_ads_message">Doriți să blocați mesajele de pe acest site?</string>
     <string name="block_ads_title">Conținutul poate cuprinde anunțuri</string>
+    <string name="bookmark">Semn de carte</string>
     <string name="bookmark_add_to">Adăugaţi la</string>
     <string name="bookmark_btn_select_all">Selectați tot</string>
     <string name="bookmark_btn_select_none">Deselectați tot</string>
@@ -224,7 +225,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="delete_bookmark">Ștergeți</string>
     <string name="delete_bookmark_group_warning">Ştergeţi \"%s\"? Toate marcajele din acest grup vor fi șterse.</string>
     <string name="delete_bookmark_warning">Ştergeţi marcajul \"%s\"?</string>
-    <string name="delete_download">Șterge</string>
+    <string name="delete_download">Ștergeți</string>
     <string name="dialog_cannot_resume">Descărcarea s-a întrerupt</string>
     <string name="dialog_confirm_delete_checkbox_message">Ștergeți fișierul din stocarea internă</string>
     <string name="dialog_confirm_delete_downloads_message">Eliminați %s sarcini?</string>
@@ -343,7 +344,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="google_bookmarks">Google</string>
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
     <string name="hint">Indiciu</string>
-    <string name="history_saved_webpage">Pagini salvate</string>
+    <string name="history">Istoric</string>
     <string name="home_description">Acasă</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_delete_card_menu">Ştergeţi</string>
@@ -480,7 +481,6 @@ Părăsiţi această pagină?"</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
     <string name="network_show_wifi_setting_tip_dialog_description">S-a găsit un hotspot Wi-Fi în apropiere. Încercați să vă conectați?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rețeaua Wi-Fi este disponibilă</string>
-    <string name="new_folder_name_lable">Nume grup</string>
     <string name="next_button_label">Înainte</string>
     <string name="no_app_open_document">Nu a fost găsită nicio aplicație pentru a finaliza această acțiune</string>
     <string name="no_matches">Nicio potrivire</string>
@@ -730,6 +730,7 @@ Părăsiţi această pagină?"</string>
     <string name="sign_in_to" formatted="false">Conectaţi-vă la %s1 \"%s2\"</string>
     <string name="skip_button_label">Omiteţi</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
+    <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
     <string name="snapshot_successed">Pagină salvată cu succes</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
@@ -883,8 +884,6 @@ Părăsiţi această pagină?"</string>
     <string name="voice_title_please">Începeți să rostiți…</string>
     <string name="voice_title_speech_again">"Nu v-am putut înțelege"</string>
     <string name="weather_location_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
-    <string name="webpage_bookmark_title">Marcaje</string>
-    <string name="webpage_history_title">Istoric</string>
     <string name="webpage_title">Marcaje şi istoric</string>
     <string name="webview_find_on_page">Găsiți în pagină</string>
     <string name="webviewchromium_private_browsing_warning">Această funcţionalitate nu este disponibilă în versiunea Android curentă.</string>

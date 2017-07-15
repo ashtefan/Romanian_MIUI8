@@ -385,6 +385,7 @@
     <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
     <string name="pref_show_list_avatar_summary">Arată fotografiile de profil și informațiile de contact în lista de mesaje</string>
+    <string name="pref_show_photo_word_summary">Atribuiți în mod automat o fotografie contactelor</string>
     <string name="pref_show_sms_template_entry_summary">Detectează parolele de unică utilizare din SMS-uri</string>
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
     <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
@@ -604,6 +605,7 @@
     <string name="title_hide_verification_code">Ascundere automată a OTP în Blocarea ecranului</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
     <string name="title_show_list_avatar">Arată fotografiile de profil</string>
+    <string name="title_show_photo_word">Atribuie fotografie de profil</string>
     <string name="title_show_sms_template">Verificare SMS pentru coduri de verificare</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
     <string name="title_timed_message_dialog">Setaţi mesajul temporizat</string>
@@ -635,7 +637,6 @@
     <string name="unsupported_media_format">Format %1$s neacceptat.</string>
     <string name="url_fraud_dangerous_alert">"Site-ul pe care încercați să-l accesați poate fi periculos. Poate fi dăunător telefonului dar și siguranței datelor personale. SUNTEȚI SIGUR CĂ MERGEȚI MAI DEPARTE? 
 %s"</string>
-    <string name="url_fraud_insurance">Asigurare împotriva fraudelor</string>
     <string name="url_fraud_risky_alert">"Site-ul pe care încercați să-l vizitați poate fi periculos; sunteți sigur că doriți să continuați? 
 %s"</string>
     <string name="url_fraud_title">Site-ul poate fi fals</string>

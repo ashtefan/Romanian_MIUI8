@@ -72,6 +72,7 @@
     <string name="legal_workday_invalidate_message">(Date expirate. Actualizaţi în Setări)</string>
     <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
     <string name="life_post_setting">Raport de dimineață</string>
+    <string name="life_post_setting_FBE_remind">Datorită restricțiilor de sistem, informațiile matinale despre starea vremii pot fi afișate incorect după repornire</string>
     <string name="life_post_setting_open_subtitle">Primiți informații despre starea vremii atunci când opriți alarma între orele 4:00-9:30</string>
     <string name="life_post_setting_open_title">Primiți un raport dimineața</string>
     <string name="life_post_setting_wake_up_list_title">Istoricul de trezire</string>

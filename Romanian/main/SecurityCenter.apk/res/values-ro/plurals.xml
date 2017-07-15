@@ -60,6 +60,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%d aplicaţii găsite</item>
         <item quantity="one">%d aplicaţie găsită</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d aplicații nu funcționează corect și descarcă acumulatorul"</item>
+        <item quantity="one">"%d aplicație nu funcționează corect și descarcă acumulatorul"</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d zile "</item>
         <item quantity="one">"%d zi "</item>
@@ -92,17 +96,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Au fost găsite %d probleme ale acumulatorului; reparați-le</item>
         <item quantity="one">A fost găsită %d problemă a acumulatorului; reparați-o</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d elemente pot fi optimizate</item>
-        <item quantity="one">%d element poate fi optimizat</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Descărcat de %1$d persoane</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Descărcat de %1$d persoane</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Descărcat de %1$d persoane</item>
     </plurals>
     <plurals name="view_num">
@@ -125,10 +122,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%d elemente</item>
         <item quantity="one">1 element</item>
     </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s riscuri de plată</item>
-        <item quantity="one">%s risc de plată</item>
-    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s aplicații de plăți sunt protejate</item>
         <item quantity="one">%s aplicație de plăți este protejată</item>
@@ -140,10 +133,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">"%s aplicații nu sunt protejate"</item>
         <item quantity="one">"%s aplicație nu este protejată"</item>
-    </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">Au fost găsite %d riscuri de plată</item>
-        <item quantity="one">A fost găsit %d risc de plată</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elemente sigure</item>
@@ -201,18 +190,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%d trojani,</item>
         <item quantity="one">%d trojan,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d riscuri</item>
-        <item quantity="one">%d risc</item>
-    </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ riscuri găsite, reparați acum</item>
-        <item quantity="one">%d risc găsit, reparați acum</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">S-au rezolvat %1$d probleme. Totul arată bine acum</item>
-        <item quantity="one">S-a rezolvat %1$d problemă. Totul arată bine acum</item>
-    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicații periculoase: %d</item>
         <item quantity="one">Aplicație periculoasă: %d</item>
@@ -220,10 +197,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="white_list_trojan_header">
         <item quantity="other">Trojani: %d</item>
         <item quantity="one">Trojan: %d</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d aplicații cu risc de încălcare a confidențialității</item>
-        <item quantity="one">%d aplicație cu risc de încălcare a confidențialității</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Ațteptați %d secunde și încercați din nou. "</item>
@@ -262,34 +235,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">S-au adăugat %d jocuri</item>
         <item quantity="one">S-a adăugat %d joc</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Sunt disponibile actualizări pentru %d aplicații</item>
-        <item quantity="one">Este disponibilă o actualizare pentru %d aplicație</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">A aceesat agenda de %d ori</item>
-        <item quantity="one">A aceesat agenda %d dată</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">A efectuat %d apeluri</item>
-        <item quantity="one">A efectuat %d apel</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">A trimis %d SMS-uri</item>
-        <item quantity="one">A trimis %d SMS</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">A citit SMS-urile de %d ori</item>
-        <item quantity="one">A citit SMS-uri %d dată</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">A citit istoricul de apelare de %d ori</item>
-        <item quantity="one">A citit istoricul de apelare %d dată</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Accesată de %d ori</item>
-        <item quantity="one">Accesată %d dată</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Acordate %d permisiuni</item>
         <item quantity="one">Acordată %d permisiune</item>
@@ -307,15 +252,15 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="one">Blocată %d dată</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">"Neutilizată de %d zile"</item>
-        <item quantity="one">"Neutilizată de %d zi"</item>
+        <item quantity="other">Utilizată cu %d zile în urmă</item>
+        <item quantity="one">Utilizată cu %d zi în urmă</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"Neutilizată de %d luni"</item>
-        <item quantity="one">"Neutilizată de %d lună"</item>
+        <item quantity="other">Utilizată cu %d luni în urmă</item>
+        <item quantity="one">Utilizată cu %d lună în urmă</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"Neutilizată de %d ani"</item>
-        <item quantity="one">"Neutilizată de %d an"</item>
+        <item quantity="other">Utilizată cu %d ani în urmă</item>
+        <item quantity="one">Utilizată cu %d an în urmă</item>
     </plurals>
 </resources>

@@ -1247,13 +1247,13 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="reverting_settings">Se revine la setări…</string>
     <string name="ringtone_silent">Niciunul</string>
     <string name="ringtone_unknown">Ton de apel necunoscut</string>
-    <string name="roaming">Roaming de date</string>
+    <string name="roaming">Deconectat de la rețeaua de date mobile</string>
     <string name="roaming_alert_title">Permiteți traficul de date în roaming?</string>
     <string name="roaming_disable">Conectaţi-vă la serviciile de date în roaming</string>
     <string name="roaming_enable">Conectaţi-vă la serviciile de date în roaming</string>
     <string name="roaming_notification_content">Puteți adăuga codul țărilor în mod automat pentru a apela mai ușor.</string>
     <string name="roaming_notification_title">Se pare că roamingul este activat</string>
-    <string name="roaming_reenable_message">Aţi pierdut conectivitatea la date deoarece aţi părăsit reţeaua de domiciliu neavând activat roamingul de date.</string>
+    <string name="roaming_reenable_message">Încercați utilizarea în roaming pentru a vă conecta din nou.</string>
     <string name="roaming_warning">Permiteţi roamingul de date? Puteţi acumula taxe considerabile pentru roaming!</string>
     <string name="running_process_item_user_label">Utilizator: %1$s</string>
     <string name="runningservices_settings_summary">Vedeți și controlați serviciile care rulează în prezent</string>

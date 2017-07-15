@@ -727,7 +727,7 @@ Motivul: „%s”"</string>
     <string name="missing_name">(Fără nume)</string>
     <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
     <string name="mobile_equipment_identification">Identificare echipament mobil</string>
-    <string name="more_call_logs">Vizualizați istoricul de apeluri detaliat accesând i.mi.com</string>
+    <string name="more_call_logs">Ascultați toate înregistrările apelurilor accesând &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
     <string name="move_and_resize">Mutaţi şi redimensionaţi</string>
     <string name="multi_number_menu_call">Apel</string>
     <string name="multi_number_menu_delete">Ștergeți</string>
@@ -846,6 +846,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="openDialKeyboard">Tastatură numerică</string>
     <string name="open_contact">Vizualizaţi contactul</string>
     <string name="open_dial_pad_description">Deschideți tastatura numerică</string>
+    <string name="option_delete_batch_contacts">Ștergeți în serie</string>
     <string name="option_delete_contact">Ştergeţi</string>
     <string name="option_delete_group">Ştergeţi</string>
     <string name="option_edit_contact">Editaţi</string>

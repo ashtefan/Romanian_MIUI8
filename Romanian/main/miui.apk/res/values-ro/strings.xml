@@ -5,6 +5,8 @@
     <string name="action_mode_deselect_all">Deselectaţi</string>
     <string name="action_mode_select_all">Selectaţi tot</string>
     <string name="action_mode_title_empty">Selectare elemente</string>
+    <string name="actionbar_button_up_description">înapoi</string>
+    <string name="actionbar_immersion_button_more_description">mai multe</string>
     <string name="activate">Activare</string>
     <string name="activate_fail_notification_title">Reactivare sincronizare</string>
     <string name="activating">Activare…</string>
@@ -477,6 +479,7 @@
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">S</string>
     <string name="search_input_description">căutați</string>
+    <string name="search_mode_button_back_description">înapoi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_item">Selectare elemente</string>
     <string name="send">Trimiteţi</string>

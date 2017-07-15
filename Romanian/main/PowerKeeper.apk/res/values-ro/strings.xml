@@ -164,6 +164,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="reading">Mod Citire</string>
     <string name="scenario_policies_summary">Economisire acumulator conform scenariului</string>
     <string name="scenario_policies_title">Scenariu politici Economisire acumulator</string>
+    <string name="scenario_policies_warmcontrol">Controlul temperaturii</string>
     <string name="screen_off">Ecranul este oprit</string>
     <string name="screen_off_10_min">Ecranul este oprit de peste 10 minute</string>
     <string name="screen_on">Ecranul este pornit</string>
@@ -181,5 +182,6 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="vip_feedback">Feedback Vip</string>
     <string name="vip_feedback_apply">Aplicați feedback Vip</string>
     <string name="vip_feedback_apply_msg">Contactați vip-feedback-system@xiaomi.com pentru a aplica feedback Vip</string>
-  <string name="vip_feedback_enable">Activați Feedback Vip</string>
+    <string name="vip_feedback_enable">Activați Feedback Vip automat</string>
+    <string name="warm_configure">Configurare control temperatură</string>
 </resources>

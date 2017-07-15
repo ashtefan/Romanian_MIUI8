@@ -81,7 +81,6 @@
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="connect_fail">"Nu s-a putut conecta la rețea; încercați din nou"</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
-    <string name="daily_forcast_drawer_on_top">Prognoza pe %1$s zile</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
     <string name="daily_forcast_no_wind">0</string>
     <string name="daily_forcast_no_wind_miles">&lt;19,3 mph</string>
@@ -104,7 +103,6 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="feedback_light_rain">Ploaie ușoară</string>
     <string name="feedback_overcast">Înnorat</string>
     <string name="feedback_result_fail_no_choice">Selectați condițiile meteo curente</string>
-    <string name="feedback_result_interval_time_too_short">%1$s secunde după feedback</string>
     <string name="feedback_result_success">Trimis cu succes. Vă mulțumim pentru feedback</string>
     <string name="feedback_sand">Furtună de nisip</string>
     <string name="feedback_sunny">Însorit</string>

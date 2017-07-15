@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Prognoza pentru %1$s zile</item>
+        <item quantity="one">Prognoza pentru %1$s zi</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu %d minut în urmă</item>
@@ -27,5 +31,9 @@
     <plurals name="no_vote_num">
         <item quantity="other">%1$s persoane | </item>
         <item quantity="one">%1$s persoană | </item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s secunde după feedback</item>
+        <item quantity="one">%1$s secundă după feedback</item>
     </plurals>
 </resources>

@@ -40,7 +40,6 @@
     <string name="mibi_change_security_lock">Mai multe metode de blocare a ecranului</string>
     <string name="mibi_colon">": "</string>
     <string name="mibi_deduct_goods_name">Produs</string>
-    <string name="mibi_deduct_open">Activați</string>
     <string name="mibi_deduct_open_prompt">%1$s va putea să vă taxeze în mod automat utilizând %2$s fără verificare. Puteți dezactiva această opțiune în %1$s</string>
     <string name="mibi_deduct_order_price">Preț</string>
     <string name="mibi_deduct_pay_group_title">Selectați metoda de deducție</string>
@@ -69,7 +68,6 @@
     <string name="mibi_detail_recharge_order">Număr comandă reîncărcare</string>
     <string name="mibi_detail_recharge_time">Data</string>
     <string name="mibi_detail_recharge_title">Înregistrări reîncărcare</string>
-    <string name="mibi_direct_pay_group_title">Selectați metoda de plată</string>
     <string name="mibi_direct_pay_novalid_method">Nicio metodă validă de plată.</string>
     <string name="mibi_direct_payment_title">Informații despre comandă</string>
     <string name="mibi_enter_failed">Nu s-a putut deschide</string>
@@ -84,7 +82,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_error_common_summary">Eroare de sistem. Vă rugăm să încercați din nou mai târziu.</string>
     <string name="mibi_error_deduct">"Nu s-a putut activa protocolul automat de plată"</string>
     <string name="mibi_error_expired_summary">Comanda dvs. a expirat</string>
-    <string name="mibi_error_frozen_service_num">400-100-2234</string>
+    <string name="mibi_error_frozen_service_num">400-100-3399</string>
     <string name="mibi_error_frozen_service_time">De luni până vineri</string>
     <string name="mibi_error_frozen_summary">"Contul dvs. este blocat. 
 Contactați Serviciul Clienți Xiaomi."</string>
@@ -171,6 +169,14 @@ Contactați Serviciul Clienți Xiaomi."</string>
     <string name="mibi_msg_telecom_picker_hint_2_1">Operatorul de rețea a fost contactat!</string>
     <string name="mibi_msg_telecom_picker_hint_2_2">Veți primi un SMS de confirmare în curând.</string>
     <string name="mibi_msg_telecom_sending">Se contactează furnizorul de servicii…</string>
+    <string name="mibi_order_balance_lable">Credite Mi</string>
+    <string name="mibi_order_balance_lable_append">Credite Mi + cupon</string>
+    <string name="mibi_order_balance_title">Creditele mele Mi</string>
+    <string name="mibi_order_no_use_balance">Neutilizate</string>
+    <string name="mibi_order_pay_back">Confirmați</string>
+    <string name="mibi_order_pay_type">Metoda de plată</string>
+    <string name="mibi_order_pay_type_title">Selectați metoda de plată</string>
+    <string name="mibi_order_title">Plată</string>
     <string name="mibi_other_denomiantion">Selectați suma</string>
     <string name="mibi_partner_giftcard_payment_with_append">Aplicați %1$s</string>
     <string name="mibi_password_error">Parolă incorectă.</string>
@@ -231,7 +237,7 @@ Contactați Serviciul Clienți Xiaomi."</string>
     <string name="mibi_progress_voucher_creating">Se reîncarcă cardul Mi Credit…</string>
     <string name="mibi_progress_warning_check_with_contact">"Plata nu a ajuns în contul dvs. încă. 
 Vom verifica din nou în termen de 2 zile lucrătoare.
-Centrul de relații clienți： 400-100-5678"</string>
+Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"Plata nu a ajuns în contul dvs. încă."</string>
     <string name="mibi_prompt_info_button_hint">Atenție(%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>

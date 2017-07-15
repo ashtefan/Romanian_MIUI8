@@ -377,7 +377,6 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="preferences_default_allday_reminder_title">Ora implicită memento pentru evenimente</string>
     <string name="preferences_default_reminder_dialog">Ora predefinită pentru memento</string>
     <string name="preferences_default_reminder_title">Ora predefinită pentru memento</string>
-    <string name="preferences_home_tz_default">Europa/București</string>
     <string name="preferences_home_tz_title">Fus orar de acasă</string>
   <string name="preferences_import_credit_repayment">Plățile prin card de credit</string>
   <string name="preferences_import_travel">bilete de tren</string>

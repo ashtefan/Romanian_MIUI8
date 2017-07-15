@@ -86,10 +86,6 @@
     <string name="confirm_unbind">Eliminați acest cont?</string>
     <string name="confirm_unbundled_phone_dialog_message">Numărul de telefon %1$s este asociat contului Mi %2$s，Nu va mai fi asociat contului %3$s dacă veți continua，Sunteți sigur că doriți să continuați?</string>
     <string name="continue_action">Continuaţi</string>
-    <string name="cta_declaration_agree_and_continue">De acord</string>
-    <string name="cta_declaration_exit">Ieșire</string>
-    <string name="cta_declaration_message">"Pentru a vă conecta la contul Mi, trebuie să vă conectați la internet.Serviciile de localizare și sincronizarea cu Mi Cloud vor fi pornite. Pentru a realiza o copie de siguranță a datelor personale, această aplicație trebuie să aibă acces la agenda, SMS-urile și MMS-urile, istoricul apelurilor și la înregistrările dvs. Nu vom folosi aceste date în scop comercial și nici nu le vom partaja nimănui. După logarea în contul Mi, Mi VIP și serviciile Mi se vor conecta la internet."</string>
-    <string name="cta_declaration_title">Termeni și Condiții</string>
     <string name="current_location_title">Locația curentă</string>
     <string name="delete_action">Ştergeţi</string>
     <string name="delete_app">Ștergeți aplicația</string>

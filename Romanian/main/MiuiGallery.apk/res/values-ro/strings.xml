@@ -44,7 +44,6 @@
     <string name="album_already_exists_msg">Albumul \"%s\" există deja</string>
     <string name="album_already_forced_top">Este deja în top</string>
     <string name="album_camera_name">Cameră</string>
-    <string name="album_detail_clear_local_page_empty">Nu există fotografii sau videoclipuri sincronizate care să fie șterse</string>
     <string name="album_detail_page_empty">Nu există fotografii sau videoclipuri</string>
     <string name="album_faces_name">Persoane</string>
     <string name="album_from_format">Din %s</string>
@@ -79,6 +78,7 @@
     <string name="album_videos_name">Videoclipuri</string>
     <string name="alert_secret_album_enter">Am înțeles</string>
     <string name="alert_secret_album_message">Glisați în jos în fila Albume pentru a vedea albumul secret.</string>
+    <string name="alert_secret_album_message_lower_case"> glisați în jos în fila Albume pentru a vedea albumul secret.</string>
     <string name="alert_secret_album_title">Vizualizare album secret</string>
     <string name="all_faces">Fotografiile cu această persoană</string>
     <string name="all_items_synced">Toate albumele au fost sincronizate în Mi Cloud</string>
@@ -133,8 +133,9 @@
     <string name="backup_cloud_space_low_btn_text">Obțineți mai mult</string>
     <string name="backup_cloud_space_low_desc">%1$s în Mi Cloud | Disponibil %2$s</string>
     <string name="backup_cloud_space_low_title">Nu există suficient spațiu de stocare în Mi Cloud</string>
-    <string name="backup_cta_not_allow">"Nu s-a putut accesa rețeaua"</string>
     <string name="backup_cta_not_allow_btn_text">Permiteți</string>
+    <string name="backup_cta_not_allow_desc">Acceptați sincronizarea în mod automat</string>
+    <string name="backup_cta_not_allow_title">"Nu s-a putut accesa rețeaua"</string>
     <string name="backup_detail_page_empty">Nicio fotografie sau videoclip nu așteaptă sincronizarea</string>
     <string name="backup_detail_page_title">Sincronizări Mi Cloud</string>
     <string name="backup_device_space_low_btn_text">Goliți</string>
@@ -145,8 +146,8 @@
     <string name="backup_immediately">Sincronizați</string>
     <string name="backup_need_sync_desc">Atingeți pentru a continua sincronizarea</string>
     <string name="backup_need_sync_title">Sincronizare oprită</string>
-    <string name="backup_no_network_btn_text">Setări de rețea</string>
-    <string name="backup_no_network_desc">Conectați-vă la rețea pentru a continua sincronizarea elementelor</string>
+    <string name="backup_no_network_btn_text">Setări</string>
+    <string name="backup_no_network_desc">Conectați-vă la rețea pentru a sincroniza elementele</string>
     <string name="backup_no_network_title">"Nu s-a putut conecta la Mi Cloud"</string>
     <string name="backup_no_wifi_btn_text">Utilizare date mobile</string>
     <string name="backup_no_wifi_desc">Puteți sincroniza elementele și prin date mobile</string>
@@ -157,6 +158,9 @@
     <string name="backup_pause_title">Sincronizați în %s</string>
     <string name="backup_pending">Se vor sincroniza în mod automat</string>
     <string name="backup_stop">Opriți sincronizarea</string>
+    <string name="backup_sync_dialog_confirm">Activați</string>
+    <string name="backup_sync_dialog_tips">Activați sincronizarea cu Mi Cloud pentru a modifica setările de creare a copiei de rezervă.</string>
+    <string name="backup_sync_dialog_title">Sincronizarea este oprită</string>
     <string name="backup_sync_error_btn_text">Încercați din nou</string>
     <string name="backup_sync_error_desc">"Nu se poate conecta la Mi Cloud"</string>
     <string name="backup_sync_error_title">"Nu s-au putut sincroniza elementele"</string>
@@ -194,7 +198,6 @@
     <string name="choose_owner_relation">Relaţie</string>
     <string name="choose_people">"Selectați albumul unei persoane"</string>
     <string name="choose_some_people">Selectați albumul pentru %s</string>
-    <string name="clear_local_photo_direction">Dacă veți șterge fotografii sau videoclipuri de pe telefon, ele vor fi disponibile în continuare în Mi Cloud</string>
     <string name="click_download_gif">Apăsați pentru a descărca imaginea gif</string>
     <string name="click_top_right">Atingeți pictograma din dreapta-sus</string>
     <string name="cloud_camera_display_name">Cameră</string>
@@ -205,6 +208,7 @@
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
     <string name="cloud_screenshots_display_name">Capturi de ecran</string>
     <string name="cloud_settings">Copii de rezervă pentru Galerie</string>
+    <string name="cloud_storage_extend">Extindeți spațiul de stocare în cloud</string>
     <string name="cloud_storage_ok_append_desc">Disponibil %s</string>
     <string name="cloud_storage_ok_desc">Spațiu de stocare Mi Cloud %s</string>
     <string name="cloud_storage_ok_title">Spațiu de stocare suficient în Mi Cloud</string>
@@ -221,7 +225,6 @@
     <string name="cloudfolder_name_cannot_empty">Introduceţi numele albumului</string>
     <string name="cloudfolder_name_reserved">Numele albumului este rezervat</string>
     <string name="collaps_people">Ascundeți</string>
-    <string name="comma_separator">,</string>
     <string name="confirm">OK</string>
     <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
     <string name="confirm_download_video_title">Descărcaţi videoclipul</string>
@@ -284,7 +287,6 @@
     <string name="delete_third_party_photo">Ștergeți această fotografie?</string>
     <string name="delete_third_party_video">Ștergeți acest videoclip?</string>
     <string name="delete_to_trash_tips">Puteți vedea fotografiile sincronizate șterse recent în Setări/Coș de gunoi</string>
-    <string name="delete_unsynced">Ștergeți elementele pentru care nu a fost creată o copie de rezervă</string>
     <string name="deny">Nu</string>
     <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
     <string name="detail_ms">%1$02d:%2$02d</string>
@@ -337,7 +339,7 @@
     <string name="exit">Ieşiţi</string>
     <string name="exit_share">Anulare distribuire album</string>
     <string name="exit_share_failed">Anularea partajării albumului %1$s a eşuat</string>
-    <string name="exit_share_in_process">Anulare distribuire…</string>
+    <string name="exit_share_in_process">Se părăsește albumul \"%s\"…</string>
     <string name="exit_share_successfully">Anulare reuşită a partajării albumului %1$s</string>
     <string name="exit_video_play">Ieșire</string>
     <string name="expand_people">Arată mai multe persoane</string>
@@ -399,7 +401,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galeria necesită accesul la 
 %s
- pentru a funcționa normal, atingeți Setare pentru a merge la Permisiuni."</string>
+ pentru a funcționa normal, atingeți \"Setări\" pentru a merge la Permisiuni."</string>
     <string name="grant_permission_title">Permiteți accesul</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
@@ -525,12 +527,10 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="operation_delete">Ștergeți</string>
     <string name="operation_detail">Detalii</string>
     <string name="operation_disable_auto_upload">Dezactivați sincronizarea cu Mi Cloud</string>
-    <string name="operation_do_delete_local_thumnail">Ștergeți din telefon</string>
     <string name="operation_download">Descărcați fotografia originală (%s)</string>
     <string name="operation_edit">Editați</string>
     <string name="operation_edit_video">Editați</string>
     <string name="operation_enable_auto_upload">Activați sincronizarea cu Mi Cloud</string>
-    <string name="operation_enter_delete_local">Ștergeți fotografiile și videoclipurile sincronizate de pe telefon</string>
     <string name="operation_failed">Operaţiune eşuată</string>
     <string name="operation_force_top">Fixați</string>
     <string name="operation_hide">Ascundeți</string>
@@ -618,7 +618,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="relation_text_maternal_grandmother">Bunică</string>
     <string name="relation_text_mother">Mamă</string>
     <string name="relation_with_you">Alegeți gradul de rudenie</string>
-    <string name="release_space_finish_format">A fost eliberat %s spațiu de stocare intern</string>
     <string name="remind_face_recommend_confirm">Confirmați</string>
     <string name="remove_from_album_message">Această fotografie nu va mai fi afișată aici</string>
     <string name="remove_from_album_title">Eliminați din acest album</string>
@@ -644,7 +643,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="reset">Resetare</string>
     <string name="retry_to_create_album">Încercați din nou</string>
     <string name="retry_to_request_qr_code">Încercați din nou</string>
-    <string name="return_from_clear_local_file_fragment_toast">Pe telefon sunt stocate variantele optimizate ale fotografiilor. Atingeți o fotografie pentru a descărca din Mi Cloud varianta originală.</string>
     <string name="revert">Reveniți</string>
     <string name="runtime_permission_ungranted">Aplicația Galerie s-a închis datorită unei permisiuni încălcate</string>
     <string name="same_name_album_exist_and_toast">"Un album cu același nume există deja. În schimb a fost creat '%s'."</string>

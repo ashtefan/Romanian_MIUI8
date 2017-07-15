@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="about_fraud_num_online_identification">Despre această caracteristică</string>
-    <string name="about_phone_event">Despre mesajele de serviciu</string>
     <string name="about_smart_antispam_summary">Despre această caracteristică</string>
     <string name="about_telephone_fraud">Fiți atenți la fraude</string>
     <string name="account_address">Adrese</string>
@@ -140,16 +138,19 @@ Verificați numărul de urmărire."</string>
     <string name="express_inquiry_status_return">Returnat</string>
     <string name="express_inquiry_status_sign_out">Respins</string>
     <string name="express_inquiry_status_unknown">Necunoscut</string>
-    <string name="express_install_cainiao_description_1">Verificarea detaliilor comenzii necesită instalarea Cainiao. O instalați acum?</string>
-    <string name="express_install_cainiao_description_2">Verificarea codului comenzii necesită instalarea Cainiao. O instalați acum?</string>
-    <string name="express_install_cainiao_description_3">Serviciile de livrare necesită instalarea Cainiao. O instalați acum?</string>
+    <string name="express_install_cainiao_description">%s necesită instalarea Cainiao. O instalați acum?</string>
     <string name="express_install_cainiao_ok">Descărcați</string>
     <string name="express_install_cainiao_title">Instalați Cainiao</string>
+    <string name="express_install_delivery_service">Servicii de livrare</string>
+    <string name="express_install_open_locker">Un singur pas pentru a deschide blocarea</string>
+    <string name="express_install_order_detail">Se verifică detaliile comenzii</string>
+    <string name="express_install_schedule_delivery">Programare livrare</string>
     <string name="express_location_failed">"Nu s-a putut obține localizarea dumneavoastră. Introduceți adresa."</string>
     <string name="express_more_service">Mai multe servicii</string>
     <string name="express_no_address">Gol</string>
     <string name="express_no_order">Nicio comandă</string>
     <string name="express_no_order_info">Nu există informații despre comandă</string>
+  <string name="express_open_locker">一键开柜</string>
     <string name="express_order_confirmation">Comandă confirmată</string>
     <string name="express_order_failed">Eșuată</string>
     <string name="express_order_ongoing">Se crează comanda…</string>
@@ -172,8 +173,10 @@ Verificați numărul de urmărire."</string>
     <string name="express_order_succeeded">Realizată cu succes</string>
     <string name="express_order_success_hint">%s vă va trimite expediția</string>
     <string name="express_phone">Telefon</string>
+  <string name="express_pickup_code">取件码: %s</string>
     <string name="express_preview_order">Previzualizați</string>
     <string name="express_region_pick_title">Alegeți regiunea</string>
+  <string name="express_schedule_delivery">预约取件</string>
     <string name="express_select_address">Adresă</string>
     <string name="express_select_addressee">Către</string>
     <string name="express_select_city">Selectați orașul</string>
@@ -449,8 +452,6 @@ Total: %3$s RMB"</string>
     <string name="turn_on_smart_antispam_summary_on">Încărcați și identificați numerele necunoscute din apeluri și mesajele text</string>
     <string name="turn_on_smart_antispam_title">Identificare numere necunoscute</string>
     <string name="turn_on_yellowpage_service_title">Utilizați Pagini Aurii</string>
-    <string name="upload_and_verify_fraud_num_off">Nu partajați informațiile despre apelurile nedorite</string>
-    <string name="upload_and_verify_fraud_num_on">Partajați informațiile despre apelurile nedorite</string>
     <string name="uploads_disabled">Încărcarea fișierelor este dezactivată</string>
     <string name="user_agreement2">" Termenii serviciului"</string>
     <string name="user_agreement4">Politica de confidențialitate</string>

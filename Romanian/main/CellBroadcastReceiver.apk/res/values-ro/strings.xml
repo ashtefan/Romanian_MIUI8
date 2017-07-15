@@ -56,7 +56,7 @@
     <string name="cmas_opt_out_button_yes">Da</string>
     <string name="cmas_opt_out_dialog_text">Primiți în prezent alerte de urgență. Doriți să primiți în continuare alerte de urgență?</string>
     <string name="cmas_presidential_level_alert">Alertă prezidențială</string>
-    <string name="cmas_required_monthly_test">Test lunar alertă de urgență</string>
+    <string name="cmas_required_monthly_test">Test lunar alertă solicitat</string>
     <string name="cmas_response_assess">Assess</string>
     <string name="cmas_response_avoid">Evitați</string>
     <string name="cmas_response_evacuate">Evacuați</string>
