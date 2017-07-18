@@ -396,8 +396,6 @@ Actualizaţi acum?"</string>
     <string name="drawer_open">Deschideți panoul de navigare</string>
     <string name="due">Scadență</string>
     <string name="due_date_text">Plată finală</string>
-    <string name="eas_hotmail_email">hotmail.com</string>
-    <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Mesaje rapide</string>
     <string name="elided_padding_token"> </string>
     <string name="email_address">Adresa de e-mail</string>
@@ -892,10 +890,8 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="recognize_hotel_other_money">Alte cheltuieli %1$s</string>
     <string name="recognize_hotel_reverse_date">Sosiți înainte de %1$s:%2$s %3$s</string>
     <string name="recognize_hotel_room_type">Camera</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">Rezervare la hotel</string>
     <string name="recognize_hotel_user_names">Gazdă</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">Setări călătorie</string>
     <string name="recognize_ticket_air_notification_content">Bucurați-vă de zbor!</string>
     <string name="recognize_ticket_air_notification_title">Zborul %3$s (%1$s/%2$s) va decola în curând. Verificați de două ori detaliile zborului.</string>

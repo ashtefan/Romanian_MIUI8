@@ -152,6 +152,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_check_reason_wifi_scan">Scanare frecventă Wi-Fi</string>
     <string name="app_check_sub_title_text">Optimizați aplicațiile pentru a rezolva problemele legate de acumulator</string>
     <string name="app_detail">Detalii</string>
+    <string name="app_error_tip_for_launcher">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face ca unele aplicații să se comporte necorespunzător, să se blocheze sau să se închidă forțat. Dacă întâmpinați astfel de probleme, împărtășiți-le dezvoltatorilor aplicației."</string>
+    <string name="app_error_tip_for_store">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face imposibilă instalarea unor aplicații. Dacă întâmpinați astfel de probleme sau dacă unele aplicații se comportă necorespunzător, se blochează sau se închid forțat, așteptați rezolvarea acestor probleme de către dezvoltatori și încercați să reinstalați aplicația."</string>
     <string name="app_install_intercept">Blocați instalarea</string>
     <string name="app_install_tips_go_to">Deschideți</string>
     <string name="app_install_tips_install_success">%1$s instalate cu succes</string>
@@ -685,8 +687,9 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="dlg_remove_address_whitelist">Eliminați această locație din lista excepțiilor?</string>
     <string name="dlg_remove_blacklist">Eliminați aceste numere din lista neagră?</string>
     <string name="dlg_remove_blacklist_ing">Eliminare…</string>
-    <string name="dlg_remove_blacklist_ok">Eliminați</string>
-    <string name="dlg_remove_whitelist_content">Eliminați aceste numere din lista excepțiilor?</string>
+    <string name="dlg_remove_blacklist_title">Eliminați</string>
+    <string name="dlg_remove_ok">Eliminați</string>
+    <string name="dlg_remove_whitelist">Eliminați aceste numere din lista excepțiilor?</string>
     <string name="dlg_remove_whitelist_ing">Eliminare…</string>
     <string name="dlg_remove_whitelist_title">Eliminați</string>
     <string name="dlg_retore">Restaurați mesajul în căsuța de mesaje?</string>
@@ -882,7 +885,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="item_virus">Virus</string>
     <string name="item_virus_lib">Actualizare automată a definițiilor de viruși</string>
     <string name="keywords_antispam">Listă blocări;Blocare;Lista blocărilor;Listă blocări inteligentă;Fraudă;Vânzări;Agenți</string>
-    <string name="keywords_antivirus">Virus;Risc;Antivirus;Scanare</string>
+    <string name="keywords_antivirus">Virus;Risc;Antivirus;Scanare;Verificare securitate plăți;securitate plăți;securizare plăți;securizare plată;protecție plată;protecție plăți;plăți protejate;zonă securizată;mediu de plată</string>
     <string name="keywords_app_permissions">Permisiuni;Localizare;Accesare contacte;Permisiuni;Permisiunile aplicațiilor</string>
     <string name="keywords_auto_restart">Pornire automată; Permisiuni;Pornire automată;Autostart; Gestionare pornire automată; Pornire automată MIUI; Pornire automată aplicații; pornire automată aplicații;Chain start;chained start;pornire programată</string>
     <string name="keywords_buy_flow">date;date mobile;achiziționați date;achiziționați date mobile;reîncărcare date;plan de date</string>
@@ -890,7 +893,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="keywords_networkassistant_1">Date;Trafic</string>
     <string name="keywords_networkassistant_2">Date;Calibrare</string>
     <string name="keywords_networkassistant_4">Conecxiune;Internet;Test</string>
-    <string name="keywords_payment_security">Verificați securitatea plăților;securitatea plăților;plată sigură;plăți sigure;protecția plății;protejare plăți;plăți protejate;zonă sigură;zonă de plată</string>
     <string name="keywords_powercenter">Economisire acumulator;Încălzire;Activare;Dezactivare;Acumulator;Descărcare;Baterie;Probleme acumulator;Energie;Descărcare;Economisire energie;Economisirea energiei;Economisire acumulator</string>
     <string name="keywords_powercenter_powerrank">Utilizare acumulator</string>
     <string name="keywords_securitycenter">Securitate;Verificare;Scanare</string>
@@ -1333,7 +1335,6 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="path_networkassistant_1">Aplicații de sistem/Securitate/Utilizare date</string>
     <string name="path_networkassistant_2">Aplicații de sistem/Securitate/Utilizare date</string>
     <string name="path_networkassistant_4">Aplicații de sistem/Securitate/Utilizare date/Verificare rețea</string>
-    <string name="path_payment_security">Aplicații de sistem/Securitate/Securitatea plăților</string>
     <string name="path_powercenter">Aplicații de sistem/Securitate/Utilizare acumulator</string>
     <string name="path_powercenter_powerrank">Acumulator și performanță/Utilizare acumulator</string>
     <string name="path_securitycenter">Aplicații de sistem/Securitate</string>
@@ -1600,7 +1601,6 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="resource_networkassistant_1">Utilizare date mobile</string>
     <string name="resource_networkassistant_2">Calibrare plan de date mobile</string>
     <string name="resource_networkassistant_4">Testare rețea</string>
-    <string name="resource_payment_security">Securitatea plăților</string>
     <string name="resource_powercenter">Utilizare acumulator</string>
     <string name="resource_powercenter_powerrank">Acumulator și performanță</string>
     <string name="resource_securitycenter">Securitate</string>
@@ -1791,16 +1791,13 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_antispam_mode_blacklist_sum">"Blocați apelurile și SMS-urile de la numerele adăugate manual în lista blocărilor"</string>
     <string name="st_antispam_mode_denyownself_sum">Reguli personalizate</string>
     <string name="st_antispam_mode_only_all_deny">Blocați tot</string>
-    <string name="st_antispam_mode_only_all_deny_state">10000000</string>
     <string name="st_antispam_mode_only_all_deny_sum">Blocați toate apelurile și mesajele</string>
     <string name="st_antispam_mode_only_contacts">Permiteți doar de la contacte</string>
-    <string name="st_antispam_mode_only_contacts_state">11110000</string>
     <string name="st_antispam_mode_only_contacts_sum">Permiteți doar apelurile și mesajele de la contacte</string>
     <string name="st_antispam_mode_only_whitelist">Permiteți doar de la excepții</string>
-    <string name="st_antispam_mode_only_whitelist_state">11000000</string>
     <string name="st_antispam_mode_only_whitelist_sum">Permiteți doar apelurile și mesajele venite de la numerele din lista excepțiilor</string>
     <string name="st_antispam_mode_smart">Numere raportate</string>
-    <string name="st_antispam_mode_smart_state">11111111</string>
+		<string name="st_antispam_mode_smart_state">11111111</string>
     <string name="st_antispam_mode_smart_sum">"Blocați numerele pe care le-ați adăugat manual și numerele raportate de către alți utilizatori"</string>
     <string name="st_antispam_notification_sum">Show notifications when call or message is blocked</string>
     <string name="st_antispam_title_anoy_incoming">Apeluri de la persoane necunoscute</string>
@@ -2235,5 +2232,4 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="wifi_item_title_fake">Detectare Wi-Fi fals</string>
     <string name="wifi_network_blocked_notification_title">Nicio conexiune la internet</string>
     <string name="wl_no_whitelist">Nicio excepție.</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

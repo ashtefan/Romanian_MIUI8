@@ -3662,7 +3662,6 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="settings_safetylegal_title">Informaţii privind siguranţa</string>
     <string name="settings_shortcut">Comandă rapidă pentru setări</string>
     <string name="settings_toggle_position_divider_list">Comutatoarele de deasupra barei sunt active</string>
-    <string name="settings_toggle_position_divider_page">%1$d comutatoare de deasupra barei sunt active</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Ați ales deblocarea telefonului doar cu amprenta. Dacă omiteți acum, va trebui să setați acest lucru mai târziu. Acest lucru durează circa un minut.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Omiteți setarea amprentei?</string>
     <string name="setup_fingerprint_enroll_finish_message">Oriunde vedeți această pictogramă puteți utiliza amprenta.</string>

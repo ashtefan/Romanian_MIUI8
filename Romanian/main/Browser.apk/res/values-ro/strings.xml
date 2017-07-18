@@ -429,6 +429,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_btn_close">Închideți</string>
     <string name="miuichromium_error_page_btn_refresh">Reîncărcați</string>
     <string name="miuichromium_error_page_btn_report_issue">Raportați o problemă</string>
+    <string name="miuichromium_error_page_description_no_connection" formatted="false">"Nu s-a putut conecta la rețea datorită semnalului slab sau configurației incorecte a rețelei. Verificați %s1setările de rețea%s2 și reîncercați."</string>
     <string name="miuichromium_error_page_diagnose">Diagnosticare rețea</string>
     <string name="miuichromium_error_page_diagnose_banner">Diagnosticare rețea</string>
     <string name="miuichromium_error_page_diagnose_certificate">"Nu s-a putut verifica protocolul de rețea"</string>
@@ -445,9 +446,57 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_network_hijack">"Rețeaua curentă nu este sigură"</string>
     <string name="miuichromium_error_page_network_off">Porniți Wi-Fi-ul sau datele mobile</string>
     <string name="miuichromium_error_page_no_network">"Nu se poate conecta la rețea"</string>
-    <string name="miuichromium_error_page_reload">Reîncărcaţi pagina</string>
+    <string name="miuichromium_error_page_problem_access_denied">Accesul la  %s0 a fost refuzat</string>
+    <string name="miuichromium_error_page_problem_cache_miss">Această pagină nu poate fi încărcată din memoria cache</string>
+    <string name="miuichromium_error_page_problem_cannot_open_page">"Pagina nu poate fi deschisă"</string>
+    <string name="miuichromium_error_page_problem_cannot_reach_site">"Site-ul nu poate fi găsit"</string>
+    <string name="miuichromium_error_page_problem_connection_interrupted">Conexiunea a fost întreruptă</string>
+    <string name="miuichromium_error_page_problem_file_not_found">"Nu s-a găsit fișierul"</string>
+    <string name="miuichromium_error_page_problem_gateway_timed_out">Prea mult timp pentru ca %s0 să răspundă</string>
+    <string name="miuichromium_error_page_problem_network_access_denied">Accesul la rețea este restricționat</string>
+    <string name="miuichromium_error_page_problem_no_internet_connection">"Nu s-a putut conecta la Internet"</string>
+    <string name="miuichromium_error_page_problem_page_moved">Această pagină de pe %s0 a fost mutată sau eliminată</string>
+    <string name="miuichromium_error_page_problem_page_not_found">"Nu s-a găsit pagina %s0"</string>
+    <string name="miuichromium_error_page_problem_page_not_working">"Pagina nu se încarcă"</string>
+    <string name="miuichromium_error_page_problem_security_error">"Acest site nu furnizează o conexiune sigură"</string>
+    <string name="miuichromium_error_page_problem_server_fault">%s0 nu poate răspunde acestei solicitări acum</string>
+    <string name="miuichromium_error_page_reason_bad_client_cert">" deoarece %s0 nu v-a acceptat certificatul"</string>
+    <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 nu respectă standardele de securitate"</string>
+    <string name="miuichromium_error_page_reason_blocked_by_response">. Accesul este blocat de către %s0</string>
+    <string name="miuichromium_error_page_reason_connection_closed">. %s0 conexiune întreruptă</string>
+    <string name="miuichromium_error_page_reason_connection_refused">. %s0 a refuzat să se conecteze</string>
+    <string name="miuichromium_error_page_reason_connection_reset">. Conexiunea a fost resetată</string>
+    <string name="miuichromium_error_page_reason_device_slept">" când telefonul a intrat în modul inactiv"</string>
+    <string name="miuichromium_error_page_reason_empty_response">" deoarece %s0 nu a trimis nicio dată"</string>
+    <string name="miuichromium_error_page_reason_invalid_address">. Adresa IP sau numărul portului este invalid</string>
+    <string name="miuichromium_error_page_reason_invalid_response">" deoarece %s0 a trimis un răspuns nevalid"</string>
+    <string name="miuichromium_error_page_reason_invalid_url">" deoarece URL-ul nu este valid"</string>
+    <string name="miuichromium_error_page_reason_moved_or_deleted">. Ar putea fi mutată sau eliminată</string>
+    <string name="miuichromium_error_page_reason_name_collision">. Acest site din rețeaua internă are același URL cu un website extern</string>
+    <string name="miuichromium_error_page_reason_name_not_resolved">". Nu s-a găsit adresa DNS pentru %s0"</string>
+    <string name="miuichromium_error_page_reason_network_changed">" datorită unei modificări de rețea"</string>
+    <string name="miuichromium_error_page_reason_proxy_error">. Ceva nu e în regulă cu serverul proxy, sau adresa proxy este incorectă</string>
+    <string name="miuichromium_error_page_reason_site_unreachable">. %s0 nu se poate accesa acum</string>
+    <string name="miuichromium_error_page_reason_timed_out">". %s0 nu a răspuns pentru o perioadă prea lungă"</string>
+    <string name="miuichromium_error_page_reason_too_many_redirects">" deoarece %s0 v-a redirecționat de prea multe ori"</string>
+    <string name="miuichromium_error_page_reason_unsafe_port">. %s0 utilizează un port nesigur</string>
+    <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 vă redirecționează într-o direcție nesigură</string>
+    <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 utilizează un protocol nesuportat</string>
+    <string name="miuichromium_error_page_reload">Reîncărcați</string>
     <string name="miuichromium_error_page_safe_network">Modul Sigur</string>
     <string name="miuichromium_error_page_server_error">Sunt prea multe dispozitive care încearcă să se conecteze</string>
+    <string name="miuichromium_error_page_suggestion_check_app_proxy">Verificați setările aplicațiilor proxy instalate pe dispozitivul dumneavoastră.</string>
+    <string name="miuichromium_error_page_suggestion_check_connetion">Verificați conexiunea la Internet.</string>
+    <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Date mobile) Refaceți setările %s1APN-ului%s2.</string>
+    <string name="miuichromium_error_page_suggestion_check_url">"Verificați URL-ul introdus."</string>
+    <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verificați setările %s1proxy %s2.</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Goliți memoria cache (%s1Setări%s2 - Ștergeți datele).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Goliți memoria cache și cookie-urile (%s1Setări%s2 - Ștergeți datele, informațiile contului pot fi pierdute).</string>
+    <string name="miuichromium_error_page_suggestion_connect_and_retry">Reîncărcați după conectarea la Internet</string>
+    <string name="miuichromium_error_page_suggestion_contact_admin">Contactați administratorul de sistem.</string>
+    <string name="miuichromium_error_page_suggestion_correct_url">"Verificați adresa introdusă și încercați din nou utilizând URL-ul corect."</string>
+    <string name="miuichromium_error_page_suggestion_grant_permission">Reîncărcați după acordarea permisiunii de accesare a Internetului pentru aplicația Browser.</string>
+    <string name="miuichromium_error_page_suggestion_title">. Încercați următoarele soluții:</string>
     <string name="miuichromium_error_page_title">A apărut o eroare!</string>
     <string name="miuichromium_error_page_unknown_error">Ooops, ceva nu a mers bine</string>
     <string name="miuichromium_error_page_wlan">Porniți Wi-Fi-ul</string>

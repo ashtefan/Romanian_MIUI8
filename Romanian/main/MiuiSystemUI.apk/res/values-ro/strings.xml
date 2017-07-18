@@ -47,9 +47,7 @@
     <string name="accessibility_phone_three_bars">Semnal pentru telefon: trei bare.</string>
     <string name="accessibility_phone_two_bars">Semnal pentru telefon: două bare.</string>
     <string name="accessibility_recent">Aplicaţii recente.</string>
-    <string name="accessibility_recent_task_enter">S-a deschis Recente, aplicații disponibile: %d.</string>
     <string name="accessibility_recent_task_exit">S-a închis Recente</string>
-    <string name="accessibility_recent_task_first_enter_tips">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina sau glisați în jos pentru a bloca.</string>
     <string name="accessibility_recent_task_locked">Blocată în memorie, glisați în jos pentru a debloca.</string>
     <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Memorie RAM disponibilă: %1$s. Apăsați de 2 ori pentru a goli.</string>
     <string name="accessibility_recent_task_unlocked">Deblocată</string>
@@ -102,7 +100,6 @@
     <string name="battery_profiles">Utilizaţi profiluri pentru acumulator</string>
     <string name="block_notification_content_text">"Notificările %1$s nu vor mai fi afișate. Puteți modifica acest lucru în Setări."</string>
     <string name="block_notification_text">Ascundeți</string>
-    <string name="block_record_notification_more_text">Se ascund notificările de la %1$s şi %2$d aplicaţii.</string>
     <string name="block_record_notification_text">Se ascund notificările de la %1$s.</string>
     <string name="block_record_notification_title">Notificări ascunse</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectat la dispozitivul audio multimedia</string>
@@ -471,7 +468,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="settings_package">com.android.settings</string>
     <string name="settings_toggle_position">Personalizaţi comutatoarele</string>
     <string name="settings_toggle_position_divider_list">Comutatoarele de deasupra barei sunt active</string>
-    <string name="settings_toggle_position_divider_page">%1$d comutatoare de deasupra barei sunt active</string>
     <string name="settings_toggle_position_reset">Resetaţi comutatoarele</string>
     <string name="share">Partajaţi</string>
   <string name="show_all_anrs">Arată toate închiderile forțate</string>

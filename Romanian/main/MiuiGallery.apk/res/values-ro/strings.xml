@@ -259,7 +259,6 @@
     <string name="custom_select_title_select_all">Selectați tot</string>
     <string name="custom_select_title_select_item">Selectați elementele</string>
     <string name="debugging_tip">Se generează raportul erorilor</string>
-    <string name="default_album_name">Album nou</string>
     <string name="default_relation_name">Grup nou</string>
     <string name="define_by_user">Personalizat</string>
     <string name="delete">Ştergeţi</string>
@@ -563,7 +562,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="people_jump_failed">Așteptați până când fotografiile conținând persoane sunt sincronizate în Mi Cloud și încercați din nou</string>
     <string name="people_page_label">Persoane</string>
     <string name="people_page_unname">Fără nume</string>
-    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Fotografiile animalelor de companie</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Fotografii</string>
@@ -675,8 +673,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_title_people">Persoane</string>
     <string name="search_title_recommend">Recomandate</string>
     <string name="search_title_tag">Obiecte</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
     <string name="secret_album_card_description">Cel mai bun loc pentru toate micile dumneavoastră secrete</string>
     <string name="secret_album_card_title">Încercați albumele secrete</string>
     <string name="secret_album_display_name">Album ascuns</string>

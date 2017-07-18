@@ -886,8 +886,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="path_wipe_data">Aplicații de sistem/Contacte/Organizare contacte/Ștergere date</string>
     <string name="payphone">Telefon public</string>
     <string name="people">Contacte</string>
-    <string name="percent_sign">%</string>
-    <string name="percentage">%s %%</string>
     <string name="phoneLabelsGroup">Telefon</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numărul este prea lung</string>

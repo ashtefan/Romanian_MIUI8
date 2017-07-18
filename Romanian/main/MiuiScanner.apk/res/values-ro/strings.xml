@@ -225,7 +225,6 @@
     <string name="document_grayscale">Scală de gri</string>
     <string name="document_grayscale_tip_msg">Convertire la scală de gri…</string>
     <string name="document_ocr">OCR</string>
-  <string name="document_ocr_language_key">pref_document_ocr_language</string>
     <string name="document_ocr_result_copy">Copiați textul</string>
     <string name="document_ocr_result_save">Salvați în Note</string>
     <string name="document_ocr_result_title">Document fotografiat</string>
@@ -243,6 +242,7 @@
     <string name="error_cannot_connect_camera">"Nu se poate conecta Camera"</string>
     <string name="error_day_limit">Prea multe încercări în decursul unei zile</string>
     <string name="error_empty_result">"Nu s-au găsit rezultate"</string>
+    <string name="error_get_image">nu s-a putut obține imaginea</string>
     <string name="error_hour_limit">Prea multe încercări în mai puțin de o oră</string>
     <string name="error_image_error">"Nu se poate recunoaște această fotografie"</string>
     <string name="error_invalid_request">Eroare de autentificare</string>

@@ -152,5 +152,4 @@
     <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
     <string name="wifi_recommended_body" formatted="false">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
     <string name="wifi_recommended_title">Avertisment utilizare date</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

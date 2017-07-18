@@ -518,7 +518,6 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="wipe_data_dialog_msg_and_on">, și alte elemente</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmpp_server_addr"/>
 </resources>
