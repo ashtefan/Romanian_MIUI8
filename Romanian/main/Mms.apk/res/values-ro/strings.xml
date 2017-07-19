@@ -253,6 +253,7 @@
     <string name="message_number">Număr de telefon:</string>
     <string name="message_pending">Trimitere</string>
     <string name="message_queued">Mesajul dvs. nu poate fi trimis în prezent. Va fi trimis când serviciul va fi disponibil.</string>
+    <string name="message_queued_second_space">"Nu s-a putut trimite mesajul acum. Deschideți rețeaua de date."</string>
     <string name="message_readed">Citit</string>
     <string name="message_received">Recepţionat</string>
     <string name="message_rejected">Respins</string>

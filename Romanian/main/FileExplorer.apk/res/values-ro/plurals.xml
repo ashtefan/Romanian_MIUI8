@@ -96,38 +96,6 @@
         <item quantity="few">cu %1$d zile în urmă</item>
         <item quantity="many">cu %1$d zile în urmă</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d secunde</item>
-        <item quantity="zero">%1$d secunde</item>
-        <item quantity="one">%1$d secundă</item>
-        <item quantity="two">%1$d secunde</item>
-        <item quantity="few">%1$d secunde</item>
-        <item quantity="many">%1$d secunde</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d minute</item>
-        <item quantity="zero">%1$d minute</item>
-        <item quantity="one">%1$d minut</item>
-        <item quantity="two">%1$d minute</item>
-        <item quantity="few">%1$d minute</item>
-        <item quantity="many">%1$d minute</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d ore</item>
-        <item quantity="zero">%1$d ore</item>
-        <item quantity="one">%1$d oră</item>
-        <item quantity="two">%1$d ore</item>
-        <item quantity="few">%1$d ore</item>
-        <item quantity="many">%1$d ore</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d zile</item>
-        <item quantity="zero">%1$d zile</item>
-        <item quantity="one">%1$d zi</item>
-        <item quantity="two">%1$d zile</item>
-        <item quantity="few">%1$d zile</item>
-        <item quantity="many">%1$d zile</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Au fost găsite %1$d fişiere noi</item>
         <item quantity="zero">Au fost găsite %1$d fişiere noi</item>
@@ -136,30 +104,6 @@
         <item quantity="few">Au fost găsite %1$d fişiere noi</item>
         <item quantity="many">Au fost găsite %1$d fişiere noi</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Au fost recepţionate %1$d fişiere de la %2$s</item>
-        <item quantity="zero">Au fost recepţionate %1$d fişiere de la %2$s</item>
-        <item quantity="one">A fost recepţionat %1$d fişier de la %2$s</item>
-        <item quantity="two">Au fost recepţionate %1$d fişiere de la %2$s</item>
-        <item quantity="few">Au fost recepţionate %1$d fişiere de la %2$s</item>
-        <item quantity="many">Au fost recepţionate %1$d fişiere de la %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Au fost recepţionate %1$d fişiere din WeChat</item>
-        <item quantity="zero">Au fost recepţionate %1$d fişiere din WeChat</item>
-        <item quantity="one">A fost recepţionat %1$d fişier din WeChat</item>
-        <item quantity="two">Au fost recepţionate %1$d fişiere din WeChat</item>
-        <item quantity="few">Au fost recepţionate %1$d fişiere din WeChat</item>
-        <item quantity="many">Au fost recepţionate %1$d fişiere din WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
-        <item quantity="zero">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
-        <item quantity="one">%1$d fişier al aplicaţiei WeChat Video va expira</item>
-        <item quantity="two">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
-        <item quantity="few">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
-        <item quantity="many">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
         <item quantity="zero">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
@@ -167,22 +111,6 @@
         <item quantity="two">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
         <item quantity="few">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
         <item quantity="many">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d stickere noi WeChat astăzi</item>
-        <item quantity="zero">%1$d stickere noi WeChat astăzi</item>
-        <item quantity="one">%1$d sticker nou WeChat astăzi</item>
-        <item quantity="two">%1$d stickere noi WeChat astăzi</item>
-        <item quantity="few">%1$d stickere noi WeChat astăzi</item>
-        <item quantity="many">%1$d stickere noi WeChat astăzi</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Au fost rezervate %1$d videoclipuri WeChat.</item>
-        <item quantity="zero">Au fost rezervate %1$d videoclipuri WeChat.</item>
-        <item quantity="one">A fost rezervat un singur videoclip WeChat.</item>
-        <item quantity="two">Au fost rezervate %1$d videoclipuri WeChat.</item>
-        <item quantity="few">Au fost rezervate %1$d videoclipuri WeChat.</item>
-        <item quantity="many">Au fost rezervate %1$d videoclipuri WeChat.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">S-au găsit %1$s videoclipuri noi</item>
@@ -251,10 +179,6 @@
     <plurals name="follow_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> urmăritori</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> urmăritor</item>
-    </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">%1$s aprecieri</item>
-        <item quantity="one">%1$s apreciere</item>
     </plurals>
     <plurals name="gems">
     <item quantity="other">%1$s bijuterii</item>

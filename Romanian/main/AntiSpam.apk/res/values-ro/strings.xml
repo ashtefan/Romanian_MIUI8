@@ -352,5 +352,4 @@
     <string name="website">Site Web</string>
     <string name="whitelist_prefix_add_hint">Adăugaţi toate numerele cu acest prefix în lista excepţiilor</string>
     <string name="wl_no_whitelist">Nicio excepţie</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -85,7 +85,6 @@
     <string name="delete_backup_title">Ştergeţi copia de rezervă</string>
     <string name="delete_failed_backup_confirm">Această copie de rezervă conține erori.</string>
     <string name="deselect_all">Deselectaţi tot</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
     <string name="disable_encrypt_title">Dezactivați criptarea</string>
     <string name="enable_encrypt">Activaţi criptarea</string>
@@ -339,7 +338,6 @@ Se așteaptă transferul…"</string>
     <string name="user_notice_message">Unele funcții necesită accesul la internet pentru a funcționa normal.</string>
     <string name="user_notice_title">Atenționare</string>
     <string name="wifi_title">Setări Wi-Fi</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">"Nu s-a putut porni descărcarea. Asigurați-vă că Managerul de Descărcare funcționează corespunzător."</string>
     <string name="xiaomi_external_storage_unavailable">"Mediu de stocare indisponibil; verificați cardul SD."</string>

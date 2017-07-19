@@ -84,11 +84,13 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="adb_install_reject_notiy">"Nu s-a acordat permisiunea de instalare prin USB a %s"</string>
     <string name="adb_install_reject_notiy_desc">Puteți permite instalarea prin USB din Opțiuni dezvoltator</string>
     <string name="adb_login_xiaomi_account">Conectați-vă mai întâi la contul Mi</string>
+    <string name="add_done">Adăugat cu succes</string>
+    <string name="add_game">Adăugați un joc</string>
     <string name="add_game_notification_summary">Atingeți pentru a lansa &amp; Creșterea vitezei în jocuri</string>
     <string name="add_miservice_dialog_content">"%s necesită să adăugați MIUI Service Framework în lista excepțiilor. Puteți primi notificări de la aplicațiile MIUI și de la alte aplicații."</string>
     <string name="add_miservice_dialog_title">MIUI Service Framework</string>
     <string name="add_to_whitelist_button">Gestionare excepţii roaming</string>
-    <string name="add_white_list">Adăugaţi</string>
+    <string name="add_whitelist">Adăugaţi în lista excepțiilor</string>
     <string name="address">Adresă</string>
     <string name="address_choose_hint">%1$s, %2$s, și %3$d alte locații</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizată cu mai mult de o lună în urmă</string>
@@ -100,6 +102,9 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
     <string name="after_the_lock_screen">"Aplicația este blocată odată ce ecranul telefonului este inactiv. Puteți modifica această acțiune din Setările pentru blocarea aplicațiilor."</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
+    <string name="anim_gamebooster_text">Doar o secundă…</string>
+    <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
+    <string name="anti_disturb_msg_title">Nu deranjați</string>
     <string name="antispam_mode_details">detaliile modului de interceptare</string>
     <string name="antispam_notificaiton_type_show_all">Toate numerele</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Numere ce nu se află în lista blocărilor</string>
@@ -263,6 +268,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_usage_recently">Utilizată recent</string>
     <string name="app_version">Versiune</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="application_item_already_permission">Acordate</string>
+    <string name="application_item_disable">Restricționate</string>
     <string name="applock_add_account">Adăugați</string>
     <string name="applock_add_account_info">"Adăugați contul Mi pentru a vă putea reseta parola
 în caz că o veți uita"</string>
@@ -292,8 +299,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="auto_atsk_condition_battery_level_text_down">Când nivelul acumulatorului atinge %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Când acumulatorul este încărcat până la %s</string>
     <string name="auto_handle_title">GENERAL</string>
+    <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
     <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
-    <string name="auto_task_condition_choose_battery_level_up">Când acumulatorul este încărcat până la un anumit nivel</string>
     <string name="auto_task_condition_choose_end_time">Ora de sfârșit</string>
     <string name="auto_task_condition_choose_ontime">Temporizator</string>
     <string name="auto_task_condition_choose_start_time">Ora de început</string>
@@ -415,7 +422,11 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="blacklist_prefix_add_hint">Blocați toate numerele care au acest prefix</string>
     <string name="block_message_number">Mesaje: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Apeluri: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="boost_done">Accelerat cu succes</string>
     <string name="booster_immediately">Accelerați</string>
+    <string name="booster_suc">Accelerat cu succes</string>
+    <string name="boostering">Accelerare viteză…</string>
+    <string name="boosting">Accelerare viteză…</string>
     <string name="boot_reminder">Porniți dispozitivul la o oră prestabilită</string>
     <string name="boot_time">Pornire: %1$s</string>
     <string name="boot_time_day">Pornire: %2$s %1$d z</string>
@@ -588,6 +599,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="cpu_usage_app_uninstalled_toast">Această aplicație este dezinstalată</string>
     <string name="cpu_usage_process_run_time_little_time">Mai puțin de un minut</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
+    <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
     <string name="cta_dialog_msg">Centrul de securitate necesită conectarea la internet pentru a obține actualizări dar și pentru ca accesul la localizare să poată funcționa în mod normal.</string>
     <string name="cta_dialog_title">Termeni și condiții</string>
     <string name="cta_settings">Permiteți conexiunea la internet</string>
@@ -654,6 +666,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="dialog_remove_luckymoney">Puteți utiliza noul asistent Plicuri roșii intern sau îl puteți folosi pe cel deja instalat. Pe care îl preferați?</string>
     <string name="dialog_roaming_message">Permiteți acestei aplicații să utilizeze datele mobile în roaming internațional?</string>
     <string name="dialog_roaming_title">Roaming internaţional</string>
+    <string name="dialog_text">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
     <string name="dialog_title_attention">Atenție</string>
     <string name="dialog_title_auto_start_declare">Despre pornirea automată</string>
     <string name="dialog_title_stop_paysafety_scan">Opriți</string>
@@ -701,6 +714,9 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="dns_exception_summary">Verificaţi setările DNS ale router-ului.</string>
     <string name="dns_exception_title">Verificare setări DNS</string>
     <string name="domestic_roaming_setting">Roaming național</string>
+    <string name="dont_bore">"Nu lăsați butoanele și notificările să vă distragă atenția"</string>
+    <string name="dont_bore_text">Reduceți la tăcere notificările și dezactivați butoanele pentru a nu vă distrage atenția</string>
+    <string name="dont_bore_title">Mod Nu deranjați</string>
     <string name="download">Descărcați</string>
     <string name="downloading">Se descarcă</string>
     <string name="dual_setting_simcard1">SIM 1</string>
@@ -773,13 +789,27 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_title">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
+    <string name="function_close">Oprit</string>
     <string name="fw_blocked">Listă blocări</string>
     <string name="fw_blocked_count">"Blocat "</string>
     <string name="fw_blocked_join">" și "</string>
-    <string name="garbage_clean_detail">Detalii</string>
+    <string name="game_booster">Creșterea vitezei în jocuri</string>
+    <string name="game_booster_intro">Despre Creșterea vitezei în jocuri</string>
+    <string name="game_booster_title">Accelerați</string>
+    <string name="game_improve_text1">Goliți memoria cache din fundal pentru a elibera memorie pentru jocuri</string>
+    <string name="game_improve_text2">Goliți memoria cache din fundal pentru a elibera memoria pentru jocuri și pentru a îmbunătăți performanța procesorului</string>
+    <string name="game_improve_title">Optimizați performanța</string>
+    <string name="game_more_improve">Restricționați activitățile din fundal și viteza de descărcare pentru a economisi acumulatorul și lățimea de bandă pentru jocuri</string>
+    <string name="game_net_text1">Limitați viteza de descărcare în fundal pentru a reduce încetinirea datorită rețelei</string>
+    <string name="game_net_text2">"Creșteți viteza de conectare a jocurilor și limitați viteza de descărcare pentru a reduce încetinirea datorată rețelei"</string>
+    <string name="game_net_title">Optimizați viteza de conectare</string>
+    <string name="game_setting">Setări pentru jocuri</string>
+    <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Creșterii vitezei în jocuri?</string>
+    <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
+    <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_to">Mergeți</string>
     <string name="go_to_setting_fingerprint">Setări</string>
@@ -789,6 +819,22 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="guide_quck_open">Activați</string>
     <string name="guide_second_text">"După ce vă setați operatorul, MIUI va monitoriza zilnic traficul de date prin trimiterea unui mesaj gratuit către operator. Atunci când MIUI va detecta că ați depășit limita de date, vă va deconecta de la rețea și vă va notifica."</string>
     <string name="guide_wait_setting">Nu acum</string>
+    <string name="gs_anto_clean_memory_whitelist">Excepții</string>
+    <string name="gs_app_back_self_start">Economisire acumulator</string>
+    <string name="gs_auto_clean_memory">Goliți memoria cache</string>
+    <string name="gs_auto_clean_memory_detail">Goliți memoria cache în mod automat pentru a optimiza experiența în jocuri</string>
+    <string name="gs_dialog_confirm_close_msg">Scurtătura va fi eliminată de pe Ecranul principal. Accesați Securitate &gt; Setări pentru a o restaura.</string>
+    <string name="gs_dialog_confirm_close_title">Dezactivați</string>
+    <string name="gs_game_disturb_msg">Nu deranjați</string>
+    <string name="gs_game_duration">Timp</string>
+    <string name="gs_game_net_priority">Prioritate conexiune</string>
+    <string name="gs_game_net_priority_detail">Limitați viteza de descărcare pentru a avea lățime de bandă disponibilă pentru jocuri</string>
+    <string name="gs_game_performance">Performanță</string>
+    <string name="gs_game_shortcut">Bucurați-vă de o experiență de joc mai fluidă</string>
+    <string name="gs_only_self_start_for_list">Restricționați procesele din fundal pentru a economisi acumulatorul pentru jocuri</string>
+    <string name="gs_open_game_booster">Creștere viteză</string>
+    <string name="gs_performance_mode">Mod performanță</string>
+    <string name="gs_performance_mode_detail">Creșteți utilizarea procesorului pentru a asigura o performanță sporită</string>
     <string name="handle_bar_summary_wifi_unknown">Necunoscut</string>
     <string name="handle_bar_title_apps">Aplicații</string>
     <string name="handle_bar_title_paysms">Mesaje</string>
@@ -856,6 +902,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="history_details_title">Detalii istoric</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular astăzi</string>
+    <string name="i_know">Am înțeles</string>
     <string name="im">IM</string>
     <string name="info_and_call">Apeluri şi mesagerie</string>
     <string name="info_antispam_close">AntiSpam oprit</string>
@@ -876,6 +923,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="installed">Instalată</string>
     <string name="installing">Se instalează</string>
     <string name="international_roaming_setting">Roaming internaţional</string>
+    <string name="intro_improve">Creșteți viteza de reacție a sistemului în jocuri</string>
+    <string name="intro_skip">Omiteți</string>
     <string name="ip_address_exception_summary">"Nu s-a putut obține adresa IP. Dacă această problemă persistă, încercați să utilizați o adresă IP statică.</string>
     <string name="item_app_permission">Permisiuni aplicaţie</string>
     <string name="item_dev_mode">Opţiuni dezvoltator</string>
@@ -918,6 +967,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="list_empty_text">Gol</string>
     <string name="load_fail">Nu se poate încărca</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
+    <string name="loading">Doar o secundă…</string>
     <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
     <string name="lock_mode_title">Setările pentru blocarea aplicațiilor</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s utilizaţi la blocarea ecranului</string>
@@ -1004,7 +1054,7 @@ răspunsul operatorului"</string>
     <string name="main_toolbar_purchase">Suplinire</string>
     <string name="main_toolbar_statistic">Statistică</string>
     <string name="main_used_bill">%s CNY</string>
-    <string name="manual_handle_title">CARACTERISTICI DISPONIBILE</string>
+    <string name="man_add_application">Adăugați aplicațiile cu pornire automată manual</string>
     <string name="manual_input_free_traffic">Setaţi utilizarea datelor în afara orelor de vârf</string>
     <string name="manual_input_traffic">Setaţi utilizarea datelor</string>
     <string name="manual_item_white_list_summary">Se împiedică optimizarea aplicațiilor selectate</string>
@@ -1114,10 +1164,9 @@ răspunsul operatorului"</string>
     <string name="monitor_app_add">Adăugați</string>
     <string name="monitor_app_more">Mai multe</string>
     <string name="monitor_requests_from_pc">Administrați instalarea aplicațiilor prin USB</string>
-    <string name="month_report_month_report_switch">Se afişează raportul lunar</string>
-    <string name="msg_update_error_code_success">Finalizat</string>
-    <string name="msg_update_up">Ascundeți</string>
+    <string name="more_game">Mai multe jocuri</string>
     <string name="name">Nume</string>
+    <string name="net_delay_title">Întârziere</string>
     <string name="network_blocked_connected_open_wifi">Conectat la rețea publică</string>
     <string name="network_blocked_notification_summary">Testare reţea</string>
     <string name="network_blocked_switch_wifi">Comutare reţele</string>
@@ -1169,9 +1218,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="never">O dată</string>
     <string name="news_change">Modificați</string>
     <string name="nickname">Pseudonim</string>
-    <string name="no_network">"Nu s-a putut conecta la rețea; încercați din nou mai târziu"</string>
-    <string name="no_network_btn">Reîncercați</string>
-    <string name="none_mi_service_app_detail">Gol</string>
+    <string name="no_game">"Nu s-au găsit jocurile"</string>
     <string name="note">Notați</string>
     <string name="note_call_none">Niciun apel</string>
     <string name="note_keyword_none">Niciun cuvânt cheie</string>
@@ -1264,6 +1311,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="open_app">Deschideți</string>
     <string name="open_browser">Deschideți în browser</string>
     <string name="open_callwait">Pornit</string>
+    <string name="open_game">Deschideți</string>
     <string name="open_now">Permiteți aplicației să utilizeze datele mobile</string>
     <string name="operator_diagnostic">Diagnosticare operator</string>
     <string name="operator_mi_sim">Mi SIM</string>
@@ -1309,6 +1357,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="optmizingbar_title_security">Securitate</string>
     <string name="optmizingbar_title_system">Securitatea sistemului</string>
     <string name="organization">Organizațien</string>
+    <string name="other">Alte setări</string>
     <string name="other_exception_summary">Nu aveți o conexiune la internet</string>
     <string name="other_exception_title">Verificarea pentru alte probleme</string>
     <string name="package_change_notification_summary">Apăsați pentru a afla mai multe.</string>
@@ -1340,7 +1389,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="path_securitycenter">Aplicații de sistem/Securitate</string>
     <string name="path_securitycenter_settings">Aplicații de sistem/Securitate</string>
     <string name="path_usb_install">Aplicații de sistem/Securitate/Permisiuni/Instalări prin USB</string>
-    <string name="pay_charge">Achiziţionaţi date suplimentare</string>
+    <string name="pc_activity_title">Optimizați utilizarea acumulatorului</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
@@ -1377,6 +1426,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_20s_shutdown">Dispozitivul se va închide peste 20 de secunde</string>
     <string name="power_analysis_consume_title">Utilizare acumulator</string>
     <string name="power_analysis_suggestion_need_optimize">Au fost găsite probleme legate de utilizarea acumulatorului.</string>
+    <string name="power_autorun_apps_empty">Nicio aplicație cu pornire automată</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_btn_analyze">Analizare utilizare acumulator</string>
     <string name="power_cell">Semnal mobil</string>
@@ -1580,6 +1630,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="reject_all">Restricționați tot</string>
     <string name="reject_countdown">Refuzați (%d)</string>
     <string name="reject_usb_install">A fost respinsă instalarea prin USB a următoarelor aplicații</string>
+    <string name="release_memory">Goliți memoria cache</string>
     <string name="renew_ip">Reîncercaţi</string>
     <string name="repair">Reparare</string>
     <string name="repair_loading_text">Doar o secundă…</string>
@@ -1655,11 +1706,11 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="safe_result_item_info_wifi_fake">Nu este fals</string>
     <string name="safepay_alert_dialog_button_continue">Continuați</string>
     <string name="safepay_alert_dialog_button_risk">Reparați</string>
-    <string name="safepay_alert_dialog_button_unknown">Verificați din nou</string>
-    <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Risc detectat! Intrerupeți plata curentă!&lt;/font&gt;</string>
-    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Nu s-a putut verifica securitatea plății. Conectați-vă la internet și reîncercați.&lt;/font&gt;"</string>
+    <string name="save_energy_text">"Restricționați pornirea automată și sincronizarea pentru aplicațiile din fundal pentru a obține cea mai bună performanță din acumulatorul telefonului"</string>
+    <string name="save_energy_title">Optimizați utilizarea acumulatorului</string>
     <string name="sc_allow_network_dialog_message">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="sc_allow_network_dialog_tiltle">Nu se poate utiliza această caracteristică</string>
+    <string name="scan_installed_games">Verificare jocuri instalate…</string>
     <string name="scan_status_risk">Riscant</string>
     <string name="scan_status_safe">Sigur</string>
     <string name="scanning_bar_cache_title">Scanare coş de reciclare…</string>
@@ -1683,8 +1734,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="see_more">Mai multe</string>
     <string name="select_pattern">Selectați modelul propriu</string>
     <string name="set_applock_password">Setați parola</string>
-    <string name="set_immediately">Setați</string>
-    <string name="seton_immediately">Activați</string>
+    <string name="setting">Setări</string>
     <string name="setting_privacy_password">Setați parola de blocare a aplicațiilor</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
@@ -1695,9 +1745,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="settings_category_overheat">Supraîncălzire</string>
     <string name="settings_choice_no_notification">Dezactivat</string>
     <string name="settings_power_save_ontime_title">Program</string>
-    <string name="settings_title_payment_security">Setări de securitate pentru plăți</string>
-    <string name="settings_title_permission">Setări permisiuni</string>
-    <string name="share">Partajați</string>
+    <string name="shield_keyboard_detail">Atingeți de două ori butoanele pentru a le reactiva</string>
+    <string name="shield_keyboard_title">Dezactivați butoanele</string>
     <string name="show_system_app">Arată aplicațiile de sistem</string>
     <string name="show_traffic_dialog_message">"Informaţiile despre utilizarea datelor va fi afișată în panoul notificărilor. Puteți activa sau dezactiva această caracteristică oricând în Utilizare date > Setări"</string>
     <string name="show_traffic_dialog_title">Afişare utilizare date în Panoul notificărilor</string>
@@ -1882,9 +1931,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_title_show_antispam_notification">Notificări listă de blocare</string>
     <string name="st_title_sim_card">%1$s - cartela SIM %2$s</string>
     <string name="st_title_whitelist_numbers">Excepții</string>
+    <string name="start">Start</string>
     <string name="start_diagnostic_botton">Start</string>
     <string name="start_downloading_app">A început descărcarea: %1$s</string>
-    <string name="start_install">Instalați acum</string>
+    <string name="start_game">Start</string>
     <string name="start_tc_button">Calibrați</string>
     <string name="suffix_pay_risk_count_bottom">riscuri</string>
     <string name="suffix_pay_risk_count_top">plăți</string>
@@ -1929,6 +1979,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_virus_cloudscan">Încărcaţi numele aplicaţiilor și detaliile și scanaţi utilizând definiții de viruși on-line</string>
     <string name="summary_virus_update">Actualizare automată a definițiilor de viruși atunci când este conectat la Wi-Fi</string>
     <string name="summary_xiaomi_roaming">0.01 RON/MB pentru traficul de date în roaming.</string>
+    <string name="support_game_booster_tips">Creștere viteză de reacție și îmbunătățire experiență în jocuri</string>
     <string name="sys_app_prot_cracked_confirm">Am înțeles</string>
     <string name="sys_app_prot_cracked_login">Conectați-vă utilizând contul Mi</string>
     <string name="sys_app_prot_cracked_text_login">"Versiunea curentă MIUI a fost modificată, fapt ce supune telefonul unor riscuri privind securitatea.
@@ -1938,6 +1989,10 @@ Asigurați-vă că știți de unde provine acest telefon și contactați centrul
 
 Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-vă că știți de unde provine acest telefon și contactați centrul de service autorizat Xiaomi din zona dumneavoastră."</string>
     <string name="sys_app_prot_cracked_title">Risc de securitate</string>
+    <string name="sys_cpu_title">Utilizare procesor</string>
+    <string name="sys_freememory_title">Disponibil</string>
+    <string name="sys_title_gamebooster_unit_gb">Gb</string>
+    <string name="sys_title_gamebooster_unit_mb">Mb</string>
     <string name="system_app">Aplicaţii de sistem</string>
     <string name="system_application">Aplicații de sistem</string>
     <string name="system_check_content_none">Sigur</string>
@@ -2112,10 +2167,9 @@ Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-
     <string name="toast_select_virus_white_need_remove">Selectați elementele</string>
     <string name="toast_set_success">Activat cu succes</string>
     <string name="toast_shortcut_install">Comandă rapidă plasată pe ecranul de pornire</string>
-    <string name="toast_shortcut_uninstall">Comandă rapidă eliminată</string>
-    <string name="toast_show_notification">Fixat în panoul notificărilor</string>
-    <string name="toast_virus_cloudscan">Scanarea pentru viruşi va utiliza definiții on-line</string>
-    <string name="toast_virus_in_cloud_scanning">Nu se poate opri scanarea în Cloud</string>
+    <string name="top_game">Jocuri de top</string>
+    <string name="top_load_fail_detail">"Nu s-a putut încărca; atingeți pentru a încerca din nou"</string>
+    <string name="top_no_network_detial">"Nu s-a putut încărca; verificați conexiunea de rețea și reîncercați"</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Planul lunar s-a modificat în %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Plan de date actualizat</string>
     <string name="traffic_alert_auto_modify_package_summary">"Ajustați pachetele de date în mod automat, în conformitate cu informațiile operatorului"</string>
@@ -2172,6 +2226,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_template">Şablon mesaj</string>
     <string name="traffic_setting_fragment_title">Setări interogare utilizare date</string>
     <string name="traffic_warning_purchase_title">Avertisment utilizare date mobile</string>
+    <string name="try_game">Încercați</string>
     <string name="try_recommended_function">Protejați-vă telefonul utilizând noile funcții ale aplicației Securitate</string>
     <string name="two_address_choose_hint">%1$s și %2$s</string>
     <string name="unable_connect_internet">Nicio conexiune la internet</string>
@@ -2232,4 +2287,6 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="wifi_item_title_fake">Detectare Wi-Fi fals</string>
     <string name="wifi_network_blocked_notification_title">Nicio conexiune la internet</string>
     <string name="wl_no_whitelist">Nicio excepție.</string>
+    <string name="wlan_change_protection_detail">"Nu comuta în mod automat la Wi-Fi când este conectat la rețeaua de date mobile"</string>
+    <string name="wlan_change_protection_title">Preveniți comutarea rețelelor</string>
 </resources>
