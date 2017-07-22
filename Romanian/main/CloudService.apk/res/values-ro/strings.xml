@@ -188,14 +188,13 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_detail_lastest_with_off">Sincronizat</string>
     <string name="micloud_detail_need_charge_or_sleep">Conectați încărcătorul și închideți ecranul pentru a sincroniza</string>
     <string name="micloud_detail_not_sync">%d așteaptă sincronizarea</string>
+    <string name="micloud_detail_not_syncable">Nesincronizabil</string>
     <string name="micloud_detail_not_synced">Nesincronizat</string>
     <string name="micloud_detail_ok">OK</string>
     <string name="micloud_detail_pause">Sincronizarea s-a oprit</string>
     <string name="micloud_detail_pending">Aşteptare</string>
     <string name="micloud_detail_preference_sync_items">Elemente</string>
     <string name="micloud_detail_query_error">"Nu s-au putut obține informații despre progresul sincronizării"</string>
-    <string name="micloud_detail_query_error_detail">"Nu s-a putut obține confirmarea că toate serviciile au fost sincronizate cu succes. Puteți contacta dezvoltatorii prin formularul de feedback."</string>
-    <string name="micloud_detail_query_error_title">"Nu s-au putut obține informații despre starea sincronizării"</string>
     <string name="micloud_detail_success">Sincronizat</string>
     <string name="micloud_detail_sync_now">Sincronizați acum</string>
     <string name="micloud_detail_syncing">Sincronizare</string>
@@ -242,24 +241,33 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_full_influence_title">Când Mi Cloud este plin…</string>
     <string name="micloud_main_battery_low">Nivelul acumulatorului este prea scăzut pentru a sincroniza</string>
     <string name="micloud_main_battery_message">Conectați încărcătorul pentru a sincroniza</string>
+    <string name="micloud_main_button_activate">Activați</string>
+    <string name="micloud_main_button_authorize">Authorizați</string>
+    <string name="micloud_main_button_set_internet">Setare</string>
     <string name="micloud_main_cancel_sync">Opriți sincronizarea</string>
     <string name="micloud_main_clear_now">Curăță</string>
     <string name="micloud_main_detail">Vizualizaţi detaliile</string>
+    <string name="micloud_main_error_activated_fail">Vă rugăm activați cartela SIM.</string>
+    <string name="micloud_main_error_network_disallowed">Vă rugăm să acordați permisiunea de  acces la Internet.</string>
+    <string name="micloud_main_error_permission_limit">Vă rugăm să acordați permisiunea de accesare a bazei de date pentru MiCloud.</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
+    <string name="micloud_main_master_sync_on">Sincronizare pornită</string>
     <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate."</string>
     <string name="micloud_main_memory_low_title">"Spațiul de stocare internă este insuficient"</string>
+    <string name="micloud_main_message_master_sync_off">Setarea pentru sincronizarea automată se află în bara de notificări.</string>
     <string name="micloud_main_message_not_synced">%s date nesincronizate</string>
-    <string name="micloud_main_multi_user_error_message">"V-ați logat la același cont ca și în spațiul principal și astfel a apărut o eroare MiCloud. Dacă doriți crearea unei copii de rezervă a datelor:
-
-1.Utilizați alt cont
-2.Transferați datele în spațiul principal"</string>
+    <string name="micloud_main_multi_user_error_message">"V-ați logat la același cont ca și în spațiul principal și astfel a apărut o eroare MiCloud.
+Utilizați alt cont"</string>
     <string name="micloud_main_multi_user_error_title">Eroare MiCloud</string>
     <string name="micloud_main_network_abnormal">Nu se poate conecta la rețea</string>
     <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
+    <string name="micloud_main_query_again">Solicitare</string>
     <string name="micloud_main_query_error_message">"Nu se poate verifica dacă sincronizarea tuturor serviciilor s-a finalizat"</string>
     <string name="micloud_main_query_error_title">"Nu s-au putut obține informații despre starea sincronizării"</string>
+    <string name="micloud_main_resume_sync_soon">Reia sincronizarea în curând</string>
     <string name="micloud_main_set_internet">Reţea</string>
     <string name="micloud_main_space_full">Spațiu de stocare insuficient.</string>
+    <string name="micloud_main_space_full_message">Obținerea titlului de membru permite obținerea de spațiu de stocare suplimentar</string>
     <string name="micloud_main_space_full_title">Spaţiul de stocare este insuficient; sincronizarea s-a oprit</string>
     <string name="micloud_main_space_low">Spaţiu aproape epuizat</string>
     <string name="micloud_main_stop_sync">Sincronizare oprită</string>
@@ -268,7 +276,6 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_suggest_sync">Nu s-a sincronizat tot conţinutul</string>
     <string name="micloud_main_sync_exception">Eroare de sincronizare</string>
     <string name="micloud_main_sync_init">Obţinere informaţii</string>
-    <string name="micloud_main_sync_need_charge">Încărcați acumulatorul</string>
     <string name="micloud_main_sync_need_charge_or_sleep">Conectați încărcătorul și închideți ecranul pentru a sincroniza</string>
     <string name="micloud_main_sync_now">Sincronizaţi acum</string>
     <string name="micloud_main_sync_on">Activați sincronizarea</string>
@@ -285,6 +292,11 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_title_sync_off">Sincronizare dezactivată</string>
     <string name="micloud_main_title_sync_on_wifi">Utilizaţi Wi-Fi</string>
     <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare</string>
+    <string name="micloud_main_wait_charge">Se așteaptă conectarea încărcătorului</string>
+    <string name="micloud_main_wait_charge_sleep">Se așteaptă conectarea încărcătorului și închiderea ecranului</string>
+    <string name="micloud_main_wait_wlan">Se așteaptă conectarea la Wi-Fi</string>
+    <string name="micloud_main_wait_wlan_charge">Se așteaptă conectarea la Wi-Fi și conectarea încărcătorului</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">Se așteaptă conectarea la Wi-Fi, conectarea încărcătorului și închiderea ecranului</string>
     <string name="micloud_main_wlan_sync_data_count">Elemente care aşteaptă sincronizarea: %d</string>
     <string name="micloud_member">Apartenență Mi Cloud</string>
     <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>

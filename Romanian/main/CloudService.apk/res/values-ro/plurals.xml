@@ -56,4 +56,12 @@
         <item quantity="other">%d intrări din lista blocărilor</item>
         <item quantity="one">%d intrare din lista blocărilor</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Reia sincronizarea după %d ore</item>
+        <item quantity="one">Reia sincronizarea după %d oră</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Reia sincronizarea după %d minute</item>
+        <item quantity="one">Reia sincronizarea după %d minut</item>
+    </plurals>
 </resources>

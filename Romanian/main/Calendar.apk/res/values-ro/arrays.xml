@@ -314,27 +314,22 @@
         <item>重度</item>
         <item>严重</item>
     </string-array>
-    <string-array name="entryvalues_settings_debug">
-        <item>无</item>
-        <item>导出并发送日志</item>
-        <item>生成日志至文件管理器</item>
-    </string-array>
     <string-array name="fortune_gender">
         <item>masculin</item>
         <item>feminin</item>
     </string-array>
     <string-array name="fortune_random_birthday">
-        <item>1992-01-01</item>
-        <item>2013-02-04</item>
-        <item>1995-04-05</item>
-        <item>1999-08-06</item>
-        <item>1996-06-21</item>
-        <item>2014-01-18</item>
-        <item>2006-01-23</item>
-        <item>2012-01-13</item>
-        <item>1993-01-17</item>
-        <item>1980-01-08</item>
-        <item>1982-01-10</item>
+        <item>01.01.1992</item>
+        <item>04.02.2013</item>
+        <item>05.04.1995</item>
+        <item>06.08.1999</item>
+        <item>21.06.1996</item>
+        <item>18.01.2014</item>
+        <item>23.01.2006</item>
+        <item>19.11.2014</item>
+        <item>17.01.1993</item>
+        <item>02.07.1977</item>
+        <item>10.01.1982</item>
     </string-array>
     <string-array name="global_criket_match">
         <item>IPL</item>

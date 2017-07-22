@@ -13,6 +13,7 @@ accesați %s de pe alt dispozitiv conectat"</string>
     <string name="open_wifi_connect_title">Conectat la %1$s</string>
     <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>
     <string name="policy_name">Protocolul: %s</string>
+    <string name="pre_installed_apps">Aplicații preinstalate</string>
     <string name="settings_ad_loading">Doar o secundă…</string>
     <string name="settings_ad_loading_unavailable">"Nu s-au putut încărca informațiile."</string>
     <string name="settings_license_activity_loading">Doar o secundă…</string>

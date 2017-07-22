@@ -73,7 +73,6 @@
 Pasul 1: apăsaţi şi menţineţi apăsat butonul de pornire până când auziţi un sunet sau simţiţi o vibraţie.
 
 Pasul 2: atingeţi ecranul cu două degete şi menţineţi degetele pe ecran până când auziţi o confirmare audio.
-
 Dacă telefonul are mai mulţi utilizatori, folosirea acestei comenzi rapide pe ecranul de blocare activează temporar accesibilitatea până când gadgetul este deblocat."</string>
     <string name="accessibility_global_gesture_preference_summary_off">Dezactivată</string>
     <string name="accessibility_global_gesture_preference_summary_on">Activată</string>
@@ -320,6 +319,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="application_lock_name">Blocare aplicații</string>
     <string name="application_manager_section_title">Setări aplicație</string>
     <string name="application_permission_manager">Permisiuni aplicație</string>
+    <string name="application_permissions">Permisiunile aplicației</string>
     <string name="application_restrictions">Permiteți aplicații și conținut</string>
     <string name="application_size_label">Aplicaţie</string>
     <string name="applications_settings">Aplicaţii instalate</string>
@@ -912,6 +912,10 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="close_gesture">Închideți utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
+    <string name="cloud_backup_section_title">Copie de rezervă Mi Cloud</string>
+    <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
+    <string name="cloud_restore_section_summary">Restaurați aplicații, dispunerea Ecranului principal și setările de sistem</string>
+    <string name="cloud_restore_section_title">Restaurați din Mi Cloud</string>
     <string name="cmcc_hardware_version">Versiune hardware</string>
     <string name="collect_diagnostics_summary">Colectare date de diagnosticare pentru depanare</string>
     <string name="collect_diagnostics_title">Colectare date diagnosticare</string>
@@ -1613,14 +1617,14 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="font_size_normal">Mic</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_preview_text">Serviți-l pe acest domn cu o bere și doi mici.</string>
-  <string name="font_size_preview_text_body">"Even with eyes protected by the green spectacles Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brighness of the sun. The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green. 
+    <string name="font_size_preview_text_body">"Şi zicând aceste, pune tarniţa pe cal, anină armele la oblânc, îşi ia merinde şi bani de ajuns, schimburi în desagi şi o ploscă plină cu apă. Apoi sărută mâna tată-său, primind carte de la dânsul către împăratul, zice rămas bun fraţilor săi şi a treia zi către seară porneşte şi el, mergând din pasul calului. Şi merge el, şi merge, până se înnoptează bine. Şi, prin dreptul podului, numai iaca îi iese şi lui ursul înainte, mornăind înfricoşat. Calul atunci dă năvală asupra ursului, şi fiul craiului, ridicând buzduganul să dea, numai iaca ce aude glas de om zicând:
 
-There were many people, men, women and children, walking about, and these were all dressed in green clothes and had greenish skins. They looked at Dorothy and her strangely assorted company with wondering eyes, and the children all ran away and hid behind their mothers when they saw the Lion; but no one spoke to them. Many shops stood in the street, and Dorothy saw that everything in them was green. Green candy and green pop-corn were offered for sale, as well as green shoes, green hats and green clothes of all sorts. At one place a man was selling green lemonade, and when the children bought it Dorothy could see that they paid for it with green pennies. 
+– Dragul tatei, nu da, că eu sunt. Atunci fiul craiului descalecă, şi tată-său, cuprinzându-l în braţe, îl sărută şi-i zice: 
 
-There seemed to be no horses nor animals of any kind; the men carried things around in little green carts, which they pushed before them. Everyone seeemed happy and contented and prosperous."</string>
+– Fătul meu, bun tovarăş ţi-ai ales; de te-a învăţat cineva, bine ţi-a priit, iară de-ai făcut-o din capul tău, bun cap ai avut. Mergi de-acum tot înainte, că tu eşti vrednic de împărat. Numai ţine minte sfatul ce-ţi dau: în călătoria ta ai să ai trebuinţă şi de răi, şi de buni, dar să te fereşti de omul roş, iară mai ales de cel spân, cât îi putea; să n-ai de-a face cu dânşii, căci sunt foarte şugubeţi. Şi, la toată întâmplarea, calul, tovarăşul tău, te-a mai sfătui şi el ce ai să faci, că de multe primejdii m-a scăpat şi pe mine în tinereţile mele! Na-ţi acum şi pielea asta de urs, că ţi-a prinde bine vreodată."</string>
     <string name="font_size_preview_text_headline">Exemplu de text</string>
-  <string name="font_size_preview_text_subtitle">Capitolul 11: The Wonderful Emerald City of Oz</string>
-  <string name="font_size_preview_text_title">The Wonderful Wizard of Oz</string>
+    <string name="font_size_preview_text_subtitle">Povestea lui Harap Alb, de Ion Creangă</string>
+    <string name="font_size_preview_text_title">Povestea lui Harap Alb</string>
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Mai mic</string>
     <string name="font_size_summary">"Se modifică dimensiunea fontului pentru textul de pe ecranul de pornire, panoul notificărilor, tastele numerice şi meniurile de sistem.
@@ -2131,11 +2135,11 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de blocare a ecranului</string>
     <string name="lockpassword_choose_your_password_header">Setați parola</string>
     <string name="lockpassword_choose_your_password_second_space">"Setați parola 
- pentru spațiul secundar"</string>
+ pentru Spațiul secundar"</string>
     <string name="lockpassword_choose_your_pattern_header">Setați modelul de deblocare</string>
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
- pentru spațiul secundar"</string>
+ pentru Spațiul secundar"</string>
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
     <string name="lockpassword_confirm_pins_dont_match">Parolele numerice nu corespund</string>
@@ -2221,6 +2225,9 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockscreen_glogin_password_hint">Parolă</string>
     <string name="lockscreen_glogin_submit_button">Conectare</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
+    <string name="login_account_dialog_message">Conectați-vă la contul Mi și activați sincronizarea cu Mi Cloud.</string>
+    <string name="login_account_dialog_title">Conectați-vă la contul Mi</string>
+    <string name="login_action">Conectați-vă</string>
     <string name="long_press_volume_down">Apăsarea lungă a butonului Volum -</string>
     <string name="lte_4g_settings_4gdisable_summary">4G dezactivat</string>
     <string name="lte_4g_settings_4genable_summary">4G activat</string>
@@ -2590,35 +2597,35 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notification_listener_security_warning_summary">"%1$s va putea să citească toate notificările, care ar putea include informații personale, cum ar fi numele persoanelor de contact și textul mesajelor care vă sunt trimise. De asemenea, va putea să închidă aceste notificări sau să atingă butoanele de acțiuni din cadrul acestora.
     
 Acest lucru va permite aplicației să comute modul Nu deranjați și să modifice setările corelate."</string>
-    <string name="notification_listener_security_warning_title">Activați %1$s?</string>
-  <string name="notification_log_details_actions">actions</string>
-  <string name="notification_log_details_ashmem">ashmem</string>
-  <string name="notification_log_details_content_intent">intent</string>
-  <string name="notification_log_details_content_view">custom view</string>
-  <string name="notification_log_details_default">default</string>
-  <string name="notification_log_details_delete_intent">delete intent</string>
-  <string name="notification_log_details_delimiter">": "</string>
-  <string name="notification_log_details_explanation">explanation</string>
-  <string name="notification_log_details_extras">extras</string>
-  <string name="notification_log_details_full_screen_intent">full screen intent</string>
-  <string name="notification_log_details_group">group</string>
-  <string name="notification_log_details_group_summary">(summary)</string>
-  <string name="notification_log_details_icon">icon</string>
-  <string name="notification_log_details_importance">importance</string>
-  <string name="notification_log_details_key">key</string>
-  <string name="notification_log_details_none">none</string>
-  <string name="notification_log_details_package">pkg</string>
-  <string name="notification_log_details_parcel">parcel size</string>
-  <string name="notification_log_details_priority">priority</string>
-  <string name="notification_log_details_public_version">publicVersion</string>
-  <string name="notification_log_details_ranking_none">"Obiectul de clasificare nu conține această cheie."</string>
-  <string name="notification_log_details_ranking_null">Obiectul de clasificare lipsește.</string>
-  <string name="notification_log_details_remoteinput">remote inputs</string>
-  <string name="notification_log_details_sound">sound</string>
-  <string name="notification_log_details_title">title</string>
-  <string name="notification_log_details_vibrate">vibrate</string>
-  <string name="notification_log_details_visibility">visibility</string>
-  <string name="notification_log_no_title">(none)</string>
+    <string name="notification_listener_security_warning_title">Permiteți accesul la notificări pentru %1$s?</string>
+    <string name="notification_log_details_actions">acțiuni</string>
+    <string name="notification_log_details_ashmem">ashmem</string>
+    <string name="notification_log_details_content_intent">intenție</string>
+    <string name="notification_log_details_content_view">vedere personalizată</string>
+    <string name="notification_log_details_default">implicit</string>
+    <string name="notification_log_details_delete_intent">ștergeți intenția</string>
+    <string name="notification_log_details_delimiter">": "</string>
+    <string name="notification_log_details_explanation">explicație</string>
+    <string name="notification_log_details_extras">extras</string>
+    <string name="notification_log_details_full_screen_intent">intenție ecran complet</string>
+    <string name="notification_log_details_group">grup</string>
+    <string name="notification_log_details_group_summary">(sumar)</string>
+    <string name="notification_log_details_icon">pictogramă</string>
+    <string name="notification_log_details_importance">importanță</string>
+    <string name="notification_log_details_key">cheie</string>
+    <string name="notification_log_details_none">nimic</string>
+    <string name="notification_log_details_package">pachet</string>
+    <string name="notification_log_details_parcel">dimensiunea parcelei</string>
+    <string name="notification_log_details_priority">prioritate</string>
+    <string name="notification_log_details_public_version">versiune publică</string>
+    <string name="notification_log_details_ranking_none">"Obiectul de clasificare nu conține această cheie."</string>
+    <string name="notification_log_details_ranking_null">Obiectul de clasificare lipsește.</string>
+    <string name="notification_log_details_remoteinput">intrări de la distanță</string>
+    <string name="notification_log_details_sound">sunet</string>
+    <string name="notification_log_details_title">titlu</string>
+    <string name="notification_log_details_vibrate">vibrație</string>
+    <string name="notification_log_details_visibility">vizibilitate</string>
+    <string name="notification_log_no_title">(nimic)</string>
     <string name="notification_log_title">Raport notificări</string>
     <string name="notification_pulse_title">Indicator luminos intermitent</string>
     <string name="notification_reboot_btn">Reporniți</string>
@@ -2841,6 +2848,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_usage_summary">Ce funcţii au utilizat acumulatorul</string>
     <string name="power_usage_summary_title">Acumulator şi performanţă</string>
     <string name="power_wifi">Wi-Fi</string>
+    <string name="pre_installed_application">Aplicații preinstalate</string>
     <string name="pref_button_light">Iluminare butoane</string>
     <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, Acasă şi Înapoi</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
